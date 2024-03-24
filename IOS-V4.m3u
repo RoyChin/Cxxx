@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 ,Setanta Qazaqstan
+https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
+#EXTINF:-1 ,Setanta Qazaqstan HD KZ
+https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
+#EXTINF:-1 ,Setanta Sports 1 HD RU
+https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
+#EXTINF:-1 ,Setanta Sports 2 HD RU
+https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
+#EXTINF:-1 ,Setanta Sports 1 HD KZ
+https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
+#EXTINF:-1 ,Setanta Sports 2 HD KZ
+https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
+#EXTINF:-1 ,Eurosport 1 HD
+https://bkm.beetv.kz/btv/live/hls/000002478.m3u8
+#EXTINF:-1 ,Eurosport 2 HD
+https://bkm.beetv.kz/btv/live/hls/000002479.m3u8
+#EXTINF:-1 ,Viasat Sport HD
+https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
+#EXTINF:-1 ,Qazsport HD
+https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
+#EXTINF:-1 ,Q Sport
+http://88.135.128.20:7272/ipKJnd6cVw1Nu7a
+#EXTINF:-1 ,Q Sport Arena HD
+http://109.248.236.21:4433/udp/238.1.1.142:1234
+#EXTINF:-1 ,Q Sport League HD
+http://109.248.236.21:4433/udp/238.1.1.143:1234
+#EXTINF:-1 ,Insport
+https://bkm.beetv.kz/btv/live/hls/000006983.m3u8
+#EXTINF:-1 ,Inhockey
+https://bkm.beetv.kz/btv/live/hls/000007832.m3u8
+#EXTINF:-1 ,Точка отрыва
+https://bkm.beetv.kz/btv/live/hls/000003208.m3u8
