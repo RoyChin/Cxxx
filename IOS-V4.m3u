@@ -4506,108 +4506,20 @@ http://112.19.171.156:9999/udp/239.93.0.162:2192
 #EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯
 http://112.19.171.156:9999/udp/239.93.0.118:2191
 
-#EXTINF:-1 group-title="🦄香港频道「测试中」",j2
-http://111.173.81.3:3001/HK/22/hls.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",hoy77
-http://111.173.81.3:3001/HK/hoy77/hls.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",hoy78
-http://111.173.81.3:3001/HK/hoy78/hls.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",j5
-http://111.173.81.3:3001/HK/j5/hls.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",翡翠
-http://111.173.81.3:3001/HK/tvb/hls.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",明珠
-http://111.173.81.3:3001/HK/mz/hls.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",viu
-http://111.173.81.3:3001/HK/viu/hls.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",viu6
-http://111.173.81.3:3001/HK/viu6/hls.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",无线新闻
-http://111.173.81.3:3001/HK/wxxw/hls.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰中文
-http://111.173.81.3:3001/HK/fhzw/hls.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰香港
-http://111.173.81.3:3001/HK/fhxg/hls.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰咨询
-http://111.173.81.3:3001/HK/fhzx/hls.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",功夫台
-http://111.173.81.3:3001/HK/gf/hls.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",娱乐新闻
-http://111.173.81.3:3001/HK/ylxw/hls.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",星河
-http://111.173.81.3:3001/HK/xh/hls.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",j2
-http://183.6.122.31:8091/HK/2.live.flv
-#EXTINF:-1 group-title="🦄香港频道「测试中」",hoy77
-http://183.6.122.31:8091/HK/hoy77.live.flv
-#EXTINF:-1 group-title="🦄香港频道「测试中」",hoy78
-http://183.6.122.31:8091/HK/hoy78.live.flv
-#EXTINF:-1 group-title="🦄香港频道「测试中」",j5
-http://183.6.122.31:8091/HK/j5.live.flv
-#EXTINF:-1 group-title="🦄香港频道「测试中」",翡翠
-http://183.6.122.31:8091/HK/tvb.live.flv
-#EXTINF:-1 group-title="🦄香港频道「测试中」",广电翡翠
-http://183.6.122.31:8091/GN/gdfc.live.flv
-#EXTINF:-1 group-title="🦄香港频道「测试中」",明珠
-http://183.6.122.31:8091/HK/mz.live.flv
-#EXTINF:-1 group-title="🦄香港频道「测试中」",viu
-http://183.6.122.31:8091/HK/viu.live.flv
-#EXTINF:-1 group-title="🦄香港频道「测试中」",viu6
-http://183.6.122.31:8091/HK/viu6.live.flv
-#EXTINF:-1 group-title="🦄香港频道「测试中」",无线新闻
-http://183.6.122.31:8091/HK/wxxw.live.flv
-#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰中文
-http://183.6.122.31:8091/HK/fhzw.live.flv
-#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰香港
-http://183.6.122.31:8091/HK/fhxg.live.flv
-#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰咨询
-http://183.6.122.31:8091/HK/fhzx.live.flv
-#EXTINF:-1 group-title="🦄香港频道「测试中」",功夫台
-http://183.6.122.31:8091/HK/gf.live.flv
-#EXTINF:-1 group-title="🦄香港频道「测试中」",娱乐新闻
-http://183.6.122.31:8091/HK/ylxw.live.flv
-#EXTINF:-1 group-title="🦄香港频道「测试中」",星河
-http://183.6.122.31:8091/HK/xh.live.flv
-#EXTINF:-1 group-title="🦄香港频道「测试中」",j2
-http://223.71.206.22:30080/HK/2/hls.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",hoy77
-http://223.71.206.22:30080/HK/hoy77/hls.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",hoy78
-http://223.71.206.22:30080/HK/hoy78/hls.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",j5
-http://223.71.206.22:30080/HK/j5/hls.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",翡翠
-http://223.71.206.22:30080/HK/tvb/hls.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",广电翡翠
-http://223.71.206.22:30080/GN/gdfc/hls.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",明珠
-http://223.71.206.22:30080/HK/mz/hls.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",viu
-http://223.71.206.22:30080/HK/viu/hls.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",viu6
-http://223.71.206.22:30080/HK/viu6/hls.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",无线新闻
-http://223.71.206.22:30080/HK/wxxw/hls.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰中文
-http://223.71.206.22:30080/HK/fhzw/hls.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰香港
-http://223.71.206.22:30080/HK/fhxg/hls.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰咨询
-http://223.71.206.22:30080/HK/fhzx/hls.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",功夫台
-http://223.71.206.22:30080/HK/gf/hls.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",娱乐新闻
-http://223.71.206.22:30080/HK/ylxw/hls.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",星河
-http://223.71.206.22:30080/HK/xh/hls.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB功夫台
-http://mywlkj.ddns.net:754/tv/yximgs.php?id=68
-#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB功夫台
-http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",星光视界
-http://mywlkj.ddns.net:754/tv/yximgs.php?id=69
-#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB星河
-http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",翡翠台
+http://ali.hlspull.yximgs.com/live/8a37cc31fa56f3b79cda051d8bee3ea9.flv
+#EXTINF:-1 group-title="🦄香港频道「测试中」",翡翠台
+http://ali.hlspull.yximgs.com/live/a5036c6ef6a0ce1462e2998fbb30cf7e.flv
+#EXTINF:-1 group-title="🦄香港频道「测试中」",星河台
+http://ali.hlspull.yximgs.com/live/86ebefa54719f70feae7376dcc5224ee.flv
+#EXTINF:-1 group-title="🦄香港频道「测试中」",星河台
+http://ali.hlspull.yximgs.com/live/a44da94052b7c9f899782d0a46600e83.flv
+#EXTINF:-1 group-title="🦄香港频道「测试中」",欢喜台
+http://ali.hlspull.yximgs.com/live/5299f085cd32e7c67b7df32a10a652f7.flv
+#EXTINF:-1 group-title="🦄香港频道「测试中」",星空卫视
+http://ali.hlspull.yximgs.com/live/2202ed6a09f32df57b1ef26ed28f2729.flv
+#EXTINF:-1 group-title="🦄香港频道「测试中」",天映经典
+http://ali.hlspull.yximgs.com/live/392c253ac6dd8a6f68793027989f9904.flv
 
 #EXTINF:-1 group-title="🦄香港频道「测试中」",（此处以下频道需要魔法）
 https://cloud.lxweb.cn/f/zkqbcz/WXSP.mp4
@@ -4617,12 +4529,6 @@ http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/playlist.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",香港文旅台
 http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯台
-http://180.142.145.135:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰中文台
-http://180.142.145.135:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰香港台
-http://180.142.145.135:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰中文台
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯台
@@ -4631,8 +4537,6 @@ http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 http://php.17186.eu.org/phtv/fhzx.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰中文台
 https://edge2.laotv.la/live/PhxChinese/index.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰影视台
-http://221.7.175.154:8445/tsfile/live/1022_1.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯台
 https://edge1.laotv.la:443/live/PhoenixNews/index.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯台
