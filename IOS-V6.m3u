@@ -2551,32 +2551,11 @@ https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
 http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8 
 #EXTINF:-1 group-title="🦄香港频道「测试中」",重温经典
 http://221.204.43.29/a18f4a1e8ee5c9fe3d0f338af6467843.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",重温经典
-http://43.141.130.70/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰中文
 http://112.19.171.156:9999/udp/239.93.0.162:2192
 #EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯
 http://112.19.171.156:9999/udp/239.93.0.118:2191
 
-#EXTINF:-1 group-title="🦄香港频道「测试中」",翡翠台
-http://ali.hlspull.yximgs.com/live/8a37cc31fa56f3b79cda051d8bee3ea9.flv
-#EXTINF:-1 group-title="🦄香港频道「测试中」",翡翠台
-http://ali.hlspull.yximgs.com/live/a5036c6ef6a0ce1462e2998fbb30cf7e.flv
-#EXTINF:-1 group-title="🦄香港频道「测试中」",星河台
-http://ali.hlspull.yximgs.com/live/86ebefa54719f70feae7376dcc5224ee.flv
-#EXTINF:-1 group-title="🦄香港频道「测试中」",星河台
-http://ali.hlspull.yximgs.com/live/a44da94052b7c9f899782d0a46600e83.flv
-#EXTINF:-1 group-title="🦄香港频道「测试中」",欢喜台
-http://ali.hlspull.yximgs.com/live/5299f085cd32e7c67b7df32a10a652f7.flv
-#EXTINF:-1 group-title="🦄香港频道「测试中」",星空卫视
-http://ali.hlspull.yximgs.com/live/2202ed6a09f32df57b1ef26ed28f2729.flv
-#EXTINF:-1 group-title="🦄香港频道「测试中」",天映经典
-http://ali.hlspull.yximgs.com/live/392c253ac6dd8a6f68793027989f9904.flv
-
-#EXTINF:-1 group-title="🦄香港频道「测试中」",翡翠台（IPv6）
-http://iptv.hiper25.com:58080/TVB/index.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",明珠台（IPv6）
-http://iptv.hiper25.com:58080/Pearl/index.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",（此处以下频道需要魔法）
 https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
@@ -2710,6 +2689,8 @@ rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",ELEVEN体育2
 rtmp://f13h.mine.nu/sat/tv741
 
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",（此处以下频道需要魔法）
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",寰宇新聞
 https://ali.hlspull.yximgs.com/live/dd3837eef171e753c7ecd0570a5ea284.flv
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",中天新聞2台
@@ -2775,84 +2756,6 @@ http://165.1.79.200:9000/live.m3u8?c=176
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",東森新聞
 http://165.1.79.200:9000/live.m3u8?c=177
 
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",三立LIVE
-http://ali.hlspull.yximgs.com/live/932fa665c9664952cd42202a584aebd9.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",国会频道1
-http://ali.hlspull.yximgs.com/live/4c708e9434bab02c7c499ac9750740df.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",华视
-http://ali.hlspull.yximgs.com/live/a04bb6109dcf340a49e53e21d1af78f8.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",靖天戏剧台
-http://ali.hlspull.yximgs.com/live/e3e35e46264ed9660843b290dc5b878c.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",华视新闻台
-http://ali.hlspull.yximgs.com/live/62678d17814b950e1cc3733a45b7cef9.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",八大精彩台
-http://ali.hlspull.yximgs.com/live/9942b77420d0a6bd24b3eb5738f5507f.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",民视新闻台
-http://ali.hlspull.yximgs.com/live/72e7ff8cc0608f4fb3eb94bcbbb9f652.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",东森新闻
-http://ali.hlspull.yximgs.com/live/f956f14094fad83b26b77141f9afe6f8.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",寰宇新闻
-http://ali.hlspull.yximgs.com:80/live/880be5d37d01f8a4218c51122c13f9f6.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",中视新闻
-http://ali.hlspull.yximgs.com/live/32d84d8d932b1a855ac410ee9b1919b5.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",中天新闻
-http://ali.hlspull.yximgs.com/live/b5bf3b626c45e0e390c41395dec5c1db.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",民视台湾
-http://ali.hlspull.yximgs.com/live/0f218c197d6cf86f29566c8bc6fdeb83.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",中视精彩台
-http://ali.hlspull.yximgs.com/live/2db588497d914fbf6564fe7b4a24fcf5.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",寰宇新闻tw
-http://ali.hlspull.yximgs.com/live/a712b8244187bd78125f1d174378bb96.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",tvbs新闻台
-http://ali.hlspull.yximgs.com/live/37260a15f4f850dd2b5a13033ad6f5f3.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",TVBS
-http://ali.hlspull.yximgs.com/live/dc30fea360aa6a28de1c8708e6034fab.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",寰宇新闻
-http://ali.hlspull.yximgs.com/live/914b3ca33738ea999a0717c940a23a18.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",三立
-http://ali.hlspull.yximgs.com/live/b89697a4aa9eddc697250105a5eab1a2.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",三立新闻
-http://ali.hlspull.yximgs.com/live/126ca193d8fe8a5f35ee3e107caf5e66.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",龙华电影
-http://ali.hlspull.yximgs.com/live/012d0c30f2b89f3b5f3cfe9fc2910aef.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",靖天卡通
-http://ali.hlspull.yximgs.com/live/c59ca50b293c025586de148f8c0beaa3.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",中天亚洲台
-http://ali.hlspull.yximgs.com/live/3b8f7d2e8a484c945fec9c9548311591.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",tvbs欢乐台
-http://ali.hlspull.yximgs.com/live/1a8aeaa98b1b72862f694e12869b8339.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",民视
-http://ali.hlspull.yximgs.com/live/ea63bd85aaa340c67f818ab923ff1555.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",动物星球
-http://ali.hlspull.yximgs.com/live/98af51650c491e7691fcd061b19c36b8.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",博斯高球1
-http://ali.hlspull.yximgs.com/live/57ccdcaac1f5e9a6086083e3dab02dfb.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",博斯网球
-http://ali.hlspull.yximgs.com/live/29fe002619a964d6d1d0c2ed075625fc.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",影迷纪实
-http://ali.hlspull.yximgs.com/live/c287e492afa40aa8cc4e7b686fc69c26.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",居家频道
-http://ali.hlspull.yximgs.com/live/b0a6206d11c9ca1f42728d09aacaf88a.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",ftv影剧台
-http://ali.hlspull.yximgs.com/live/703c2f4babcb391fa9c1e61a3fe6e2b9.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",cinemax
-http://ali.hlspull.yximgs.com/live/3e8d43b0ab3e5909358362a5a7d05265.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",HBO family
-http://ali.hlspull.yximgs.com/live/6880b24672a7e1d43520ef3f11800001.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",HBO hits
-http://ali.hlspull.yximgs.com/live/c4699099cc7f515b4bc5a0590780667a.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",HBO ignature
-http://ali.hlspull.yximgs.com/live/7d1a8b917ed6ba002769339f067f7946.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",ASTRO QJ
-http://ali.hlspull.yximgs.com/live/9eaf2f23e0003f1a884bf01bdbf47138.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",ASTRO QASIS
-http://ali.hlspull.yximgs.com/live/30788ceaddcfe660a7914e2b58283312.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",tvbs新闻
-http://ali.hlspull.yximgs.com/live/0e36b2b76a2a70fd21d9d246c1e9c652.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",tvbs精彩台
-http://ali.hlspull.yximgs.com/live/cf466c30f3df21974790ab085342b48f.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",AXYN
-http://ali.hlspull.yximgs.com/live/9e13a06bcef3e40d9dc49e8204e2e9c9.flv
 
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",Bloomberg
 http://50.7.238.114:8278/bloomberg_twn/playlist.m3u8?tid=MD2D8088860380888603&ct=19225&tsum=ea1c6a2c09cef99386e1768a4ff4c61c
