@@ -2590,13 +2590,15 @@ http://113.64.145.9:8081/hls/37/index.m3u8
 http://113.64.145.9:8081/hls/38/index.m3u8
 
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
-http://mywlkj.ddns.net:754/tv/haiou.php?id=14
+http://mywlkj.ddns.net:754/tv/hk.php?id=9
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVBJ2台
 http://mywlkj.ddns.net:754/tv/haiou.php?id=15
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB明珠台
-http://mywlkj.ddns.net:754/tv/haiou.php?id=16
+http://mywlkj.ddns.net:754/tv/hk.php?id=14
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB华丽翡翠台
 http://mywlkj.ddns.net:754/tv/haiou.php?id=17
+#EXTINF:-1 group-title="🦄香港频道「测试中」",娱乐新闻台
+http://mywlkj.ddns.net:754/tv/hk.php?id=19
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB星河台(粤)
 http://mywlkj.ddns.net:754/tv/haiou.php?id=18
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB星河台(国)
