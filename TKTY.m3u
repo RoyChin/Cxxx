@@ -1,8 +1,3 @@
-#EXTM3U
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://wp.23zo.cn/f/V6cq/WXTI.txt
-
 #EXTINF:-1 group-title="🦄五星体育🦄",五星体育「IPV6」
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 #EXTINF:-1 group-title="🦄五星体育🦄",五星体育「IPV6」
