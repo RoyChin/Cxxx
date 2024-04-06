@@ -4797,6 +4797,10 @@ https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
 #EXTINF:-1 group-title="🦄国际频道「需魔法」",BBC Home
 https://i.mjh.nz/SamsungTVPlus/USBC600017FG.m3u8
 
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",NASA 1
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",NASA 2
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 #EXTINF:-1 group-title="🦄国际频道「需魔法」",Animal Planet
 http://45.159.74.14:80/AnimalPlanet/index.m3u8
 #EXTINF:-1 group-title="🦄国际频道「需魔法」",Animal Planet
