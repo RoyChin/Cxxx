@@ -2427,19 +2427,27 @@ rtmp://f13h.mine.nu/sat/tv071
 rtmp://f13h.mine.nu/sat/tv091
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",华视
 rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",TVBS欢乐
+rtmp://f13h.mine.nu/sat/tv421
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",TVBS新闻
+rtmp://f13h.mine.nu/sat/tv551
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",非凡新闻
+rtmp://f13h.mine.nu/sat/tv581
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",东森财经
+rtmp://f13h.mine.nu/sat/tv571
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",东森超视
+rtmp://f13h.mine.nu/sat/tv331
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",纬来体育
 rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",纬来育乐
 rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",纬来日本
 rtmp://f13h.mine.nu/sat/tv771
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",东森超视
-rtmp://f13h.mine.nu/sat/tv331
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",MoMo综合
 rtmp://f13h.mine.nu/sat/tv761
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",ELEVEN体育1
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",DAZN体育-1
 rtmp://f13h.mine.nu/sat/tv731
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",ELEVEN体育2
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",DAZN体育-2
 rtmp://f13h.mine.nu/sat/tv741
 
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",TVBS NEWS
