@@ -24,6 +24,8 @@ http://116.232.152.209:8888/udp/239.45.3.210:5140
 http://php.jdshipin.com:8880/bst.php?id=wxtyhd8m/8000000
 #EXTINF:-1 group-title="🦄五星体育🦄",五星体育
 http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="🦄五星体育🦄",五星体育
+http://180.164.40.181:2222/udp/239.45.3.210:5140
 
 #EXTINF:-1 group-title="🦄国内体育🦄",广东体育
 http://183.11.239.36:808/hls/2/index.m3u8
