@@ -1100,6 +1100,14 @@ http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 group-title="🦄未来电视🐯",超级电视剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 group-title="🦄未来电视🐯",央视台球
+http://gzly.hkychina.com:6001/udp/239.252.219.80:5140
+#EXTINF:-1 group-title="🦄未来电视🐯",央视台球
+http://124.230.56.143:55555/udp/239.76.254.58:9000
+#EXTINF:-1 group-title="🦄未来电视🐯",央视台球
+http://183.11.239.36:808/hls/73/index.m3u8
+#EXTINF:-1 group-title="🦄未来电视🐯",央视台球
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 #EXTINF:-1 group-title="🦄未来电视🐯",东北热剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 #EXTINF:-1 group-title="🦄未来电视🐯",欢乐剧场
