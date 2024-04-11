@@ -28,6 +28,8 @@ http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Sl
 http://39.77.153.241:9981/stream/channelid/130237510?profile=pass
 #EXTINF:-1 group-title="🦄赛事直播🦄",Now HK Now Sports 4K 617
 http://39.77.153.241:9981/stream/channelid/1750519850?profile=pass
+#EXTINF:-1 group-title="🦄赛事直播🦄",Astro 体育 UHD
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
 
 
 #EXTINF:-1 group-title="🦄五星体育🦄",五星体育「IPV6」
