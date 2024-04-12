@@ -5,9 +5,9 @@ https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="👉唯一微信:Cxx21x👈",👉唯一微信:Cxx21x👈
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="👉卡顿请手动切换其他线路👈",👉卡顿请手动切换其他线路👈
-https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+https://cloud.lxweb.cn/f/9qgnS1/4.MOV
 #EXTINF:-1 group-title="👉选择流畅的线路观看👈",👉选择流畅的线路观看👈
-https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+https://cloud.lxweb.cn/f/9qgnS1/4.MOV
 
 #EXTINF:-1 group-title="🦄全网通线路-①🔥",CCTV1
 http://111.230.30.193/php/lyd.php?id=6559
@@ -256,10 +256,11 @@ http://111.230.30.193/php/lt.php?id=1309
 #EXTINF:-1 group-title="🦄全网通线路-②🔥",CETV4
 http://111.230.30.193/php/lt.php?id=1308
 
-#EXTM3U
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE local
 
+#EXTINF:-1 group-title="🦄央视频线路🔥",👉卡顿请手动切换其他线路👈
+https://cloud.lxweb.cn/f/9qgnS1/4.MOV
+#EXTINF:-1 group-title="🦄央视频线路🔥",👉选择流畅的线路观看👈
+https://cloud.lxweb.cn/f/9qgnS1/4.MOV
 #EXTINF:-1 group-title="🦄央视频线路🔥",CCTV-1 综合
 https://pi.0472.org/live/cctv1.m3u8?token=240411
 #EXTINF:-1 group-title="🦄央视频线路🔥",CCTV-2 财经
@@ -1521,6 +1522,11 @@ http://cysan.gzcy020.com.cn:50000/rtp/239.253.43.35:5146
 http://cysan.gzcy020.com.cn:50000/rtp/239.253.43.101:5146
 #EXTINF:-1 group-title="🦄电信专线-⑺❤️",甘肃卫视高清
 http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.189:5146
+
+#EXTINF:-1 group-title="🦄联通专线-①💙",👉卡顿请手动切换其他线路👈
+https://cloud.lxweb.cn/f/9qgnS1/4.MOV
+#EXTINF:-1 group-title="🦄联通专线-①💙",👉选择流畅的线路观看👈
+https://cloud.lxweb.cn/f/9qgnS1/4.MOV
 #EXTINF:-1 group-title="🦄联通专线-①💙",CCTV-1 综合
 http://117.12.149.13:12345/rtp/225.1.1.120:5002
 #EXTINF:-1 group-title="🦄联通专线-①💙",CCTV-2 财经
