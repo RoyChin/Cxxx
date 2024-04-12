@@ -230,6 +230,11 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN79469BESTVSMGSMG9/ind
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN126389BESTVSMGSMG9/index.m3u8?AuthInfo=kXVqgwiFNDsA8L8UADdm1g0lb%2BtkfnGmv76VRSC5BUjrd9dcupuLFZtkbnZDW1ncykI0zNYTgRcsAj5Z6uTckA%3D%3D
 #EXTINF:-1 group-title="🦄高码率线路-②🐉",梨园
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
+
+#EXTINF:-1 group-title="🦄独家线路-①🐉",👉如有卡顿请手动切换线路👈
+https://cloud.lxweb.cn/f/wDE0s2/2.MOV
+#EXTINF:-1 group-title="🦄独家线路-①🐉",👉选择流畅的线路观看👈
+https://cloud.lxweb.cn/f/wDE0s2/2.MOV
 #EXTINF:-1 group-title="🦄独家线路-①🐉",CCTV1「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 group-title="🦄独家线路-①🐉",CCTV2「IPV6」
@@ -2255,8 +2260,10 @@ http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcl
 https://ali.hlspull.yximgs.com/live/asdfg32522.flv
 #EXTINF:-1 group-title="🦄香港频道「测试中」",经典影视台
 https://ali.hlspull.yximgs.com/live/asdfg32516.flv
+
+
 #EXTINF:-1 group-title="🦄香港频道「测试中」",（此处以下频道需要魔法）
-https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+https://cloud.lxweb.cn/f/08QDU0/3.MOV
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
 https://iptv.hiper25.com/TVB/video.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB明珠台
@@ -2551,8 +2558,9 @@ http://80.94.54.42/fashiontv/stream/playlist.m3u8
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",好消息綜合台
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",（此处以下频道需要湾湾节点）
-https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+https://cloud.lxweb.cn/f/08QDU0/3.MOV
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",TVBS-Asia
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",TVBS-Asia
@@ -3877,7 +3885,8 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?tecnotv.inf
 #EXTINF:-1 group-title="🦄国际频道「需魔法」",新加坡
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 
-
+#EXTINF:-1 group-title="🦄美国频道🦅",（此处以下频道需要魔法）
+https://cloud.lxweb.cn/f/08QDU0/3.MOV
 #EXTINF:-1 group-title="🦄美国频道🦅",ABC News Live
 https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
 #EXTINF:-1 group-title="🦄美国频道🦅",NBC News NOW
@@ -4199,7 +4208,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3434
 #EXTINF:-1 group-title="🦄美国频道🦅",动漫
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=634
 
-
+#EXTINF:-1 group-title="🦄英国频道🦁",（此处以下频道需要魔法）
+https://cloud.lxweb.cn/f/08QDU0/3.MOV
 #EXTINF:-1 group-title="🦄英国频道🦁",BBC News
 http://103.199.161.254/Content/bbcworld/Live/Channel%28BBCworld%29/index.m3u8
 #EXTINF:-1 group-title="🦄英国频道🦁",TM1
@@ -4943,7 +4953,8 @@ http://190.116.90.43:8000/play/a003
 #EXTINF:-1 group-title="🦄英国频道🦁",Telenovelas
 http://190.116.90.43:8000/play/a00d
 
-
+#EXTINF:-1 group-title="🦄法国频道🐓",（此处以下频道需要魔法）
+https://cloud.lxweb.cn/f/08QDU0/3.MOV
 #EXTINF:-1 group-title="🦄法国频道🐓",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 #EXTINF:-1 group-title="🦄法国频道🐓",Fashion tv
