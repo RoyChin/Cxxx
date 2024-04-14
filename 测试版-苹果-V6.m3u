@@ -1,20 +1,13 @@
-#EXTM3U
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://sourl.cn/DaDuHy
+#EXTINF:-1 group-title="👉测试专用👈",👉添加售后唯一微信👈
+https://cloud.lxweb.cn/f/9qgnS1/4.MOV
+#EXTINF:-1 group-title="👉过期失效👈",👉获取最新链接👈
+https://cloud.lxweb.cn/f/9qgnS1/4.MOV
+#EXTINF:-1 group-title="👉请询问客服👈",👉不加微信没有售后👈
+https://cloud.lxweb.cn/f/9qgnS1/4.MOV
+#EXTINF:-1 group-title="👉购买正式版👈",👉其他渠道不回复👈
+https://cloud.lxweb.cn/f/9qgnS1/4.MOV
 
-#EXTINF:-1 group-title="👉添加售后唯一微信👈",👉添加售后唯一微信👈
-https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
-#EXTINF:-1 group-title="👉获取最新链接👈",👉获取最新链接👈
-https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
-#EXTINF:-1 group-title="👉不加微信没有售后👈",👉不加微信没有售后👈
-https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
-#EXTINF:-1 group-title="👉其他渠道不回复👈",👉其他渠道不回复👈
-https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
-#EXTINF:-1 group-title="👉只接受微信信息👈",👉只接受微信信息👈
-https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
-#EXTINF:-1 group-title="👉唯一微信号:Cxx114x👈",👉唯一微信号:Cxx114x👈
-https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
+
 #EXTINF:-1 group-title="🦄高码率线路-①🐉",CCTV1
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000131/index.m3u8?IAS
 #EXTINF:-1 group-title="🦄高码率线路-①🐉",CCTV2
