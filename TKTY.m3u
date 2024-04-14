@@ -554,3 +554,23 @@ https://epg.pw/stream/2630e0dfd64418d3d64337e1ce301bae69cede220c9670a816f9cb1b3d
 https://epg.pw/stream/a3dc42ad0c9a74c9ba5c6e51a29884e79914602c5e38b284567f64eef68ffe23.ctv
 #EXTINF:-1 group-title="🦄其他体育「直连」🦄",tntsports4
 https://epg.pw/stream/054e7d4d72ea07976f03474864773060d02020a0766360fcad0a5cb480136ef6.ctv
+
+#EXTINF:-1 group-title="🏌🏻‍♂️高尔夫🏌🏻‍♂️",ES: MOVISTAR GOLF FHD
+http://grinta.pro:8080/live/555555555555/666666666666/1092725.ts?play_token=46d412aed1ad1cea
+#EXTINF:-1 group-title="🏌🏻‍♂️高尔夫🏌🏻‍♂️",ES: MOVISTAR GOLF HD
+http://grinta.pro:8080/live/555555555555/666666666666/1092726.ts?play_token=46d412aed1ad1cea
+#EXTINF:-1 group-title="🏌🏻‍♂️高尔夫🏌🏻‍♂️",ES: MOVISTAR GOLF SD
+http://grinta.pro:8080/live/555555555555/666666666666/1092727.ts?play_token=46d412aed1ad1cea
+#EXTINF:-1 group-title="🏌🏻‍♂️高尔夫🏌🏻‍♂️",|FR.SPOR| GOLF+ FHD
+http://grinta.pro:8080/live/555555555555/666666666666/1092520.ts?play_token=46d412aed1ad1cea
+#EXTINF:-1 group-title="🏌🏻‍♂️高尔夫🏌🏻‍♂️",|FR.SPOR| GOLF CHANNEL FRANCE FHD
+http://grinta.pro:8080/live/555555555555/666666666666/1092521.ts?play_token=46d412aed1ad1cea
+#EXTINF:-1 group-title="🏌🏻‍♂️高尔夫🏌🏻‍♂️",FR | GOLF + HD
+http://grinta.pro:8080/live/555555555555/666666666666/1092555.ts?play_token=46d412aed1ad1cea
+#EXTINF:-1 group-title="🏌🏻‍♂️高尔夫🏌🏻‍♂️",UK : Sky Sports Golfⓧ FHD
+http://grinta.pro:8080/live/555555555555/666666666666/1090686.ts?play_token=46d412aed1ad1cea
+#EXTINF:-1 group-title="🏌🏻‍♂️高尔夫🏌🏻‍♂️",UK : Sky Sports Golfⓧ HD
+http://grinta.pro:8080/live/555555555555/666666666666/1090687.ts?play_token=46d412aed1ad1cea
+#EXTINF:-1 group-title="🏌🏻‍♂️高尔夫🏌🏻‍♂️",UK : Sky Sports Golfⓧ SD
+http://grinta.pro:8080/live/555555555555/666666666666/1090688.ts?play_token=46d412aed1ad1cea
+
