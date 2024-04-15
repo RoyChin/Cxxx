@@ -2816,21 +2816,17 @@ https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
 #EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯
 http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰中文
+http://play-flive.ifeng.com/live/06OLEGEGM4G.flv
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯
+http://play-flive.ifeng.com/live/06OLEEWQKN4.flv
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰中文
 http://112.19.171.156:9999/udp/239.93.0.162:2192
 #EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯
 http://112.19.171.156:9999/udp/239.93.0.118:2191
-#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰中文
-http://proxy.dfkj.live/alitv.php?u=min&id=1
-#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯
-http://proxy.dfkj.live/alitv.php?u=min&id=2
 #EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰香港
 http://103.95.24.37:880/fhxgt.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯
 http://103.95.24.37:880/fhzx.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰中文
-http://play-flive.ifeng.com/live/06OLEGEGM4G.flv
-#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯
-http://play-flive.ifeng.com/live/06OLEEWQKN4.flv
 #EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯
 https://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰中文
@@ -2839,74 +2835,102 @@ https://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 rtmp//f13h.mine.nu/sat/hk031
 #EXTINF:-1 group-title="🦄香港频道「测试中」",香港有线18台
 rtmp://f13h.mine.nu/sat/hk021
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB无线新闻台
+http://8.137.59.151:99/haioutz/haiousmttz.php?id=5
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB无线财经体育
+http://8.137.59.151:99/haioutz/haiousmttz.php?id=6
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB亚洲武侠
+http://8.137.59.151:99/haioutz/haiousmttz.php?id=9
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB18台
+http://8.137.59.151:99/haioutz/haiousmttz.php?id=21
+#EXTINF:-1 group-title="🦄香港频道「测试中」",天映频道
+http://8.137.59.151:99/haioutz/haiousmttz.php?id=15
+#EXTINF:-1 group-title="🦄香港频道「测试中」",HOY 76台
+http://proxy.dfkj.live/alitv.php?u=min&id=16
+#EXTINF:-1 group-title="🦄香港频道「测试中」",HOY 77台
+http://proxy.dfkj.live/alitv.php?u=min&id=17
+#EXTINF:-1 group-title="🦄香港频道「测试中」",HOY 78台
+http://proxy.dfkj.live/alitv.php?u=min&id=18
+#EXTINF:-1 group-title="🦄香港频道「测试中」",HOY 78台
+http://proxy.dfkj.live/alitv.php?u=min&id=3
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB财经体育资讯台
+http://proxy.dfkj.live/alitv.php?u=min&id=7
+#EXTINF:-1 group-title="🦄香港频道「测试中」",Now 新闻台
+http://proxy.dfkj.live/alitv.php?u=min&id=15
+#EXTINF:-1 group-title="🦄香港频道「测试中」",Now 新闻台
+http://58.87.99.251:8090/HK/nowxingying/hls.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",Now 爆谷台
+http://hk.haycker.eu.org:9529/xvx.xx6868.online/stream/dc988679d0a93ab3ca49a52a4c5e6571/index.m3u8?token=5bd747bfebe8783df15e2fd5ae6bb4d4
+#EXTINF:-1 group-title="🦄香港频道「测试中」",Now 爆谷台
+http://47.106.39.230:8080/HK1/nowxy/hls.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",港台电视31
+http://proxy.dfkj.live/alitv.php?u=min&id=19
+#EXTINF:-1 group-title="🦄香港频道「测试中」",Now SPORTS
+http://119.23.61.191:8088/HK/nowbg/hls.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
-http://mywlkj.ddns.net:754/tv/tw.php?id=104
-#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
-http://mywlkj.ddns.net:754/tv/fct.m3u8
+http://58.87.99.251:8090/GN/gdfc2/hls.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
 http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB星河台
+http://113.64.145.195:8081/hls/135/index.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",香港有线18台
+http://proxy.dfkj.live/alitv.php?u=min&id=4
+#EXTINF:-1 group-title="🦄香港频道「测试中」",香港有线高清603台
+http://proxy.dfkj.live/alitv.php?u=min&id=5
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB无线新闻台
+http://proxy.dfkj.live/alitv.php?u=min&id=6
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
-http://158.180.67.130/live/hls/J/j.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
-https://gudou-ott.hiper25.com/live/1350_4500.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
-http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
-http://158.180.67.130/live/hls/JUHD/juhd.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台 4K
-http://free.9528.eu.org:9529/stream/hk/test/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
-#EXTINF:-1 group-title="🦄香港频道「测试中」",翡翠台HD
-http://ali.hlspull.yximgs.com/live/awei_jade.flv
+http://proxy.dfkj.live/alitv.php?u=min&id=8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB明珠台
+http://proxy.dfkj.live/alitv.php?u=min&id=10
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB J2
+http://proxy.dfkj.live/alitv.php?u=min&id=11
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB星河
+http://proxy.dfkj.live/alitv.php?u=min&id=12
+#EXTINF:-1 group-title="🦄香港频道「测试中」",ViuTV
+http://proxy.dfkj.live/alitv.php?u=min&id=13
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
 http://mywlkj.ddns.net:754/tv/hk.php?id=9
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
 http://mywlkj.ddns.net:754/tv/fct.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
-http://mywlkj.ddns.net:754/tv/hiper25.php?id=1
-#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB明珠台
-http://mywlkj.ddns.net:754/tv/hiper25.php?id=2
-#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB明珠台
-https://iptv.hiper25.com/Pearl/video.m3u8
+http://158.180.67.130/live/hls/J/j.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台 4K
+http://158.180.67.130/live/hls/JUHD/juhd.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台 4K
+http://free.9528.eu.org:9529/stream/hk/test/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
+http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
+http://ali.hlspull.yximgs.com/live/awei_jade.flv
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB星河台
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB星河台
 https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/playlist.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB星河台
-http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB星河台
-http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB星河台
 http://mywlkj.ddns.net:754/tv/xinghe.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB星河台
 http://113.64.145.195:8081/hls/135/index.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB功夫台
-https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB功夫台
 http://mywlkj.ddns.net:754/tv/action.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB功夫台
-http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB娱乐新闻台
-http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB无线新闻台
+http://zsntlqj.xicp.net:8896/bysid/83
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB娱乐新闻台
 http://mywlkj.ddns.net:754/tv/enews.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB娱乐新闻台
+http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB娱乐新闻台
 https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB J1
 https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",now爆谷
-http://mywlkj.ddns.net:754/tv/tw.php?id=101
-#EXTINF:-1 group-title="🦄香港频道「测试中」",now星影
-http://mywlkj.ddns.net:754/tv/tw.php?id=102
-#EXTINF:-1 group-title="🦄香港频道「测试中」",广电翡翠
-http://mywlkj.ddns.net:754/tv/tw.php?id=103
 #EXTINF:-1 group-title="🦄香港频道「测试中」",星河频道
 http://171.108.239.92:8181/tsfile/live/1005_1.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",天映电影
 http://171.108.239.92:8181/tsfile/live/1009_1.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",星空卫视
 http://171.108.239.92:8181/tsfile/live/1012_1.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",无线新闻台
-http://zsntlqj.xicp.net:8896/bysid/83
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB J2
 http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=ME0E4382171043821710&ct=19237&tsum=6f10351124a4eb90780b2f84b2c4d349
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB J2
@@ -2926,17 +2950,11 @@ http://gmlive.ddns.net:5000/kun5g/kun5g2024/54
 #EXTINF:-1 group-title="🦄香港频道「测试中」",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 #EXTINF:-1 group-title="🦄香港频道「测试中」",重温经典
-http://mywlkj.ddns.net:754/tv/cwjd.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",重温经典
 http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=635
-#EXTINF:-1 group-title="🦄香港频道「测试中」",重温经典
-http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",经典电影台
 https://ali.hlspull.yximgs.com/live/asdfg32522.flv
 #EXTINF:-1 group-title="🦄香港频道「测试中」",经典影视台
 https://ali.hlspull.yximgs.com/live/asdfg32516.flv
-
-
 #EXTINF:-1 group-title="🦄香港频道「测试中」",（此处以下频道需要魔法）
 https://cloud.lxweb.cn/f/08QDU0/3.MOV
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
@@ -2945,8 +2963,8 @@ https://iptv.hiper25.com/TVB/video.m3u8
 https://iptv.hiper25.com/Pearl/video.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
 http://129.226.149.79:4785/html/V4.php?access_token=DY20240301_31_M97gdfG&id=hktvbfct
-#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
-https://cdn-iptv.hiper25.com/TVB/video.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",無線新聞台
+https://tv.iill.top/tvb/2
 #EXTINF:-1 group-title="🦄香港频道「测试中」",無線新聞台
 https://tvb.livednow.com/C
 #EXTINF:-1 group-title="🦄香港频道「测试中」",無線新聞台
@@ -2957,6 +2975,10 @@ https://tvb.livednow.com/A
 https://tvb.livednow.com/I-FINA
 #EXTINF:-1 group-title="🦄香港频道「测试中」",有线新闻台
 http://cm61-10-2-143.hkcable.com.hk/live_freedirect/hd110_h.live/playlist.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",无线新闻
+http://live.cooltv.top/tv/tvb.php?id=0&hq
+#EXTINF:-1 group-title="🦄香港频道「测试中」",无线新闻
+https://tv.iill.top/tvb/2
 #EXTINF:-1 group-title="🦄香港频道「测试中」",有线新闻台
 http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",耀才财经台HD
@@ -3065,6 +3087,36 @@ rtmp://f13h.mine.nu/sat/tv761
 rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",DAZN体育-2
 rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",TVBS新闻
+rtmp://twcdn.top/sat/tv551
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",非凡新闻
+rtmp://f13h.mine.nu/sat/tv581
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",非凡新闻
+rtmp://twcdn.top/sat/tv581
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",八大戲劇台HD
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",八大綜合台HD
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",八大第1台HD
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",三立戲劇台
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",AMC電影台
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",探索亞洲
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",動物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",东森电影
+http://171.108.239.92:8181/tsfile/live/1010_1.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",龙祥电影
+http://171.108.239.92:8181/tsfile/live/1011_1.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",东森洋片
+http://171.108.239.92:8181/tsfile/live/1016_1.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",东森超视
+http://171.108.239.92:8181/tsfile/live/1023_1.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",莲花台
+http://171.108.239.92:8181/tsfile/live/1025_1.m3u8
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",TVBS NEWS
 http://mywlkj.ddns.net:754/tv/tw3.php?id=3
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",GTV 八大戏剧HD
@@ -3119,8 +3171,6 @@ http://171.108.239.92:8181/tsfile/live/1011_1.m3u8
 http://171.108.239.92:8181/tsfile/live/1016_1.m3u8
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",东森超视
 http://171.108.239.92:8181/tsfile/live/1023_1.m3u8
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",七星关电视台
-https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",道真新闻综合
 http://live.dzrmtzx.org.cn:90/live/dspd_1M.m3u8
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",松桃新闻
@@ -3233,9 +3283,8 @@ http://80.94.54.42/fashiontv/stream/playlist.m3u8
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",好消息綜合台
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
-
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",（此处以下频道需要湾湾节点）
-https://cloud.lxweb.cn/f/08QDU0/3.MOV
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",TVBS-Asia
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",TVBS-Asia
@@ -3250,40 +3299,6 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",东森美洲2
 http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",TVBS HD
-https://youtube.livednow.com/stream/YvdcZ_jpLXE
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",TVBS新闻
-https://youtube.livednow.com/stream/2mCSYvcfhtc
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",中天新闻
-https://youtube.livednow.com/stream/oIgbl7t0S_w
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",台视新闻
-https://youtube.livednow.com/stream/xL0ch83RAK8
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",中视新闻
-https://youtube.livednow.com/stream/TCnaIE_SAtM
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",三立海外
-https://youtube.livednow.com/stream/FoBfXvlOR6I
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",三立新闻
-https://youtube.livednow.com/stream/oZdzzvxTfUY
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",镜新闻
-https://youtube.livednow.com/stream/5n0y6b0Q25o
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",民视新闻
-https://youtube.livednow.com/stream/ylYJSBUgaMA
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",台湾PLUS+
-https://youtube.livednow.com/stream/ovzTfk5CmIE
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",TVBS NEWS
-https://youtube.livednow.com/stream/m_dhMSvUCIc
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",中视经典综艺
-https://youtube.livednow.com/stream/ADDSmXoPDY8
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",东森新闻
-https://youtube.livednow.com/stream/2dfAzcDf8Zg_
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",寰宇新聞
-https://youtube.livednow.com/stream/6IquAgfvYmc
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",凤凰资讯
-https://youtube.livednow.com/stream/0K6C6Rv4RR4_
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",中天新闻2
-https://youtube.livednow.com/stream/WPfPjbOLNfE
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",公视新闻
-https://youtube.livednow.com/stream/quwqlazU-c8
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",Bloomberg
 http://50.7.238.114:8278/bloomberg_twn/playlist.m3u8?tid=MD2D8088860380888603&ct=19225&tsum=ea1c6a2c09cef99386e1768a4ff4c61c
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",CBS HD
