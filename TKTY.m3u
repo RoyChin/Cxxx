@@ -36,7 +36,8 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_pri
 http://4k4.klmvhn20.com:2082/live/Noly-4Noly/xiux0qlrin/641325.ts
 #EXTINF:-1 group-title="🦄赛事直播🦄",TNT 4K
 http://4k4.klmvhn20.com:2082/live/Noly-4Noly/xiux0qlrin/522060.ts
-
+#EXTINF:-1 group-title="🦄赛事直播🦄",Bein Sports 4K
+http://m3u.lol:80/20821215493690/194906948679/308587
 
 #EXTINF:-1 group-title="🦄五星体育🦄",五星体育
 http://api.52tb.xyz/info?id=399&token=20230331fbulna
