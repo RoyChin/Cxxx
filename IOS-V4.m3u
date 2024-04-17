@@ -12,10 +12,6 @@ https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
 https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
 
 
-#EXTM3U
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE local
-
 #EXTINF:-1 group-title="🦄全网通线路💥",CCTV1
 http://8.134.82.80:32858/ysp04/haiouysp.php?id=1
 #EXTINF:-1 group-title="🦄全网通线路💥",CCTV2
