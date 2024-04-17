@@ -7,7 +7,6 @@ https://cloud.lxweb.cn/f/9qgnS1/4.MOV
 #EXTINF:-1 group-title="👉购买正式版👈",👉其他渠道不回复👈
 https://cloud.lxweb.cn/f/9qgnS1/4.MOV
 
-
 #EXTINF:-1 group-title="🦄高码率线路-①🐉",CCTV1
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000131/index.m3u8?IAS
 #EXTINF:-1 group-title="🦄高码率线路-①🐉",CCTV2
@@ -226,6 +225,7 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN79469BESTVSMGSMG9/ind
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN126389BESTVSMGSMG9/index.m3u8?AuthInfo=kXVqgwiFNDsA8L8UADdm1g0lb%2BtkfnGmv76VRSC5BUjrd9dcupuLFZtkbnZDW1ncykI0zNYTgRcsAj5Z6uTckA%3D%3D
 #EXTINF:-1 group-title="🦄高码率线路-②🐉",梨园
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
+
 #EXTINF:-1 group-title="🦄独家线路-①🐉",有卡顿请手动切换其他线路
 https://cloud.lxweb.cn/f/9qgnS1/4.MOV
 #EXTINF:-1 group-title="🦄独家线路-①🐉",选择自己流畅的线路观看
@@ -776,6 +776,7 @@ http://117.9.171.150:8888/udp/225.1.2.203:5002
 http://117.9.171.150:8888/udp/225.1.1.135:5002
 #EXTINF:-1 group-title="🦄联通线路-②🐉",悦美生活
 http://117.9.171.150:8888/udp/225.1.2.55:5002
+
 #EXTINF:-1 group-title="🦄电信线路-①🐉",有卡顿请手动切换其他线路
 https://cloud.lxweb.cn/f/9qgnS1/4.MOV
 #EXTINF:-1 group-title="🦄电信线路-①🐉",选择自己流畅的线路观看
@@ -1684,6 +1685,7 @@ http://ddns.cyruslee.top:8888/udp/239.253.43.117:5146
 http://ddns.cyruslee.top:8888/udp/239.253.43.119:5146
 #EXTINF:-1 group-title="🦄电信线路-③🐉",精选频道1
 http://ddns.cyruslee.top:8888/udp/239.77.0.186:5146
+
 #EXTINF:-1 group-title="🦄未来电视🐯",超级体育
 http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 group-title="🦄未来电视🐯",超级电影
@@ -1742,6 +1744,7 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
 #EXTINF:-1 group-title="🦄未来电视🐯",武术世界
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0MVaBO3fffRWKM%2FzNpNYjRBAiSJylXYBAiox0V94ejMfwEtXXuH8b8M%2F%2FDznZB61s
+
 #EXTINF:-1 group-title="🦄数字高清🐯",凤凰中文
 http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 group-title="🦄数字高清🐯",凤凰资讯
@@ -1818,6 +1821,7 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 #EXTINF:-1 group-title="🦄数字高清🐯",金牌综艺
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+
 #EXTINF:-1 group-title="🦄数字高清🐯",黑莓动画
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 group-title="🦄数字高清🐯",哒啵赛事
@@ -1876,6 +1880,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/ott.mobaibox.com/PLTV/3/224/32212
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
 #EXTINF:-1 group-title="🦄数字高清🐯",军事评论
 http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
+
+
 #EXTINF:-1 group-title="🦄4K-8K频道",北京纪实科教-8K
 http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1 group-title="🦄4K-8K频道",CCTV-4K 超高清
@@ -1910,6 +1916,7 @@ http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?blog.ntnas.top
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 group-title="🦄4K-8K频道",苏州-4K
 http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
+
 #EXTINF:-1 group-title="🦄国内体育",👉添加售后唯一微信👈
 https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
 #EXTINF:-1 group-title="🦄国内体育",👉获取最新链接👈
@@ -2022,6 +2029,7 @@ https://pull.lianggexinxi.xyz/live/stream-600428_lsd.m3u8?_=1697006121706
 https://pull.lianggexinxi.xyz/live/stream-600428_lsd.m3u8?_=1697004264631
 #EXTINF:-1 group-title="🦄国内体育",米哥直播不定时
 https://pull.lianggexinxi.xyz/live/stream-431228_lsd.m3u8?_=1698248787521
+
 #EXTINF:-1 group-title="🦄海外体育",👉添加售后唯一微信👈
 https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
 #EXTINF:-1 group-title="🦄海外体育",👉获取最新链接👈
@@ -2124,380 +2132,6 @@ http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7335/index.m3u8
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2492/index.m3u8
 #EXTINF:-1 group-title="🦄海外体育",天空体育 高尔夫
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7344/index.m3u8
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS MAIN EVENT ᵁᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/50271
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS MAIN EVENT 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138134
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS PREMIER LEAGUE ᵁᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/50272
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY CINEMA PREMIER 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/190958
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS ACTION 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/190954
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS MIX 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/190955
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS PREMIER LEAGUE 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/190956
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS FOOTBALL  ᵁᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/50273
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS FOOTBALL 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138135
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS CRICKET ᵁᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/50274
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS CRICKET 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138140
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS GOLF ᵁᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/50275
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS GOLF 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138139
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS F1 ᵁᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/50276
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS F1 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138141
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS ACTION ᵁᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/50277
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY CINEMA ACTION 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138160
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS ARENA ᵁᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/50278
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS ARENA 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138137
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS RACING ᵁᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/50280
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS RACING 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138143
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS NEWS ᵁᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/50281
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS NEWS 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138133
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS ᵁᴴᴰ NFL
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10524
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS F1 ᵁᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303265
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS ᵁᴴᴰ MAIN EVENT ᵁᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10518
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS ᵁᴴᴰ PREMIER LEAGUE
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10517
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS RACING ˢᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/205918
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS PREMIER LEAGUE ˢᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/205919
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS NEWS ˢᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/205920
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY MIX ˢᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/205921
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY MAIN EVENT ˢᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/205922
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY F1 ˢᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/205923
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS FOOTBALL ˢᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/205924
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY GOLF ˢᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/205925
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY CRICKET ˢᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/205926
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY ARENA ˢᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/205927
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY MAX ˢᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/205892
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS FOOTBALL 50 FPS
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303268
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS FOOTBALL ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10516
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS NEWS  ᵁᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303260
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS NEWS ᵁᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/22202
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS RACING ᵁᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303261
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS RACING ᵁᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/48168
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS RACING ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/48169
-#EXTINF:-1 group-title="🦄海外体育",|UK|Racing ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/628656
-#EXTINF:-1 group-title="🦄海外体育",|UK| Racing UK ˢᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/628657
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS NEWS ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10512
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS CRICKET ᵁᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303266
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS CRICKET ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10527
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS CRICKET ˢᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10526
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS F1 HD
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10525
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS ARENA ᵁᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303263
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS ARENA ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10528
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS NFL ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10529
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS PREMIER LEAUGE 50FPS
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303269
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS PREMIER LEAGUE ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10511
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS MAIN EVENT ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10514
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS GOLF 50FPS
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303267
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS ACTION / NFL  ᵁᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303264
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS NFL
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/91620
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS MIX ᵁᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303262
-#EXTINF:-1 group-title="🦄海外体育",|UK| SKY SPORTS MIX ᵁᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10513
-#EXTINF:-1 group-title="🦄海外体育",UK Sky Sports Tennis ᵁᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/605469
-#EXTINF:-1 group-title="🦄海外体育",UK Sky Sports Tennis ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/605470
-#EXTINF:-1 group-title="🦄海外体育",UK Sky Sports Tennis 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/605472
-#EXTINF:-1 group-title="🦄海外体育",UK Sky Sports Tennis ˢᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/605471
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 1 ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/1
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 1ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/534831
-#EXTINF:-1 group-title="🦄海外体育",BEIN SPORTS 1 TOD
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272468
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports ᴴᴰ 1
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/624321
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 1 ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/108161
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 1 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/114053
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 1 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/3854
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 1 ˢᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/2541
-#EXTINF:-1 group-title="🦄海外体育",beIN SPORTS 1 ˢᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/245836
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 2 ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/2
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 2ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/534830
-#EXTINF:-1 group-title="🦄海外体育",BEIN SPORTS 2 TOD
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272467
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports ᴴᴰ 2
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/624322
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 2 ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/108162
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 2 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/114052
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 2 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/3853
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 2 ˢᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/2540
-#EXTINF:-1 group-title="🦄海外体育",beIN SPORTS 2 ˢᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/245835
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 3 ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/4
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 3ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/534829
-#EXTINF:-1 group-title="🦄海外体育",BEIN SPORTS 3 TOD
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272465
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports ᴴᴰ 3
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/624323
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 3 ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/108164
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 3 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/114050
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 3 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/3851
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 3 ˢᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/2538
-#EXTINF:-1 group-title="🦄海外体育",beIN SPORTS 3 ˢᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/245833
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 4 ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/5
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 4ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/534828
-#EXTINF:-1 group-title="🦄海外体育",BEIN SPORTS 4 TOD
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272464
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports ᴴᴰ 4
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/624324
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 4 ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/108165
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 4 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/114049
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 4 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/3850
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 4 ˢᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10795
-#EXTINF:-1 group-title="🦄海外体育",beIN SPORTS 4 ˢᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/245832
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 5 ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/6
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 5ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/534827
-#EXTINF:-1 group-title="🦄海外体育",BEIN SPORTS 5 TOD
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272463
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports ᴴᴰ 5
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/624325
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 5 ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/108166
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 5 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/114048
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 5 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/3849
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 5 ˢᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/2536
-#EXTINF:-1 group-title="🦄海外体育",beIN SPORTS 5 ˢᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/245831
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 6 ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/7
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 6ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/534826
-#EXTINF:-1 group-title="🦄海外体育",BEIN SPORTS 6 TOD
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272462
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports ᴴᴰ 6
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/624326
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 6 ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/108167
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 6 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/114047
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 6 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/3848
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 6 ˢᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/2535
-#EXTINF:-1 group-title="🦄海外体育",beIN SPORTS 6 ˢᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/245830
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 7 ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/8
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 7ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/578834
-#EXTINF:-1 group-title="🦄海外体育",BEIN SPORTS 7 TOD
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272461
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports ᴴᴰ 7
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/624327
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 7 ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/108168
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 7 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/114046
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 7 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/3847
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 7 ˢᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/2534
-#EXTINF:-1 group-title="🦄海外体育",beIN SPORTS 7 ˢᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/245829
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 8 ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/9
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 8ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/578835
-#EXTINF:-1 group-title="🦄海外体育",BEIN SPORTS 8 TOD
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272460
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports ᴴᴰ 8
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/624328
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 8 ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/108169
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 8 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/114045
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 8 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10361
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 8 ˢᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/2533
-#EXTINF:-1 group-title="🦄海外体育",beIN SPORTS 8 ˢᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/245828
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 9 ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 9ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/578836
-#EXTINF:-1 group-title="🦄海外体育",BEIN SPORTS 9 TOD
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272459
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports ᴴᴰ 9
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/624329
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 9 ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/108170
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 9 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/114044
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 9 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10362
-#EXTINF:-1 group-title="🦄海外体育",beIN Sports 9 ˢᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/2532
-#EXTINF:-1 group-title="🦄海外体育",|UK| TNT SPORT 1 ᵁᴴᴰ 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138145
-#EXTINF:-1 group-title="🦄海外体育",|UK| TNT SPORT 2 ᵁᴴᴰ 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138146
-#EXTINF:-1 group-title="🦄海外体育",|UK| TNT SPORT 3  ᵁᴴᴰ 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138147
-#EXTINF:-1 group-title="🦄海外体育",|UK| TNT SPORT 4 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138148
-#EXTINF:-1 group-title="🦄海外体育",|UK| TNT SPORTS 1 ᵁᴴᴰ 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/309614
-#EXTINF:-1 group-title="🦄海外体育",|UK| TNT SPORTS 2 ᵁᴴᴰ 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/309613
-#EXTINF:-1 group-title="🦄海外体育",|UK| TNT SPORTS 3 ᵁᴴᴰ 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/309612
-#EXTINF:-1 group-title="🦄海外体育",|UK| TNT SPORTS 4 ᵁᴴᴰ 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/309611
-#EXTINF:-1 group-title="🦄海外体育",|UK| TNT SPORTS 4 4K
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/190957
-#EXTINF:-1 group-title="🦄海外体育",|UK| EUROSPORT  1 ᵁᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/22226
-#EXTINF:-1 group-title="🦄海外体育",|UK| EUROSPORT 1 ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/309462
-#EXTINF:-1 group-title="🦄海外体育",|UK| EUROSPORTS ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10503
-#EXTINF:-1 group-title="🦄海外体育",|UK| EUROSPORT 2 ᵁᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/22225
-#EXTINF:-1 group-title="🦄海外体育",|UK| EUROSPORT 2 ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/309461
-#EXTINF:-1 group-title="🦄海外体育",|UK| EUROSPORTS ᴴᴰ 2
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10502
-#EXTINF:-1 group-title="🦄海外体育",|UK| PREMIER SPORTS ᴴᴰ
-http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10506
-#EXTINF:-1 group-title="🦄海外体育",supersport_motosport-fhd
-https://epg.pw/stream/a3dc42ad0c9a74c9ba5c6e51a29884e79914602c5e38b284567f64eef68ffe23.ctv
-#EXTINF:-1 group-title="🦄海外体育",cbs_sport_network
-https://epg.pw/stream/7dbde2fbdc3fda798de493cf23b9a94569b86d619e430c44df7b90d023ad9b70.ctv
-#EXTINF:-1 group-title="🦄海外体育",supersport_action
-https://epg.pw/stream/7ef71244c47a4e63a17f5087ff77d499985f059eb6d97f8c2e5e3dcea5ade6f9.ctv
-#EXTINF:-1 group-title="🦄海外体育",tntsports4
-https://epg.pw/stream/054e7d4d72ea07976f03474864773060d02020a0766360fcad0a5cb480136ef6.ctv
-#EXTINF:-1 group-title="🦄海外体育",supersport_psl
-https://epg.pw/stream/36e6f0d463059bcfb7b9e0de50e65b072d77b02e5c28eb93994137f37a2da258.ctv
-#EXTINF:-1 group-title="🦄海外体育",supersport_golf
-https://epg.pw/stream/b2f05e99cbb12268487ccb3fb6cc47baa63b97bb41277886d0e7af347bb9bcea.ctv
-#EXTINF:-1 group-title="🦄海外体育",supersport_football
-https://epg.pw/stream/0206a2c0da2cd863631fdc665a7f8e2be93586e33e837196259ac94508e39363.ctv
-#EXTINF:-1 group-title="🦄海外体育",premiersports1
-https://epg.pw/stream/a0f9c1f7038352194c7817ecdd04a78c87cac7976c844bde81531c543b927716.ctv
-#EXTINF:-1 group-title="🦄海外体育",supersport_premier_league
-https://epg.pw/stream/74941299bb4cbcc30cc7a78f9e5372638bd80b20f747a17641a48b52ae7d7081.ctv
-#EXTINF:-1 group-title="🦄海外体育",premiersports2
-https://epg.pw/stream/5c2c362aefbba26f64a2ef3f94f06684b5b48b7e60ab19762d5eef0d3e4de46c.ctv
-#EXTINF:-1 group-title="🦄海外体育",supersport_psl
-https://epg.pw/stream/36e6f0d463059bcfb7b9e0de50e65b072d77b02e5c28eb93994137f37a2da258.ctv
-#EXTINF:-1 group-title="🦄海外体育",tntsports3
-https://epg.pw/stream/7fd73a3cccffde43a148fde71d3c48c34a6ad8924b9eafc8087cb1ba7b48a4b9.ctv
-#EXTINF:-1 group-title="🦄海外体育",tntsports3
-https://epg.pw/stream/7fd73a3cccffde43a148fde71d3c48c34a6ad8924b9eafc8087cb1ba7b48a4b9.ctv
-#EXTINF:-1 group-title="🦄海外体育",premiersports1
-https://epg.pw/stream/a0f9c1f7038352194c7817ecdd04a78c87cac7976c844bde81531c543b927716.ctv
-#EXTINF:-1 group-title="🦄海外体育",supersport_premier_league
-https://epg.pw/stream/74941299bb4cbcc30cc7a78f9e5372638bd80b20f747a17641a48b52ae7d7081.ctv
-#EXTINF:-1 group-title="🦄海外体育",premiersports2
-https://epg.pw/stream/5c2c362aefbba26f64a2ef3f94f06684b5b48b7e60ab19762d5eef0d3e4de46c.ctv
-#EXTINF:-1 group-title="🦄海外体育",digi-4k
-https://epg.pw/stream/2630e0dfd64418d3d64337e1ce301bae69cede220c9670a816f9cb1b3d45fe8b.ctv
-#EXTINF:-1 group-title="🦄海外体育",supersport_football
-https://epg.pw/stream/0206a2c0da2cd863631fdc665a7f8e2be93586e33e837196259ac94508e39363.ctv
-#EXTINF:-1 group-title="🦄海外体育",elevensport1-4k
-https://epg.pw/stream/80f630f0c473d6ae839f363fff4665a769dc34ae8a610d7e3966ff1743d11d81.ctv
-#EXTINF:-1 group-title="🦄海外体育",supersport_golf
-https://epg.pw/stream/b2f05e99cbb12268487ccb3fb6cc47baa63b97bb41277886d0e7af347bb9bcea.ctv
-#EXTINF:-1 group-title="🦄海外体育",supersport_motosport
-https://epg.pw/stream/a3dc42ad0c9a74c9ba5c6e51a29884e79914602c5e38b284567f64eef68ffe23.ctv
-#EXTINF:-1 group-title="🦄海外体育",cbs_sport_network
-https://epg.pw/stream/7dbde2fbdc3fda798de493cf23b9a94569b86d619e430c44df7b90d023ad9b70.ctv
-#EXTINF:-1 group-title="🦄海外体育",supersport_action
-https://epg.pw/stream/7ef71244c47a4e63a17f5087ff77d499985f059eb6d97f8c2e5e3dcea5ade6f9.ctv
-#EXTINF:-1 group-title="🦄海外体育",tntsports4
-https://epg.pw/stream/054e7d4d72ea07976f03474864773060d02020a0766360fcad0a5cb480136ef6.ctv
 #EXTINF:-1 group-title="🦄海外体育",国外体育6
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="🦄海外体育",EDGEsport
@@ -2614,6 +2248,8 @@ http://stream01.vnet.am/BoksTv/mono.m3u8
 https://strm.yandex.ru/kal/start/start0.m3u8
 #EXTINF:-1 group-title="🦄海外体育",Старт Триумф (1080p) [Geo-blocked]
 https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
+
+
 #EXTINF:-1 group-title="🦄咪咕视频-①🏆",👉添加售后唯一微信👈
 https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
 #EXTINF:-1 group-title="🦄咪咕视频-①🏆",👉获取最新链接👈
@@ -2706,6 +2342,7 @@ http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 #EXTINF:-1 group-title="🦄咪咕视频-①🏆",咪咕直播-44
 http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+
 #EXTINF:-1 group-title="🦄咪咕视频-②🥇",咪咕直播-1
 http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
 #EXTINF:-1 group-title="🦄咪咕视频-②🥇",咪咕直播-3
@@ -2792,6 +2429,8 @@ http://[2409:8087:1a01:df::4051]/PLTV/88888888/224/3221225905/index.m3u8
 http://[2409:8087:1a01:df::4055]/PLTV/88888888/224/3221225910/index.m3u8
 #EXTINF:-1 group-title="🦄咪咕视频-②🥇",咪咕直播-46
 http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221225912/index.m3u8
+
+
 #EXTINF:-1 group-title="🦄香港频道「测试中」",👉添加售后唯一微信👈
 https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
 #EXTINF:-1 group-title="🦄香港频道「测试中」",👉获取最新链接👈
@@ -2799,21 +2438,17 @@ https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
 #EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯
 http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰中文
+http://play-flive.ifeng.com/live/06OLEGEGM4G.flv
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯
+http://play-flive.ifeng.com/live/06OLEEWQKN4.flv
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰中文
 http://112.19.171.156:9999/udp/239.93.0.162:2192
 #EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯
 http://112.19.171.156:9999/udp/239.93.0.118:2191
-#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰中文
-http://proxy.dfkj.live/alitv.php?u=min&id=1
-#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯
-http://proxy.dfkj.live/alitv.php?u=min&id=2
 #EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰香港
 http://103.95.24.37:880/fhxgt.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯
 http://103.95.24.37:880/fhzx.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰中文
-http://play-flive.ifeng.com/live/06OLEGEGM4G.flv
-#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯
-http://play-flive.ifeng.com/live/06OLEEWQKN4.flv
 #EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯
 https://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰中文
@@ -2822,74 +2457,174 @@ https://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 rtmp//f13h.mine.nu/sat/hk031
 #EXTINF:-1 group-title="🦄香港频道「测试中」",香港有线18台
 rtmp://f13h.mine.nu/sat/hk021
+
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰中文台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=1
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=2
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
-http://mywlkj.ddns.net:754/tv/tw.php?id=104
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=4
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB无线财经体育
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=6
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB华丽翡翠台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=7
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB_J2台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB18台
+http://8.137.59.151:99/haioutz/haiousmttz.php?id=21
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB亚洲武侠
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=9
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB千禧经典
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=11
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB明珠台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=12
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB_星河台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=13
+#EXTINF:-1 group-title="🦄香港频道「测试中」",天映频道
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=15
+#EXTINF:-1 group-title="🦄香港频道「测试中」",天映经典
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=16
+#EXTINF:-1 group-title="🦄香港频道「测试中」",RHK 31
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=17
+#EXTINF:-1 group-title="🦄香港频道「测试中」",RHK 32
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=18
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰卫视中文台
+http://proxy.dfkj.live/alitv.php?u=min&id=1
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰卫视资讯台
+http://proxy.dfkj.live/alitv.php?u=min&id=2
+#EXTINF:-1 group-title="🦄香港频道「测试中」",香港有线新闻台
+http://proxy.dfkj.live/alitv.php?u=min&id=3
+#EXTINF:-1 group-title="🦄香港频道「测试中」",香港有线18台
+http://proxy.dfkj.live/alitv.php?u=min&id=4
+#EXTINF:-1 group-title="🦄香港频道「测试中」",香港有线高清603台
+http://proxy.dfkj.live/alitv.php?u=min&id=5
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB无线新闻台
+http://proxy.dfkj.live/alitv.php?u=min&id=6
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB财经体育资讯台
+http://proxy.dfkj.live/alitv.php?u=min&id=7
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
-http://mywlkj.ddns.net:754/tv/fct.m3u8
+http://proxy.dfkj.live/alitv.php?u=min&id=8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB华丽翡翠台
+http://proxy.dfkj.live/alitv.php?u=min&id=9
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB明珠台
+http://proxy.dfkj.live/alitv.php?u=min&id=10
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB J2
+http://proxy.dfkj.live/alitv.php?u=min&id=11
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB星河
+http://proxy.dfkj.live/alitv.php?u=min&id=12
+#EXTINF:-1 group-title="🦄香港频道「测试中」",ViuTV
+http://proxy.dfkj.live/alitv.php?u=min&id=13
+#EXTINF:-1 group-title="🦄香港频道「测试中」",ViuTV6
+http://proxy.dfkj.live/alitv.php?u=min&id=14
+#EXTINF:-1 group-title="🦄香港频道「测试中」",NOW新闻台
+http://proxy.dfkj.live/alitv.php?u=min&id=15
+#EXTINF:-1 group-title="🦄香港频道「测试中」",香港国际财经台
+http://proxy.dfkj.live/alitv.php?u=min&id=16
+#EXTINF:-1 group-title="🦄香港频道「测试中」",HOY TV
+http://proxy.dfkj.live/alitv.php?u=min&id=17
+#EXTINF:-1 group-title="🦄香港频道「测试中」",HOY资讯台
+http://proxy.dfkj.live/alitv.php?u=min&id=18
+#EXTINF:-1 group-title="🦄香港频道「测试中」",港台电视31
+http://proxy.dfkj.live/alitv.php?u=min&id=19
+#EXTINF:-1 group-title="🦄香港频道「测试中」",港台电视32
+http://proxy.dfkj.live/alitv.php?u=min&id=20
+
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB无线新闻台
+http://8.137.59.151:99/haioutz/haiousmttz.php?id=5
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB无线财经体育
+http://8.137.59.151:99/haioutz/haiousmttz.php?id=6
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB亚洲武侠
+http://8.137.59.151:99/haioutz/haiousmttz.php?id=9
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB18台
+http://8.137.59.151:99/haioutz/haiousmttz.php?id=21
+#EXTINF:-1 group-title="🦄香港频道「测试中」",天映频道
+http://8.137.59.151:99/haioutz/haiousmttz.php?id=15
+#EXTINF:-1 group-title="🦄香港频道「测试中」",HOY 76台
+http://proxy.dfkj.live/alitv.php?u=min&id=16
+#EXTINF:-1 group-title="🦄香港频道「测试中」",HOY 77台
+http://proxy.dfkj.live/alitv.php?u=min&id=17
+#EXTINF:-1 group-title="🦄香港频道「测试中」",HOY 78台
+http://proxy.dfkj.live/alitv.php?u=min&id=18
+#EXTINF:-1 group-title="🦄香港频道「测试中」",HOY 78台
+http://proxy.dfkj.live/alitv.php?u=min&id=3
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB财经体育资讯台
+http://proxy.dfkj.live/alitv.php?u=min&id=7
+#EXTINF:-1 group-title="🦄香港频道「测试中」",Now 新闻台
+http://proxy.dfkj.live/alitv.php?u=min&id=15
+#EXTINF:-1 group-title="🦄香港频道「测试中」",Now 新闻台
+http://58.87.99.251:8090/HK/nowxingying/hls.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",Now 爆谷台
+http://hk.haycker.eu.org:9529/xvx.xx6868.online/stream/dc988679d0a93ab3ca49a52a4c5e6571/index.m3u8?token=5bd747bfebe8783df15e2fd5ae6bb4d4
+#EXTINF:-1 group-title="🦄香港频道「测试中」",Now 爆谷台
+http://47.106.39.230:8080/HK1/nowxy/hls.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",港台电视31
+http://proxy.dfkj.live/alitv.php?u=min&id=19
+#EXTINF:-1 group-title="🦄香港频道「测试中」",Now SPORTS
+http://119.23.61.191:8088/HK/nowbg/hls.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
+http://58.87.99.251:8090/GN/gdfc2/hls.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
 http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB星河台
+http://113.64.145.195:8081/hls/135/index.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",香港有线18台
+http://proxy.dfkj.live/alitv.php?u=min&id=4
+#EXTINF:-1 group-title="🦄香港频道「测试中」",香港有线高清603台
+http://proxy.dfkj.live/alitv.php?u=min&id=5
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB无线新闻台
+http://proxy.dfkj.live/alitv.php?u=min&id=6
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
-http://158.180.67.130/live/hls/J/j.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
-https://gudou-ott.hiper25.com/live/1350_4500.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
-http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
-http://158.180.67.130/live/hls/JUHD/juhd.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台 4K
-http://free.9528.eu.org:9529/stream/hk/test/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
-#EXTINF:-1 group-title="🦄香港频道「测试中」",翡翠台HD
-http://ali.hlspull.yximgs.com/live/awei_jade.flv
+http://proxy.dfkj.live/alitv.php?u=min&id=8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB明珠台
+http://proxy.dfkj.live/alitv.php?u=min&id=10
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB J2
+http://proxy.dfkj.live/alitv.php?u=min&id=11
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB星河
+http://proxy.dfkj.live/alitv.php?u=min&id=12
+#EXTINF:-1 group-title="🦄香港频道「测试中」",ViuTV
+http://proxy.dfkj.live/alitv.php?u=min&id=13
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
 http://mywlkj.ddns.net:754/tv/hk.php?id=9
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
 http://mywlkj.ddns.net:754/tv/fct.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
-http://mywlkj.ddns.net:754/tv/hiper25.php?id=1
-#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB明珠台
-http://mywlkj.ddns.net:754/tv/hiper25.php?id=2
-#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB明珠台
-https://iptv.hiper25.com/Pearl/video.m3u8
+http://158.180.67.130/live/hls/J/j.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台 4K
+http://158.180.67.130/live/hls/JUHD/juhd.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台 4K
+http://free.9528.eu.org:9529/stream/hk/test/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
+http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
+http://ali.hlspull.yximgs.com/live/awei_jade.flv
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB星河台
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB星河台
 https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/playlist.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB星河台
-http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB星河台
-http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB星河台
 http://mywlkj.ddns.net:754/tv/xinghe.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB星河台
 http://113.64.145.195:8081/hls/135/index.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB功夫台
-https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB功夫台
 http://mywlkj.ddns.net:754/tv/action.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB功夫台
-http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB娱乐新闻台
-http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB无线新闻台
+http://zsntlqj.xicp.net:8896/bysid/83
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB娱乐新闻台
 http://mywlkj.ddns.net:754/tv/enews.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB娱乐新闻台
+http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB娱乐新闻台
 https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB J1
 https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",now爆谷
-http://mywlkj.ddns.net:754/tv/tw.php?id=101
-#EXTINF:-1 group-title="🦄香港频道「测试中」",now星影
-http://mywlkj.ddns.net:754/tv/tw.php?id=102
-#EXTINF:-1 group-title="🦄香港频道「测试中」",广电翡翠
-http://mywlkj.ddns.net:754/tv/tw.php?id=103
 #EXTINF:-1 group-title="🦄香港频道「测试中」",星河频道
 http://171.108.239.92:8181/tsfile/live/1005_1.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",天映电影
 http://171.108.239.92:8181/tsfile/live/1009_1.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",星空卫视
 http://171.108.239.92:8181/tsfile/live/1012_1.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",无线新闻台
-http://zsntlqj.xicp.net:8896/bysid/83
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB J2
 http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=ME0E4382171043821710&ct=19237&tsum=6f10351124a4eb90780b2f84b2c4d349
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB J2
@@ -2909,11 +2644,7 @@ http://gmlive.ddns.net:5000/kun5g/kun5g2024/54
 #EXTINF:-1 group-title="🦄香港频道「测试中」",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 #EXTINF:-1 group-title="🦄香港频道「测试中」",重温经典
-http://mywlkj.ddns.net:754/tv/cwjd.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",重温经典
 http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=635
-#EXTINF:-1 group-title="🦄香港频道「测试中」",重温经典
-http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",经典电影台
 https://ali.hlspull.yximgs.com/live/asdfg32522.flv
 #EXTINF:-1 group-title="🦄香港频道「测试中」",经典影视台
@@ -2926,8 +2657,8 @@ https://iptv.hiper25.com/TVB/video.m3u8
 https://iptv.hiper25.com/Pearl/video.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
 http://129.226.149.79:4785/html/V4.php?access_token=DY20240301_31_M97gdfG&id=hktvbfct
-#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
-https://cdn-iptv.hiper25.com/TVB/video.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",無線新聞台
+https://tv.iill.top/tvb/2
 #EXTINF:-1 group-title="🦄香港频道「测试中」",無線新聞台
 https://tvb.livednow.com/C
 #EXTINF:-1 group-title="🦄香港频道「测试中」",無線新聞台
@@ -2938,6 +2669,10 @@ https://tvb.livednow.com/A
 https://tvb.livednow.com/I-FINA
 #EXTINF:-1 group-title="🦄香港频道「测试中」",有线新闻台
 http://cm61-10-2-143.hkcable.com.hk/live_freedirect/hd110_h.live/playlist.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",无线新闻
+http://live.cooltv.top/tv/tvb.php?id=0&hq
+#EXTINF:-1 group-title="🦄香港频道「测试中」",无线新闻
+https://tv.iill.top/tvb/2
 #EXTINF:-1 group-title="🦄香港频道「测试中」",有线新闻台
 http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",耀才财经台HD
@@ -2978,6 +2713,8 @@ https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPla
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",港台RTHK35HD
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+
+
 #EXTINF:-1 group-title="🦄澳门频道",澳亚卫视
 http://live.mastvnet.com:800/4rlff1m/live.m3u8
 #EXTINF:-1 group-title="🦄澳门频道",澳亚卫视
@@ -3012,6 +2749,8 @@ http://61.244.22.5/ch4/sport_ch4.live/index.m3u8
 http://61.244.22.5/ch5/info_ch5.live/index.m3u8
 #EXTINF:-1 group-title="🦄澳门频道",澳视综艺
 http://61.244.22.5/ch6/hd_ch6.live/index.m3u8
+
+
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",👉添加售后唯一微信👈
 https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",👉获取最新链接👈
@@ -3042,6 +2781,188 @@ rtmp://f13h.mine.nu/sat/tv761
 rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",DAZN体育-2
 rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",TVBS新闻
+rtmp://twcdn.top/sat/tv551
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",非凡新闻
+rtmp://f13h.mine.nu/sat/tv581
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",非凡新闻
+rtmp://twcdn.top/sat/tv581
+
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",中天新闻
+http://startv365.com:80/live/9794783213/6955630461/5553.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",中视新闻
+http://startv365.com:80/live/9794783213/6955630461/5484.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",台视新闻
+http://startv365.com:80/live/9794783213/6955630461/5501.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",民视新闻
+http://startv365.com:80/live/9794783213/6955630461/5529.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",民视
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=26
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",台视
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=27
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",中视
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=28
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",华视
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=29
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",TVBSHD
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=30
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",TVBS欢乐台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=32
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",民视台湾
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=33
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",三立综合台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=34
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",三立台湾台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=35
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",三立都会台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=36
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",八大综合台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=37
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",爱尔达综合
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=38
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",中天亚洲台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=39
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",中天综合台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=40
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",中天娱乐台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=41
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",华艺综合台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=42
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",东森电影
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=43
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",东森洋片
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=44
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",纬来电影
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=45
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",好莱坞电影
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=46
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",AXN 台湾
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=47
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",龙华电影
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=48
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",龙华洋片台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=49
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",龙华戏剧台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=50
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",龙华偶像台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=51
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",美亚电影
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=52
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",HBO_HD
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=53
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",HBO_HITS
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=54
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",HBOSignatureHD
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=55
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",HBO温馨家庭
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=56
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",TVBS新闻台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=57
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",中天新闻台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=58
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",台视新闻台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=59
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",中视新闻台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=60
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",民视新闻台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=61
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",东森新闻台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=62
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",寰宇新闻台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=63
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",非凡新闻台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=64
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",年代新闻台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=65
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",东森财经
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=66
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",EYETV戏剧
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=67
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",EYETV旅游
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=68
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",靖天国际台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=69
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",靖天卡通台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=70
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",东森超视台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=71
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",美食星球台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=72
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",亚洲旅游台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=73
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",TLC旅游台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=74
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",国家地理野生
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=75
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",纬来日本台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=76
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",纬来体育台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=77
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",龙华戏剧台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=78
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",龙华偶像台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=79
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",美亚电影
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=80
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",CINEMAX
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=81
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",HBO_HD
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=82
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",HBO_HITS
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=83
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",HBOSignatureHD
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=84
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",HBO温馨家庭
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=85
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",爱尔达体育1台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=91
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",爱尔达体育2台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=92
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",爱尔达体育3台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=93
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",博斯运动1
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=94
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",博斯运动2
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=95
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",博斯高球1
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=96
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",博斯高球2
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=97
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",博斯网球
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=98
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",astr Supersports 1
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=99
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",astr Supersports 2
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=100
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",astr Supersports 3
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=101
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",astr Supersports 4
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=102
+
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",八大戲劇台HD
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",八大綜合台HD
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",八大第1台HD
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",三立戲劇台
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",AMC電影台
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",探索亞洲
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",動物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",东森电影
+http://171.108.239.92:8181/tsfile/live/1010_1.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",龙祥电影
+http://171.108.239.92:8181/tsfile/live/1011_1.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",东森洋片
+http://171.108.239.92:8181/tsfile/live/1016_1.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",东森超视
+http://171.108.239.92:8181/tsfile/live/1023_1.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",莲花台
+http://171.108.239.92:8181/tsfile/live/1025_1.m3u8
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",TVBS NEWS
 http://mywlkj.ddns.net:754/tv/tw3.php?id=3
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",GTV 八大戏剧HD
@@ -3096,8 +3017,6 @@ http://171.108.239.92:8181/tsfile/live/1011_1.m3u8
 http://171.108.239.92:8181/tsfile/live/1016_1.m3u8
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",东森超视
 http://171.108.239.92:8181/tsfile/live/1023_1.m3u8
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",七星关电视台
-https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",道真新闻综合
 http://live.dzrmtzx.org.cn:90/live/dspd_1M.m3u8
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",松桃新闻
@@ -3211,7 +3130,7 @@ http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",好消息綜合台
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",（此处以下频道需要湾湾节点）
-https://cloud.lxweb.cn/f/08QDU0/3.MOV
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",TVBS-Asia
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",TVBS-Asia
@@ -3226,40 +3145,6 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",东森美洲2
 http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",TVBS HD
-https://youtube.livednow.com/stream/YvdcZ_jpLXE
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",TVBS新闻
-https://youtube.livednow.com/stream/2mCSYvcfhtc
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",中天新闻
-https://youtube.livednow.com/stream/oIgbl7t0S_w
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",台视新闻
-https://youtube.livednow.com/stream/xL0ch83RAK8
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",中视新闻
-https://youtube.livednow.com/stream/TCnaIE_SAtM
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",三立海外
-https://youtube.livednow.com/stream/FoBfXvlOR6I
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",三立新闻
-https://youtube.livednow.com/stream/oZdzzvxTfUY
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",镜新闻
-https://youtube.livednow.com/stream/5n0y6b0Q25o
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",民视新闻
-https://youtube.livednow.com/stream/ylYJSBUgaMA
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",台湾PLUS+
-https://youtube.livednow.com/stream/ovzTfk5CmIE
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",TVBS NEWS
-https://youtube.livednow.com/stream/m_dhMSvUCIc
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",中视经典综艺
-https://youtube.livednow.com/stream/ADDSmXoPDY8
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",东森新闻
-https://youtube.livednow.com/stream/2dfAzcDf8Zg_
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",寰宇新聞
-https://youtube.livednow.com/stream/6IquAgfvYmc
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",凤凰资讯
-https://youtube.livednow.com/stream/0K6C6Rv4RR4_
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",中天新闻2
-https://youtube.livednow.com/stream/WPfPjbOLNfE
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",公视新闻
-https://youtube.livednow.com/stream/quwqlazU-c8
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",Bloomberg
 http://50.7.238.114:8278/bloomberg_twn/playlist.m3u8?tid=MD2D8088860380888603&ct=19225&tsum=ea1c6a2c09cef99386e1768a4ff4c61c
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",CBS HD
@@ -3494,6 +3379,8 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",人間衛視
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+
+
 #EXTINF:-1 group-title="🦄小日子频道🦮",👉添加售后唯一微信👈
 https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
 #EXTINF:-1 group-title="🦄小日子频道🦮",👉获取最新链接👈
@@ -3912,6 +3799,8 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS311&r=HD&ccode=JP&m=d0:20
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="🦄小日子频道🦮",Music Japan
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS323&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+
 #EXTINF:-1 group-title="🦄韩国频道🦆",👉添加售后唯一微信👈
 https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
 #EXTINF:-1 group-title="🦄韩国频道🦆",👉获取最新链接👈
@@ -4176,6 +4065,8 @@ http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
 #EXTINF:-1 group-title="🦄韩国频道🦆",ANTV(5G专线)
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+
+
 #EXTINF:-1 group-title="🦄国际频道「需魔法」",👉添加售后唯一微信👈
 https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
 #EXTINF:-1 group-title="🦄国际频道「需魔法」",👉获取最新链接👈
@@ -4322,6 +4213,7 @@ https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
 #EXTINF:-1 group-title="🦄国际频道「需魔法」",BBC Home
 https://i.mjh.nz/SamsungTVPlus/USBC600017FG.m3u8
+
 #EXTINF:-1 group-title="🦄国际频道「需魔法」",NASA 1
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 group-title="🦄国际频道「需魔法」",NASA 2
@@ -4528,6 +4420,7 @@ https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?tecnotv.info?.m3u
 #EXTINF:-1 group-title="🦄国际频道「需魔法」",新加坡
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+
 #EXTINF:-1 group-title="🦄美国频道🦅",（此处以下频道需要魔法）
 https://cloud.lxweb.cn/f/08QDU0/3.MOV
 #EXTINF:-1 group-title="🦄美国频道🦅",ABC News Live
@@ -4850,6 +4743,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=827
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3434
 #EXTINF:-1 group-title="🦄美国频道🦅",动漫
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=634
+
 #EXTINF:-1 group-title="🦄英国频道🦁",（此处以下频道需要魔法）
 https://cloud.lxweb.cn/f/08QDU0/3.MOV
 #EXTINF:-1 group-title="🦄英国频道🦁",BBC News
@@ -5594,6 +5488,7 @@ http://190.116.90.43:8000/play/a00p
 http://190.116.90.43:8000/play/a003
 #EXTINF:-1 group-title="🦄英国频道🦁",Telenovelas
 http://190.116.90.43:8000/play/a00d
+
 #EXTINF:-1 group-title="🦄法国频道🐓",（此处以下频道需要魔法）
 https://cloud.lxweb.cn/f/08QDU0/3.MOV
 #EXTINF:-1 group-title="🦄法国频道🐓",KTO
@@ -5698,6 +5593,8 @@ http://pro-solut-xi.eu:5436/bossna/testiptvvv/10116
 http://pro-solut-xi.eu:5436/bossna/testiptvvv/10118
 #EXTINF:-1 group-title="🦄法国频道🐓",Canal  Family
 http://pro-solut-xi.eu:5436/bossna/testiptvvv/10119
+
+
 #EXTINF:-1 group-title="🦄电影频道🎥",超级电影
 http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 group-title="🦄电影频道🎥",超级电影
@@ -5844,6 +5741,8 @@ http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 group-title="🦄电影频道🎥",三号影厅
 http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
+
+
 #EXTINF:-1 group-title="🦄斗鱼轮播🦈",警匪电影
 https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
 #EXTINF:-1 group-title="🦄斗鱼轮播🦈",电影轮播
@@ -6266,6 +6165,7 @@ http://cfss.cc/cdn/hy/21059598.flv
 http://cfss.cc/cdn/hy/11342433
 #EXTINF:-1 group-title="🦄斗鱼轮播🦈",剧集_邻里一家亲
 http://cfss.cc/cdn/hy/11342426
+
 #EXTINF:-1 group-title="🦄斗鱼轮播🦈",吃米滴虫
 http://159.75.85.63:35455/douyu/315457
 #EXTINF:-1 group-title="🦄斗鱼轮播🦈",喜剧电影
@@ -6904,6 +6804,8 @@ https://www.goodiptv.club/douyu/9184257
 https://www.goodiptv.club/douyu/749124
 #EXTINF:-1 group-title="🦄斗鱼轮播🦈",屿风体育
 https://www.goodiptv.club/douyu/10329889
+
+
 #EXTINF:-1 group-title="🦄虎牙轮播🐯",售后唯一微信号:Cxx114x
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="🦄虎牙轮播🐯",许氏三杰
@@ -8324,6 +8226,8 @@ https://www.goodiptv.club/huya/24648680
 https://www.goodiptv.club/huya/660204
 #EXTINF:-1 group-title="🦄虎牙轮播🐯",JS丶雨秋-太子府
 https://www.goodiptv.club/huya/24870267
+
+
 #EXTINF:-1 group-title="🦄经典电影🎞",九品芝麻官
 https://alimov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_b_B6a0bcfcdbdaac183fa7dcbcd3e11bcaf.mp4
 #EXTINF:-1 group-title="🦄经典电影🎞",逃学威龙2
@@ -8564,6 +8468,8 @@ https://live.metshop.top/yy/1354936169
 https://live.metshop.top/yy/1382736917
 #EXTINF:-1 group-title="🦄经典电影🎞",非诚勿扰
 https://live.metshop.top/yy/1382745106
+
+
 #EXTINF:-1 group-title="🦄经典电视剧📺",绝版电影 港片女鬼
 https://lunbo.freetv.top/yy/1455988450
 #EXTINF:-1 group-title="🦄经典电视剧📺",港片 喜剧 动作
@@ -10272,6 +10178,8 @@ https://lunbo.freetv.top/yy/1382736798
 https://lunbo.freetv.top/yy/1382851475
 #EXTINF:-1 group-title="🦄经典电视剧📺",经典武侠电影
 https://lunbo.freetv.top/yy/28298966
+
+
 #EXTINF:-1 group-title="🦄少儿频道👶🏻",哈哈炫动
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
 #EXTINF:-1 group-title="🦄少儿频道👶🏻",卡酷少儿
@@ -10722,6 +10630,8 @@ https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/45803c4f41ab4b9cb5
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e220f245fddc42e4bb23ee09c043c06f/1200.m3u8
 #EXTINF:-1 group-title="🦄少儿频道👶🏻",少儿动画200
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/08289beaa8c845ba98a59547550914bc/1200.m3u8
+
+
 #EXTINF:-1 group-title="🦄各地方频道",湖北综合
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I
 #EXTINF:-1 group-title="🦄各地方频道",湖北影视
@@ -11846,6 +11756,8 @@ http://pluslive.zunyifb.com/dspd/playlist.m3u8?_upt=b5395dba1707377823
 http://pluslive.zunyifb.com/ggpd/playlist.m3u8?_upt=c3f7b1cd1707377829
 #EXTINF:-1 group-title="🦄各地方频道",遵义新闻综合频道
 http://pluslive.zunyifb.com/xwpd/playlist.m3u8?_upt=b72e0ca01707376931
+
+
 #EXTINF:-1 group-title="🦄北京频道",BRTV北京卫视HD
 http://123.120.5.113:4022/rtp/239.3.1.241:8000
 #EXTINF:-1 group-title="🦄北京频道",BRTV新闻HD
@@ -11876,6 +11788,7 @@ http://123.120.5.113:4022/rtp/239.3.1.243:8000
 http://123.113.11.89:4022/rtp/239.3.1.243:8000
 #EXTINF:-1 group-title="🦄北京频道",BRTV体育休闲
 http://www.liruixiang.cc:9000/rtp/239.3.1.243:8000
+
 #EXTINF:-1 group-title="🦄北京频道",BRTV北京卫视HD
 http://221.221.152.35:8182/rtp/239.3.1.241:8000
 #EXTINF:-1 group-title="🦄北京频道",BRTV新闻HD
@@ -11900,6 +11813,7 @@ http://221.221.152.35:8182/rtp/239.3.1.243:8000
 http://221.221.152.35:8182/rtp/239.3.1.235:8000
 #EXTINF:-1 group-title="🦄北京频道",BRTV体育休闲
 http://221.221.152.35:8182/rtp/239.3.1.243:8000
+
 #EXTINF:-1 group-title="🦄北京频道",北京影视
 https://epg.pw/stream/cdcfe3ec6cca2a8ba74df72bc575c307bbc69e2fbf4cce276ef60356af2c472b.ctv
 #EXTINF:-1 group-title="🦄北京频道",北京文艺
@@ -11986,6 +11900,8 @@ http://39.134.66.66/PLTV/88888888/224/3221225678/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225670/index.m3u8
 #EXTINF:-1 group-title="🦄北京频道",卡酷少儿
 http://39.134.66.66/PLTV/88888888/224/3221225562/index.m3u8
+
+
 #EXTINF:-1 group-title="🦄上海频道",新闻综合
 http://58.37.242.74:4022/udp/239.45.3.209:5140
 #EXTINF:-1 group-title="🦄上海频道",新闻综合
@@ -12158,6 +12074,8 @@ http://222.71.11.180:4022/udp/239.45.3.210:5140
 http://218.80.114.192:58888/udp/239.45.3.210:5140
 #EXTINF:-1 group-title="🦄上海频道",五星体育「组播」
 http://222.65.170.16:8686/udp/239.45.3.210:5140
+
+
 #EXTINF:-1 group-title="🦄广东频道",广东体育高清
 http://183.237.246.14:9931/tsfile/live/1014_1.m3u8
 #EXTINF:-1 group-title="🦄广东频道",广东卫视高清
@@ -12270,6 +12188,7 @@ http://183.17.238.212:8888/rtp/239.77.1.131:5146
 http://183.17.238.212:8888/rtp/239.253.43.47:5146
 #EXTINF:-1 group-title="🦄广东频道",汕头体育
 http://183.17.238.212:8888/rtp/239.77.1.132:5146
+
 #EXTINF:-1 group-title="🦄湖南频道",湖南卫视
 http://42.48.17.188:9901/tsfile/live/37216_1.m3u8
 #EXTINF:-1 group-title="🦄湖南频道",湖南经视
@@ -12286,6 +12205,7 @@ http://42.48.17.188:9901/tsfile/live/37221_1.m3u8
 http://42.48.17.188:9901/tsfile/live/37220_1.m3u8
 #EXTINF:-1 group-title="🦄湖南频道",湖南电视剧
 http://42.48.17.188:9901/tsfile/live/37219_1.m3u8
+
 #EXTINF:-1 group-title="🦄地方频道",「江苏」南京娱乐「IPV6」
 http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3055198838_-954191684/ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8
 #EXTINF:-1 group-title="🦄地方频道",「江苏」南京新闻综合「IPV6」
@@ -12396,6 +12316,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw3699298408_-685916425/ot
 http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3793293799_-1723707003/ott.mobaibox.com/PLTV/4/224/3221227736/index.m3u8
 #EXTINF:-1 group-title="🦄地方频道",「江苏」影视剧频道「IPV6」
 http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw3833147877_659161399/ott.mobaibox.com/PLTV/4/224/3221227372/index.m3u8
+
 #EXTINF:-1 group-title="🦄地方频道",杭州1综合
 http://220.184.31.128:55555/rtp/233.50.201.173:5140
 #EXTINF:-1 group-title="🦄地方频道",杭州2明珠
@@ -12408,6 +12329,7 @@ http://220.184.31.128:55555/rtp/233.50.201.176:5140
 http://220.184.31.128:55555/rtp/233.50.201.177:5140
 #EXTINF:-1 group-title="🦄地方频道",杭州导视
 http://220.184.31.128:55555//rtp/233.50.201.182:5140
+
 #EXTINF:-1 group-title="🦄地方频道",「黑龙江」黑龙江文体「IPV6」
 http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
 #EXTINF:-1 group-title="🦄地方频道",「黑龙江」黑龙江农业科教「IPV6」
@@ -12648,6 +12570,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000006/1.m3u8?ch
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000015/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000015&livemode=1&stbId=3
 #EXTINF:-1 group-title="🦄SITV频道",SITV东方财经
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000090/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000090&livemode=1&stbId=3
+
 #EXTINF:-1 group-title="🦄NewTV频道",NewTV东北热剧 4M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 #EXTINF:-1 group-title="🦄NewTV频道",NewTV中国功夫 2.5M1080
@@ -12696,6 +12619,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 #EXTINF:-1 group-title="🦄NewTV频道",NewTV精品萌宠 4M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
+
 #EXTINF:-1 group-title="🦄纪录片频道",人与自然
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
 #EXTINF:-1 group-title="🦄纪录片频道",自然传奇
@@ -13236,6 +13160,8 @@ https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5e01c3ff2a5844ab806
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/cad939a2eb714f4b9d37c4185674d50b/1200.m3u8
 #EXTINF:-1 group-title="🦄纪录片频道",狮群的荣耀
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/84b850056589475f80528cf28b9b840a/1200.m3u8
+
+
 #EXTINF:-1 group-title="🦄全国景区直播",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="🦄全国景区直播",直播中国精编直播
@@ -13628,6 +13554,7 @@ https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
 #EXTINF:-1 group-title="🦄全国景区直播",福建武夷山玉女峰
 https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
+
 #EXTINF:-1 group-title="🦄广播剧场🎙",中国之声
 https://fanmingming.com/fm?id=639
 #EXTINF:-1 group-title="🦄广播剧场🎙",经济之声
