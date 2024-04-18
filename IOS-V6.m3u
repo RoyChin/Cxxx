@@ -12076,22 +12076,24 @@ http://210.22.75.86:9901/tsfile/live/1000_1.m3u8
 http://210.22.75.86:9901/tsfile/live/0107_5.m3u8
 #EXTINF:-1 group-title="🦄上海频道",上海电视剧
 http://210.22.75.86:9901/tsfile/live/0107_2.m3u8
+
+
 #EXTINF:-1 group-title="🦄上海频道",五星体育
 http://api.52tb.xyz/info?id=375&token=20230331fbulna
 #EXTINF:-1 group-title="🦄上海频道",五星体育
 http://api.52tb.xyz/info?id=399&token=20230331fbulna
 #EXTINF:-1 group-title="🦄上海频道",五星体育
+http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=wxty
+#EXTINF:-1 group-title="🦄上海频道",五星体育
 http://php.jdshipin.com:8880/bst.php?id=wxtyhd8m/8000000
 #EXTINF:-1 group-title="🦄上海频道",五星体育
 http://php.jdshipin.com:8880/bst.php?id=ssty/4000000
 #EXTINF:-1 group-title="🦄上海频道",五星体育「组播」
-http://61.173.41.241:8222/udp/239.45.3.210:5140
-#EXTINF:-1 group-title="🦄上海频道",五星体育「组播」
-http://61.173.41.241:8222/udp/239.45.3.210:5140
+http://58.37.189.39:8088/udp/239.45.3.210:5140
 #EXTINF:-1 group-title="🦄上海频道",五星体育「组播」
 http://222.71.11.180:4022/udp/239.45.3.210:5140
 #EXTINF:-1 group-title="🦄上海频道",五星体育「组播」
-http://218.80.114.192:58888/udp/239.45.3.210:5140
+http://116.233.174.144:10000/udp/239.45.3.210:5140
 #EXTINF:-1 group-title="🦄上海频道",五星体育「组播」
 http://222.65.170.16:8686/udp/239.45.3.210:5140
 
