@@ -216,6 +216,11 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN79469BESTVSMGSMG9/ind
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN126389BESTVSMGSMG9/index.m3u8?AuthInfo=kXVqgwiFNDsA8L8UADdm1g0lb%2BtkfnGmv76VRSC5BUjrd9dcupuLFZtkbnZDW1ncykI0zNYTgRcsAj5Z6uTckA%3D%3D
 #EXTINF:-1 group-title="🦄高码率线路-②🐉",梨园
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
+
+#EXTINF:-1 group-title="🦄独家线路-①🐉",有卡顿请手动切换其他线路
+https://cloud.lxweb.cn/f/9qgnS1/4.MOV
+#EXTINF:-1 group-title="🦄独家线路-①🐉",选择自己流畅的线路观看
+https://cloud.lxweb.cn/f/9qgnS1/4.MOV
 #EXTINF:-1 group-title="🦄独家线路-①🐉",CCTV1「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 group-title="🦄独家线路-①🐉",CCTV2「IPV6」
@@ -762,6 +767,11 @@ http://117.9.171.150:8888/udp/225.1.2.203:5002
 http://117.9.171.150:8888/udp/225.1.1.135:5002
 #EXTINF:-1 group-title="🦄联通线路-②🐉",悦美生活
 http://117.9.171.150:8888/udp/225.1.2.55:5002
+
+#EXTINF:-1 group-title="🦄电信线路-①🐉",有卡顿请手动切换其他线路
+https://cloud.lxweb.cn/f/9qgnS1/4.MOV
+#EXTINF:-1 group-title="🦄电信线路-①🐉",选择自己流畅的线路观看
+https://cloud.lxweb.cn/f/9qgnS1/4.MOV
 #EXTINF:-1 group-title="🦄电信线路-①🐉",CCTV1-综合
 http://61.141.202.118:9901/tsfile/live/0001_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="🦄电信线路-①🐉",CCTV2-财经
