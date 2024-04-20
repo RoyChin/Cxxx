@@ -1749,6 +1749,18 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 group-title="🦄未来电视🐯",武术世界
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0MVaBO3fffRWKM%2FzNpNYjRBAiSJylXYBAiox0V94ejMfwEtXXuH8b8M%2F%2FDznZB61s
 
+#EXTINF:-1 group-title="🦄数字高清🐯",央视台球
+http://114.105.153.224:8888/udp/238.1.79.59:4608
+#EXTINF:-1 group-title="🦄数字高清🐯",央视台球
+http://113.24.136.66:8084/udp/239.1.1.100:8100
+#EXTINF:-1 group-title="🦄数字高清🐯",央视台球
+http://gzly.hkychina.com:6001/udp/239.252.219.80:5140
+#EXTINF:-1 group-title="🦄数字高清🐯",央视台球
+http://183.11.239.36:808/hls/73/index.m3u8
+#EXTINF:-1 group-title="🦄数字高清🐯",央视台球
+http://113.24.136.208:8084/udp/239.1.1.100:8100
+#EXTINF:-1 group-title="🦄数字高清🐯",央视台球
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 #EXTINF:-1 group-title="🦄数字高清🐯",凤凰中文
 http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 group-title="🦄数字高清🐯",凤凰资讯
