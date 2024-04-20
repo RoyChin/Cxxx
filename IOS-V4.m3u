@@ -2707,13 +2707,17 @@ http://iptv123.msns.cn:9901/tsfile/live/1004_1.m3u8
 
 
 #EXTINF:-1 group-title="🦄精彩频道🦄",央视台球
-http://gzly.hkychina.com:6001/udp/239.252.219.80:5140
+http://114.105.153.224:8888/udp/238.1.79.59:4608
 #EXTINF:-1 group-title="🦄精彩频道🦄",央视台球
-http://124.230.56.143:55555/udp/239.76.254.58:9000
+http://113.24.136.66:8084/udp/239.1.1.100:8100
+#EXTINF:-1 group-title="🦄精彩频道🦄",央视台球
+http://gzly.hkychina.com:6001/udp/239.252.219.80:5140
 #EXTINF:-1 group-title="🦄精彩频道🦄",央视台球
 http://183.11.239.36:808/hls/73/index.m3u8
 #EXTINF:-1 group-title="🦄精彩频道🦄",央视台球
-http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+http://113.24.136.208:8084/udp/239.1.1.100:8100
+#EXTINF:-1 group-title="🦄精彩频道🦄",央视台球
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 #EXTINF:-1 group-title="🦄精彩频道🦄",CCTV电视指南高清
 http://113.24.136.208:8084/udp/239.1.1.90:8090
 #EXTINF:-1 group-title="🦄精彩频道🦄",CCTV央视文化精品高清
