@@ -32,9 +32,9 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727e617ca0/index.m
 http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000132/index.m3u8?IAS
 #EXTINF:-1 group-title="🐉国内体育🐉",CCTV-5+ 赛事「IPV6」
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63872908d48f9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRK254G1jtietGzDaHvFNRtjXOvFnbf%2BTao33JqYlfMYYn2z3agOn9gvNMT9KmBaR9o
-#EXTINF:-1 group-title="🏎F1赛事🏎",4K| SKY SPORTS F1 UHD
+#EXTINF:-1 group-title="🏎F1赛事🏎",SKY SPORTS F1 4K
 http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1471382&extension=ts&play_token=dWS0k7M0i2
-#EXTINF:-1 group-title="🏎F1赛事🏎",4K| SKY SPORTS MAIN EVENT UHD
+#EXTINF:-1 group-title="🏎F1赛事🏎",SKY SPORTS MAIN EVENT 4K
 http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1471381&extension=ts&play_token=NfdaYR91V7
 #EXTINF:-1 group-title="🏎F1赛事🏎",Dazn F1 HD ES
 http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/6071/index.m3u8
@@ -454,69 +454,95 @@ http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/7342/index.m3u8
 http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/7343/index.m3u8
 #EXTINF:-1 group-title="🪂天空体育①🪂",SKY SPORTS GOLF UK
 http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/7344/index.m3u8
-#EXTINF:-1 group-title="🪂天空体育②🪂",Sky Sport F1 FHD DE
+#EXTINF:-1 group-title="🪂天空体育②🪂",UK| SKY SPORTS MAIN EVENT FHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=30496&extension=ts&play_token=zGKe3n2MRK
+#EXTINF:-1 group-title="🪂天空体育②🪂",UK| SKY SPORTS PL FHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=30493&extension=ts&play_token=BtfyonLlHT
+#EXTINF:-1 group-title="🪂天空体育②🪂",UK| SKY SPORTS FOOTBALL FHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=30498&extension=ts&play_token=k7D4GM1Ss9
+#EXTINF:-1 group-title="🪂天空体育②🪂",UK| SKY SPORTS ACTION FHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=30501&extension=ts&play_token=m3Tk3k8vx3
+#EXTINF:-1 group-title="🪂天空体育②🪂",UK| SKY SPORTS ARENA FHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=30500&extension=ts&play_token=Sj7Bto1jVu
+#EXTINF:-1 group-title="🪂天空体育②🪂",UK| SKY SPORTS CRICKET FHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=30502&extension=ts&play_token=zPhp1JvxP8
+#EXTINF:-1 group-title="🪂天空体育②🪂",UK| SKY SPORTS F1 FHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=30499&extension=ts&play_token=ZKTC2fQG7Q
+#EXTINF:-1 group-title="🪂天空体育②🪂",UK| SKY SPORTS GOLF FHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=30497&extension=ts&play_token=p5GpVX0ZU9
+#EXTINF:-1 group-title="🪂天空体育②🪂",UK| SKY SPORTS MIX FHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=30495&extension=ts&play_token=1ntXKlQJlf
+#EXTINF:-1 group-title="🪂天空体育②🪂",UK| SKY SPORTS NEWS FHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=30494&extension=ts&play_token=8ifXmjGTwl
+#EXTINF:-1 group-title="🪂天空体育②🪂",UK| SKY SPORTS RACING FHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=77373&extension=ts&play_token=DVMOPybzn3
+#EXTINF:-1 group-title="🪂天空体育②🪂",UK| SKY SPORTS ACTION FHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=929003&extension=ts&play_token=9NoF0QAFs1
+#EXTINF:-1 group-title="🪂天空体育②🪂",UK| SKY SPOIRTS TENNIS FHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1454232&extension=ts&play_token=uSzfHWgS7l
+#EXTINF:-1 group-title="🪂天空体育③🪂",Sky Sport F1 FHD DE
 http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/10079/index.m3u8
-#EXTINF:-1 group-title="🪂天空体育②🪂",SKY SPORT 24
+#EXTINF:-1 group-title="🪂天空体育③🪂",SKY SPORT 24
 http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19127/index.m3u8
-#EXTINF:-1 group-title="🪂天空体育②🪂",SKY SPORT ARENA
+#EXTINF:-1 group-title="🪂天空体育③🪂",SKY SPORT ARENA
 http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19128/index.m3u8
-#EXTINF:-1 group-title="🪂天空体育②🪂",SKY SPORT CALCIO
+#EXTINF:-1 group-title="🪂天空体育③🪂",SKY SPORT CALCIO
 http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19129/index.m3u8
-#EXTINF:-1 group-title="🪂天空体育②🪂",SKY SPORT FOOTBALL
+#EXTINF:-1 group-title="🪂天空体育③🪂",SKY SPORT FOOTBALL
 http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19131/index.m3u8
-#EXTINF:-1 group-title="🪂天空体育②🪂",SKY SPORT GOLF
+#EXTINF:-1 group-title="🪂天空体育③🪂",SKY SPORT GOLF
 http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19132/index.m3u8
-#EXTINF:-1 group-title="🪂天空体育②🪂",SKY SPORT MOTOGP
+#EXTINF:-1 group-title="🪂天空体育③🪂",SKY SPORT MOTOGP
 http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19133/index.m3u8
-#EXTINF:-1 group-title="🪂天空体育②🪂",SKY SPORT NBA
+#EXTINF:-1 group-title="🪂天空体育③🪂",SKY SPORT NBA
 http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19134/index.m3u8
-#EXTINF:-1 group-title="🪂天空体育②🪂",SKY SUPER TENNIS
+#EXTINF:-1 group-title="🪂天空体育③🪂",SKY SUPER TENNIS
 http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19136/index.m3u8
-#EXTINF:-1 group-title="🪂天空体育③🪂",SKY SPORTS PREMIER LEAGUE UK
+#EXTINF:-1 group-title="🪂天空体育④🪂",SKY SPORTS PREMIER LEAGUE UK
 http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7335/index.m3u8
-#EXTINF:-1 group-title="🪂天空体育③🪂",SKY SPORTS FOOTBALL UK
+#EXTINF:-1 group-title="🪂天空体育④🪂",SKY SPORTS FOOTBALL UK
 http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7336/index.m3u8
-#EXTINF:-1 group-title="🪂天空体育③🪂",SKY SPORTS MAIN EVENT UK
+#EXTINF:-1 group-title="🪂天空体育④🪂",SKY SPORTS MAIN EVENT UK
 http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7337/index.m3u8
-#EXTINF:-1 group-title="🪂天空体育③🪂",SKY SPORTS ARENA UK
+#EXTINF:-1 group-title="🪂天空体育④🪂",SKY SPORTS ARENA UK
 http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7338/index.m3u8
-#EXTINF:-1 group-title="🪂天空体育③🪂",SKY SPORTS MIX UK
+#EXTINF:-1 group-title="🪂天空体育④🪂",SKY SPORTS MIX UK
 http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7339/index.m3u8
-#EXTINF:-1 group-title="🪂天空体育③🪂",SkY Sports Action HD UK
+#EXTINF:-1 group-title="🪂天空体育④🪂",SkY Sports Action HD UK
 http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7340/index.m3u8
-#EXTINF:-1 group-title="🪂天空体育③🪂",SKY SPORTS RACING UK
+#EXTINF:-1 group-title="🪂天空体育④🪂",SKY SPORTS RACING UK
 http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7341/index.m3u8
-#EXTINF:-1 group-title="🪂天空体育③🪂",SKY SPORTS F1 UK
+#EXTINF:-1 group-title="🪂天空体育④🪂",SKY SPORTS F1 UK
 http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7342/index.m3u8
-#EXTINF:-1 group-title="🪂天空体育③🪂",SKY SPORTS CRICKET UK
+#EXTINF:-1 group-title="🪂天空体育④🪂",SKY SPORTS CRICKET UK
 http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7343/index.m3u8
-#EXTINF:-1 group-title="🪂天空体育③🪂",SKY SPORTS GOLF UK
+#EXTINF:-1 group-title="🪂天空体育④🪂",SKY SPORTS GOLF UK
 http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7344/index.m3u8
-#EXTINF:-1 group-title="🪂天空体育④🪂",天空体育 F1
+#EXTINF:-1 group-title="🪂天空体育⑤🪂",天空体育 F1
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7342/index.m3u8
-#EXTINF:-1 group-title="🪂天空体育④🪂",天空体育 综合
+#EXTINF:-1 group-title="🪂天空体育⑤🪂",天空体育 综合
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7337/index.m3u8
-#EXTINF:-1 group-title="🪂天空体育④🪂",天空体育 足球
+#EXTINF:-1 group-title="🪂天空体育⑤🪂",天空体育 足球
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
-#EXTINF:-1 group-title="🪂天空体育④🪂",天空体育 格斗
+#EXTINF:-1 group-title="🪂天空体育⑤🪂",天空体育 格斗
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/15097/index.m3u8
-#EXTINF:-1 group-title="🪂天空体育④🪂",天空体育 德甲
+#EXTINF:-1 group-title="🪂天空体育⑤🪂",天空体育 德甲
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7234/index.m3u8
-#EXTINF:-1 group-title="🪂天空体育④🪂",天空体育 足球
+#EXTINF:-1 group-title="🪂天空体育⑤🪂",天空体育 足球
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7338/index.m3u8
-#EXTINF:-1 group-title="🪂天空体育④🪂",天空体育 足球
+#EXTINF:-1 group-title="🪂天空体育⑤🪂",天空体育 足球
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7340/index.m3u8
-#EXTINF:-1 group-title="🪂天空体育④🪂",天空体育 足球
+#EXTINF:-1 group-title="🪂天空体育⑤🪂",天空体育 足球
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7341/index.m3u8
-#EXTINF:-1 group-title="🪂天空体育④🪂",天空体育 新闻
+#EXTINF:-1 group-title="🪂天空体育⑤🪂",天空体育 新闻
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2477/index.m3u8
-#EXTINF:-1 group-title="🪂天空体育④🪂",天空体育 板球
+#EXTINF:-1 group-title="🪂天空体育⑤🪂",天空体育 板球
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7343/index.m3u8
-#EXTINF:-1 group-title="🪂天空体育④🪂",天空体育 英超
+#EXTINF:-1 group-title="🪂天空体育⑤🪂",天空体育 英超
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7335/index.m3u8
-#EXTINF:-1 group-title="🪂天空体育④🪂",天空体育 澳洲
+#EXTINF:-1 group-title="🪂天空体育⑤🪂",天空体育 澳洲
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2492/index.m3u8
-#EXTINF:-1 group-title="🪂天空体育④🪂",天空体育 高尔夫
+#EXTINF:-1 group-title="🪂天空体育⑤🪂",天空体育 高尔夫
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7344/index.m3u
 #EXTINF:-1 group-title="🛡贝因体育🛡",beIN Sports Max 1 FullHD
 http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19062/index.m3u8
@@ -528,32 +554,20 @@ http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19064/index.m3u8
 http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19065/index.m3u8
 #EXTINF:-1 group-title="🛡贝因体育🛡",beIN Sports Max 2 HD
 http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19066/index.m3u8
-#EXTINF:-1 group-title="🛡贝因体育🛡",UK| SKY SPORTS MAIN EVENT FHD
-http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=30496&extension=ts&play_token=zGKe3n2MRK
-#EXTINF:-1 group-title="🛡贝因体育🛡",UK| SKY SPORTS PL FHD
-http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=30493&extension=ts&play_token=BtfyonLlHT
-#EXTINF:-1 group-title="🛡贝因体育🛡",UK| SKY SPORTS FOOTBALL FHD
-http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=30498&extension=ts&play_token=k7D4GM1Ss9
-#EXTINF:-1 group-title="🛡贝因体育🛡",UK| SKY SPORTS ACTION FHD
-http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=30501&extension=ts&play_token=m3Tk3k8vx3
-#EXTINF:-1 group-title="🛡贝因体育🛡",UK| SKY SPORTS ARENA FHD
-http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=30500&extension=ts&play_token=Sj7Bto1jVu
-#EXTINF:-1 group-title="🛡贝因体育🛡",UK| SKY SPORTS CRICKET FHD
-http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=30502&extension=ts&play_token=zPhp1JvxP8
-#EXTINF:-1 group-title="🛡贝因体育🛡",UK| SKY SPORTS F1 FHD
-http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=30499&extension=ts&play_token=ZKTC2fQG7Q
-#EXTINF:-1 group-title="🛡贝因体育🛡",UK| SKY SPORTS GOLF FHD
-http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=30497&extension=ts&play_token=p5GpVX0ZU9
-#EXTINF:-1 group-title="🛡贝因体育🛡",UK| SKY SPORTS MIX FHD
-http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=30495&extension=ts&play_token=1ntXKlQJlf
-#EXTINF:-1 group-title="🛡贝因体育🛡",UK| SKY SPORTS NEWS FHD
-http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=30494&extension=ts&play_token=8ifXmjGTwl
-#EXTINF:-1 group-title="🛡贝因体育🛡",UK| SKY SPORTS RACING FHD
-http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=77373&extension=ts&play_token=DVMOPybzn3
-#EXTINF:-1 group-title="🛡贝因体育🛡",UK| SKY SPORTS ACTION FHD
-http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=929003&extension=ts&play_token=9NoF0QAFs1
-#EXTINF:-1 group-title="🛡贝因体育🛡",UK| SKY SPOIRTS TENNIS FHD
-http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1454232&extension=ts&play_token=uSzfHWgS7l
+#EXTINF:-1 group-title="🛡贝因体育🛡",US| BEIN SPORTS XTRA N (ES) HD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1127391&extension=ts&play_token=9LSwdtmk7B
+#EXTINF:-1 group-title="🛡贝因体育🛡",US| BEIN SPORTS 4 HD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=83954&extension=ts&play_token=tzGkQlL27z
+#EXTINF:-1 group-title="🛡贝因体育🛡",US| BEIN SPORTS 5 HD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=83955&extension=ts&play_token=Tv7W66mMsJ
+#EXTINF:-1 group-title="🛡贝因体育🛡",US| BEIN SPORTS 6 HD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=83956&extension=ts&play_token=hTgi77ojFv
+#EXTINF:-1 group-title="🛡贝因体育🛡",US| BEIN SPORTS 7 HD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=83957&extension=ts&play_token=xghULoiQJZ
+#EXTINF:-1 group-title="🛡贝因体育🛡",US| BEIN SPORTS 8 HD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=83958&extension=ts&play_token=1j9037Gog9
+#EXTINF:-1 group-title="🛡贝因体育🛡",US| BEIN SPORTS HD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=45611&extension=ts&play_token=A4JqJAnqhT
 #EXTINF:-1 group-title="🛡贝因体育🛡",beIN Sports 1 HD QA
 http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6123/index.m3u8
 #EXTINF:-1 group-title="🛡贝因体育🛡",beIN Sports 3 HD QA
@@ -698,6 +712,12 @@ http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1455578&e
 http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1455577&extension=ts&play_token=C3RuVUvQ7D
 #EXTINF:-1 group-title="🐍DAZN PPV🐍",Super League Plus | Event 6
 http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1455576&extension=ts&play_token=Rt3L4ja5E2
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",US| FOX UHD/4K+ (EVENT ONLY)
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1124348&extension=ts&play_token=Oy9dRPkHR0
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",US| FOX REGIONAL UHD/4K (EVENT ONLY)
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1124347&extension=ts&play_token=BAnnVjSBrr
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",US| FOX SPORTS UHD/4K (EVENT ONLY)
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1124346&extension=ts&play_token=3Nkgu1sQ8C
 #EXTINF:-1 group-title="⛄️FOX体育⛄️",FOX SPORTS 1 US
 http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7322/index.m3u8
 #EXTINF:-1 group-title="⛄️FOX体育⛄️",FOX SPORTS 2 US
@@ -740,6 +760,54 @@ http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19145/index.m3u8
 http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19146/index.m3u8
 #EXTINF:-1 group-title="⛄️FOX体育⛄️",FOX NEWS CHANNEL FHD
 http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19147/index.m3u8
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",US| FOX SPORTS 1 HD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=45571&extension=ts&play_token=SIBCA0kUQV
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",US| FOX SPORTS 2 HD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=45570&extension=ts&play_token=mptWx8nJmg
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",US| FOX SOCCER PLUS HD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=45572&extension=ts&play_token=KwVfEVsn5l
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",US| FOX SPORTS CAROLINAS HD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=91679&extension=ts&play_token=N5KkbsPnZl
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",US| FOX SPORTS DETROIT HD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=45568&extension=ts&play_token=YVjUVMcy92
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",US| FOX SPORTS FLORIDA HD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=45567&extension=ts&play_token=sRDh6OXQ0V
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",US| FOX SPORTS MIDWEST HD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=91688&extension=ts&play_token=K3uYAcZfy5
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",US| FOX SPORTS NORTH HD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=45566&extension=ts&play_token=EBeQo7rVra
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",US| FOX SPORTS OHIO HD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=84908&extension=ts&play_token=U3UcNUvYHS
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",US| FOX SPORTS OKLAHOMA HD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=91692&extension=ts&play_token=2DrCJ03sR2
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",US| FOX SPORTS PRIME TICKET HD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=45565&extension=ts&play_token=s33Ig24jDb
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",US| FOX SPORTS SAN DIEGO HD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=45564&extension=ts&play_token=Hkki9wgSXH
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",US| FOX SPORTS SOUTHEAST HD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=45562&extension=ts&play_token=2sHJH3IYzG
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",US| FOX SPORTS SOUTH HD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=45563&extension=ts&play_token=w8NExSKmy7
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",US| FOX SPORTS SOUTHWEST HD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=45561&extension=ts&play_token=cAlApL5aOo
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",US| FOX SPORTS SUN HD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=45560&extension=ts&play_token=NIXGbMcctS
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",US| FOX SPORTS TENNESSEE HD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=91696&extension=ts&play_token=eYsIwvjL3c
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",US| FOX SPORTSTIME OHIO HD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=91699&extension=ts&play_token=FBFgmjPKPz
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",US| FOX SPORTS WEST
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=45559&extension=ts&play_token=QDJiWONxv0
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",US| FOX SPORTS WISCONSIN HD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=45558&extension=ts&play_token=rVcdaPXi4p
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",US| FUBO SPORTS NETWORK HD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=91895&extension=ts&play_token=in36zkj7NV
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",US| FUBO SPORTS 1 HD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=738902&extension=ts&play_token=dxRhrmav1J
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",US| FUBO SPORTS 2 HD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=738901&extension=ts&play_token=ra2xkSdYtl
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",US| FUBO SPORTS 4 HD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=738899&extension=ts&play_token=WLbzUsHE1y
 #EXTINF:-1 group-title="🦅ESPN体育🦅",ESPN 4K
 http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1481941&extension=ts&play_token=sKY5IIYr5G
 #EXTINF:-1 group-title="🦅ESPN体育🦅",NESN 4K
