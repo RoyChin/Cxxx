@@ -1,7 +1,3 @@
-#EXTM3U
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE local
-
 #EXTINF:-1 group-title="辽宁地方[联通]",辽宁都市
 http://59.44.192.82:65000/hls/21/index.m3u8
 #EXTINF:-1 group-title="辽宁地方[联通]",辽宁影视
