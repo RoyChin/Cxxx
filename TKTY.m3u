@@ -30,6 +30,16 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727e617ca0/index.m
 http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000132/index.m3u8?IAS
 #EXTINF:-1 group-title="🐉国内体育🐉",CCTV-5+ 赛事「IPV6」
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63872908d48f9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRK254G1jtietGzDaHvFNRtjXOvFnbf%2BTao33JqYlfMYYn2z3agOn9gvNMT9KmBaR9o
+#EXTINF:-1 group-title="🐉国内体育🐉",超级体育「IPV6」
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 group-title="🐉国内体育🐉",精品体育「IPV6」
+http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 group-title="🐉国内体育🐉",精品体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 group-title="🐉国内体育🐉",超级体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 group-title="🐉国内体育🐉",BRTV体育休闲
+http://221.219.66.252:18888/rtp/239.3.1.243:8000
 #EXTINF:-1 group-title="🐉国内体育🐉",劲爆体育
 https://epg.pw/stream/5c9f8deb5d2b8a259adb635f16239674f23d6075bb3713aa4795a8a7ecb34f52.ctv
 #EXTINF:-1 group-title="🐉国内体育🐉",劲爆体育
@@ -40,7 +50,6 @@ http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/jbtyh
 http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel43038/index.m3u8
 #EXTINF:-1 group-title="🐉国内体育🐉",劲爆体育
 http://58.42.59.104/hljbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
-
 #EXTINF:-1 group-title="🏎F1赛事🏎",SKY SPORTS F1 4K
 http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1471382&extension=ts&play_token=dWS0k7M0i2
 #EXTINF:-1 group-title="🏎F1赛事🏎",SKY SPORTS MAIN EVENT 4K
