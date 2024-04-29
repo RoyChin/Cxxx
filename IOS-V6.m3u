@@ -1923,50 +1923,7 @@ https://epg.pw/stream/91dffd2dca60b65821a94747f2f3020dfc9642bb89f86ed7fa6d8b0b74
 https://epg.pw/stream/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",NOWsports英超1
 https://epg.pw/stream/487f5814d397a3be21dd9999abc90126a6a61c618d0bd26efda63912747ebb60.ctv
-#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯
-http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=1
-#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰香港
-http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=2
-#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
-http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=3
-#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
-http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=4
-#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB明珠台
-http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=5
-#EXTINF:-1 group-title="🦄香港频道「测试中」",TVBplus
-http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=6
-#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB财经新闻
-http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=7
-#EXTINF:-1 group-title="🦄香港频道「测试中」",VIUTV
-http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",RTK31
-http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=10
-#EXTINF:-1 group-title="🦄香港频道「测试中」",RTK32
-http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=11
-#EXTINF:-1 group-title="🦄香港频道「测试中」",HOY77
-http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=12
-#EXTINF:-1 group-title="🦄香港频道「测试中」",HOY78
-http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=13
-#EXTINF:-1 group-title="🦄香港频道「测试中」",HOY76
-http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=14
-#EXTINF:-1 group-title="🦄香港频道「测试中」",NOW新闻
-http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=15
-#EXTINF:-1 group-title="🦄香港频道「测试中」",NOW222
-http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=16
-#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB星河
-http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=17
-#EXTINF:-1 group-title="🦄香港频道「测试中」",天映频道
-http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=18
-#EXTINF:-1 group-title="🦄香港频道「测试中」",天映经典
-http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=19
-#EXTINF:-1 group-title="🦄香港频道「测试中」",美亚电影台
-http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=20
-#EXTINF:-1 group-title="🦄香港频道「测试中」",天映频道
-http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=21
-#EXTINF:-1 group-title="🦄香港频道「测试中」",TV星河
-http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=22
-#EXTINF:-1 group-title="🦄香港频道「测试中」",广东珠江
-http://tvbox.mohuajz.eu.org/tv/yximgs.php?id=23
+
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB无线新闻台
 http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB J2
