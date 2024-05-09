@@ -39,6 +39,12 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727e617ca0/index.m
 http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000132/index.m3u8?IAS
 #EXTINF:-1 group-title="🐉国内体育🐉",CCTV-5+ 赛事「IPV6」
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63872908d48f9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRK254G1jtietGzDaHvFNRtjXOvFnbf%2BTao33JqYlfMYYn2z3agOn9gvNMT9KmBaR9o
+#EXTINF:-1 group-title="🐉国内体育🐉",纬来体育
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 group-title="🐉国内体育🐉",纬来体育
+https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+#EXTINF:-1 group-title="🐉国内体育🐉",纬来体育
+https://cloud.yumixiu768.com/tmp/123.m3u8
 #EXTINF:-1 group-title="🐉国内体育🐉",超级体育「IPV6」
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 group-title="🐉国内体育🐉",精品体育「IPV6」
