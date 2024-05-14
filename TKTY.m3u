@@ -3,11 +3,7 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?
 #EXTINF:-1 group-title="🐉国内体育🐉",五星体育「IPV6」
 http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
 #EXTINF:-1 group-title="🐉国内体育🐉",五星体育
-http://live.nctv.top/8/bestv.php?id=wxty
-#EXTINF:-1 group-title="🐉国内体育🐉",五星体育
-http://live.nctv.top/8/bst.php?id=wxtyhd8m/8000000
-#EXTINF:-1 group-title="🐉国内体育🐉",五星体育
-http://live.nctv.top/8/bst1.php?id=wxtyhd8m/8000000
+http://148.135.93.213:81/PLTV/bestv.php?id=wxtyhd8m/8000000
 #EXTINF:-1 group-title="🐉国内体育🐉",五星体育「组播」
 http://222.70.141.14:8318/udp/239.45.3.210:5140
 #EXTINF:-1 group-title="🐉国内体育🐉",五星体育「组播」
