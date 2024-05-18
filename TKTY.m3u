@@ -88,6 +88,10 @@ http://60.30.198.43:5080/HK/nowxw/hls.m3u8
 http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1471382&extension=ts&play_token=dWS0k7M0i2
 #EXTINF:-1 group-title="🏎F1赛事🏎",SKY SPORTS MAIN EVENT 4K
 http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1471381&extension=ts&play_token=NfdaYR91V7
+#EXTINF:-1 group-title="🏎F1赛事🏎",SKY SPORTS F1 HD
+http://extraott.com:900/live/3338826713/8323116234/153701.m3u8
+#EXTINF:-1 group-title="🏎F1赛事🏎",SKY SPORTS F1 FHD
+http://extraott.com:900/live/3338826713/8323116234/191464.m3u8
 #EXTINF:-1 group-title="🏎F1赛事🏎",Dazn F1 HD ES
 http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/6071/index.m3u8
 #EXTINF:-1 group-title="🏎F1赛事🏎",Dazn F1 HD ES
