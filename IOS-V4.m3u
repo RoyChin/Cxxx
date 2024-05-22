@@ -10195,6 +10195,15 @@ http://qnap.yjnhome.com:4000/rtp/239.3.1.97:8001
 #EXTINF:-1 group-title="🦄北京频道",北京体育休闲
 http://qnap.yjnhome.com:4000/rtp/239.3.1.243:8000
 
+
+#EXTINF:-1 group-title="🦄北京频道",BRTV影视
+https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=btvys&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
+#EXTINF:-1 group-title="🦄北京频道",BRTV文艺
+https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=btvwy&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
+#EXTINF:-1 group-title="🦄北京频道",BRTV新闻
+https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=btvxw&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
+#EXTINF:-1 group-title="🦄北京频道",BRTV科教
+https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=btvkj&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
 #EXTINF:-1 group-title="🦄北京频道",北京新闻
 https://live.funhillrm.com/5/sd/live.m3u8
 #EXTINF:-1 group-title="🦄北京频道",北京卫视
@@ -10378,6 +10387,24 @@ http://180.158.145.164:4022/udp/239.45.3.210:5140
 #EXTINF:-1 group-title="🦄上海频道",五星体育「组播」
 http://116.233.138.194:4022/udp/239.45.3.210:5140
 
+#EXTINF:-1 group-title="🦄广东频道🦀",广东珠江
+https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=gdzj&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
+#EXTINF:-1 group-title="🦄广东频道🦀",广东珠江
+https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=gdzjv6&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
+#EXTINF:-1 group-title="🦄广东频道🦀",大湾区卫视
+https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=nfws&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
+#EXTINF:-1 group-title="🦄广东频道🦀",广州综合
+https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=zhonghe&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
+#EXTINF:-1 group-title="🦄广东频道🦀",广州新闻
+https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=xinwen&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
+#EXTINF:-1 group-title="🦄广东频道🦀",广州法制
+https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=fazhi&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
+#EXTINF:-1 group-title="🦄广东频道🦀",广州竞赛
+https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=jingsai&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
+#EXTINF:-1 group-title="🦄广东频道🦀",广州影视
+https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=yingshi&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
+#EXTINF:-1 group-title="🦄广东频道🦀",广州南国都市
+https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=shenghuo&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
 
 #EXTINF:-1 group-title="🦄广东频道🦀",广东体育
 http://ddns.cyruslee.top:8888/udp/239.77.0.112:5146
@@ -10512,6 +10539,37 @@ http://ddns.cyruslee.top:8888/udp/239.253.43.55:5146
 http://ddns.cyruslee.top:8888/udp/239.253.43.56:5146
 #EXTINF:-1 group-title="🦄广东频道🦀",佛山综合高清
 http://ddns.cyruslee.top:8888/udp/239.253.43.57:5146
+
+#EXTINF:-1 group-title="🦄湖南频道",湖南经视
+https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/hnmg.php?id=hnjs&token=a2f138b40a133684caa8f2de620239906315a68106c49065cd3b62a9c1297977
+#EXTINF:-1 group-title="🦄湖南频道",湖南都市
+https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/hnmg.php?id=hnds&token=a2f138b40a133684caa8f2de620239906315a68106c49065cd3b62a9c1297977
+#EXTINF:-1 group-title="🦄湖南频道",湖南爱晚
+https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/hnmg.php?id=hngg&token=a2f138b40a133684caa8f2de620239906315a68106c49065cd3b62a9c1297977
+#EXTINF:-1 group-title="🦄湖南频道",湖南娱乐
+https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/hnmg.php?id=hnyl&token=a2f138b40a133684caa8f2de620239906315a68106c49065cd3b62a9c1297977
+#EXTINF:-1 group-title="🦄湖南频道",湖南电视剧
+https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/hnmg.php?id=hndsj&token=a2f138b40a133684caa8f2de620239906315a68106c49065cd3b62a9c1297977
+#EXTINF:-1 group-title="🦄湖南频道",湖南国际
+https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/hnmg.php?id=hngj&token=a2f138b40a133684caa8f2de620239906315a68106c49065cd3b62a9c1297977
+#EXTINF:-1 group-title="🦄湖南频道",湖南电影
+https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=hndy&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
+#EXTINF:-1 group-title="🦄湖南频道",金鹰纪实
+https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/hnmg.php?id=jyjs&token=a2f138b40a133684caa8f2de620239906315a68106c49065cd3b62a9c1297977
+#EXTINF:-1 group-title="🦄湖南频道",金鹰卡通
+https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/hnmg.php?id=jykt&token=a2f138b40a133684caa8f2de620239906315a68106c49065cd3b62a9c1297977
+#EXTINF:-1 group-title="🦄湖南频道",先锋兵羽
+https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/hnmg.php?id=xfpy&token=a2f138b40a133684caa8f2de620239906315a68106c49065cd3b62a9c1297977
+#EXTINF:-1 group-title="🦄湖南频道",快乐垂钓
+https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/hnmg.php?id=klcd&token=a2f138b40a133684caa8f2de620239906315a68106c49065cd3b62a9c1297977
+#EXTINF:-1 group-title="🦄湖南频道",茶频道
+https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/hnmg.php?id=cpd&token=a2f138b40a133684caa8f2de620239906315a68106c49065cd3b62a9c1297977
+#EXTINF:-1 group-title="🦄湖南频道",长沙新闻
+https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/hnmg.php?id=csxw&token=a2f138b40a133684caa8f2de620239906315a68106c49065cd3b62a9c1297977
+#EXTINF:-1 group-title="🦄湖南频道",长沙政法
+https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/hnmg.php?id=cszf&token=a2f138b40a133684caa8f2de620239906315a68106c49065cd3b62a9c1297977
+#EXTINF:-1 group-title="🦄湖南频道",长沙女性
+https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/hnmg.php?id=csnx&token=a2f138b40a133684caa8f2de620239906315a68106c49065cd3b62a9c1297977
 
 #EXTINF:-1 group-title="🦄湖南频道",湖南卫视
 http://biaozhun114.com/tv/vip1.php?id=43
