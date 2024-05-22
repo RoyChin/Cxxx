@@ -4,8 +4,16 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?
 http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
 #EXTINF:-1 group-title="🐉国内体育🐉",五星体育「IPV6」
 http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8? IAS
+#EXTINF:-1 group-title="🐉国内体育🐉",五星体育
+http://live.nctv.top/8/bestv.php?id=wxty
+#EXTINF:-1 group-title="🐉国内体育🐉",五星体育
+http://live.nctv.top/8/bst.php?id=wxtyhd8m/8000000
+#EXTINF:-1 group-title="🐉国内体育🐉",五星体育
+http://live.nctv.top/8/bst1.php?id=wxtyhd8m/8000000
+#EXTINF:-1 group-title="🐉国内体育🐉",五星体育
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=87
 #EXTINF:-1 group-title="🐉国内体育🐉",五星体育「组播」
-http://180.158.145.164:4022/udp/239.45.3.210:5140
+http://222.64.61.255:8888/udp/239.45.3.210:5140
 #EXTINF:-1 group-title="🐉国内体育🐉",五星体育「组播」
 http://124.79.22.1:1688/udp/239.45.3.210:5140
 #EXTINF:-1 group-title="🐉国内体育🐉",五星体育「组播」
@@ -13,10 +21,9 @@ http://223.167.77.105:4022/udp/239.45.3.210:5140
 #EXTINF:-1 group-title="🐉国内体育🐉",五星体育「组播」
 http://211.136.186.202:8001/udp/239.45.3.210:5140
 #EXTINF:-1 group-title="🐉国内体育🐉",五星体育「组播」
-http://180.158.145.164:4022/udp/239.45.3.210:5140
+http://222.67.193.52:8888/udp/239.45.3.210:5140
 #EXTINF:-1 group-title="🐉国内体育🐉",五星体育「组播」
 http://116.233.138.194:4022/udp/239.45.3.210:5140
-
 
 #EXTINF:-1 group-title="🐉国内体育🐉",广东体育
 http://218.20.55.108:8888/udp/239.77.0.112:5146
@@ -60,24 +67,18 @@ https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2
 https://cloud.yumixiu768.com/tmp/123.m3u8
 #EXTINF:-1 group-title="🐉国内体育🐉",超级体育「IPV6」
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 group-title="🐉国内体育🐉",超级体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 group-title="🐉国内体育🐉",精品体育「IPV6」
 http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 #EXTINF:-1 group-title="🐉国内体育🐉",精品体育
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 group-title="🐉国内体育🐉",超级体育
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 group-title="🐉国内体育🐉",劲爆体育「IPV6」
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 group-title="🐉国内体育🐉",劲爆体育
-http://live.nctv.top/666/bestv.php?id=jbty
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=93
 #EXTINF:-1 group-title="🐉国内体育🐉",劲爆体育
-http://live.nctv.top/666/bst.php?id=jbtyhd8m/8000000
-#EXTINF:-1 group-title="🐉国内体育🐉",劲爆体育
-http://live.nctv.top/666/bst1.php?id=jbtyhd8m/8000000
-#EXTINF:-1 group-title="🐉国内体育🐉",劲爆体育
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel43038/index.m3u8
-#EXTINF:-1 group-title="🐉国内体育🐉",劲爆体育
-http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43084/index.m3u8
+http://live.nctv.top/8/bestv.php?id=jbty
 #EXTINF:-1 group-title="🐉国内体育🐉",NOW体育 英超1
 http://60.30.198.43:5080/HK/nowty/hls.m3u8
 #EXTINF:-1 group-title="🐉国内体育🐉",NOW体育 英超2
