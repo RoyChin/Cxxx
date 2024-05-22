@@ -242,109 +242,111 @@ http://113.64.145.195:8081/hls/37/index.m3u8
 #EXTINF:-1 group-title="🦄秒播线路②💥",凤凰香港
 http://113.64.145.195:8081/hls/38/index.m3u8
 #EXTINF:-1 group-title="🦄秒播线路③💥",CCTV1
-http://tvbox.netsite.cc/proxy/753065176/753065176.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=1
 #EXTINF:-1 group-title="🦄秒播线路③💥",CCTV2
-http://tvbox.netsite.cc/proxy/1231349557/1231349557.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=2
+#EXTINF:-1 group-title="🦄秒播线路③💥",CCTV3
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=3
 #EXTINF:-1 group-title="🦄秒播线路③💥",CCTV4
-http://tvbox.netsite.cc/proxy/2065759974/2065759974.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=4
 #EXTINF:-1 group-title="🦄秒播线路③💥",CCTV5
-http://tvbox.netsite.cc/proxy/1484254751/1484254751.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=5
 #EXTINF:-1 group-title="🦄秒播线路③💥",CCTV5+
-http://tvbox.netsite.cc/proxy/1319414029/1319414029.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=6
 #EXTINF:-1 group-title="🦄秒播线路③💥",CCTV6
-http://tvbox.netsite.cc/proxy/1275265590/1275265590.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=7
 #EXTINF:-1 group-title="🦄秒播线路③💥",CCTV7
-http://tvbox.netsite.cc/proxy/1797993240/1797993240.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=8
+#EXTINF:-1 group-title="🦄秒播线路③💥",CCTV8
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=9
 #EXTINF:-1 group-title="🦄秒播线路③💥",CCTV9
-http://tvbox.netsite.cc/proxy/41408178/41408178.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=10
 #EXTINF:-1 group-title="🦄秒播线路③💥",CCTV10
-http://tvbox.netsite.cc/proxy/358752297/358752297.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=11
 #EXTINF:-1 group-title="🦄秒播线路③💥",CCTV11
-http://tvbox.netsite.cc/proxy/1384058039/1384058039.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=12
 #EXTINF:-1 group-title="🦄秒播线路③💥",CCTV12
-http://tvbox.netsite.cc/proxy/1168098921/1168098921.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=13
 #EXTINF:-1 group-title="🦄秒播线路③💥",CCTV13
-http://tvbox.netsite.cc/proxy/547513505/547513505.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=14
 #EXTINF:-1 group-title="🦄秒播线路③💥",CCTV14
-http://tvbox.netsite.cc/proxy/1977445545/1977445545.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=15
 #EXTINF:-1 group-title="🦄秒播线路③💥",CCTV15
-http://tvbox.netsite.cc/proxy/2128760541/2128760541.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=16
 #EXTINF:-1 group-title="🦄秒播线路③💥",CCTV16
-http://tvbox.netsite.cc/proxy/434481154/434481154.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=17
 #EXTINF:-1 group-title="🦄秒播线路③💥",CCTV17
-http://tvbox.netsite.cc/proxy/2004643460/2004643460.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
-#EXTINF:-1 group-title="🦄秒播线路③💥",CCTV4K
-http://tvbox.netsite.cc/proxy/679257699/679257699.m3u8
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=18
+
 #EXTINF:-1 group-title="🦄秒播线路③💥",北京卫视
-http://tvbox.netsite.cc/proxy/469197887/469197887.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
-#EXTINF:-1 group-title="🦄秒播线路③💥",湖南卫视
-http://tvbox.netsite.cc/proxy/823956387/823956387.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=19
 #EXTINF:-1 group-title="🦄秒播线路③💥",东方卫视
-http://tvbox.netsite.cc/proxy/609485212/609485212.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
-#EXTINF:-1 group-title="🦄秒播线路③💥",浙江卫视
-http://tvbox.netsite.cc/proxy/1562317673/1562317673.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=20
+#EXTINF:-1 group-title="🦄秒播线路③💥",湖南卫视
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=37
 #EXTINF:-1 group-title="🦄秒播线路③💥",江苏卫视
-http://tvbox.netsite.cc/proxy/1561313428/1561313428.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
-#EXTINF:-1 group-title="🦄秒播线路③💥",安徽卫视
-http://tvbox.netsite.cc/proxy/1453839032/1453839032.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
-#EXTINF:-1 group-title="🦄秒播线路③💥",重庆卫视
-http://tvbox.netsite.cc/proxy/1866473212/1866473212.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
-#EXTINF:-1 group-title="🦄秒播线路③💥",重庆卫视
-http://tvbox.netsite.cc/proxy/1555601247/1555601247.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
-#EXTINF:-1 group-title="🦄秒播线路③💥",延边卫视
-http://tvbox.netsite.cc/proxy/454807708/454807708.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
-#EXTINF:-1 group-title="🦄秒播线路③💥",吉林卫视
-http://tvbox.netsite.cc/proxy/1831443675/1831443675.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
-#EXTINF:-1 group-title="🦄秒播线路③💥",辽宁卫视
-http://tvbox.netsite.cc/proxy/1767807342/1767807342.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
-#EXTINF:-1 group-title="🦄秒播线路③💥",贵州卫视
-http://tvbox.netsite.cc/proxy/344811278/344811278.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
-#EXTINF:-1 group-title="🦄秒播线路③💥",贵州卫视
-http://tvbox.netsite.cc/proxy/1114625252/1114625252.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
-#EXTINF:-1 group-title="🦄秒播线路③💥",甘肃卫视
-http://tvbox.netsite.cc/proxy/1209404373/1209404373.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
-#EXTINF:-1 group-title="🦄秒播线路③💥",东南卫视
-http://tvbox.netsite.cc/proxy/605886267/605886267.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
-#EXTINF:-1 group-title="🦄秒播线路③💥",海南卫视
-http://tvbox.netsite.cc/proxy/2019508840/2019508840.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
-#EXTINF:-1 group-title="🦄秒播线路③💥",河南卫视
-http://tvbox.netsite.cc/proxy/1555831884/1555831884.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
-#EXTINF:-1 group-title="🦄秒播线路③💥",海南卫视
-http://tvbox.netsite.cc/proxy/1505336139/1505336139.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
-#EXTINF:-1 group-title="🦄秒播线路③💥",湖北卫视
-http://tvbox.netsite.cc/proxy/1513765070/1513765070.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
-#EXTINF:-1 group-title="🦄秒播线路③💥",河北卫视
-http://tvbox.netsite.cc/proxy/866823714/866823714.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
-#EXTINF:-1 group-title="🦄秒播线路③💥",深圳卫视
-http://tvbox.netsite.cc/proxy/846832031/846832031.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
-#EXTINF:-1 group-title="🦄秒播线路③💥",山西卫视
-http://tvbox.netsite.cc/proxy/825435414/825435414.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
-#EXTINF:-1 group-title="🦄秒播线路③💥",江西卫视
-http://tvbox.netsite.cc/proxy/1507547400/1507547400.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
-#EXTINF:-1 group-title="🦄秒播线路③💥",广东卫视
-http://tvbox.netsite.cc/proxy/730496254/730496254.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
-#EXTINF:-1 group-title="🦄秒播线路③💥",广西卫视
-http://tvbox.netsite.cc/proxy/1407270894/1407270894.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
-#EXTINF:-1 group-title="🦄秒播线路③💥",四川卫视
-http://tvbox.netsite.cc/proxy/1364123916/1364123916.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
-#EXTINF:-1 group-title="🦄秒播线路③💥",新疆卫视
-http://tvbox.netsite.cc/proxy/1423426614/1423426614.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=39
 #EXTINF:-1 group-title="🦄秒播线路③💥",浙江卫视
-http://tvbox.netsite.cc/proxy/1076829733/1076829733.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
-#EXTINF:-1 group-title="🦄秒播线路③💥",三沙卫视
-http://tvbox.netsite.cc/proxy/1337100319/1337100319.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
-#EXTINF:-1 group-title="🦄秒播线路③💥",黑龙江卫视
-http://tvbox.netsite.cc/proxy/797978954/797978954.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
-#EXTINF:-1 group-title="🦄秒播线路③💥",青海卫视
-http://tvbox.netsite.cc/proxy/1152127449/1152127449.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
-#EXTINF:-1 group-title="🦄秒播线路③💥",陕西卫视
-http://tvbox.netsite.cc/proxy/917851306/917851306.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
-#EXTINF:-1 group-title="🦄秒播线路③💥",山东卫视
-http://tvbox.netsite.cc/proxy/1400078770/1400078770.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
-#EXTINF:-1 group-title="🦄秒播线路③💥",河北卫视
-http://tvbox.netsite.cc/proxy/1385861493/1385861493.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=40
+#EXTINF:-1 group-title="🦄秒播线路③💥",天津卫视
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=21
+#EXTINF:-1 group-title="🦄秒播线路③💥",重庆卫视
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=22
+#EXTINF:-1 group-title="🦄秒播线路③💥",吉林卫视
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=24
+#EXTINF:-1 group-title="🦄秒播线路③💥",辽宁卫视
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=25
 #EXTINF:-1 group-title="🦄秒播线路③💥",内蒙古卫视
-http://tvbox.netsite.cc/proxy/1149350272/1149350272.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%91
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=26
+#EXTINF:-1 group-title="🦄秒播线路③💥",黑龙江卫视
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=23
+#EXTINF:-1 group-title="🦄秒播线路③💥",宁夏卫视
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=27
+#EXTINF:-1 group-title="🦄秒播线路③💥",甘肃卫视
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=28
+#EXTINF:-1 group-title="🦄秒播线路③💥",青海卫视
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=29
+#EXTINF:-1 group-title="🦄秒播线路③💥",陕西卫视
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=30
+#EXTINF:-1 group-title="🦄秒播线路③💥",河北卫视
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=31
+#EXTINF:-1 group-title="🦄秒播线路③💥",山西卫视
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=32
+#EXTINF:-1 group-title="🦄秒播线路③💥",山东卫视
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=33
+#EXTINF:-1 group-title="🦄秒播线路③💥",安徽卫视
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=34
+#EXTINF:-1 group-title="🦄秒播线路③💥",河南卫视
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=35
+#EXTINF:-1 group-title="🦄秒播线路③💥",湖北卫视
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=36
+#EXTINF:-1 group-title="🦄秒播线路③💥",江西卫视
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=38
+#EXTINF:-1 group-title="🦄秒播线路③💥",东南卫视
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=41
+#EXTINF:-1 group-title="🦄秒播线路③💥",广东卫视
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=42
+#EXTINF:-1 group-title="🦄秒播线路③💥",深圳卫视
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=43
+#EXTINF:-1 group-title="🦄秒播线路③💥",广西卫视
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=44
+#EXTINF:-1 group-title="🦄秒播线路③💥",云南卫视
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=45
+#EXTINF:-1 group-title="🦄秒播线路③💥",贵州卫视
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=46
+#EXTINF:-1 group-title="🦄秒播线路③💥",四川卫视
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=47
+#EXTINF:-1 group-title="🦄秒播线路③💥",新疆卫视
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=48
+#EXTINF:-1 group-title="🦄秒播线路③💥",兵团卫视
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=49
+#EXTINF:-1 group-title="🦄秒播线路③💥",西藏卫视
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=50
+#EXTINF:-1 group-title="🦄秒播线路③💥",海南卫视
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=51
+#EXTINF:-1 group-title="🦄秒播线路③💥",厦门卫视
+http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=52
+
 #EXTINF:-1 group-title="🦄独家线路①🐯",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 group-title="🦄独家线路①🐯",CCTV1
@@ -1604,143 +1606,143 @@ http://218.241.192.50:8808/rtp/239.3.1.243:8000
 #EXTINF:-1 group-title="🦄联通专线③💙",BTV国际频道
 http://218.241.192.50:8808/rtp/239.3.1.235:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",CCTV1
-http://119.166.7.60:6666/udp/239.253.254.77:8000
+http://39.77.3.5:8989/udp/239.253.254.77:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",CCTV2
-http://119.166.7.60:6666/udp/239.253.254.232:8000
+http://39.77.3.5:8989/udp/239.253.254.232:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",CCTV3
-http://119.166.7.60:6666/udp/239.253.254.191:8000
+http://39.77.3.5:8989/udp/239.253.254.191:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",CCTV4
-http://119.166.7.60:6666/udp/239.253.254.111:8000
+http://39.77.3.5:8989/udp/239.253.254.111:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",CCTV4
-http://119.166.7.60:6666/udp/239.253.254.186:8000
+http://39.77.3.5:8989/udp/239.253.254.186:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",CCTV4
-http://119.166.7.60:6666/udp/239.253.254.187:8000
+http://39.77.3.5:8989/udp/239.253.254.187:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",CCTV5
-http://119.166.7.60:6666/udp/239.253.254.192:8000
+http://39.77.3.5:8989/udp/239.253.254.192:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",CCTV5+
-http://119.166.7.60:6666/udp/239.253.254.80:8000
+http://39.77.3.5:8989/udp/239.253.254.80:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",CCTV6
-http://119.166.7.60:6666/udp/239.253.254.193:8000
+http://39.77.3.5:8989/udp/239.253.254.193:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",CCTV7
-http://119.166.7.60:6666/udp/239.253.254.233:8000
+http://39.77.3.5:8989/udp/239.253.254.233:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",CCTV8
-http://119.166.7.60:6666/udp/239.253.254.194:8000
+http://39.77.3.5:8989/udp/239.253.254.194:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",CCTV9
-http://119.166.7.60:6666/udp/239.253.254.79:8000
+http://39.77.3.5:8989/udp/239.253.254.79:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",CCTV10
-http://119.166.7.60:6666/udp/239.253.254.234:8000
+http://39.77.3.5:8989/udp/239.253.254.234:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",CCTV11
-http://119.166.7.60:6666/udp/239.253.254.169:8000
+http://39.77.3.5:8989/udp/239.253.254.169:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",CCTV12
-http://119.166.7.60:6666/udp/239.253.254.235:8000
+http://39.77.3.5:8989/udp/239.253.254.235:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",CCTV13
-http://119.166.7.60:6666/udp/239.253.254.175:8000
+http://39.77.3.5:8989/udp/239.253.254.175:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",CCTV14
-http://119.166.7.60:6666/udp/239.253.254.236:8000
+http://39.77.3.5:8989/udp/239.253.254.236:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",CCTV15
-http://119.166.7.60:6666/udp/239.253.254.170:8000
+http://39.77.3.5:8989/udp/239.253.254.170:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",CCTV17
-http://119.166.7.60:6666/udp/239.253.254.168:8000
+http://39.77.3.5:8989/udp/239.253.254.168:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",安徽卫视
-http://119.166.7.60:6666/udp/239.253.254.87:8000
+http://39.77.3.5:8989/udp/239.253.254.87:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",北京卫视
-http://119.166.7.60:6666/udp/239.253.254.85:8000
+http://39.77.3.5:8989/udp/239.253.254.85:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",东方财经
-http://119.166.7.60:6666/udp/239.253.254.94:8000
+http://39.77.3.5:8989/udp/239.253.254.94:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",东方卫视
-http://119.166.7.60:6666/udp/239.253.254.86:8000
+http://39.77.3.5:8989/udp/239.253.254.86:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",东南卫视
-http://119.166.7.60:6666/udp/239.253.254.105:8000
+http://39.77.3.5:8989/udp/239.253.254.105:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",动漫秀场
-http://119.166.7.60:6666/udp/239.253.254.115:8000
+http://39.77.3.5:8989/udp/239.253.254.115:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",都市剧场
-http://119.166.7.60:6666/udp/239.253.254.98:8000
+http://39.77.3.5:8989/udp/239.253.254.98:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",法治天地
-http://119.166.7.60:6666/udp/239.253.254.96:8000
+http://39.77.3.5:8989/udp/239.253.254.96:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",甘肃卫视
-http://119.166.7.60:6666/udp/239.253.254.74:8000
+http://39.77.3.5:8989/udp/239.253.254.74:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",广东卫视
-http://119.166.7.60:6666/udp/239.253.254.90:8000
+http://39.77.3.5:8989/udp/239.253.254.90:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",广西卫视
-http://119.166.7.60:6666/udp/239.253.254.197:8000
+http://39.77.3.5:8989/udp/239.253.254.197:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",贵州卫视
-http://119.166.7.60:6666/udp/239.253.254.113:8000
+http://39.77.3.5:8989/udp/239.253.254.113:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",海南卫视
-http://119.166.7.60:6666/udp/239.253.254.179:8000
+http://39.77.3.5:8989/udp/239.253.254.179:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",河北卫视
-http://119.166.7.60:6666/udp/239.253.254.112:8000
+http://39.77.3.5:8989/udp/239.253.254.112:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",河南卫视
-http://119.166.7.60:6666/udp/239.253.254.190:8000
+http://39.77.3.5:8989/udp/239.253.254.190:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",黑龙江卫视
-http://119.166.7.60:6666/udp/239.253.254.93:8000
+http://39.77.3.5:8989/udp/239.253.254.93:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",湖北卫视
-http://119.166.7.60:6666/udp/239.253.254.88:8000
+http://39.77.3.5:8989/udp/239.253.254.88:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",湖南卫视
-http://119.166.7.60:6666/udp/239.253.254.82:8000
+http://39.77.3.5:8989/udp/239.253.254.82:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",吉林卫视
-http://119.166.7.60:6666/udp/239.253.254.173:8000
+http://39.77.3.5:8989/udp/239.253.254.173:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",江苏卫视
-http://119.166.7.60:6666/udp/239.253.254.83:8000
+http://39.77.3.5:8989/udp/239.253.254.83:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",江西卫视
-http://119.166.7.60:6666/udp/239.253.254.47:8000
+http://39.77.3.5:8989/udp/239.253.254.47:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",深圳卫视
-http://119.166.7.60:6666/udp/239.253.254.91:8000
+http://39.77.3.5:8989/udp/239.253.254.91:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",四川卫视
-http://119.166.7.60:6666/udp/239.253.254.180:8000
+http://39.77.3.5:8989/udp/239.253.254.180:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",天津卫视
-http://119.166.7.60:6666/udp/239.253.254.89:8000
+http://39.77.3.5:8989/udp/239.253.254.89:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",云南卫视
-http://119.166.7.60:6666/udp/239.253.254.196:8000
+http://39.77.3.5:8989/udp/239.253.254.196:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",浙江卫视
-http://119.166.7.60:6666/udp/239.253.254.84:8000
+http://39.77.3.5:8989/udp/239.253.254.84:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",重庆卫视
-http://119.166.7.60:6666/udp/239.253.254.38:8000
+http://39.77.3.5:8989/udp/239.253.254.38:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",青岛QTV1
-http://119.166.7.60:6666/udp/239.253.254.249:8000
+http://39.77.3.5:8989/udp/239.253.254.249:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",青岛QTV2
-http://119.166.7.60:6666/udp/239.253.254.250:8000
+http://39.77.3.5:8989/udp/239.253.254.250:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",青岛QTV3
-http://119.166.7.60:6666/udp/239.253.254.251:8000
+http://39.77.3.5:8989/udp/239.253.254.251:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",青岛QTV4
-http://119.166.7.60:6666/udp/239.253.254.252:8000
+http://39.77.3.5:8989/udp/239.253.254.252:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",青岛QTV5
-http://119.166.7.60:6666/udp/239.253.254.253:8000
+http://39.77.3.5:8989/udp/239.253.254.253:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",青岛生活
-http://119.166.7.60:6666/udp/239.253.254.244:8000
+http://39.77.3.5:8989/udp/239.253.254.244:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",青岛综合
-http://119.166.7.60:6666/udp/239.253.254.243:8000
+http://39.77.3.5:8989/udp/239.253.254.243:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",青海卫视
-http://119.166.7.60:6666/udp/239.253.254.195:8000
+http://39.77.3.5:8989/udp/239.253.254.195:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",山东教育
-http://119.166.7.60:6666/udp/239.253.254.59:8000
+http://39.77.3.5:8989/udp/239.253.254.59:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",山东农科
-http://119.166.7.60:6666/udp/239.253.254.24:8000
+http://39.77.3.5:8989/udp/239.253.254.24:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",山东齐鲁
-http://119.166.7.60:6666/udp/239.253.254.114:8000
+http://39.77.3.5:8989/udp/239.253.254.114:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",山东少儿
-http://119.166.7.60:6666/udp/239.253.254.25:8000
+http://39.77.3.5:8989/udp/239.253.254.25:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",山东生活
-http://119.166.7.60:6666/udp/239.253.254.151:8000
+http://39.77.3.5:8989/udp/239.253.254.151:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",山东体育
-http://119.166.7.60:6666/udp/239.253.254.22:8000
+http://39.77.3.5:8989/udp/239.253.254.22:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",山东卫视
-http://119.166.7.60:6666/udp/239.253.254.78:8000
+http://39.77.3.5:8989/udp/239.253.254.78:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",山东文旅
-http://119.166.7.60:6666/udp/239.253.254.160:8000
+http://39.77.3.5:8989/udp/239.253.254.160:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",山东新闻
-http://119.166.7.60:6666/udp/239.253.254.23:8000
+http://39.77.3.5:8989/udp/239.253.254.23:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",山东综艺
-http://119.166.7.60:6666/udp/239.253.254.159:8000
+http://39.77.3.5:8989/udp/239.253.254.159:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",CHC动作电影
-http://119.166.7.60:6666/udp/239.253.254.153:8000
+http://39.77.3.5:8989/udp/239.253.254.153:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",CHC高清电影
-http://119.166.7.60:6666/udp/239.253.254.154:8000
+http://39.77.3.5:8989/udp/239.253.254.154:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",CHC家庭影院
-http://119.166.7.60:6666/udp/239.253.254.152:8000
+http://39.77.3.5:8989/udp/239.253.254.152:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",文物宝库
-http://119.166.7.60:6666/udp/239.253.254.141:8000
+http://39.77.3.5:8989/udp/239.253.254.141:8000
 #EXTINF:-1 group-title="🦄联通专线④💙",武术世界
-http://119.166.7.60:6666/udp/239.253.254.140:8000
+http://39.77.3.5:8989/udp/239.253.254.140:8000
 #EXTINF:-1 group-title="🦄联通专线⑤💙",CCTV1
 http://116.179.149.42:6000/rtp/226.0.2.153:9136
 #EXTINF:-1 group-title="🦄联通专线⑤💙",CCTV2
