@@ -1,55 +1,71 @@
+#EXTINF:-1 group-title="辽宁地方[联通]",辽宁体育
+http://119.118.79.112:4022/rtp/232.0.0.164:1234
+#EXTINF:-1 group-title="辽宁地方[联通]",辽宁卫视
+http://119.118.79.112:4022/rtp/232.0.0.126:1234
 #EXTINF:-1 group-title="辽宁地方[联通]",辽宁都市
-http://59.44.192.82:65000/hls/21/index.m3u8
-#EXTINF:-1 group-title="辽宁地方[联通]",辽宁影视
-http://59.44.192.82:65000/hls/22/index.m3u8
-#EXTINF:-1 group-title="辽宁地方[联通]",辽宁北方
-http://59.44.192.82:65000/hls/23/index.m3u8
-#EXTINF:-1 group-title="辽宁地方[联通]",辽宁体育
-http://59.44.192.82:65000/hls/24/index.m3u8
+http://119.118.79.112:4022/rtp/232.0.0.154:1234
+#EXTINF:-1 group-title="辽宁地方[联通]",辽宁影视剧
+http://119.118.79.112:4022/rtp/232.0.0.25:1234
 #EXTINF:-1 group-title="辽宁地方[联通]",辽宁生活
-http://59.44.192.82:65000/hls/25/index.m3u8
-#EXTINF:-1 group-title="辽宁地方[联通]",辽宁公共
-http://59.44.192.82:65000/hls/26/index.m3u8
-#EXTINF:-1 group-title="辽宁地方[联通]",辽宁影视
-http://fxgm.fxjf.work:19901/tsfile/live/1001_1.m3u8
-#EXTINF:-1 group-title="辽宁地方[联通]",辽宁体育
-http://fxgm.fxjf.work:19901/tsfile/live/1003_1.m3u8
-#EXTINF:-1 group-title="辽宁地方[联通]",辽宁生活
-http://fxgm.fxjf.work:19901/tsfile/live/1004_1.m3u8
+http://119.118.79.112:4022/rtp/232.0.0.150:1234
 #EXTINF:-1 group-title="辽宁地方[联通]",辽宁教育
-http://fxgm.fxjf.work:19901/tsfile/live/1005_1.m3u8
+http://119.118.79.112:4022/rtp/232.0.0.241:1234
 #EXTINF:-1 group-title="辽宁地方[联通]",辽宁北方
-http://fxgm.fxjf.work:19901/tsfile/live/1006_1.m3u8
+http://119.118.79.112:4022/rtp/232.0.0.151:1234
 #EXTINF:-1 group-title="辽宁地方[联通]",辽宁公共
-http://fxgm.fxjf.work:19901/tsfile/live/1007_1.m3u8
+http://119.118.79.112:4022/rtp/232.0.0.168:1234
 #EXTINF:-1 group-title="辽宁地方[联通]",辽宁经济
-http://fxgm.fxjf.work:19901/tsfile/live/1008_1.m3u8
-#EXTINF:-1 group-title="辽宁地方[电信]",辽宁都市
-http://175.164.166.114:8999/udp/239.33.4.236:22360
+http://119.118.79.112:4022/rtp/232.0.0.156:1234
+#EXTINF:-1 group-title="辽宁地方[联通]",辽宁体育
+http://rt4.orangevip.top:8999/rtp/232.0.0.164:1234
+#EXTINF:-1 group-title="辽宁地方[联通]",辽宁卫视
+http://rt4.orangevip.top:8999/rtp/232.0.0.126:1234
+#EXTINF:-1 group-title="辽宁地方[联通]",辽宁都市
+http://rt4.orangevip.top:8999/rtp/232.0.0.154:1234
+#EXTINF:-1 group-title="辽宁地方[联通]",辽宁影视剧
+http://rt4.orangevip.top:8999/rtp/232.0.0.25:1234
+#EXTINF:-1 group-title="辽宁地方[联通]",辽宁生活
+http://rt4.orangevip.top:8999/rtp/232.0.0.150:1234
+#EXTINF:-1 group-title="辽宁地方[联通]",辽宁教育
+http://rt4.orangevip.top:8999/rtp/232.0.0.241:1234
+#EXTINF:-1 group-title="辽宁地方[联通]",辽宁北方
+http://rt4.orangevip.top:8999/rtp/232.0.0.151:1234
+#EXTINF:-1 group-title="辽宁地方[联通]",辽宁公共
+http://rt4.orangevip.top:8999/rtp/232.0.0.168:1234
+#EXTINF:-1 group-title="辽宁地方[联通]",辽宁经济
+http://rt4.orangevip.top:8999/rtp/232.0.0.156:1234
 #EXTINF:-1 group-title="辽宁地方[电信]",辽宁体育
-http://123.245.64.121:4040/udp/239.33.4.237:22370
-#EXTINF:-1 group-title="辽宁地方[电信]",辽宁北方
-http://123.245.64.121:4040/udp/239.33.5.202:24580
-#EXTINF:-1 group-title="辽宁地方[电信]",辽宁经济
-http://123.245.64.121:4040/udp/239.33.4.121:21210
-#EXTINF:-1 group-title="辽宁地方[电信]",辽宁生活
-http://123.245.64.121:4040/udp/239.33.5.201:24570
-#EXTINF:-1 group-title="辽宁地方[电信]",辽宁公共
-http://123.245.64.121:4040/udp/239.33.4.122:21220
+http://123.245.4.22:6688/udp/239.33.4.237:22370
 #EXTINF:-1 group-title="辽宁地方[电信]",辽宁卫视
-http://123.184.70.100:801/hls/114/index.m3u8
-#EXTINF:-1 group-title="辽宁地方[电信]",辽宁都市
-http://123.184.70.100:801/hls/115/index.m3u8
-#EXTINF:-1 group-title="辽宁地方[电信]",辽宁影视
-http://123.184.70.100:801/hls/116/index.m3u8
-#EXTINF:-1 group-title="辽宁地方[电信]",辽宁体育
-http://123.184.70.100:801/hls/117/index.m3u8
-#EXTINF:-1 group-title="辽宁地方[电信]",辽宁教育
-http://123.184.70.100:801/hls/119/index.m3u8
+http://123.245.4.22:6688/udp/239.33.5.1:22570
+#EXTINF:-1 group-title="辽宁地方[电信]",辽宁生活
+http://123.245.4.22:6688/udp/239.33.5.201:24570
 #EXTINF:-1 group-title="辽宁地方[电信]",辽宁北方
-http://123.184.70.100:801/hls/120/index.m3u8
+http://123.245.4.22:6688/udp/239.33.5.202:24580
+#EXTINF:-1 group-title="辽宁地方[电信]",辽宁都市
+http://123.245.4.22:6688/udp/239.33.4.236:22360
 #EXTINF:-1 group-title="辽宁地方[电信]",辽宁经济
-http://123.184.70.100:801/hls/121/index.m3u8
+http://123.245.4.22:6688/udp/239.33.4.121:21210
+#EXTINF:-1 group-title="辽宁地方[电信]",辽宁公共
+http://123.245.4.22:6688/udp/239.33.4.122:21220
+#EXTINF:-1 group-title="辽宁地方[电信]",辽宁移动
+http://123.245.4.22:6688/udp/239.33.4.235:22350
+#EXTINF:-1 group-title="辽宁地方[电信]",辽宁体育
+http://123.245.64.53:4040/udp/239.33.4.237:22370
+#EXTINF:-1 group-title="辽宁地方[电信]",辽宁卫视
+http://123.245.64.53:4040/udp/239.33.5.1:22570
+#EXTINF:-1 group-title="辽宁地方[电信]",辽宁生活
+http://123.245.64.53:4040/udp/239.33.5.201:24570
+#EXTINF:-1 group-title="辽宁地方[电信]",辽宁北方
+http://123.245.64.53:4040/udp/239.33.5.202:24580
+#EXTINF:-1 group-title="辽宁地方[电信]",辽宁都市
+http://123.245.64.53:4040/udp/239.33.4.236:22360
+#EXTINF:-1 group-title="辽宁地方[电信]",辽宁经济
+http://123.245.64.53:4040/udp/239.33.4.121:21210
+#EXTINF:-1 group-title="辽宁地方[电信]",辽宁公共
+http://123.245.64.53:4040/udp/239.33.4.122:21220
+#EXTINF:-1 group-title="辽宁地方[电信]",辽宁移动
+http://123.245.64.53:4040/udp/239.33.4.235:22350
 #EXTINF:-1 group-title="辽宁广电",辽宁都市
 http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000610
 #EXTINF:-1 group-title="辽宁广电",辽宁北方
@@ -363,11 +379,11 @@ http://218.29.135.3:4000/rtp/225.1.4.208:1261
 #EXTINF:-1 group-title="凤凰台",CHC高清电影
 http://218.29.135.3:4000/rtp/225.1.4.207:1260
 #EXTINF:-1 group-title="凤凰台",CHC高清电影
-http://1.83.126.240:8888/rtp/239.112.205.206:5140
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
 #EXTINF:-1 group-title="凤凰台",CHC家庭影院
-http://1.83.126.240:8888/rtp/239.112.205.205:5140
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 #EXTINF:-1 group-title="凤凰台",CHC动作电影
-http://1.83.126.240:8888/rtp/239.112.205.207:5140
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
 #EXTINF:-1 group-title="高码率线路-①",CCTV1
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000131/index.m3u8?IAS
 #EXTINF:-1 group-title="高码率线路-①",CCTV2
@@ -468,348 +484,390 @@ http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000316/ind
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000317/index.m3u8?IAS
 #EXTINF:-1 group-title="高码率线路-①",厦门卫视
 http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?IAS
-#EXTINF:-1 group-title="高码率线路-②",CCTV1
+#EXTINF:-1 group-title="🦄高码率线路-②💥",CCTV1
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUU6FFmRK8Hl0ytyd5e5kWGEwoDIwMxbrlyyVy9x6ZDKnldIYKOjBOUjRyoym5n7Kg0yIYstFTUfqtC14fzxhy5Y
-#EXTINF:-1 group-title="高码率线路-②",CCTV2
+#EXTINF:-1 group-title="🦄高码率线路-②💥",CCTV2
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000036BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfGVSARKsxkWGZw7vFUuOj2QZHeRzosIxVbl7i2QHFATHA3k5wDWG1qHkZQAleNv%2FbI
-#EXTINF:-1 group-title="高码率线路-②",CCTV3
+#EXTINF:-1 group-title="🦄高码率线路-②💥",CCTV3
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727c125355/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSPTZ4CK5oLfjaEYe9dogNMUNNEYLCPUtKY62j1Wp5u04wipypKUQ1TTuR2lXvBl5YpHqBJmlA19x22TD9bUOjk
-#EXTINF:-1 group-title="高码率线路-②",CCTV4
+#EXTINF:-1 group-title="🦄高码率线路-②💥",CCTV4
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000037BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfH0ZQXwaiVktPr6ILPKXqwOUC2ZXft7ZULN6h9qLQPFOTSlVTfophiKaMb8h1kPV74
-#EXTINF:-1 group-title="高码率线路-②",CCTV5
+#EXTINF:-1 group-title="🦄高码率线路-②💥",CCTV5
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727e617ca0/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSPTZ4CK5oLfjaEYe9dogNMSXw4ajlL%2FoUYC2RZQQDco6uQSifXBocz5ID6RePfIKQ4rFWiHjq%2FeZoDmrzW%2FKlw
-#EXTINF:-1 group-title="高码率线路-②",CCTV5+
+#EXTINF:-1 group-title="🦄高码率线路-②💥",CCTV5+
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63872908d48f9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRK254G1jtietGzDaHvFNRtjXOvFnbf%2BTao33JqYlfMYYn2z3agOn9gvNMT9KmBaR9o
-#EXTINF:-1 group-title="高码率线路-②",CCTV6
+#EXTINF:-1 group-title="🦄高码率线路-②💥",CCTV6
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728804b1f9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdDh4EPdDnvGlSBkYaxFdazJhFQmuq4XUiks9ZrIlJN%2BknLs8H%2BSxcDXy%2BTesEc8Q0KCN89MjYoj85Sol1kbKI4
-#EXTINF:-1 group-title="高码率线路-②",CCTV7
+#EXTINF:-1 group-title="🦄高码率线路-②💥",CCTV7
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000038BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfHYKFve4MwNzRa0jPXeHjqnBjPmzSdKDNWNHhnZSaMGCXKmdx8d%2BnYdhVK5ge22ot4
-#EXTINF:-1 group-title="高码率线路-②",CCTV8
+#EXTINF:-1 group-title="🦄高码率线路-②💥",CCTV8
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728970aa82/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdDh4EPdDnvGlSBkYaxFdaymid9ta2tVUW0%2FdVrFqszC1EVEkAbpip1IYxn%2Ba2aA%2BVAihIiw9D8ejUsDbfU0K68
-#EXTINF:-1 group-title="高码率线路-②",CCTV9
+#EXTINF:-1 group-title="🦄高码率线路-②💥",CCTV9
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000039BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfHArfvJF2pWpm4RxcBNhZ7j9vEUeCQte%2BbQaOGNIUEEK%2B3RBE1BC9EUsM18gnb%2FyAA
-#EXTINF:-1 group-title="高码率线路-②",CCTV10
+#EXTINF:-1 group-title="🦄高码率线路-②💥",CCTV10
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3949784BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUXt3TPFwzzdHCkOT9AjSv5OuXozn3alq9%2BUx7ZLG1w9aOfkLjZvYj56D3xkOAtSOIoLsdw8c1%2BCwLDg1aS4esN4
-#EXTINF:-1 group-title="高码率线路-②",CCTV11
+#EXTINF:-1 group-title="🦄高码率线路-②💥",CCTV11
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000053BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0Qj2xHA4vdPGsjBbxSL3p%2FmAObVTfznR%2Fpc%2B76QYmLRMuL3Lj9iabhv8arW7kJe6%2F4
-#EXTINF:-1 group-title="高码率线路-②",CCTV12
+#EXTINF:-1 group-title="🦄高码率线路-②💥",CCTV12
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000040BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUd3JM2PCgDefrKOVZLNt0QMAmpLefguRLiOPXiDRWhxHg8yim2giTBA8RILsb%2B8Y5pkFUyZBE%2FkNJAbwncEegkU
-#EXTINF:-1 group-title="高码率线路-②",CCTV13
+#EXTINF:-1 group-title="🦄高码率线路-②💥",CCTV13
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000054BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0SuXozn3alq9%2BUx7ZLG1w9awc14iEUxQ5VsTsr5pEBsmF56tXUfsukRUpygmTCKvAI
-#EXTINF:-1 group-title="高码率线路-②",CCTV14
+#EXTINF:-1 group-title="🦄高码率线路-②💥",CCTV14
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3949788BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUXt3TPFwzzdHCkOT9AjSv5PYKFve4MwNzRa0jPXeHjqnp7khdLaCMP6L4QpTf84Oz6DvCG1%2BJ81QvStkxO%2FoGm8
-#EXTINF:-1 group-title="高码率线路-②",CCTV15
+#EXTINF:-1 group-title="🦄高码率线路-②💥",CCTV15
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000055BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0Tdo%2FUL80msfbhDYvoWpNl31Dy7jHvMl%2FzVUrNxhL1ek1YEGVDZ7lCg0LtKJY4Ku%2B8
-#EXTINF:-1 group-title="高码率线路-②",CCTV16
+#EXTINF:-1 group-title="🦄高码率线路-②💥",CCTV16
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 group-title="高码率线路-②",CCTV17
+#EXTINF:-1 group-title="🦄高码率线路-②💥",CCTV17
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728afa13b4/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdDh4EPdDnvGlSBkYaxFdaz%2FyAI9to%2FMBBt%2FivcdSfljJ1%2FqqamWUjAiBAxNssfyBlZUDSXAIMtStS86hRHFuJM
-#EXTINF:-1 group-title="高码率线路-②",CGTN-P
+#EXTINF:-1 group-title="🦄高码率线路-②💥",CGTN-P
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUap6gG4YPDtM5jJ9BeY859LkHVEKIeieCbU4HUV%2BZ9aFwSHAnd8F70VqU6TYif81mMC79YJ%2BEEiYI8DYDTaxhzE
-#EXTINF:-1 group-title="高码率线路-②",CGTN-A
+#EXTINF:-1 group-title="🦄高码率线路-②💥",CGTN-A
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638071d299009/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUaSsNLt4Nk6r4W9qq%2FCDwVDatBZcJQo3xmh5jB8MUTZscqd4uhNXfrNVsIVK4SmtkmgfNyDajGSot7TTk6SWF%2BQ
-#EXTINF:-1 group-title="高码率线路-②",CGTN-E
+#EXTINF:-1 group-title="🦄高码率线路-②💥",CGTN-E
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638071d299009/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUaSsNLt4Nk6r4W9qq%2FCDwVBpu%2Bd8oi%2FZBV7QZaH2nvMDC8YfPqSjgvIu0Auay5DY5x%2FNqUGittSlgAuOf2q3Hqw
-#EXTINF:-1 group-title="高码率线路-②",CGTN-F
+#EXTINF:-1 group-title="🦄高码率线路-②💥",CGTN-F
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806fb631afe/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUap6gG4YPDtM5jJ9BeY859Jl30zDhWOxOChfz6zZGXm5AxEG2nM0jV%2Bz98DG%2B3LggHigAvzizwxj%2BnU8zoIJ5eI
-#EXTINF:-1 group-title="高码率线路-②",CGTN-D
+#EXTINF:-1 group-title="🦄高码率线路-②💥",CGTN-D
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63a15d0ee63f3/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSaCqIIft58cZ4PZIJmJQKDE%2BhMJnrkAZeCJCdRJXvlspyKifC5nxyZPvhyagt5zUWfqOxoNjmqM5FCfJztd4V4
-#EXTINF:-1 group-title="高码率线路-②",CGTN-X
+#EXTINF:-1 group-title="🦄高码率线路-②💥",CGTN-X
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f81c8eb5/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUap6gG4YPDtM5jJ9BeY859LpCL6J7ZtZvSzaGNoejhX%2FbNh%2FUg28dwPszgBZkEAMg2VxNQuvSmdjhzvIIS4yJP4
-#EXTINF:-1 group-title="高码率线路-②",CHC动作
+#EXTINF:-1 group-title="🦄高码率线路-②💥",CHC动作
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
-#EXTINF:-1 group-title="高码率线路-②",CHC高清
+#EXTINF:-1 group-title="🦄高码率线路-②💥",CHC高清
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
-#EXTINF:-1 group-title="高码率线路-②",CHC家庭
+#EXTINF:-1 group-title="🦄高码率线路-②💥",CHC家庭
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
-#EXTINF:-1 group-title="高码率线路-②",北京卫视
+#EXTINF:-1 group-title="🦄高码率线路-②💥",北京卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN181361BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUVKcU8XeU8C9ZEn2TN9C%2BRcwoDIwMxbrlyyVy9x6ZDKnfS6nBeQejvigwfjRd2x%2BU7thmluKAkd%2BIGySvIyq4AU
-#EXTINF:-1 group-title="高码率线路-②",安徽卫视
+#EXTINF:-1 group-title="🦄高码率线路-②💥",安徽卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3540416BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUXv1bCET6%2FGP6LFvnNC2DgGVSARKsxkWGZw7vFUuOj2Qc9XJS6ezvAUx%2FdaE2fSJr3cdTmmqJgNdIzUOCi9%2BOyg
-#EXTINF:-1 group-title="高码率线路-②",北京卡酷少儿
+#EXTINF:-1 group-title="🦄高码率线路-②💥",北京卡酷少儿
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN164297BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUbM%2BtJ%2FIKUay0816q4f4FPN9pHjY5eGh1%2F3MQt0stvVIcNMY1ycEUDLSM33BfV5mc1yzDtp74FxRG%2BT%2ByX8dhHQ
-#EXTINF:-1 group-title="高码率线路-②",东南卫视
+#EXTINF:-1 group-title="🦄高码率线路-②💥",东南卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3540417BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUXv1bCET6%2FGP6LFvnNC2DgH0ZQXwaiVktPr6ILPKXqwO%2B40ghr%2F2EQqAw4TSfOQgwgjPkFLBGBm%2FRxwhWL4Q3uM
-#EXTINF:-1 group-title="高码率线路-②",广东卫视
+#EXTINF:-1 group-title="🦄高码率线路-②💥",广东卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN181359BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUW%2B%2FF4NzOzOt3cAWjhMHEuMwoDIwMxbrlyyVy9x6ZDKn1U8f2vJUVL98LlyeZUOMSmC30dkrUFt%2FE8JGKMphXYE
-#EXTINF:-1 group-title="高码率线路-②",广西卫视
+#EXTINF:-1 group-title="🦄高码率线路-②💥",广西卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000045BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUd3JM2PCgDefrKOVZLNt0QPdo%2FUL80msfbhDYvoWpNl3Ui3SDbjEyrngRN3z0PFPHWA%2BXaedl3%2F3flCrB%2Fqh7fg
-#EXTINF:-1 group-title="高码率线路-②",贵州卫视
+#EXTINF:-1 group-title="🦄高码率线路-②💥",贵州卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN4252663BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdU0MzAxFlzyxwiiSP3V3o4YgTd85YleALR8HHnPHszLOK1g6ts8oU5k12ayN74FbOAmnKUze1Wh5%2FkX5b2rvxw
-#EXTINF:-1 group-title="高码率线路-②",海南卫视
+#EXTINF:-1 group-title="🦄高码率线路-②💥",海南卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN4252684BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUaBeOsoiQC4O7YVlhWLaUupjXkJIrEMFMF2spHJh%2FN1RLi84Ue88x97wZoubXLeSwCFBwRVp81CkC12%2Foosdnmw
-#EXTINF:-1 group-title="高码率线路-②",河北卫视
+#EXTINF:-1 group-title="🦄高码率线路-②💥",河北卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN100000002BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUaxEcGF7BsTm3tBZ5QM10A3THYCGyx0KiW2nghgGHiPYyNBht0ohR2xRP7wFZyAPWYATALvCqK4y6nrLdX80fn4
-#EXTINF:-1 group-title="高码率线路-②",河南卫视
+#EXTINF:-1 group-title="🦄高码率线路-②💥",河南卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000044BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUd3JM2PCgDefrKOVZLNt0QOuXozn3alq9%2BUx7ZLG1w9aOfw%2Ftj8uByLI%2F9b3T9xKHSKRmZDiwMOFotvfGaGd4Uw
-#EXTINF:-1 group-title="高码率线路-②",黑龙江卫视
+#EXTINF:-1 group-title="🦄高码率线路-②💥",黑龙江卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN181356BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUXUvBVoIpV7IZ8uInlLPonswoDIwMxbrlyyVy9x6ZDKn9MTOKFsVhR5Pg7Vvr2jf7Z0qxx5spaZs3xlZNl%2FA5wE
-#EXTINF:-1 group-title="高码率线路-②",湖南卫视
+#EXTINF:-1 group-title="🦄高码率线路-②💥",湖南卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN181358BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUds%2BUtPKX7dYKgp%2FtymOuOt9pHjY5eGh1%2F3MQt0stvVIffnHpm3K91ELxLBLxf9DE3IGliSDUqkfu%2BEzvoBJvtA
-#EXTINF:-1 group-title="高码率线路-②",吉林卫视
+#EXTINF:-1 group-title="🦄高码率线路-②💥",吉林卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000046BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUd3JM2PCgDefrKOVZLNt0QOVSARKsxkWGZw7vFUuOj2QqUR6TTs3uuC0H2mr3p6fRRazyiEPmSIyh%2BRO1%2BU3q84
-#EXTINF:-1 group-title="高码率线路-②",江苏卫视
+#EXTINF:-1 group-title="🦄高码率线路-②💥",江苏卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111129BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUcGtOwREJFyiNDdTdcs12AwwoDIwMxbrlyyVy9x6ZDKnBkF6L%2FLitKpXlc5tHW6%2BFmFsnQjgK5quHb1RYo8bFps
-#EXTINF:-1 group-title="高码率线路-②",江西卫视
+#EXTINF:-1 group-title="🦄高码率线路-②💥",江西卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3468921BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUXW3f2sUwP9Bgt6tJshUHYl6RFrn%2FfItZOLbXLG9CvVKOn3P%2BbRKDON3XQg2p1czePDS4wR7j8ZW2%2BKTcTUdq9I
-#EXTINF:-1 group-title="高码率线路-②",辽宁卫视
+#EXTINF:-1 group-title="🦄高码率线路-②💥",辽宁卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3450001BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUZnlX6d6Ukio1jy49XlNnaV6RFrn%2FfItZOLbXLG9CvVKOdpK010CNswDEcoUF1v%2B2IMStPGOlRBQsPY%2BeXp9d3o
-#EXTINF:-1 group-title="高码率线路-②",山东卫视
+#EXTINF:-1 group-title="🦄高码率线路-②💥",山东卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN911992BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUYPFYDnFP%2FDAPuH7S4egu%2BwwoDIwMxbrlyyVy9x6ZDKni2tPDnaOO8v3uGUKi1hZOhPazmZ%2B8tgH3leYQIsqfKE
-#EXTINF:-1 group-title="高码率线路-②",上海东方卫视
+#EXTINF:-1 group-title="🦄高码率线路-②💥",上海东方卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111131BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUaKz9fMrAi6%2FC6MZg8Mm9JQwoDIwMxbrlyyVy9x6ZDKnJ1LnEAwl4s1JgSBXbCxhRiWmveR7x9HhnhsF9G%2Bd4f8
-#EXTINF:-1 group-title="高码率线路-②",深圳卫视
+#EXTINF:-1 group-title="🦄高码率线路-②💥",深圳卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN181362BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTYjXE4%2FzHcB4DvaRB5Fv5MwoDIwMxbrlyyVy9x6ZDKneDM0LfUyK1%2BahEGNL2DZu0fEvbcgscnXPl2IbJvqKAk
-#EXTINF:-1 group-title="高码率线路-②",四川卫视
+#EXTINF:-1 group-title="🦄高码率线路-②💥",四川卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3840706BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUexeCsKxlG2LwkJhai31bTGuXYXralHX2VS7ob25to85GPdBSQnb6X4MP9N0MoC%2FOefakVOC0E4dsoMVDkuWsho
-#EXTINF:-1 group-title="高码率线路-②",天津卫视
+#EXTINF:-1 group-title="🦄高码率线路-②💥",天津卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3450000BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUZnlX6d6Ukio1jy49XlNnaUAmpLefguRLiOPXiDRWhxHtqJ1Caox489JiEKddi6MNiecVT4WDzN0xwhlk8OSvQg
-#EXTINF:-1 group-title="高码率线路-②",浙江卫视
+#EXTINF:-1 group-title="🦄高码率线路-②💥",浙江卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111130BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUclW6AUI%2FSIO%2Bs%2F9KaqCfRAwoDIwMxbrlyyVy9x6ZDKnvfae09h%2Fzg38THB%2B%2FvaO%2BqCb7fDXq%2F%2BRzM2c4SN6TJM
-#EXTINF:-1 group-title="高码率线路-②",中国教育1
+#EXTINF:-1 group-title="🦄高码率线路-②💥",中国教育1
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3138605BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUOUGwH6VRXb4DjD%2BZ9jv%2Fndo%2FUL80msfbhDYvoWpNl3Oq%2BxBXK1CATKks%2BugJbz%2FG5yJ1j9pWSKsB9RqtX16R4
-#EXTINF:-1 group-title="高码率线路-②",重庆卫视
+#EXTINF:-1 group-title="🦄高码率线路-②💥",重庆卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3840707BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUexeCsKxlG2LwkJhai31bTFVx1a9Sup7dkPMGVMX2%2Byf7FdK%2F47YrMnN4FTTQ%2B1lu6KCMf7MV7FmSuEDyoLe%2Bvo
-#EXTINF:-1 group-title="高码率线路-②",山西卫视
+#EXTINF:-1 group-title="🦄高码率线路-②💥",山西卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN1344BESTVSMGSMG9/index.m3u8?AuthInfo=QMDGEPbWPP3D1jIiDYe%2FVk3W23Sd2mLwbEV7Q3UxSspg2ooEmO6VXVvhioBVey8C3tH0ch4cDQ%2BG1P3FvlbMPA%3D%3D
-#EXTINF:-1 group-title="高码率线路-②",宁夏卫视
+#EXTINF:-1 group-title="🦄高码率线路-②💥",宁夏卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN160782BESTVSMGSMG9/index.m3u8?AuthInfo=VtKRdkeghTjoV0%2FuXjlguy0Us6UMJDCWii8ML31CC0fsAIZdxT57mQqRv6kYiTbg070WbacOTjRa6Z%2BkGx7zzQ%3D%3D
-#EXTINF:-1 group-title="高码率线路-②",青海卫视
+#EXTINF:-1 group-title="🦄高码率线路-②💥",青海卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN67026BESTVSMGSMG9/index.m3u8?AuthInfo=j1DoYCEfx%2BPyfrxhia1obgCd77g5iTQTOGelP%2BXskAviDhBlCIxmWHsezH7cbFxoRsVSvkIZ035oIPLwcouoRA%3D%3D
-#EXTINF:-1 group-title="高码率线路-②",新疆卫视
+#EXTINF:-1 group-title="🦄高码率线路-②💥",新疆卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN126387BESTVSMGSMG9/index.m3u8?AuthInfo=kXVqgwiFNDsA8L8UADdm1hrJcUqDvxZ7R%2B8bCC6d7DbX2blwpIemcXrx6dm77V9U1Zj%2BQbuo0UKiviA94OiXEA%3D%3D
-#EXTINF:-1 group-title="高码率线路-②",西藏卫视
+#EXTINF:-1 group-title="🦄高码率线路-②💥",西藏卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN77574BESTVSMGSMG9/index.m3u8?AuthInfo=Kgq9oZls%2F0LFdnWkV6XKjcemen%2FrJ13GEDfSTzbh7UxUrQNs2He4Jft322wTZAuZeUodzEZrZcXcJKDD6r3Z2A%3D%3D
-#EXTINF:-1 group-title="高码率线路-②",内蒙古卫视
+#EXTINF:-1 group-title="🦄高码率线路-②💥",内蒙古卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN79469BESTVSMGSMG9/index.m3u8?AuthInfo=7lAOfreToIabkYEBYF1%2BWCg%2BFJmNHniNGz9lIf%2FFuMRNPINSc7cKQZCTuuz5ZoufoEYBG34BsDXZsLnY%2B%2BGcEw%3D%3D
-#EXTINF:-1 group-title="高码率线路-②",兵团卫视
+#EXTINF:-1 group-title="🦄高码率线路-②💥",兵团卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN126389BESTVSMGSMG9/index.m3u8?AuthInfo=kXVqgwiFNDsA8L8UADdm1g0lb%2BtkfnGmv76VRSC5BUjrd9dcupuLFZtkbnZDW1ncykI0zNYTgRcsAj5Z6uTckA%3D%3D
-#EXTINF:-1 group-title="高码率线路-②",梨园
+#EXTINF:-1 group-title="🦄高码率线路-②💥",梨园
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
-#EXTINF:-1 group-title="独家线路-①",CCTV1
+#EXTINF:-1 group-title="🦄高码率线路-③💥",CCTV1
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",CCTV2
+#EXTINF:-1 group-title="🦄高码率线路-③💥",CCTV2
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",CCTV3
+#EXTINF:-1 group-title="🦄高码率线路-③💥",CCTV3
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",CCTV4
+#EXTINF:-1 group-title="🦄高码率线路-③💥",CCTV4
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",CCTV5
+#EXTINF:-1 group-title="🦄高码率线路-③💥",CCTV5
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",CCTV5+
+#EXTINF:-1 group-title="🦄高码率线路-③💥",CCTV5+
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",CCTV6
+#EXTINF:-1 group-title="🦄高码率线路-③💥",CCTV6
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",CCTV7
+#EXTINF:-1 group-title="🦄高码率线路-③💥",CCTV7
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",CCTV8
+#EXTINF:-1 group-title="🦄高码率线路-③💥",CCTV8
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",CCTV9
+#EXTINF:-1 group-title="🦄高码率线路-③💥",CCTV9
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",CCTV10
+#EXTINF:-1 group-title="🦄高码率线路-③💥",CCTV10
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",CCTV11
+#EXTINF:-1 group-title="🦄高码率线路-③💥",CCTV11
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",CCTV12
+#EXTINF:-1 group-title="🦄高码率线路-③💥",CCTV12
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",CCTV13
+#EXTINF:-1 group-title="🦄高码率线路-③💥",CCTV13
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",CCTV14
+#EXTINF:-1 group-title="🦄高码率线路-③💥",CCTV14
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",CCTV15
+#EXTINF:-1 group-title="🦄高码率线路-③💥",CCTV15
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",CCTV16
+#EXTINF:-1 group-title="🦄高码率线路-③💥",CCTV16
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",CCTV17
+#EXTINF:-1 group-title="🦄高码率线路-③💥",CCTV17
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",北京卫视
+#EXTINF:-1 group-title="🦄高码率线路-③💥",北京卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",湖南卫视
+#EXTINF:-1 group-title="🦄高码率线路-③💥",湖南卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",浙江卫视
+#EXTINF:-1 group-title="🦄高码率线路-③💥",浙江卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",江苏卫视
+#EXTINF:-1 group-title="🦄高码率线路-③💥",江苏卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",东方卫视
+#EXTINF:-1 group-title="🦄高码率线路-③💥",东方卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",广东卫视
+#EXTINF:-1 group-title="🦄高码率线路-③💥",广东卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",广西卫视
+#EXTINF:-1 group-title="🦄高码率线路-③💥",广西卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",深圳卫视
+#EXTINF:-1 group-title="🦄高码率线路-③💥",深圳卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",东南卫视
+#EXTINF:-1 group-title="🦄高码率线路-③💥",东南卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",四川卫视
+#EXTINF:-1 group-title="🦄高码率线路-③💥",四川卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",天津卫视
+#EXTINF:-1 group-title="🦄高码率线路-③💥",天津卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",安徽卫视
+#EXTINF:-1 group-title="🦄高码率线路-③💥",安徽卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",山东卫视
+#EXTINF:-1 group-title="🦄高码率线路-③💥",山东卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",江西卫视
+#EXTINF:-1 group-title="🦄高码率线路-③💥",江西卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",河北卫视「IPV6
+#EXTINF:-1 group-title="🦄高码率线路-③💥",河北卫视「IPV6
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",河南卫视
+#EXTINF:-1 group-title="🦄高码率线路-③💥",河南卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",海南卫视
+#EXTINF:-1 group-title="🦄高码率线路-③💥",海南卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",湖北卫视
+#EXTINF:-1 group-title="🦄高码率线路-③💥",湖北卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",贵州卫视
+#EXTINF:-1 group-title="🦄高码率线路-③💥",贵州卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",辽宁卫视「IPV6
+#EXTINF:-1 group-title="🦄高码率线路-③💥",辽宁卫视「IPV6
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",重庆卫视
+#EXTINF:-1 group-title="🦄高码率线路-③💥",重庆卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",吉林卫视
+#EXTINF:-1 group-title="🦄高码率线路-③💥",吉林卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-#EXTINF:-1 group-title="独家线路-①",黑龙江卫视
+#EXTINF:-1 group-title="🦄高码率线路-③💥",黑龙江卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",CCTV1
+#EXTINF:-1 group-title="🦄高码率线路-④💥",CCTV1
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",CCTV2
+#EXTINF:-1 group-title="🦄高码率线路-④💥",CCTV2
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",CCTV3
+#EXTINF:-1 group-title="🦄高码率线路-④💥",CCTV3
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",CCTV4
+#EXTINF:-1 group-title="🦄高码率线路-④💥",CCTV4
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",CCTV5
+#EXTINF:-1 group-title="🦄高码率线路-④💥",CCTV5
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",CCTV5+
+#EXTINF:-1 group-title="🦄高码率线路-④💥",CCTV5+
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",CCTV6
+#EXTINF:-1 group-title="🦄高码率线路-④💥",CCTV6
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226010/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",CCTV7
+#EXTINF:-1 group-title="🦄高码率线路-④💥",CCTV7
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225733/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",CCTV8
+#EXTINF:-1 group-title="🦄高码率线路-④💥",CCTV8
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226008/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",CCTV9
+#EXTINF:-1 group-title="🦄高码率线路-④💥",CCTV9
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225734/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",CCTV10
+#EXTINF:-1 group-title="🦄高码率线路-④💥",CCTV10
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225730/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",CCTV11
+#EXTINF:-1 group-title="🦄高码率线路-④💥",CCTV11
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225597/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",CCTV12
+#EXTINF:-1 group-title="🦄高码率线路-④💥",CCTV12
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225731/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",CCTV13
+#EXTINF:-1 group-title="🦄高码率线路-④💥",CCTV13
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226011/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",CCTV14
+#EXTINF:-1 group-title="🦄高码率线路-④💥",CCTV14
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225732/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",CCTV15
+#EXTINF:-1 group-title="🦄高码率线路-④💥",CCTV15
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225601/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",CCTV16
+#EXTINF:-1 group-title="🦄高码率线路-④💥",CCTV16
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",CCTV17
+#EXTINF:-1 group-title="🦄高码率线路-④💥",CCTV17
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",黑龙江卫视
+#EXTINF:-1 group-title="🦄高码率线路-④💥",黑龙江卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226327/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",吉林卫视
+#EXTINF:-1 group-title="🦄高码率线路-④💥",吉林卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226397/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",辽宁卫视
+#EXTINF:-1 group-title="🦄高码率线路-④💥",辽宁卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226254/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",北京卫视
+#EXTINF:-1 group-title="🦄高码率线路-④💥",北京卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226450/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",天津卫视
+#EXTINF:-1 group-title="🦄高码率线路-④💥",天津卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226395/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",河北卫视
+#EXTINF:-1 group-title="🦄高码率线路-④💥",河北卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226406/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",河南卫视
+#EXTINF:-1 group-title="🦄高码率线路-④💥",河南卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226320/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",江苏卫视
+#EXTINF:-1 group-title="🦄高码率线路-④💥",江苏卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226310/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",浙江卫视
+#EXTINF:-1 group-title="🦄高码率线路-④💥",浙江卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226342/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",东方卫视
+#EXTINF:-1 group-title="🦄高码率线路-④💥",东方卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226345/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",安徽卫视
+#EXTINF:-1 group-title="🦄高码率线路-④💥",安徽卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226498/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",山东卫视
+#EXTINF:-1 group-title="🦄高码率线路-④💥",山东卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226456/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",湖北卫视
+#EXTINF:-1 group-title="🦄高码率线路-④💥",湖北卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226501/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",湖南卫视
+#EXTINF:-1 group-title="🦄高码率线路-④💥",湖南卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226430/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",江西卫视
+#EXTINF:-1 group-title="🦄高码率线路-④💥",江西卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226344/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",深圳卫视
+#EXTINF:-1 group-title="🦄高码率线路-④💥",深圳卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226510/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",四川卫视
+#EXTINF:-1 group-title="🦄高码率线路-④💥",四川卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226338/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",重庆卫视
+#EXTINF:-1 group-title="🦄高码率线路-④💥",重庆卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226463/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",广东卫视
+#EXTINF:-1 group-title="🦄高码率线路-④💥",广东卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226248/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",东南卫视
+#EXTINF:-1 group-title="🦄高码率线路-④💥",东南卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226341/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",贵州卫视
+#EXTINF:-1 group-title="🦄高码率线路-④💥",贵州卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226383/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",海南卫视
+#EXTINF:-1 group-title="🦄高码率线路-④💥",海南卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226465/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",云南卫视
+#EXTINF:-1 group-title="🦄高码率线路-④💥",云南卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226444/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",内蒙卫视
+#EXTINF:-1 group-title="🦄高码率线路-④💥",内蒙卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226389/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",宁夏卫视
+#EXTINF:-1 group-title="🦄高码率线路-④💥",宁夏卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226454/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",青海卫视
+#EXTINF:-1 group-title="🦄高码率线路-④💥",青海卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226323/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",山西卫视
+#EXTINF:-1 group-title="🦄高码率线路-④💥",山西卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226392/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",陕西卫视
+#EXTINF:-1 group-title="🦄高码率线路-④💥",陕西卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226457/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",西藏卫视
+#EXTINF:-1 group-title="🦄高码率线路-④💥",西藏卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226433/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",新疆卫视
+#EXTINF:-1 group-title="🦄高码率线路-④💥",新疆卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226460/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",兵团卫视
+#EXTINF:-1 group-title="🦄高码率线路-④💥",兵团卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226439/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",大湾卫视
+#EXTINF:-1 group-title="🦄高码率线路-④💥",大湾卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226442/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",卡酷少儿
+#EXTINF:-1 group-title="🦄高码率线路-④💥",卡酷少儿
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225654/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",CGTN
+#EXTINF:-1 group-title="🦄高码率线路-④💥",CGTN
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225604/index.m3u8
-#EXTINF:-1 group-title="独家线路-②",CGTN纪录
+#EXTINF:-1 group-title="🦄高码率线路-④💥",CGTN纪录
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225602/index.m3u8
-#EXTINF:-1 group-title="独家线路-③",CCTV1
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",CCTV1
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225816/index.m3u8
-#EXTINF:-1 group-title="独家线路-③",CCTV2
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",CCTV2
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
-#EXTINF:-1 group-title="独家线路-③",CCTV3
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",CCTV3
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225799/index.m3u8
-#EXTINF:-1 group-title="独家线路-③",CCTV4
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",CCTV4
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8
-#EXTINF:-1 group-title="独家线路-③",CCTV5
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",CCTV5
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225818/index.m3u8
-#EXTINF:-1 group-title="独家线路-③",CCTV5+
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",CCTV5+
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225507/index.m3u8
-#EXTINF:-1 group-title="独家线路-③",CCTV6
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",CCTV6
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225814/index.m3u8
-#EXTINF:-1 group-title="独家线路-③",CCTV7
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",CCTV7
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 group-title="独家线路-③",CCTV8
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",CCTV8
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225795/index.m3u8
-#EXTINF:-1 group-title="独家线路-③",CCTV9
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",CCTV9
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 group-title="独家线路-③",CCTV10
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",CCTV10
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 group-title="独家线路-③",CCTV11
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",CCTV11
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225517/index.m3u8
-#EXTINF:-1 group-title="独家线路-③",CCTV12
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",CCTV12
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 group-title="独家线路-③",CCTV13
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",CCTV13
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225812/index.m3u8
-#EXTINF:-1 group-title="独家线路-③",CCTV14
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",CCTV14
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 group-title="独家线路-③",CCTV15
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",CCTV15
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225513/index.m3u8
-#EXTINF:-1 group-title="独家线路-③",CCTV16
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",CCTV16
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225893/index.m3u8
-#EXTINF:-1 group-title="独家线路-③",CCTV17
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",CCTV17
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225708/index.m3u8
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",北京卫视
+http://111.14.181.15:9901/tsfile/live/0122_1.m3u8
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",天津卫视
+http://111.14.181.15:9901/tsfile/live/0135_1.m3u8
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",浙江卫视
+http://111.14.181.15:9901/tsfile/live/0124_1.m3u8
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",安徽卫视
+http://111.14.181.15:9901/tsfile/live/0130_1.m3u8
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",湖南卫视
+http://111.14.181.15:9901/tsfile/live/0128_1.m3u8
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",江苏卫视
+http://111.14.181.15:9901/tsfile/live/0127_1.m3u8
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",辽宁卫视
+http://111.14.181.15:9901/tsfile/live/0121_1.m3u8
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",东方卫视
+http://111.14.181.15:9901/tsfile/live/1020_1.m3u8
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",江西卫视
+http://111.14.181.15:9901/tsfile/live/0138_1.m3u8
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",四川卫视
+http://111.14.181.15:9901/tsfile/live/0123_1.m3u8
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",深圳卫视
+http://111.14.181.15:9901/tsfile/live/0126_1.m3u8
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",河南卫视
+http://111.14.181.15:9901/tsfile/live/0139_1.m3u8
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",河北卫视
+http://111.14.181.15:9901/tsfile/live/0117_1.m3u8
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",贵州卫视
+http://111.14.181.15:9901/tsfile/live/0120_1.m3u8
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",湖北卫视
+http://111.14.181.15:9901/tsfile/live/0132_1.m3u8
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",重庆卫视
+http://111.14.181.15:9901/tsfile/live/0142_1.m3u8
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",吉林卫视
+http://111.14.181.15:9901/tsfile/live/0116_1.m3u8
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",东南卫视
+http://111.14.181.15:9901/tsfile/live/0137_1.m3u8
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",广西卫视
+http://111.14.181.15:9901/tsfile/live/0113_1.m3u8
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",陕西卫视
+http://111.14.181.15:9901/tsfile/live/0136_1.m3u8
+#EXTINF:-1 group-title="🦄高码率线路-⑤💥",广东卫视
+http://111.14.181.15:9901/tsfile/live/0125_1.m3u8
 #EXTINF:-1 group-title="🦄电影频道🎥",超级电影
 http://39.134.65.164/PLTV/88888888/224/3221225644/1.m3u8
 #EXTINF:-1 group-title="🦄电影频道🎥",动作电影
@@ -854,10 +912,6 @@ http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
 #EXTINF:-1 group-title="🦄电影频道🎥",神乐影院-2台
 https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
-#EXTINF:-1 group-title="🦄电影频道🎥",万州影视
-http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
-#EXTINF:-1 group-title="🦄电影频道🎥",万州影视
-http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
 #EXTINF:-1 group-title="🦄电影频道🎥",溧水影视
 http://live.lsrmw.cn/ysyl/sd/live.m3u8
 #EXTINF:-1 group-title="🦄电影频道🎥",吉林影视
@@ -920,8 +974,6 @@ http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8
 https://jwliveqxzb.hebyun.com.cn/yspd/yspd.m3u8
 #EXTINF:-1 group-title="🦄电影频道🎥",一号影厅
 http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
-#EXTINF:-1 group-title="🦄电影频道🎥",二号影厅
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 group-title="🦄电影频道🎥",三号影厅
 http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 #EXTINF:-1 group-title="斗鱼轮播",警匪电影
@@ -966,136 +1018,136 @@ http://tc-tct.douyucdn2.cn/dyliveflv1a/3226194r73pCQamR_2000.m3u8
 http://tc-tct.douyucdn2.cn/dyliveflv1a/4615959rUFUtiJ3v.m3u8
 #EXTINF:-1 group-title="斗鱼轮播",天涯明月刀
 http://tc-tct.douyucdn2.cn/dyliveflv1a/447646rHZDeSGn5D_2000.m3u8
-#EXTINF:-1 group-title="斗鱼轮播",封神榜
-https://live.metshop.top/yy/1353426319
-#EXTINF:-1 group-title="斗鱼轮播",我爱我家
-https://live.metshop.top/yy/1382735557
-#EXTINF:-1 group-title="斗鱼轮播",少年包青天1
-https://live.metshop.top/yy/38498680
-#EXTINF:-1 group-title="斗鱼轮播",津门飞鹰
-https://live.metshop.top/yy/1354143942
-#EXTINF:-1 group-title="斗鱼轮播",国内战争电影
-https://live.metshop.top/yy/1382736865
-#EXTINF:-1 group-title="斗鱼轮播",欢乐颂
-https://live.metshop.top/yy/1382735624
-#EXTINF:-1 group-title="斗鱼轮播",知否知否应是绿肥红瘦
-https://live.metshop.top/yy/21881901
-#EXTINF:-1 group-title="斗鱼轮播",仙剑奇侠传
-https://live.metshop.top/yy/1382749903
-#EXTINF:-1 group-title="斗鱼轮播",倚天屠龙记
-https://live.metshop.top/yy/1449856066
-#EXTINF:-1 group-title="斗鱼轮播",天龙八部
-https://live.metshop.top/yy/1351814644
-#EXTINF:-1 group-title="斗鱼轮播",笑傲江湖
-https://live.metshop.top/yy/1354936128
-#EXTINF:-1 group-title="斗鱼轮播",鹿鼎记
-https://live.metshop.top/yy/28265277
-#EXTINF:-1 group-title="斗鱼轮播",寻秦记
-https://live.metshop.top/yy/1382749900
-#EXTINF:-1 group-title="斗鱼轮播",封神榜
-https://live.metshop.top/yy/1353426319
-#EXTINF:-1 group-title="斗鱼轮播",新白娘子传奇
-https://live.metshop.top/yy/1354490667
-#EXTINF:-1 group-title="斗鱼轮播",大时代
-https://live.metshop.top/yy/1354930891
-#EXTINF:-1 group-title="斗鱼轮播",法证先锋
-https://live.metshop.top/yy/1354930965
-#EXTINF:-1 group-title="斗鱼轮播",飞虎之潜行极战
-https://live.metshop.top/yy/1354932420
-#EXTINF:-1 group-title="斗鱼轮播",放羊的星星
-https://live.metshop.top/yy/1355260662
-#EXTINF:-1 group-title="斗鱼轮播",天道
-https://live.metshop.top/yy/1382735574
-#EXTINF:-1 group-title="斗鱼轮播",新白娘子传奇-修复版
-https://live.metshop.top/yy/1354930969
-#EXTINF:-1 group-title="斗鱼轮播",钟馗传说
-https://live.metshop.top/yy/1382736839
-#EXTINF:-1 group-title="斗鱼轮播",红楼梦
-https://live.metshop.top/yy/1382745084
-#EXTINF:-1 group-title="斗鱼轮播",三国演义
-https://live.metshop.top/yy/1354936241
-#EXTINF:-1 group-title="斗鱼轮播",少年包青天
-https://live.metshop.top/yy/38498680
-#EXTINF:-1 group-title="斗鱼轮播",宰相刘罗锅
-https://live.metshop.top/yy/1353892468
-#EXTINF:-1 group-title="斗鱼轮播",雍正王朝
-https://live.metshop.top/yy/23206872
-#EXTINF:-1 group-title="斗鱼轮播",金装四大才子
-https://live.metshop.top/yy/1354926600
-#EXTINF:-1 group-title="斗鱼轮播",公主嫁到
-https://live.metshop.top/yy/1382736915
-#EXTINF:-1 group-title="斗鱼轮播",耀舞长安
-https://live.metshop.top/yy/1382741640
-#EXTINF:-1 group-title="斗鱼轮播",上海滩
-https://live.metshop.top/yy/1382745184
-#EXTINF:-1 group-title="斗鱼轮播",平凡岁月
-https://live.metshop.top/yy/1382745117
-#EXTINF:-1 group-title="斗鱼轮播",苦乐村官
-https://live.metshop.top/yy/1382736864
-#EXTINF:-1 group-title="斗鱼轮播",金星脱口秀
-https://live.metshop.top/yy/1354932407
-#EXTINF:-1 group-title="斗鱼轮播",爱情公寓
-http://mywlkj.ddns.net:754/tv/douyu.php?id=6863367
-#EXTINF:-1 group-title="斗鱼轮播",新三国1
-http://mywlkj.ddns.net:754/tv/douyu.php?id=5908256
-#EXTINF:-1 group-title="斗鱼轮播",邵氏影院
-http://mywlkj.ddns.net:754/tv/douyu.php?id=4246519
-#EXTINF:-1 group-title="斗鱼轮播",华语房
-http://mywlkj.ddns.net:754/tv/douyu.php?id=85894
-#EXTINF:-1 group-title="斗鱼轮播",功夫港片
-http://mywlkj.ddns.net:754/tv/douyu.php?id=3637765
-#EXTINF:-1 group-title="斗鱼轮播",桃花影院
-http://mywlkj.ddns.net:754/tv/douyu.php?id=7305938
-#EXTINF:-1 group-title="斗鱼轮播",贝贝影院
-http://mywlkj.ddns.net:754/tv/douyu.php?id=431460
-#EXTINF:-1 group-title="斗鱼轮播",幸运影院
-http://mywlkj.ddns.net:754/tv/douyu.php?id=7270927
-#EXTINF:-1 group-title="斗鱼轮播",野外生存
-http://mywlkj.ddns.net:754/tv/douyu.php?id=1339207
-#EXTINF:-1 group-title="斗鱼轮播",经典港剧
-http://mywlkj.ddns.net:754/tv/douyu.php?id=4549169
-#EXTINF:-1 group-title="斗鱼轮播",表妹影院
-http://mywlkj.ddns.net:754/tv/douyu.php?id=5423
-#EXTINF:-1 group-title="斗鱼轮播",科幻动作灾难
-http://mywlkj.ddns.net:754/tv/douyu.php?id=248753
-#EXTINF:-1 group-title="斗鱼轮播",港式恐怖
-http://mywlkj.ddns.net:754/tv/douyu.php?id=3637726
-#EXTINF:-1 group-title="斗鱼轮播",喜剧经典
-http://mywlkj.ddns.net:754/tv/douyu.php?id=9650887
-#EXTINF:-1 group-title="斗鱼轮播",华语动作电影
-http://mywlkj.ddns.net:754/tv/douyu.php?id=1504768
-#EXTINF:-1 group-title="斗鱼轮播",带你看大片
-http://mywlkj.ddns.net:754/tv/douyu.php?id=2758565
-#EXTINF:-1 group-title="斗鱼轮播",海绵与大星
-http://mywlkj.ddns.net:754/tv/douyu.php?id=2250349
-#EXTINF:-1 group-title="斗鱼轮播",看经典
-http://mywlkj.ddns.net:754/tv/douyu.php?id=7314294
-#EXTINF:-1 group-title="斗鱼轮播",热血动漫
-http://mywlkj.ddns.net:754/tv/douyu.php?id=206858
-#EXTINF:-1 group-title="斗鱼轮播",周星驰电影
-http://mywlkj.ddns.net:754/tv/douyu.php?id=3990812
-#EXTINF:-1 group-title="斗鱼轮播",刘德华电影2
-http://mywlkj.ddns.net:754/tv/douyu.php?id=8985415
-#EXTINF:-1 group-title="斗鱼轮播",女神金电影
-http://mywlkj.ddns.net:754/tv/douyu.php?id=747764
-#EXTINF:-1 group-title="斗鱼轮播",林林影院
-http://mywlkj.ddns.net:754/tv/douyu.php?id=9652323
-#EXTINF:-1 group-title="斗鱼轮播",漫威电影
-http://mywlkj.ddns.net:754/tv/douyu.php?id=4282654
-#EXTINF:-1 group-title="斗鱼轮播",怀旧90
-http://mywlkj.ddns.net:754/tv/douyu.php?id=9275635
-#EXTINF:-1 group-title="斗鱼轮播",高帧影片
-http://mywlkj.ddns.net:754/tv/douyu.php?id=6763930
-#EXTINF:-1 group-title="斗鱼轮播",米娅电影
-http://mywlkj.ddns.net:754/tv/douyu.php?id=6537888
-#EXTINF:-1 group-title="斗鱼轮播",小九电影
-http://mywlkj.ddns.net:754/tv/douyu.php?id=7136517
-#EXTINF:-1 group-title="斗鱼轮播",電影-愛看電影
-http://mywlkj.ddns.net:754/tv/douyu.php?id=432071
-#EXTINF:-1 group-title="斗鱼轮播",電影-粵語電影 1
-http://mywlkj.ddns.net:754/tv/douyu.php?id=2466104
-#EXTINF:-1 group-title="斗鱼轮播",電影-粵語綜藝
-http://mywlkj.ddns.net:754/tv/douyu.php?id=7919720
+#EXTINF:-1 group-title="斗鱼轮播",警匪电影
+https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",香港经典
+https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",国外大片
+http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",经典电影
+http://tc-tct.douyucdn2.cn/dyliveflv1a/85894rmovieChow_2000p.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",动漫轮播
+http://tc-tct.douyucdn2.cn/dyliveflv1a/206858rtesHKjl.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",生死狙击
+http://tc-tct.douyucdn2.cn/dyliveflv1a/7439056rYiHdgWPW_2000.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",穿越火线1
+http://tc-tct.douyucdn2.cn/dyliveflv1a/605964rzzgGEOZHr_2000.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",穿越火线2
+http://tc-tct.douyucdn2.cn/dyliveflv1a/999rx47n2pp8pKD_2000.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",小品轮播
+http://tc-tct.douyucdn2.cn/dyliveflv1a/10153463r0oBSmAG.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",游戏轮播1
+http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",游戏轮播2
+http://tc-tct.douyucdn2.cn/dyliveflv1a/9662891rlaeIAP3A_2000.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",JJ斗地主
+http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",周星驰
+http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",跑跑卡丁车
+http://tc-tct.douyucdn2.cn/dyliveflv1a/7722576rWHyhVf6Z_2000.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",CF手游
+http://tc-tct.douyucdn2.cn/dyliveflv1a/868191rjy69PsEAz_2000.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",QQ飞车
+http://tc-tct.douyucdn2.cn/dyliveflv1a/5040227raXQRnvWY_2000.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",游戏轮播
+http://tc-tct.douyucdn2.cn/dyliveflv1a/522423rw7NgKaYl9_2000p.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",绝地求生
+http://tc-tct.douyucdn2.cn/dyliveflv1a/100rPCLP_2000.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",DOTA2
+http://tc-tct.douyucdn2.cn/dyliveflv1a/288016rlols5_2000.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",游戏频道2
+http://tc-tct.douyucdn2.cn/dyliveflv1a/3226194r73pCQamR_2000.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",狼人杀
+http://tc-tct.douyucdn2.cn/dyliveflv1a/4615959rUFUtiJ3v.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",CSGO
+http://tc-tct.douyucdn2.cn/dyliveflv1a/668668rKGc0VsmNo.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",天涯明月刀
+http://tc-tct.douyucdn2.cn/dyliveflv1a/447646rHZDeSGn5D_2000.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",香港经典
+http://open-tct.douyucdn2.cn/live/122402rK7MO9bXSq.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",电视剧频道1
+http://zby.xjqxz.top/dsdsj1/live.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",电视剧频道2
+http://zby.xjqxz.top/dsdsj2/live.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",电视剧频道3
+http://zby.xjqxz.top/dsdsj3/live.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",电视剧频道4
+http://zby.xjqxz.top/gzwxj/live.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",电视剧频道5
+http://zby.xjqxz.top/gzgdj/live.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",电视剧频道6
+http://zby.xjqxz.top/gzdsj1/live.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",电视剧频道7
+http://zby.xjqxz.top/gzdsj2/live.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",电视剧频道8
+http://zby.xjqxz.top/gzdsj3/live.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",电视剧频道9
+http://zby.xjqxz.top/gzdsj4/live.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",电视剧频道10
+http://zby.xjqxz.top/gzdsj5/live.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",电视剧频道11
+http://zby.xjqxz.top/kzzypd2/live.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",电视剧频道12
+http://zby.xjqxz.top/kzzypd/live.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",电视剧频道13
+http://zby.xjqxz.top/dzzypd/live.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",电视剧频道14
+http://zby.xjqxz.top/dzzypd2/live.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",电视剧频道15
+http://zby.xjqxz.top/dzzypd3/live.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",康熙微服私访记
+http://zby.xjqxz.top/kxwfxhj/live.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",甄嬛传
+http://zby.xjqxz.top/live8/live.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",电影频道5
+http://zby.xjqxz.top/live5/live.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",电影频道11
+http://zby.xjqxz.top/live11/live.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",电影频道12
+http://zby.xjqxz.top/live12/live.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",电影频道18
+http://zby.xjqxz.top/live18/live.m3u8
+#EXTINF:-1 group-title="斗鱼轮播",埋堆堆1
+http://43.138.170.29:35455/huya/23749096
+#EXTINF:-1 group-title="斗鱼轮播",埋堆堆2
+http://43.138.170.29:35455/huya/23735126
+#EXTINF:-1 group-title="斗鱼轮播",埋堆堆3
+http://43.138.170.29:35455/huya/23865152
+#EXTINF:-1 group-title="斗鱼轮播",埋堆堆4
+http://43.138.170.29:35455/huya/23903196
+#EXTINF:-1 group-title="斗鱼轮播",埋堆堆5
+http://43.138.170.29:35455/huya/23740156
+#EXTINF:-1 group-title="斗鱼轮播",埋堆堆6
+http://43.138.170.29:35455/huya/23728660
+#EXTINF:-1 group-title="斗鱼轮播",埋堆堆8
+http://43.138.170.29:35455/huya/23865058
+#EXTINF:-1 group-title="斗鱼轮播",埋堆堆9
+http://43.138.170.29:35455/huya/23734183
+#EXTINF:-1 group-title="斗鱼轮播",埋堆堆10
+http://43.138.170.29:35455/huya/23749068
+#EXTINF:-1 group-title="斗鱼轮播",埋堆堆11
+http://43.138.170.29:35455/huya/23865036
+#EXTINF:-1 group-title="斗鱼轮播",埋堆堆23
+http://43.138.170.29:35455/huya/23734246
+#EXTINF:-1 group-title="斗鱼轮播",埋堆堆28
+http://43.138.170.29:35455/huya/23863796
+#EXTINF:-1 group-title="斗鱼轮播",埋堆堆30
+http://43.138.170.29:35455/huya/23749083
+#EXTINF:-1 group-title="斗鱼轮播",埋堆堆38
+http://43.138.170.29:35455/huya/23824164
+#EXTINF:-1 group-title="斗鱼轮播",埋堆堆42
+http://43.138.170.29:35455/huya/23863804
+#EXTINF:-1 group-title="斗鱼轮播",埋堆堆47
+http://43.138.170.29:35455/huya/23865142
+#EXTINF:-1 group-title="斗鱼轮播",埋堆堆49
+http://43.138.170.29:35455/huya/23903183
+#EXTINF:-1 group-title="斗鱼轮播",埋堆堆54
+http://43.138.170.29:35455/huya/23903130
+#EXTINF:-1 group-title="斗鱼轮播",埋堆堆56
+http://43.138.170.29:35455/huya/23734169
+#EXTINF:-1 group-title="斗鱼轮播",埋堆堆61
+http://43.138.170.29:35455/huya/23728674
 #EXTINF:-1 group-title="明星轮播",电影_星爷
 http://cfss.cc/cdn/hy/11342412.flv
 #EXTINF:-1 group-title="明星轮播",电影_英叔
@@ -1338,126 +1390,6 @@ http://cfss.cc/cdn/hy/23865058.flv
 http://cfss.cc/cdn/hy/23865161.flv
 #EXTINF:-1 group-title="明星轮播",梁朝伟版鹿鼎记
 http://cfss.cc/cdn/hy/23734183.flv
-#EXTINF:-1 group-title="明星轮播",周星星
-https://www.goodiptv.club/huya/11342412
-#EXTINF:-1 group-title="明星轮播",痞子帅叔叔
-https://www.goodiptv.club/huya/11342433
-#EXTINF:-1 group-title="明星轮播",我是詹密
-https://www.goodiptv.club/huya/11342439
-#EXTINF:-1 group-title="明星轮播",小木子先生丶
-https://www.goodiptv.club/huya/11342396
-#EXTINF:-1 group-title="明星轮播",狂野女孩i了吗
-https://www.goodiptv.club/huya/21059559
-#EXTINF:-1 group-title="明星轮播",微竞-虫虫
-https://www.goodiptv.club/huya/23025
-#EXTINF:-1 group-title="明星轮播",阿斗归来了
-https://www.goodiptv.club/huya/13303478
-#EXTINF:-1 group-title="明星轮播",依依妹妹在等你
-https://www.goodiptv.club/huya/138531
-#EXTINF:-1 group-title="明星轮播",鯎爺
-https://www.goodiptv.club/huya/11352944
-#EXTINF:-1 group-title="明星轮播",订阅我就发财
-https://www.goodiptv.club/huya/29465863
-#EXTINF:-1 group-title="明星轮播",正恒、熙熙-
-https://www.goodiptv.club/huya/818341
-#EXTINF:-1 group-title="明星轮播",灯泡妹妹
-https://www.goodiptv.club/huya/610617
-#EXTINF:-1 group-title="明星轮播",瞬间爆炸
-https://www.goodiptv.club/huya/11352960
-#EXTINF:-1 group-title="明星轮播",香港喜剧大全
-https://www.goodiptv.club/huya/23865080
-#EXTINF:-1 group-title="明星轮播",陈翔六点半
-https://www.goodiptv.club/huya/11274154
-#EXTINF:-1 group-title="明星轮播",心动--Umi菜宝
-https://www.goodiptv.club/huya/25154601
-#EXTINF:-1 group-title="明星轮播",口口甜
-https://www.goodiptv.club/huya/25701671
-#EXTINF:-1 group-title="明星轮播",麻花糖
-https://www.goodiptv.club/huya/26182091
-#EXTINF:-1 group-title="明星轮播",野原的一家
-https://www.goodiptv.club/huya/11352970
-#EXTINF:-1 group-title="明星轮播",三里红
-https://www.goodiptv.club/huya/29551429
-#EXTINF:-1 group-title="明星轮播",武林萌主唐小姐
-https://www.goodiptv.club/huya/11336726
-#EXTINF:-1 group-title="明星轮播",美少女咸儿
-https://www.goodiptv.club/huya/11336572
-#EXTINF:-1 group-title="明星轮播",海绵宝宝宝
-https://www.goodiptv.club/huya/11352919
-#EXTINF:-1 group-title="明星轮播",小呀嘛小二郎哈
-https://www.goodiptv.club/huya/29788905
-#EXTINF:-1 group-title="明星轮播",微笑影视
-https://www.goodiptv.club/huya/25256065
-#EXTINF:-1 group-title="明星轮播",余小二哦
-https://www.goodiptv.club/huya/10279885
-#EXTINF:-1 group-title="明星轮播",心疼得抱住胖胖的自己
-https://www.goodiptv.club/huya/11342425
-#EXTINF:-1 group-title="明星轮播",瞎子的娇妻
-https://www.goodiptv.club/huya/29774370
-#EXTINF:-1 group-title="明星轮播",红茶妹妹
-https://www.goodiptv.club/huya/11336592
-#EXTINF:-1 group-title="明星轮播",鱼跃-黑糖
-https://www.goodiptv.club/huya/138634
-#EXTINF:-1 group-title="明星轮播",超能力是放pi
-https://www.goodiptv.club/huya/11352906
-#EXTINF:-1 group-title="明星轮播",扁豆看电影
-https://www.goodiptv.club/huya/16028551
-#EXTINF:-1 group-title="明星轮播",7喜先生
-https://www.goodiptv.club/huya/11342421
-#EXTINF:-1 group-title="明星轮播",个人向
-https://www.goodiptv.club/huya/11352963
-#EXTINF:-1 group-title="明星轮播",黑豆咖啡
-https://www.goodiptv.club/huya/25098954
-#EXTINF:-1 group-title="明星轮播",斗鱼电影22
-http://43.138.170.29:35455/douyu/1979257
-#EXTINF:-1 group-title="明星轮播",斗鱼电影26
-http://43.138.170.29:35455/douyu/8413092
-#EXTINF:-1 group-title="明星轮播",斗鱼电影71
-http://43.138.170.29:35455/douyu/2987100
-#EXTINF:-1 group-title="明星轮播",斗鱼电影81
-http://43.138.170.29:35455/douyu/3870925
-#EXTINF:-1 group-title="明星轮播",斗鱼电影97
-http://43.138.170.29:35455/douyu/8867878
-#EXTINF:-1 group-title="明星轮播",斗鱼电影105
-http://43.138.170.29:35455/douyu/4290711
-#EXTINF:-1 group-title="明星轮播",斗鱼电影110
-http://43.138.170.29:35455/douyu/8415464
-#EXTINF:-1 group-title="明星轮播",斗鱼电影111
-http://43.138.170.29:35455/douyu/8475821
-#EXTINF:-1 group-title="明星轮播",斗鱼电影113
-http://43.138.170.29:35455/douyu/5522351
-#EXTINF:-1 group-title="明星轮播",斗鱼电影114
-http://43.138.170.29:35455/douyu/562225
-#EXTINF:-1 group-title="明星轮播",斗鱼电影116
-http://43.138.170.29:35455/douyu/8651489
-#EXTINF:-1 group-title="明星轮播",斗鱼电影117
-http://43.138.170.29:35455/douyu/338759
-#EXTINF:-1 group-title="明星轮播",斗鱼电影120
-http://43.138.170.29:35455/douyu/5354713
-#EXTINF:-1 group-title="明星轮播",斗鱼电影125
-http://43.138.170.29:35455/douyu/5067952
-#EXTINF:-1 group-title="明星轮播",斗鱼电影130
-http://43.138.170.29:35455/douyu/8014467
-#EXTINF:-1 group-title="明星轮播",斗鱼电影134
-http://43.138.170.29:35455/douyu/6725858
-#EXTINF:-1 group-title="明星轮播",斗鱼电影135
-http://43.138.170.29:35455/douyu/7476264
-#EXTINF:-1 group-title="明星轮播",斗鱼电影137
-http://43.138.170.29:35455/douyu/1274132
-#EXTINF:-1 group-title="明星轮播",斗鱼电影141
-http://43.138.170.29:35455/douyu/7623292
-#EXTINF:-1 group-title="明星轮播",斗鱼电影145
-http://43.138.170.29:35455/douyu/5033502
-#EXTINF:-1 group-title="明星轮播",斗鱼电影151
-http://43.138.170.29:35455/douyu/426517
-#EXTINF:-1 group-title="明星轮播",斗鱼电影153
-http://43.138.170.29:35455/douyu/8799435
-#EXTINF:-1 group-title="明星轮播",斗鱼电影158
-http://43.138.170.29:35455/douyu/8788687
-#EXTINF:-1 group-title="明星轮播",斗鱼电影165
-http://43.138.170.29:35455/douyu/8705754
-#EXTINF:-1 group-title="明星轮播",斗鱼电影169
-http://43.138.170.29:35455/douyu/7528160
 #EXTINF:-1 group-title="虎牙轮播",周星星
 https://www.goodiptv.club/huya/11342412
 #EXTINF:-1 group-title="虎牙轮播",痞子帅叔叔
@@ -2792,1707 +2724,201 @@ https://www.goodiptv.club/huya/24648680
 https://www.goodiptv.club/huya/660204
 #EXTINF:-1 group-title="虎牙轮播",JS丶雨秋-太子府
 https://www.goodiptv.club/huya/24870267
-#EXTINF:-1 group-title="经典电视剧",绝版电影 港片女鬼
-https://lunbo.freetv.top/yy/1455988450
-#EXTINF:-1 group-title="经典电视剧",港片 喜剧 动作
-https://lunbo.freetv.top/yy/1355480591
-#EXTINF:-1 group-title="经典电视剧",幸福满院
-https://lunbo.freetv.top/yy/1382737886
-#EXTINF:-1 group-title="经典电视剧",武林外传 超清
-https://lunbo.freetv.top/yy/21092633
-#EXTINF:-1 group-title="经典电视剧",【鹿鼎记】金庸经典
-https://lunbo.freetv.top/yy/28265277
-#EXTINF:-1 group-title="经典电视剧",【狂飙2老默】首播
-https://lunbo.freetv.top/yy/1354790484
-#EXTINF:-1 group-title="经典电视剧",经典鬼片3000部
-https://lunbo.freetv.top/yy/29460894
-#EXTINF:-1 group-title="经典电视剧",古惑仔
-https://lunbo.freetv.top/yy/1458015189
-#EXTINF:-1 group-title="经典电视剧",混沌钟9声响
-https://lunbo.freetv.top/yy/1382881708
-#EXTINF:-1 group-title="经典电视剧",济公游记
-https://lunbo.freetv.top/yy/1355265814
-#EXTINF:-1 group-title="经典电视剧",小沈阳春晚小品
-https://lunbo.freetv.top/yy/1382749941
-#EXTINF:-1 group-title="经典电视剧",狂飙
-https://lunbo.freetv.top/yy/1382754187
-#EXTINF:-1 group-title="经典电视剧",【战狼3吴京】首播
-https://lunbo.freetv.top/yy/1456668939
-#EXTINF:-1 group-title="经典电视剧",武林外传
-https://lunbo.freetv.top/yy/1355652820
-#EXTINF:-1 group-title="经典电视剧",纪晓岚
-https://lunbo.freetv.top/yy/1354143978
-#EXTINF:-1 group-title="经典电视剧",打狗棍  4K超清
-https://lunbo.freetv.top/yy/39736069
-#EXTINF:-1 group-title="经典电视剧",少年包青天1~3蓝光版
-https://lunbo.freetv.top/yy/38498680
-#EXTINF:-1 group-title="经典电视剧",家花与野花
-https://lunbo.freetv.top/yy/1354420982
-#EXTINF:-1 group-title="经典电视剧",【盜暮笔记】24h
-https://lunbo.freetv.top/yy/1356373644
-#EXTINF:-1 group-title="经典电视剧",港片电影集
-https://lunbo.freetv.top/yy/1455225203
-#EXTINF:-1 group-title="经典电视剧",火凤凰之战狼七
-https://lunbo.freetv.top/yy/1463088777
-#EXTINF:-1 group-title="经典电视剧",林正英电影
-https://lunbo.freetv.top/yy/1382841203
-#EXTINF:-1 group-title="经典电视剧",赵本山《蓝光版》
-https://lunbo.freetv.top/yy/32160832
-#EXTINF:-1 group-title="经典电视剧",雪豹
-https://lunbo.freetv.top/yy/28099939
-#EXTINF:-1 group-title="经典电视剧",隋唐英雄传
-https://lunbo.freetv.top/yy/1352475619
-#EXTINF:-1 group-title="经典电视剧",鹊刀门
-https://lunbo.freetv.top/yy/1355344777
-#EXTINF:-1 group-title="经典电视剧",英叔僵尸 3000部
-https://lunbo.freetv.top/yy/1353685311
-#EXTINF:-1 group-title="经典电视剧",狂飙
-http://43.138.170.29:35455/yy/1382754187
-#EXTINF:-1 group-title="经典电视剧",征服
-http://43.138.170.29:35455/douyu/2726977
-#EXTINF:-1 group-title="经典电视剧",渴望
-http://43.138.170.29:35455/yy/1354930963
-#EXTINF:-1 group-title="经典电视剧",风筝
-http://43.138.170.29:35455/yy/1382828770
-#EXTINF:-1 group-title="经典电视剧",顺娘
-http://43.138.170.29:35455/yy/1354930945
-#EXTINF:-1 group-title="经典电视剧",富贵
-http://43.138.170.29:35455/yy/1354926537
+#EXTINF:-1 group-title="经典电视剧",剧集_老三国
+http://cfss.cc/cdn/hy/11602081.flv
+#EXTINF:-1 group-title="经典电视剧",剧集_新三国
+http://cfss.cc/cdn/hy/11352944.flv
+#EXTINF:-1 group-title="经典电视剧",剧集_新水浒
+http://cfss.cc/cdn/hy/11342384.flv
+#EXTINF:-1 group-title="经典电视剧",剧集_纪晓岚
+http://cfss.cc/cdn/hy/11342396.flv
+#EXTINF:-1 group-title="经典电视剧",剧集_庆余年
+http://cfss.cc/cdn/hy/11352960.flv
+#EXTINF:-1 group-title="经典电视剧",剧集_雍正王朝
+http://cfss.cc/cdn/hy/11342439.flv
+#EXTINF:-1 group-title="经典电视剧",剧集_士兵突击
+http://cfss.cc/cdn/hy/11342430.flv
+#EXTINF:-1 group-title="经典电视剧",剧集_爱情公寓
+http://cfss.cc/cdn/hy/11336726.flv
+#EXTINF:-1 group-title="经典电视剧",剧集_家有儿女
+http://cfss.cc/cdn/hy/11352872.flv
+#EXTINF:-1 group-title="经典电视剧",剧集_武林外传
+http://cfss.cc/cdn/hy/21059598.flv
+#EXTINF:-1 group-title="经典电视剧",剧集_地下交通站
+http://cfss.cc/cdn/hy/11342433
+#EXTINF:-1 group-title="经典电视剧",剧集_邻里一家亲
+http://cfss.cc/cdn/hy/11342426
+#EXTINF:-1 group-title="经典电视剧",封神榜
+http://43.138.170.29:35455/yy/1353426319
+#EXTINF:-1 group-title="经典电视剧",新白娘子传奇
+http://43.138.170.29:35455/yy/1354490667
+#EXTINF:-1 group-title="经典电视剧",大时代
+http://43.138.170.29:35455/yy/1354930891
+#EXTINF:-1 group-title="经典电视剧",法证先锋
+http://43.138.170.29:35455/yy/1354930965
+#EXTINF:-1 group-title="经典电视剧",飞虎之潜行极战
+http://43.138.170.29:35455/yy/1354932420
+#EXTINF:-1 group-title="经典电视剧",放羊的星星
+http://43.138.170.29:35455/yy/1355260662
 #EXTINF:-1 group-title="经典电视剧",天道
 http://43.138.170.29:35455/yy/1382735574
-#EXTINF:-1 group-title="经典电视剧",黑冰
-http://43.138.170.29:35455/yy/1354932427
-#EXTINF:-1 group-title="经典电视剧",金婚
-http://43.138.170.29:35455/yy/1382828768
-#EXTINF:-1 group-title="经典电视剧",马大帅
-http://43.138.170.29:35455/yy/1353782648
-#EXTINF:-1 group-title="经典电视剧",都挺好
-http://43.138.170.29:35455/yy/1382736892
-#EXTINF:-1 group-title="经典电视剧",包青天
-http://43.138.170.29:35455/yy/463153
-#EXTINF:-1 group-title="经典电视剧",朱元璋
-http://43.138.170.29:35455/douyu/308752
-#EXTINF:-1 group-title="经典电视剧",李三枪
-http://43.138.170.29:35455/yy/1354936122
-#EXTINF:-1 group-title="经典电视剧",上海滩
-http://43.138.170.29:35455/yy/1382745184
-#EXTINF:-1 group-title="经典电视剧",好先生
-http://43.138.170.29:35455/douyu/9650792
-#EXTINF:-1 group-title="经典电视剧",叛逆者
-http://43.138.170.29:35455/yy/1382736868
-#EXTINF:-1 group-title="经典电视剧",宫心计
-http://43.138.170.29:35455/yy/1354932429
-#EXTINF:-1 group-title="经典电视剧",伪装者
-http://43.138.170.29:35455/yy/1382851593
-#EXTINF:-1 group-title="经典电视剧",小欢喜
-http://43.138.170.29:35455/yy/1382737888
-#EXTINF:-1 group-title="经典电视剧",闯关东
-http://43.138.170.29:35455/douyu/8787737
-#EXTINF:-1 group-title="经典电视剧",流金岁月
-http://43.138.170.29:35455/yy/1382736891
-#EXTINF:-1 group-title="经典电视剧",传奇英雄
-http://43.138.170.29:35455/yy/1382735578
-#EXTINF:-1 group-title="经典电视剧",勇敢的心
-http://43.138.170.29:35455/yy/18853
-#EXTINF:-1 group-title="经典电视剧",康熙王朝
-http://43.138.170.29:35455/yy/1382851583
-#EXTINF:-1 group-title="经典电视剧",正阳门下
-http://43.138.170.29:35455/yy/1382851588
-#EXTINF:-1 group-title="经典电视剧",武林外传
-http://43.138.170.29:35455/yy/411376
-#EXTINF:-1 group-title="经典电视剧",济公游记
-http://43.138.170.29:35455/yy/21482
-#EXTINF:-1 group-title="经典电视剧",新封神榜
-http://43.138.170.29:35455/yy/31128
-#EXTINF:-1 group-title="经典电视剧",插翅难逃
-http://43.138.170.29:35455/yy/23402146
-#EXTINF:-1 group-title="经典电视剧",无敌县令
-http://43.138.170.29:35455/yy/1354932390
-#EXTINF:-1 group-title="经典电视剧",魔幻手机
-http://43.138.170.29:35455/yy/1382735544
-#EXTINF:-1 group-title="经典电视剧",法正先锋
-http://43.138.170.29:35455/yy/1354930939
-#EXTINF:-1 group-title="经典电视剧",水月洞天
-http://43.138.170.29:35455/yy/1462996362
-#EXTINF:-1 group-title="经典电视剧",汉武大帝
-http://43.138.170.29:35455/yy/1355260855
-#EXTINF:-1 group-title="经典电视剧",我爱我家
-http://43.138.170.29:35455/yy/1356212303
-#EXTINF:-1 group-title="经典电视剧",读心神探
-http://43.138.170.29:35455/yy/1382851589
-#EXTINF:-1 group-title="经典电视剧",冲上云霄
-http://43.138.170.29:35455/yy/1382736833
-#EXTINF:-1 group-title="经典电视剧",大江大河
-http://43.138.170.29:35455/yy/1382736797
-#EXTINF:-1 group-title="经典电视剧",隋唐演义
-http://43.138.170.29:35455/douyu/7552568
+#EXTINF:-1 group-title="经典电视剧",新白娘子传奇-修复版
+http://43.138.170.29:35455/yy/1354930969
 #EXTINF:-1 group-title="经典电视剧",钟馗传说
 http://43.138.170.29:35455/yy/1382736839
-#EXTINF:-1 group-title="经典电视剧",溏心风暴
-http://43.138.170.29:35455/yy/1354888747
-#EXTINF:-1 group-title="经典电视剧",雍正王朝
-http://43.138.170.29:35455/yy/26901
-#EXTINF:-1 group-title="经典电视剧",父母爱情
-http://43.138.170.29:35455/yy/1382746276
-#EXTINF:-1 group-title="经典电视剧",火蓝刀锋
-http://43.138.170.29:35455/yy/1382737892
-#EXTINF:-1 group-title="经典电视剧",白夜追凶
-http://43.138.170.29:35455/yy/1354932359
-#EXTINF:-1 group-title="经典电视剧",金玉满堂
-http://43.138.170.29:35455/yy/1382736881
-#EXTINF:-1 group-title="经典电视剧",民兵葛二蛋
-http://43.138.170.29:35455/yy/1382736895
-#EXTINF:-1 group-title="经典电视剧",红楼梦1987
-http://43.138.170.29:35455/yy/1382745084
-#EXTINF:-1 group-title="经典电视剧",怪医文三块
-http://43.138.170.29:35455/yy/1354936154
-#EXTINF:-1 group-title="经典电视剧",放羊的星星
-http://43.138.170.29:35455/yy/21480
-#EXTINF:-1 group-title="经典电视剧",忠烈杨家将
-http://43.138.170.29:35455/yy/1382749909
-#EXTINF:-1 group-title="经典电视剧",少年包青天
-http://43.138.170.29:35455/yy/1356043677
-#EXTINF:-1 group-title="经典电视剧",隋唐英雄传
-http://43.138.170.29:35455/yy/350891
-#EXTINF:-1 group-title="经典电视剧",情满四合院
-http://43.138.170.29:35455/yy/1382735541
-#EXTINF:-1 group-title="经典电视剧",雪中悍刀情
-http://43.138.170.29:35455/yy/11410
-#EXTINF:-1 group-title="经典电视剧",神医喜来乐
-http://43.138.170.29:35455/yy/1382714119
-#EXTINF:-1 group-title="经典电视剧",宰相刘罗锅
-http://43.138.170.29:35455/yy/1382745191
-#EXTINF:-1 group-title="经典电视剧",刑事侦缉档案
-http://43.138.170.29:35455/yy/1382851585
-#EXTINF:-1 group-title="经典电视剧",新白娘子传奇
-http://43.138.170.29:35455/yy/634132
-#EXTINF:-1 group-title="经典电视剧",风云雄霸天下
-http://43.138.170.29:35455/douyu/9290755
-#EXTINF:-1 group-title="经典电视剧",永不磨灭的番号
-http://43.138.170.29:35455/douyu/11684347
-#EXTINF:-1 group-title="经典电视剧",我的父亲我的兵
-http://43.138.170.29:35455/yy/1353413714
-#EXTINF:-1 group-title="经典电视剧",穿越时空的爱恋
-http://43.138.170.29:35455/yy/1382735567
-#EXTINF:-1 group-title="经典电视剧",特种兵之火凤凰
-http://43.138.170.29:35455/yy/1356326459
-#EXTINF:-1 group-title="经典电视剧",神雕侠侣古天乐
-http://43.138.170.29:35455/yy/12531
-#EXTINF:-1 group-title="经典电视剧",飞虎之雷霆极战
-http://43.138.170.29:35455/yy/1382736869
-#EXTINF:-1 group-title="经典电视剧",知否知否应是绿肥红瘦
-http://43.138.170.29:35455/yy/398312
-#EXTINF:-1 group-title="经典电视剧",经典电视剧
-http://43.138.170.29:35455/yy/1356341389
-#EXTINF:-1 group-title="经典电视剧",神雕侠侣
-https://live.metshop.top/yy/1351762426
-#EXTINF:-1 group-title="经典电视剧",鹿鼎记
-https://live.metshop.top/yy/28265277
-#EXTINF:-1 group-title="经典电视剧",寻秦记
-https://live.metshop.top/yy/1382749900
-#EXTINF:-1 group-title="经典电视剧",封神榜
-https://live.metshop.top/yy/1353426319
-#EXTINF:-1 group-title="经典电视剧",新白娘子传奇
-https://live.metshop.top/yy/1354490667
-#EXTINF:-1 group-title="经典电视剧",新白娘子传奇-修复版
-https://live.metshop.top/yy/1354930969
-#EXTINF:-1 group-title="经典电视剧",钟馗传说
-https://live.metshop.top/yy/1382736839
 #EXTINF:-1 group-title="经典电视剧",红楼梦
-https://live.metshop.top/yy/1382745084
+http://43.138.170.29:35455/yy/1382745084
 #EXTINF:-1 group-title="经典电视剧",三国演义
-https://live.metshop.top/yy/1354936241
-#EXTINF:-1 group-title="经典电视剧",西游记后传
-https://live.metshop.top/yy/1353392400
+http://43.138.170.29:35455/yy/1354936241
 #EXTINF:-1 group-title="经典电视剧",少年包青天
-https://live.metshop.top/yy/38498680
+http://43.138.170.29:35455/yy/38498680
 #EXTINF:-1 group-title="经典电视剧",宰相刘罗锅
-https://live.metshop.top/yy/1353892468
-#EXTINF:-1 group-title="经典电视剧",仙剑奇侠传
-https://live.metshop.top/yy/1382749903
+http://43.138.170.29:35455/yy/1353892468
+#EXTINF:-1 group-title="经典电视剧",雍正王朝
+http://43.138.170.29:35455/yy/23206872
 #EXTINF:-1 group-title="经典电视剧",金装四大才子
-https://live.metshop.top/yy/1354926600
+http://43.138.170.29:35455/yy/1354926600
 #EXTINF:-1 group-title="经典电视剧",公主嫁到
-https://live.metshop.top/yy/1382736915
+http://43.138.170.29:35455/yy/1382736915
 #EXTINF:-1 group-title="经典电视剧",耀舞长安
-https://live.metshop.top/yy/1382741640
+http://43.138.170.29:35455/yy/1382741640
 #EXTINF:-1 group-title="经典电视剧",上海滩
-https://live.metshop.top/yy/1382745184
-#EXTINF:-1 group-title="经典电视剧",大时代
-https://live.metshop.top/yy/1354930891
-#EXTINF:-1 group-title="经典电视剧",法证先锋
-https://live.metshop.top/yy/1354930965
-#EXTINF:-1 group-title="经典电视剧",飞虎之潜行极战
-https://live.metshop.top/yy/1354932420
-#EXTINF:-1 group-title="经典电视剧",放羊的星星
-https://live.metshop.top/yy/1355260662
-#EXTINF:-1 group-title="经典电视剧",天道
-https://live.metshop.top/yy/1382735574
-#EXTINF:-1 group-title="经典电视剧",安家
-https://live.metshop.top/yy/12086226
-#EXTINF:-1 group-title="经典电视剧",欢乐颂
-https://live.metshop.top/yy/1382735624
+http://43.138.170.29:35455/yy/1382745184
 #EXTINF:-1 group-title="经典电视剧",平凡岁月
-https://live.metshop.top/yy/1382745117
+http://43.138.170.29:35455/yy/1382745117
 #EXTINF:-1 group-title="经典电视剧",苦乐村官
-https://live.metshop.top/yy/1382736864
+http://43.138.170.29:35455/yy/1382736864
 #EXTINF:-1 group-title="经典电视剧",金星脱口秀
-https://live.metshop.top/yy/1354932407
-#EXTINF:-1 group-title="经典电视剧",航拍中国第1季
-https://live.metshop.top/yy/1354936136
-#EXTINF:-1 group-title="经典电视剧",XJYY影院
-http://39.134.66.66/PLTV/88888888/224/3221225521/index.m3u8
-#EXTINF:-1 group-title="经典电视剧",东北戏曲
-http://stream1.jlntv.cn/dbxq/sd/live.m3u8?_upt=df2621ce1662630390
-#EXTINF:-1 group-title="经典电视剧",东北戏曲
-http://stream1.jlntv.cn/dbxq/sd/live.m3u8?_upt=6162e0bd1635577249
-#EXTINF:-1 group-title="经典电视剧",东北戏曲
-http://stream1.jlntv.cn/dbxq/sd/live.m3u8
-#EXTINF:-1 group-title="经典电视剧",河南戏曲
-http://live.dxhmt.cn:9080/19903718786/a9aab4c5eef74da18d684c75c6dd7e10.m3u8
-#EXTINF:-1 group-title="经典电视剧",抛弃孩子的人
-https://alimov2.a.kwimgs.com/upic/2022/05/16/11/BMjAyMjA1MTYxMTA4MjVfOTU2MzA3MDg4Xzc0NTQzODk4MDgyXzJfMw==_b_B46676afb555addb12e381c30f5f9a35d.mp4?clientCacheKey=3xgqmcuxn5mtyic_b.mp4&tt=b&di=24710ba9&bp=13380
-#EXTINF:-1 group-title="经典电视剧",动作电影(高清)
-http://39.134.67.198/PLTV/88888888/224/3221225555/index.m3u8
-#EXTINF:-1 group-title="经典电视剧",动作电影(斗鱼)
-http://39.134.67.4/PLTV/88888888/224/3221225555/index.m3u8
-#EXTINF:-1 group-title="经典电视剧",明星大片(斗鱼)
-http://39.134.67.2:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/1.m3u8
-#EXTINF:-1 group-title="经典电视剧",明星大片(斗鱼)
-http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/1.m3u8
-#EXTINF:-1 group-title="经典电视剧",豪哥带我们发财
-https://lunbo.freetv.top/yy/23402146
-#EXTINF:-1 group-title="经典电视剧",83射雕英雄传
-https://lunbo.freetv.top/yy/1354210357
-#EXTINF:-1 group-title="经典电视剧",纪晓岚
-https://lunbo.freetv.top/yy/1352227227
-#EXTINF:-1 group-title="经典电视剧",超喜剧地下交通站男神贾贵
-https://lunbo.freetv.top/yy/1353428972
-#EXTINF:-1 group-title="经典电视剧",李连杰功夫 经典武侠
-https://lunbo.freetv.top/yy/74613175
-#EXTINF:-1 group-title="经典电视剧",(周星驰)超经典搞笑电影
-https://lunbo.freetv.top/yy/29945997
-#EXTINF:-1 group-title="经典电视剧",经典港片 3000部
-https://lunbo.freetv.top/yy/1353059120
-#EXTINF:-1 group-title="经典电视剧",66车讯
-https://lunbo.freetv.top/yy/1382571192
-#EXTINF:-1 group-title="经典电视剧",知否知否应是绿肥红瘦
-https://lunbo.freetv.top/yy/21881901
-#EXTINF:-1 group-title="经典电视剧",【战狼3吴京】独播
-https://lunbo.freetv.top/yy/37999586
-#EXTINF:-1 group-title="经典电视剧",倚天屠龙记
-https://lunbo.freetv.top/yy/1449856066
-#EXTINF:-1 group-title="经典电视剧",宋小宝小品合集
-https://lunbo.freetv.top/yy/1354931577
-#EXTINF:-1 group-title="经典电视剧",国内侦探电影大全
-https://lunbo.freetv.top/yy/1354936134
-#EXTINF:-1 group-title="经典电视剧",正阳门下
-https://lunbo.freetv.top/yy/1354931580
-#EXTINF:-1 group-title="经典电视剧",动作武侠港片电影
-https://lunbo.freetv.top/yy/1459801818
-#EXTINF:-1 group-title="经典电视剧",宰相刘罗锅
-https://lunbo.freetv.top/yy/1382745191
-#EXTINF:-1 group-title="经典电视剧",火蓝刀锋
-https://lunbo.freetv.top/yy/1382737892
-#EXTINF:-1 group-title="经典电视剧",鹿鼎记-周星驰版
-https://lunbo.freetv.top/yy/1354658049
-#EXTINF:-1 group-title="经典电视剧",丸子
-https://lunbo.freetv.top/yy/1382851588
-#EXTINF:-1 group-title="经典电视剧",倚天屠龙记
-https://lunbo.freetv.top/yy/1354755003
-#EXTINF:-1 group-title="经典电视剧",抗战经典
-https://lunbo.freetv.top/yy/1382824983
-#EXTINF:-1 group-title="经典电视剧",天龙八部
-https://lunbo.freetv.top/yy/1351814644
-#EXTINF:-1 group-title="经典电视剧",【战狼4】吴京老师
-https://lunbo.freetv.top/yy/1354784284
-#EXTINF:-1 group-title="经典电视剧",地下交通站
-https://lunbo.freetv.top/yy/1382736795
-#EXTINF:-1 group-title="经典电视剧",恐怖电影
-https://lunbo.freetv.top/yy/24066336
-#EXTINF:-1 group-title="经典电视剧",【少年歌行】
-https://lunbo.freetv.top/yy/1354806550
-#EXTINF:-1 group-title="经典电视剧",摸金 盗暮
-https://lunbo.freetv.top/yy/1459714870
-#EXTINF:-1 group-title="经典电视剧",【动漫】斗罗斗破
-https://lunbo.freetv.top/yy/1353098382
-#EXTINF:-1 group-title="经典电视剧",二号交通站
-https://lunbo.freetv.top/yy/1382735582
-#EXTINF:-1 group-title="经典电视剧",笑傲江湖
-https://lunbo.freetv.top/yy/1354930909
-#EXTINF:-1 group-title="经典电视剧",小甜甜 闯关东
-https://lunbo.freetv.top/yy/1382658790
-#EXTINF:-1 group-title="经典电视剧",二龙湖浩哥【经典搞笑】
-https://lunbo.freetv.top/yy/28205255
-#EXTINF:-1 group-title="经典电视剧",纪晓岚
-https://lunbo.freetv.top/yy/1382781415
-#EXTINF:-1 group-title="经典电视剧",林正英经典
-https://lunbo.freetv.top/yy/1353312849
-#EXTINF:-1 group-title="经典电视剧",赵本山《超清版》
-https://lunbo.freetv.top/yy/1382683959
-#EXTINF:-1 group-title="经典电视剧",【成龙经典】动作
-https://lunbo.freetv.top/yy/34460526
-#EXTINF:-1 group-title="经典电视剧",港片赌片 3000部
-https://lunbo.freetv.top/yy/1355076627
-#EXTINF:-1 group-title="经典电视剧",超级吓人鬼片 恐怖片
-https://lunbo.freetv.top/yy/1355641195
-#EXTINF:-1 group-title="经典电视剧",天龙神雕经典回忆
-https://lunbo.freetv.top/yy/68260522
-#EXTINF:-1 group-title="经典电视剧",薛元帅传奇
-https://lunbo.freetv.top/yy/31313785
-#EXTINF:-1 group-title="经典电视剧",笑傲江湖 4K超清
-https://lunbo.freetv.top/yy/1354282410
-#EXTINF:-1 group-title="经典电视剧",喜欢的小哥哥点点关注
-https://lunbo.freetv.top/yy/98544634
-#EXTINF:-1 group-title="经典电视剧",狄仁杰等你哦
-https://lunbo.freetv.top/yy/1457579747
-#EXTINF:-1 group-title="经典电视剧",港片鬼片全集
-https://lunbo.freetv.top/yy/1459869766
-#EXTINF:-1 group-title="经典电视剧",好先生
-https://lunbo.freetv.top/yy/79382500
-#EXTINF:-1 group-title="经典电视剧",神探狄仁杰
-https://lunbo.freetv.top/yy/38338029
-#EXTINF:-1 group-title="经典电视剧",【港台】鬼片 惊悚 喜剧
-https://lunbo.freetv.top/yy/1351030377
-#EXTINF:-1 group-title="经典电视剧",燕双鹰专场
-https://lunbo.freetv.top/yy/23026835
-#EXTINF:-1 group-title="经典电视剧",战狼4 吴京首播
-https://lunbo.freetv.top/yy/1354784966
-#EXTINF:-1 group-title="经典电视剧",新三国
-https://lunbo.freetv.top/yy/26744898
-#EXTINF:-1 group-title="经典电视剧",军旅电视剧
-https://lunbo.freetv.top/yy/1352575322
-#EXTINF:-1 group-title="经典电视剧",【新三国】萌儿陪看
-https://lunbo.freetv.top/yy/29216766
-#EXTINF:-1 group-title="经典电视剧",【新三国】蓝光版
-https://lunbo.freetv.top/yy/1382705738
-#EXTINF:-1 group-title="经典电视剧",港片 恐怖片 鬼片
-https://lunbo.freetv.top/yy/1353850051
-#EXTINF:-1 group-title="经典电视剧",燕双鹰
-https://lunbo.freetv.top/yy/1354143942
-#EXTINF:-1 group-title="经典电视剧",进来 陪你看动漫
-https://lunbo.freetv.top/yy/1352866135
-#EXTINF:-1 group-title="经典电视剧",【金超群】电视剧
-https://lunbo.freetv.top/yy/1356158015
-#EXTINF:-1 group-title="经典电视剧",24H国漫热播
-https://lunbo.freetv.top/yy/1353937086
-#EXTINF:-1 group-title="经典电视剧",热度榜1.包青天
-https://lunbo.freetv.top/yy/22701868
-#EXTINF:-1 group-title="经典电视剧",德爷单挑荒野
-https://lunbo.freetv.top/yy/27772604
-#EXTINF:-1 group-title="经典电视剧",盗暮 老九门
-https://lunbo.freetv.top/yy/1382763739
-#EXTINF:-1 group-title="经典电视剧",荒野求生德爷
-https://lunbo.freetv.top/yy/36949900
-#EXTINF:-1 group-title="经典电视剧",电影 古惑仔全集
-https://lunbo.freetv.top/yy/1354507447
-#EXTINF:-1 group-title="经典电视剧",我和僵尸有个约会
-https://lunbo.freetv.top/yy/1354143966
-#EXTINF:-1 group-title="经典电视剧",雪中悍刀行
-https://lunbo.freetv.top/yy/1382660835
-#EXTINF:-1 group-title="经典电视剧",斗破苍穹斗罗大玄幻修仙剧
-https://lunbo.freetv.top/yy/1356051105
-#EXTINF:-1 group-title="经典电视剧",燕双鹰
-https://lunbo.freetv.top/yy/1352227153
-#EXTINF:-1 group-title="经典电视剧",皮蛋影视 正在直播
-https://lunbo.freetv.top/yy/23055599
-#EXTINF:-1 group-title="经典电视剧",狂飙
-https://lunbo.freetv.top/yy/1355142167
-#EXTINF:-1 group-title="经典电视剧",特一营
-https://lunbo.freetv.top/yy/1507704566
-#EXTINF:-1 group-title="经典电视剧",少年包青天
-https://lunbo.freetv.top/yy/1356043677
-#EXTINF:-1 group-title="经典电视剧",鹊刀门传奇
-https://lunbo.freetv.top/yy/1382745997
-#EXTINF:-1 group-title="经典电视剧",案发现场（1-3）
-https://lunbo.freetv.top/yy/31368110
-#EXTINF:-1 group-title="经典电视剧",新水浒传
-https://lunbo.freetv.top/yy/1353215589
-#EXTINF:-1 group-title="经典电视剧",神雕侠侣
-https://lunbo.freetv.top/yy/1351762426
-#EXTINF:-1 group-title="经典电视剧",武林外传
-https://lunbo.freetv.top/yy/1353852605
-#EXTINF:-1 group-title="经典电视剧",精彩动漫斗罗斗破
-https://lunbo.freetv.top/yy/76101626
-#EXTINF:-1 group-title="经典电视剧",【港片】赌片 动作
-https://lunbo.freetv.top/yy/24921161
-#EXTINF:-1 group-title="经典电视剧",封神榜
-https://lunbo.freetv.top/yy/1382797534
-#EXTINF:-1 group-title="经典电视剧",康熙微服私访记
-https://lunbo.freetv.top/yy/1352811698
-#EXTINF:-1 group-title="经典电视剧",奇缘39262港台影院
-https://lunbo.freetv.top/yy/1354889234
-#EXTINF:-1 group-title="经典电视剧",新白娘子传奇
-https://lunbo.freetv.top/yy/1354490667
-#EXTINF:-1 group-title="经典电视剧",狂飙
-https://lunbo.freetv.top/yy/1382764587
-#EXTINF:-1 group-title="经典电视剧",花千骨
-https://lunbo.freetv.top/yy/1354943110
-#EXTINF:-1 group-title="经典电视剧",雪中悍刀行
-https://lunbo.freetv.top/yy/59719179
-#EXTINF:-1 group-title="经典电视剧",神探狄仁杰
-https://lunbo.freetv.top/yy/1351755386
-#EXTINF:-1 group-title="经典电视剧",小宝 天龙 神雕金庸
-https://lunbo.freetv.top/yy/1356043609
-#EXTINF:-1 group-title="经典电视剧",电影电影
-https://lunbo.freetv.top/yy/1458819360
-#EXTINF:-1 group-title="经典电视剧",斗罗斗破动漫
-https://lunbo.freetv.top/yy/1420843376
-#EXTINF:-1 group-title="经典电视剧",新主播，求照顾
-https://lunbo.freetv.top/yy/29197808
-#EXTINF:-1 group-title="经典电视剧",【胡歌好剧】 ~
-https://lunbo.freetv.top/yy/29067083
-#EXTINF:-1 group-title="经典电视剧",林正英全集
-https://lunbo.freetv.top/yy/1335509613
-#EXTINF:-1 group-title="经典电视剧",神医喜来乐
-https://lunbo.freetv.top/yy/1382714119
-#EXTINF:-1 group-title="经典电视剧",24【动漫】正在直播
-https://lunbo.freetv.top/yy/1350984033
-#EXTINF:-1 group-title="经典电视剧",【破案 悬疑 港剧】
-https://lunbo.freetv.top/yy/1382800083
-#EXTINF:-1 group-title="经典电视剧",泡芙陪你看电影
-https://lunbo.freetv.top/yy/24407222
-#EXTINF:-1 group-title="经典电视剧",雍正王朝
-https://lunbo.freetv.top/yy/23206872
-#EXTINF:-1 group-title="经典电视剧",经典动漫
-https://lunbo.freetv.top/yy/22777075
-#EXTINF:-1 group-title="经典电视剧",林正英 僵尸 鬼片
-https://lunbo.freetv.top/yy/1351505899
-#EXTINF:-1 group-title="经典电视剧",交友林正英女鬼电影
-https://lunbo.freetv.top/yy/1453996620
-#EXTINF:-1 group-title="经典电视剧",弹幕天团 下饭神剧
-https://lunbo.freetv.top/yy/23512910
-#EXTINF:-1 group-title="经典电视剧",雍正王朝
-https://lunbo.freetv.top/yy/1356043620
-#EXTINF:-1 group-title="经典电视剧",港片经典电影
-https://lunbo.freetv.top/yy/32326398
-#EXTINF:-1 group-title="经典电视剧",布丁-玄幻电影正在直播
-https://lunbo.freetv.top/yy/1455460998
-#EXTINF:-1 group-title="经典电视剧",鬼经典老片
-https://lunbo.freetv.top/yy/1463783198
-#EXTINF:-1 group-title="经典电视剧",狂飙老莫请你吃鱼
-https://lunbo.freetv.top/yy/1382881866
-#EXTINF:-1 group-title="经典电视剧",孙红雷高清频道
-https://lunbo.freetv.top/yy/1351059494
-#EXTINF:-1 group-title="经典电视剧",国漫 一起看正在直播
-https://lunbo.freetv.top/yy/1351417866
-#EXTINF:-1 group-title="经典电视剧",鬼片恐怖私人影院
-https://lunbo.freetv.top/yy/1354952229
-#EXTINF:-1 group-title="经典电视剧",鬼片 恐怖片
-https://lunbo.freetv.top/yy/1455891197
-#EXTINF:-1 group-title="经典电视剧",我的兄弟叫顺溜
-https://lunbo.freetv.top/yy/1459331991
-#EXTINF:-1 group-title="经典电视剧",你不知道的汽车冷知识
-https://lunbo.freetv.top/yy/1346966327
-#EXTINF:-1 group-title="经典电视剧",大家车言论
-https://lunbo.freetv.top/yy/1382570702
-#EXTINF:-1 group-title="经典电视剧",鬼怪恐怖惊辣
-https://lunbo.freetv.top/yy/1382748585
-#EXTINF:-1 group-title="经典电视剧",动漫
-https://lunbo.freetv.top/yy/23993334
-#EXTINF:-1 group-title="经典电视剧",特种兵系列
-https://lunbo.freetv.top/yy/1508456184
-#EXTINF:-1 group-title="经典电视剧",破案TVB港剧
-https://lunbo.freetv.top/yy/1354932707
-#EXTINF:-1 group-title="经典电视剧",雪中悍刀行
-https://lunbo.freetv.top/yy/1462996362
-#EXTINF:-1 group-title="经典电视剧",真实案件系列
-https://lunbo.freetv.top/yy/1382671124
-#EXTINF:-1 group-title="经典电视剧",【赌神片 动作片 港片】
-https://lunbo.freetv.top/yy/1355112116
-#EXTINF:-1 group-title="经典电视剧",【林正英】僵尸 鬼片
-https://lunbo.freetv.top/yy/30668277
-#EXTINF:-1 group-title="经典电视剧",鸡毛飞上天
-https://lunbo.freetv.top/yy/1461033197
-#EXTINF:-1 group-title="经典电视剧",武侠港片电影
-https://lunbo.freetv.top/yy/1451866697
-#EXTINF:-1 group-title="经典电视剧",雪中悍刀行
-https://lunbo.freetv.top/yy/1460836818
-#EXTINF:-1 group-title="经典电视剧",情满四合院-高分电视剧
-https://lunbo.freetv.top/yy/1382735541
-#EXTINF:-1 group-title="经典电视剧",惊恐盗暮鬼怪
-https://lunbo.freetv.top/yy/1382749525
-#EXTINF:-1 group-title="经典电视剧",神探狄仁杰2
-https://lunbo.freetv.top/yy/1382828767
-#EXTINF:-1 group-title="经典电视剧",澳门风云
-https://lunbo.freetv.top/yy/1459243913
-#EXTINF:-1 group-title="经典电视剧",西游记后传
-https://lunbo.freetv.top/yy/1382736846
-#EXTINF:-1 group-title="经典电视剧",欢乐集结号-每天笑不停
-https://lunbo.freetv.top/yy/1382741642
-#EXTINF:-1 group-title="经典电视剧",新白娘子传奇-女神赵雅芝
-https://lunbo.freetv.top/yy/1354930969
-#EXTINF:-1 group-title="经典电视剧",初恋脸
-https://lunbo.freetv.top/yy/1382851597
-#EXTINF:-1 group-title="经典电视剧",星爷经典-百看不厌
-https://lunbo.freetv.top/yy/1382736808
-#EXTINF:-1 group-title="经典电视剧",敢死队-精彩动作电影
-https://lunbo.freetv.top/yy/1382735573
-#EXTINF:-1 group-title="经典电视剧",杭小妞
-https://lunbo.freetv.top/yy/1382851590
-#EXTINF:-1 group-title="经典电视剧",电影百团大战
-https://lunbo.freetv.top/yy/1382736871
-#EXTINF:-1 group-title="经典电视剧",少年包青天第三部
-https://lunbo.freetv.top/yy/1382736814
-#EXTINF:-1 group-title="经典电视剧",情满四合院
-https://lunbo.freetv.top/yy/1382851524
-#EXTINF:-1 group-title="经典电视剧",贾玲春晚小品
-https://lunbo.freetv.top/yy/1382736720
-#EXTINF:-1 group-title="经典电视剧",都挺好-电视剧
-https://lunbo.freetv.top/yy/1382736892
-#EXTINF:-1 group-title="经典电视剧",炊事班的故事III
-https://lunbo.freetv.top/yy/1382736716
-#EXTINF:-1 group-title="经典电视剧",父母爱情
-https://lunbo.freetv.top/yy/1354926650
-#EXTINF:-1 group-title="经典电视剧",变形金刚
-https://lunbo.freetv.top/yy/1382736803
-#EXTINF:-1 group-title="经典电视剧",颜值永远在线
-https://lunbo.freetv.top/yy/1382851582
-#EXTINF:-1 group-title="经典电视剧",炊事班的故事II
-https://lunbo.freetv.top/yy/1382736885
-#EXTINF:-1 group-title="经典电视剧",【神雕侠侣】金庸经典
-https://lunbo.freetv.top/yy/1382704651
-#EXTINF:-1 group-title="经典电视剧",夏洛特烦恼-国内电影-喜剧
-https://lunbo.freetv.top/yy/1354936201
-#EXTINF:-1 group-title="经典电视剧",风筝
-https://lunbo.freetv.top/yy/1382828770
-#EXTINF:-1 group-title="经典电视剧",天道-9.2高分好剧
-https://lunbo.freetv.top/yy/1382735574
-#EXTINF:-1 group-title="经典电视剧",热血抗日电影
-https://lunbo.freetv.top/yy/1382749907
-#EXTINF:-1 group-title="经典电视剧",宋小宝春晚小品合集
-https://lunbo.freetv.top/yy/1382736866
-#EXTINF:-1 group-title="经典电视剧",寻秦记-穿越剧经典
-https://lunbo.freetv.top/yy/1382749900
-#EXTINF:-1 group-title="经典电视剧",震撼！国内功夫大片
-https://lunbo.freetv.top/yy/1382736902
-#EXTINF:-1 group-title="经典电视剧",血色浪漫
-https://lunbo.freetv.top/yy/1354926676
-#EXTINF:-1 group-title="经典电视剧",港片电影
-https://lunbo.freetv.top/yy/33897188
-#EXTINF:-1 group-title="经典电视剧",华子系列
-https://lunbo.freetv.top/yy/1354888726
-#EXTINF:-1 group-title="经典电视剧",同桌的你
-https://lunbo.freetv.top/yy/1382851477
-#EXTINF:-1 group-title="经典电视剧",经典港片电影
-https://lunbo.freetv.top/yy/1382793140
-#EXTINF:-1 group-title="经典电视剧",古惑仔全集
-https://lunbo.freetv.top/yy/1353426319
-#EXTINF:-1 group-title="经典电视剧",鹿鼎记-高清全集
-https://lunbo.freetv.top/yy/1382704650
-#EXTINF:-1 group-title="经典电视剧",西沙海底墓盗幕笔记
-https://lunbo.freetv.top/yy/1355171357
-#EXTINF:-1 group-title="经典电视剧",倚天屠龙记
-https://lunbo.freetv.top/yy/33300793
-#EXTINF:-1 group-title="经典电视剧",精彩玄幻电影
-https://lunbo.freetv.top/yy/1382688400
-#EXTINF:-1 group-title="经典电视剧",【动漫】斗罗斗破超清全屏
-https://lunbo.freetv.top/yy/28796627
-#EXTINF:-1 group-title="经典电视剧",香港经典蓝光电影
-https://lunbo.freetv.top/yy/1382627144
-#EXTINF:-1 group-title="经典电视剧",【经典港片】佟瑶
-https://lunbo.freetv.top/yy/23531261
-#EXTINF:-1 group-title="经典电视剧",2024盗幕鬼怪
-https://lunbo.freetv.top/yy/1355171231
-#EXTINF:-1 group-title="经典电视剧",【电影】超然巨作
-https://lunbo.freetv.top/yy/29170933
-#EXTINF:-1 group-title="经典电视剧",三国演义
-https://lunbo.freetv.top/yy/32788000
-#EXTINF:-1 group-title="经典电视剧",纪晓岚
-https://lunbo.freetv.top/yy/22982216
-#EXTINF:-1 group-title="经典电视剧",绝版鬼片电影
-https://lunbo.freetv.top/yy/1382743247
-#EXTINF:-1 group-title="经典电视剧",破案港剧
-https://lunbo.freetv.top/yy/1350670730
-#EXTINF:-1 group-title="经典电视剧",斗罗斗破精彩动漫
-https://lunbo.freetv.top/yy/1507304388
-#EXTINF:-1 group-title="经典电视剧",24小时陪你看
-https://lunbo.freetv.top/yy/1331686180
-#EXTINF:-1 group-title="经典电视剧",【电影】顶级动作电影
-https://lunbo.freetv.top/yy/24923327
-#EXTINF:-1 group-title="经典电视剧",【动漫】斗罗斗破超清全屏
-https://lunbo.freetv.top/yy/1382689904
-#EXTINF:-1 group-title="经典电视剧",国漫动漫
-https://lunbo.freetv.top/yy/1354768828
-#EXTINF:-1 group-title="经典电视剧",开饭了大熊猫
-https://lunbo.freetv.top/yy/1382741641
-#EXTINF:-1 group-title="经典电视剧",盗暮惊悚妖魔
-https://lunbo.freetv.top/yy/1382765507
-#EXTINF:-1 group-title="经典电视剧",《武林外传》武侠
-https://lunbo.freetv.top/yy/1394000563
-#EXTINF:-1 group-title="经典电视剧",战狼7吴京退役
-https://lunbo.freetv.top/yy/1382773714
-#EXTINF:-1 group-title="经典电视剧",探案！探案！
-https://lunbo.freetv.top/yy/1382829413
-#EXTINF:-1 group-title="经典电视剧",经典动漫
-https://lunbo.freetv.top/yy/24180320
-#EXTINF:-1 group-title="经典电视剧",【电影】超然巨作
-https://lunbo.freetv.top/yy/26623173
-#EXTINF:-1 group-title="经典电视剧",【没病走两步】
-https://lunbo.freetv.top/yy/1382851464
-#EXTINF:-1 group-title="经典电视剧",公主陪看老酒馆
-https://lunbo.freetv.top/yy/1356254650
-#EXTINF:-1 group-title="经典电视剧",神雕侠侣
-https://lunbo.freetv.top/yy/1460913377
-#EXTINF:-1 group-title="经典电视剧",新主播，求照顾
-https://lunbo.freetv.top/yy/1382690406
-#EXTINF:-1 group-title="经典电视剧",彭禺厶鬼怪奇幻系列电影
-https://lunbo.freetv.top/yy/1355249116
-#EXTINF:-1 group-title="经典电视剧",影视剧场
-https://lunbo.freetv.top/yy/1355260855
-#EXTINF:-1 group-title="经典电视剧",少年包青天
-https://lunbo.freetv.top/yy/1382701828
-#EXTINF:-1 group-title="经典电视剧",【科幻】超炫特效
-https://lunbo.freetv.top/yy/37988782
-#EXTINF:-1 group-title="经典电视剧",24小时循环播电视剧
-https://lunbo.freetv.top/yy/53320802
-#EXTINF:-1 group-title="经典电视剧",【电视剧】天下第一
-https://lunbo.freetv.top/yy/1354780649
-#EXTINF:-1 group-title="经典电视剧",M恐怖片正在直播
-https://lunbo.freetv.top/yy/1352956876
-#EXTINF:-1 group-title="经典电视剧",【陪你看】金刚葫芦娃
-https://lunbo.freetv.top/yy/1353323999
-#EXTINF:-1 group-title="经典电视剧",少年包青天三
-https://lunbo.freetv.top/yy/61318527
-#EXTINF:-1 group-title="经典电视剧",笑声传奇
-https://lunbo.freetv.top/yy/1382736880
-#EXTINF:-1 group-title="经典电视剧",放羊的星星
-https://lunbo.freetv.top/yy/1355260662
-#EXTINF:-1 group-title="经典电视剧",24H地下交通站全
-https://lunbo.freetv.top/yy/37880083
-#EXTINF:-1 group-title="经典电视剧",奇领 铁山靠【Y 正在直播
-https://lunbo.freetv.top/yy/41584371
-#EXTINF:-1 group-title="经典电视剧",【周星驰】搞笑电影
-https://lunbo.freetv.top/yy/38670875
-#EXTINF:-1 group-title="经典电视剧",国内喜剧
-https://lunbo.freetv.top/yy/1382735563
-#EXTINF:-1 group-title="经典电视剧",你最爱的宋小宝
-https://lunbo.freetv.top/yy/1354936198
-#EXTINF:-1 group-title="经典电视剧",飞哥全集乐乐陪看】
-https://lunbo.freetv.top/yy/1352946111
-#EXTINF:-1 group-title="经典电视剧",爆笑小品
-https://lunbo.freetv.top/yy/1354931503
-#EXTINF:-1 group-title="经典电视剧",欧美惊悚
-https://lunbo.freetv.top/yy/1382656234
-#EXTINF:-1 group-title="经典电视剧",动漫奥斯卡正在直播
-https://lunbo.freetv.top/yy/1382626335
-#EXTINF:-1 group-title="经典电视剧",动漫
-https://lunbo.freetv.top/yy/26664495
-#EXTINF:-1 group-title="经典电视剧",经典电视剧联播
-https://lunbo.freetv.top/yy/1356338181
-#EXTINF:-1 group-title="经典电视剧",动漫
-https://lunbo.freetv.top/yy/1382747970
-#EXTINF:-1 group-title="经典电视剧",【电视剧】士兵突击
-https://lunbo.freetv.top/yy/22852190
-#EXTINF:-1 group-title="经典电视剧",士兵突击电视剧
-https://lunbo.freetv.top/yy/1456622512
-#EXTINF:-1 group-title="经典电视剧",燃爆动作片
-https://lunbo.freetv.top/yy/1382736801
-#EXTINF:-1 group-title="经典电视剧",神探狄仁杰1
-https://lunbo.freetv.top/yy/1382851575
-#EXTINF:-1 group-title="经典电视剧",野山鹰-影视剧
-https://lunbo.freetv.top/yy/1354932395
-#EXTINF:-1 group-title="经典电视剧",欢乐集结号
-https://lunbo.freetv.top/yy/1354931582
-#EXTINF:-1 group-title="经典电视剧",神探狄仁杰2
-https://lunbo.freetv.top/yy/1382851146
-#EXTINF:-1 group-title="经典电视剧",天下第一
-https://lunbo.freetv.top/yy/1382736838
-#EXTINF:-1 group-title="经典电视剧",小宝让你乐翻天：6到9集
-https://lunbo.freetv.top/yy/1354930971
-#EXTINF:-1 group-title="经典电视剧",父母爱情
-https://lunbo.freetv.top/yy/1382746276
-#EXTINF:-1 group-title="经典电视剧",魔幻手机
-https://lunbo.freetv.top/yy/1382851541
-#EXTINF:-1 group-title="经典电视剧",小兵张嘎
-https://lunbo.freetv.top/yy/1354930225
-#EXTINF:-1 group-title="经典电视剧",我的体育老师
-https://lunbo.freetv.top/yy/1382745169
-#EXTINF:-1 group-title="经典电视剧",欢乐颂
-https://lunbo.freetv.top/yy/1382851577
-#EXTINF:-1 group-title="经典电视剧",小惠_郭德纲相声迷
-https://lunbo.freetv.top/yy/1382851593
-#EXTINF:-1 group-title="经典电视剧",武林外传
-https://lunbo.freetv.top/yy/1454629602
-#EXTINF:-1 group-title="经典电视剧",萌萌爱追剧
-https://lunbo.freetv.top/yy/1382745093
-#EXTINF:-1 group-title="经典电视剧",小敏
-https://lunbo.freetv.top/yy/1382736890
-#EXTINF:-1 group-title="经典电视剧",成龙系列
-https://lunbo.freetv.top/yy/1354888751
-#EXTINF:-1 group-title="经典电视剧",速度与激情系列！-精彩大片
-https://lunbo.freetv.top/yy/1382736911
-#EXTINF:-1 group-title="经典电视剧",经典抗日电影
-https://lunbo.freetv.top/yy/1354936141
-#EXTINF:-1 group-title="经典电视剧",读心神探
-https://lunbo.freetv.top/yy/1382736875
-#EXTINF:-1 group-title="经典电视剧",神探狄仁杰1
-https://lunbo.freetv.top/yy/1354930934
-#EXTINF:-1 group-title="经典电视剧",纯纯纯儿
-https://lunbo.freetv.top/yy/1382851589
-#EXTINF:-1 group-title="经典电视剧",时光的海
-https://lunbo.freetv.top/yy/1382851579
-#EXTINF:-1 group-title="经典电视剧",情满四合院
-https://lunbo.freetv.top/yy/1382736848
-#EXTINF:-1 group-title="经典电视剧",亲爱的热爱的
-https://lunbo.freetv.top/yy/1354932433
-#EXTINF:-1 group-title="经典电视剧",红楼梦1987经典版
-https://lunbo.freetv.top/yy/1382745084
-#EXTINF:-1 group-title="经典电视剧",西游记后传 蓝光
-https://lunbo.freetv.top/yy/1353392400
-#EXTINF:-1 group-title="经典电视剧",心中的白月光
-https://lunbo.freetv.top/yy/1382851580
-#EXTINF:-1 group-title="经典电视剧",最可爱的人
-https://lunbo.freetv.top/yy/1354585554
-#EXTINF:-1 group-title="经典电视剧",毒液：致命守护者
-https://lunbo.freetv.top/yy/1382745095
-#EXTINF:-1 group-title="经典电视剧",大汉贤后卫子夫
-https://lunbo.freetv.top/yy/1382735569
-#EXTINF:-1 group-title="经典电视剧",潘磕惺康谝患 -国产喜剧
-https://lunbo.freetv.top/yy/1382741637
-#EXTINF:-1 group-title="经典电视剧",士兵突击
-https://lunbo.freetv.top/yy/1382828766
-#EXTINF:-1 group-title="经典电视剧",密子君
-https://lunbo.freetv.top/yy/1382736717
-#EXTINF:-1 group-title="经典电视剧",花儿开心吧
-https://lunbo.freetv.top/yy/1354930984
-#EXTINF:-1 group-title="经典电视剧",一分钟学道菜
-https://lunbo.freetv.top/yy/1382736901
-#EXTINF:-1 group-title="经典电视剧",雪儿动漫
-https://lunbo.freetv.top/yy/1354143938
-#EXTINF:-1 group-title="经典电视剧",胡歌24小时播放
-https://lunbo.freetv.top/yy/1354555195
-#EXTINF:-1 group-title="经典电视剧",金婚
-https://lunbo.freetv.top/yy/1382736832
-#EXTINF:-1 group-title="经典电视剧",【天龙八部】蓝光超清
-https://lunbo.freetv.top/yy/28996058
-#EXTINF:-1 group-title="经典电视剧",全职高手
-https://lunbo.freetv.top/yy/26870427
-#EXTINF:-1 group-title="经典电视剧",勇敢的心
-https://lunbo.freetv.top/yy/1354744544
-#EXTINF:-1 group-title="经典电视剧",欢乐颂
-https://lunbo.freetv.top/yy/1382735624
-#EXTINF:-1 group-title="经典电视剧",【动漫】斗罗斗破
-https://lunbo.freetv.top/yy/35742228
-#EXTINF:-1 group-title="经典电视剧",港片鬼片老电影
-https://lunbo.freetv.top/yy/1355269576
-#EXTINF:-1 group-title="经典电视剧",雯子：鹿鼎记  寻秦记
-https://lunbo.freetv.top/yy/1456829119
-#EXTINF:-1 group-title="经典电视剧",新白娘子传奇4K高清观看
-https://lunbo.freetv.top/yy/1508902755
-#EXTINF:-1 group-title="经典电视剧",【神探狄仁杰】
-https://lunbo.freetv.top/yy/66821259
-#EXTINF:-1 group-title="经典电视剧",火炬手
-https://lunbo.freetv.top/yy/1382851618
-#EXTINF:-1 group-title="经典电视剧",距离你200米
-https://lunbo.freetv.top/yy/1354887062
-#EXTINF:-1 group-title="经典电视剧",【新三国】吕布
-https://lunbo.freetv.top/yy/1382851459
-#EXTINF:-1 group-title="经典电视剧",笑傲帮
-https://lunbo.freetv.top/yy/1382735555
-#EXTINF:-1 group-title="经典电视剧",军旅剧（回忆经典）
-https://lunbo.freetv.top/yy/1356306672
-#EXTINF:-1 group-title="经典电视剧",法证先锋
-https://lunbo.freetv.top/yy/1354930939
-#EXTINF:-1 group-title="经典电视剧",斗罗斗破
-https://lunbo.freetv.top/yy/1354768831
-#EXTINF:-1 group-title="经典电视剧",【新三国】
-https://lunbo.freetv.top/yy/1382851415
-#EXTINF:-1 group-title="经典电视剧",言情古装剧 正在直播
-https://lunbo.freetv.top/yy/67857780
-#EXTINF:-1 group-title="经典电视剧",逋鞠盗 -国产喜剧
-https://lunbo.freetv.top/yy/1382736856
-#EXTINF:-1 group-title="经典电视剧",彭禺厶鬼怪奇幻系列电影
-https://lunbo.freetv.top/yy/1353200190
-#EXTINF:-1 group-title="经典电视剧",笑傲江湖
-https://lunbo.freetv.top/yy/1352833750
-#EXTINF:-1 group-title="经典电视剧",神探狄仁杰1—5部全集
-https://lunbo.freetv.top/yy/1382705592
-#EXTINF:-1 group-title="经典电视剧",的直播间
-https://lunbo.freetv.top/yy/1354129442
-#EXTINF:-1 group-title="经典电视剧",【新三国】日版
-https://lunbo.freetv.top/yy/1382851457
-#EXTINF:-1 group-title="经典电视剧",战狼10086
-https://lunbo.freetv.top/yy/1382773686
-#EXTINF:-1 group-title="经典电视剧",动漫
-https://lunbo.freetv.top/yy/1382788679
-#EXTINF:-1 group-title="经典电视剧",绝版电影 3000部
-https://lunbo.freetv.top/yy/1355263385
-#EXTINF:-1 group-title="经典电视剧",枕上书正在直播
-https://lunbo.freetv.top/yy/1351844200
-#EXTINF:-1 group-title="经典电视剧",鬼片恐怖私家影院
-https://lunbo.freetv.top/yy/1354209316
-#EXTINF:-1 group-title="经典电视剧",金玉满堂：精彩港剧
-https://lunbo.freetv.top/yy/1382736881
-#EXTINF:-1 group-title="经典电视剧",进来 陪你看电视
-https://lunbo.freetv.top/yy/1353518742
-#EXTINF:-1 group-title="经典电视剧",案发现场全集
-https://lunbo.freetv.top/yy/1354775242
-#EXTINF:-1 group-title="经典电视剧",赌神-发哥
-https://lunbo.freetv.top/yy/1354889044
-#EXTINF:-1 group-title="经典电视剧",魔幻手机
-https://lunbo.freetv.top/yy/1382735544
-#EXTINF:-1 group-title="经典电视剧",欢乐一起看
-https://lunbo.freetv.top/yy/1354930926
-#EXTINF:-1 group-title="经典电视剧",院线动作大片
-https://lunbo.freetv.top/yy/1382736900
-#EXTINF:-1 group-title="经典电视剧",宝莲灯前传
-https://lunbo.freetv.top/yy/1354931631
-#EXTINF:-1 group-title="经典电视剧",仙剑奇侠传-神仙姐姐驾到
-https://lunbo.freetv.top/yy/1382749903
-#EXTINF:-1 group-title="经典电视剧",速度与激情全集
-https://lunbo.freetv.top/yy/1382749892
-#EXTINF:-1 group-title="经典电视剧",双月之城-国漫
-https://lunbo.freetv.top/yy/1382736907
-#EXTINF:-1 group-title="经典电视剧",木乃伊全集
-https://lunbo.freetv.top/yy/1354889024
-#EXTINF:-1 group-title="经典电视剧",金星脱口秀：我敢说你敢听吗
-https://lunbo.freetv.top/yy/1382735552
-#EXTINF:-1 group-title="经典电视剧",经典动作电影
-https://lunbo.freetv.top/yy/1370293254
-#EXTINF:-1 group-title="经典电视剧",动物世界
-https://lunbo.freetv.top/yy/1382749889
-#EXTINF:-1 group-title="经典电视剧",洪金宝福星系列
-https://lunbo.freetv.top/yy/1354924839
-#EXTINF:-1 group-title="经典电视剧",叶问全集
-https://lunbo.freetv.top/yy/1382828771
-#EXTINF:-1 group-title="经典电视剧",超燃科幻大片：明日边缘
-https://lunbo.freetv.top/yy/1382736835
-#EXTINF:-1 group-title="经典电视剧",法证先锋2
-https://lunbo.freetv.top/yy/1382736870
-#EXTINF:-1 group-title="经典电视剧",聊斋志异S1
-https://lunbo.freetv.top/yy/1382736975
-#EXTINF:-1 group-title="经典电视剧",今夜欢乐颂
-https://lunbo.freetv.top/yy/1382735572
-#EXTINF:-1 group-title="经典电视剧",科幻片：来看神奇的地球
-https://lunbo.freetv.top/yy/1354930897
-#EXTINF:-1 group-title="经典电视剧",法证先锋Ⅱ
-https://lunbo.freetv.top/yy/1354888736
-#EXTINF:-1 group-title="经典电视剧",三国演义【1994】
-https://lunbo.freetv.top/yy/1354930932
-#EXTINF:-1 group-title="经典电视剧",欢乐集结号
-https://lunbo.freetv.top/yy/1382735550
-#EXTINF:-1 group-title="经典电视剧",国产大片电影
-https://lunbo.freetv.top/yy/1354926655
-#EXTINF:-1 group-title="经典电视剧",大话西游至尊宝
-https://lunbo.freetv.top/yy/1382736910
-#EXTINF:-1 group-title="经典电视剧",漫威超级英雄系列
-https://lunbo.freetv.top/yy/1354932402
-#EXTINF:-1 group-title="经典电视剧",暖暖1999
-https://lunbo.freetv.top/yy/1382851591
+http://43.138.170.29:35455/yy/1354932407
+#EXTINF:-1 group-title="经典电视剧",吐槽大会二季
+http://43.138.170.29:35455/yy/1354936145
+#EXTINF:-1 group-title="经典电视剧",吐槽大会五季
+http://43.138.170.29:35455/yy/1354889009
+#EXTINF:-1 group-title="经典电视剧",熊出没·逆转时空HD
+https://vip.ffzy-online2.com/20230521/37661_330568c0/index.m3u8
+#EXTINF:-1 group-title="经典电视剧",龙珠全集解说1
+http://cfss.cc/cdn/hy/10279885.m3u8
+#EXTINF:-1 group-title="经典电视剧",龙珠全集解说2
+http://cfss.cc/cdn/hy/19757963.m3u8
+#EXTINF:-1 group-title="经典电视剧",龙珠全集剧集3
+http://cfss.cc/cdn/hy/11601966.m3u8
+#EXTINF:-1 group-title="经典电视剧",龙珠全集剧集4
+http://cfss.cc/cdn/hy/16755322.m3u8
+#EXTINF:-1 group-title="经典电视剧",斌哥解说漫说1
+http://cfss.cc/cdn/hy/18632116.m3u8
+#EXTINF:-1 group-title="经典电视剧",斌哥解说漫说2
+http://cfss.cc/cdn/hy/21059621.m3u8
+#EXTINF:-1 group-title="经典电视剧",圣斗士集解说1
+http://cfss.cc/cdn/hy/27817468.m3u8
+#EXTINF:-1 group-title="经典电视剧",圣斗士集解说2
+http://cfss.cc/cdn/hy/11352904.m3u8
+#EXTINF:-1 group-title="经典电视剧",圣斗士集解说3
+http://43.138.170.29:35455/douyu/10349501
+#EXTINF:-1 group-title="经典电视剧",足球小将剧集
+http://43.138.170.29:35455/douyu/997925
+#EXTINF:-1 group-title="经典电视剧",足球小将解说
+http://cfss.cc/cdn/hy/25725150.m3u8
+#EXTINF:-1 group-title="经典电视剧",灌篮高手剧集
+http://43.138.170.29:35455/yy/1356243352
+#EXTINF:-1 group-title="经典电视剧",头文字D解说
+http://43.138.170.29:35455/douyu/9837291
+#EXTINF:-1 group-title="经典电视剧",头文字D剧集
+http://cfss.cc/cdn/hy/11352889.m3u8
+#EXTINF:-1 group-title="经典电视剧",一人之上漫剧
+http://cfss.cc/cdn/hy/11602065.m3u8
+#EXTINF:-1 group-title="经典电视剧",叮当全集解说
+http://43.138.170.29:35455/douyu/9445279
+#EXTINF:-1 group-title="经典电视剧",叮当全集剧集
+http://cfss.cc/cdn/hy/11601963.m3u8
+#EXTINF:-1 group-title="经典电视剧",料理小当家集
+http://43.138.170.29:35455/douyu/8231658
+#EXTINF:-1 group-title="经典电视剧",柯南剧场版集
+http://43.138.170.29:35455/douyu/6484910
+#EXTINF:-1 group-title="经典电视剧",四驱兄弟剧集
+http://cfss.cc/cdn/hy/11352922.m3u8
+#EXTINF:-1 group-title="经典电视剧",樱桃小丸子剧
+http://cfss.cc/cdn/hy/11342394.m3u8
+#EXTINF:-1 group-title="经典电视剧",猫和老鼠剧集
+http://cfss.cc/cdn/hy/11352879.m3u8
+#EXTINF:-1 group-title="经典电视剧",蜡笔小新剧集
+http://cfss.cc/cdn/hy/11352970.m3u8
+#EXTINF:-1 group-title="经典电视剧",Q版三国剧集
+http://cfss.cc/cdn/hy/29465871.m3u8
+#EXTINF:-1 group-title="经典电视剧",粤语动画电影
+http://43.138.170.29:35455/douyu/6462389
+#EXTINF:-1 group-title="经典电视剧",粤语配音电影
+http://43.138.170.29:35455/yy/1356262523
+#EXTINF:-1 group-title="经典电视剧",粤剧白蛇传情
+http://cfss.cc/cdn/hy/19743437.m3u8
+#EXTINF:-1 group-title="经典电视剧",国语译制电影
+http://43.138.170.29:35455/douyu/2436390
+#EXTINF:-1 group-title="经典电视剧",4K画质播电影
+http://43.138.170.29:35455/douyu/9249162
+#EXTINF:-1 group-title="经典电视剧",4K超清播电影
+http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.249:8001
 #EXTINF:-1 group-title="经典电视剧",第一滴血全集
-https://lunbo.freetv.top/yy/1354932355
-#EXTINF:-1 group-title="经典电视剧",热血战争巨作
-https://lunbo.freetv.top/yy/1382745087
-#EXTINF:-1 group-title="经典电视剧",动物世界-领略原始野性
-https://lunbo.freetv.top/yy/1382743138
-#EXTINF:-1 group-title="经典电视剧",热门喜剧
-https://lunbo.freetv.top/yy/1354931495
-#EXTINF:-1 group-title="经典电视剧",你是最美的风景
-https://lunbo.freetv.top/yy/1382851599
-#EXTINF:-1 group-title="经典电视剧",非诚勿扰
-https://lunbo.freetv.top/yy/1382735583
-#EXTINF:-1 group-title="经典电视剧",超精彩！系列动作电影
-https://lunbo.freetv.top/yy/1382745096
-#EXTINF:-1 group-title="经典电视剧",易中天品三国
-https://lunbo.freetv.top/yy/1354931498
-#EXTINF:-1 group-title="经典电视剧",张国荣与周润发的兄弟情
-https://lunbo.freetv.top/yy/1354930961
-#EXTINF:-1 group-title="经典电视剧",许多多
-https://lunbo.freetv.top/yy/1382851583
-#EXTINF:-1 group-title="经典电视剧",大进军全集：红色系列电影
-https://lunbo.freetv.top/yy/1382745083
-#EXTINF:-1 group-title="经典电视剧",了不起的萝莉小玲
-https://lunbo.freetv.top/yy/1382736799
-#EXTINF:-1 group-title="经典电视剧",国内经典动作电影
-https://lunbo.freetv.top/yy/1382851522
-#EXTINF:-1 group-title="经典电视剧",国外高分大片
-https://lunbo.freetv.top/yy/1382736867
-#EXTINF:-1 group-title="经典电视剧",熊出没之探险日记S1-国漫
-https://lunbo.freetv.top/yy/1354930977
-#EXTINF:-1 group-title="经典电视剧",炊事班的故事
-https://lunbo.freetv.top/yy/1382749901
-#EXTINF:-1 group-title="经典电视剧",晨晨的影视小窝
-https://lunbo.freetv.top/yy/1382851576
-#EXTINF:-1 group-title="经典电视剧",Blingbling
-https://lunbo.freetv.top/yy/1382851598
-#EXTINF:-1 group-title="经典电视剧",士兵突击
-https://lunbo.freetv.top/yy/1382851600
-#EXTINF:-1 group-title="经典电视剧",探秘中华美食
-https://lunbo.freetv.top/yy/1354930954
-#EXTINF:-1 group-title="经典电视剧",末日系列-外国电影合集
-https://lunbo.freetv.top/yy/1354889019
-#EXTINF:-1 group-title="经典电视剧",深夜惊悚大片
-https://lunbo.freetv.top/yy/1382745110
-#EXTINF:-1 group-title="经典电视剧",热血动作电影
-https://lunbo.freetv.top/yy/1382736804
-#EXTINF:-1 group-title="经典电视剧",活力满满
-https://lunbo.freetv.top/yy/1382851585
-#EXTINF:-1 group-title="经典电视剧",以家人之名
-https://lunbo.freetv.top/yy/1382736908
-#EXTINF:-1 group-title="经典电视剧",我的前半生
-https://lunbo.freetv.top/yy/1382735564
-#EXTINF:-1 group-title="经典电视剧",战争大片-国外电影
-https://lunbo.freetv.top/yy/1382736857
-#EXTINF:-1 group-title="经典电视剧",人生必看的科幻片
-https://lunbo.freetv.top/yy/1382745114
-#EXTINF:-1 group-title="经典电视剧",天龙八部
-https://lunbo.freetv.top/yy/1382749944
-#EXTINF:-1 group-title="经典电视剧",美国队长史蒂夫
-https://lunbo.freetv.top/yy/1382736813
-#EXTINF:-1 group-title="经典电视剧",高分科幻动作片
-https://lunbo.freetv.top/yy/1382749948
-#EXTINF:-1 group-title="经典电视剧",情满四合院
-https://lunbo.freetv.top/yy/1382736888
-#EXTINF:-1 group-title="经典电视剧",非诚勿扰
-https://lunbo.freetv.top/yy/1382745106
-#EXTINF:-1 group-title="经典电视剧",欢天喜地七仙女
-https://lunbo.freetv.top/yy/1382735553
-#EXTINF:-1 group-title="经典电视剧",高分动作大片-热血出击
-https://lunbo.freetv.top/yy/1382736909
-#EXTINF:-1 group-title="经典电视剧",黑衣人1、2—动作喜剧大片
-https://lunbo.freetv.top/yy/1354930936
-#EXTINF:-1 group-title="经典电视剧",金三角大营救
-https://lunbo.freetv.top/yy/1354930924
-#EXTINF:-1 group-title="经典电视剧",恋歌
-https://lunbo.freetv.top/yy/1382851594
-#EXTINF:-1 group-title="经典电视剧",非诚勿扰
-https://lunbo.freetv.top/yy/1382745100
-#EXTINF:-1 group-title="经典电视剧",欢乐集结号2
-https://lunbo.freetv.top/yy/1354930919
-#EXTINF:-1 group-title="经典电视剧",本山快乐营
-https://lunbo.freetv.top/yy/1354933529
-#EXTINF:-1 group-title="经典电视剧",少年包青天第三部
-https://lunbo.freetv.top/yy/1382851540
-#EXTINF:-1 group-title="经典电视剧",国产喜剧
-https://lunbo.freetv.top/yy/1382735584
-#EXTINF:-1 group-title="经典电视剧",超英集结
-https://lunbo.freetv.top/yy/1382745091
-#EXTINF:-1 group-title="经典电视剧",深海利剑
-https://lunbo.freetv.top/yy/1382736906
-#EXTINF:-1 group-title="经典电视剧",施公奇案1-欧阳震华
-https://lunbo.freetv.top/yy/1382749918
-#EXTINF:-1 group-title="经典电视剧",叛逆者
-https://lunbo.freetv.top/yy/1382736868
-#EXTINF:-1 group-title="经典电视剧",穿越时空的爱恋
-https://lunbo.freetv.top/yy/1382735567
-#EXTINF:-1 group-title="经典电视剧",上海滩
-https://lunbo.freetv.top/yy/1382745184
-#EXTINF:-1 group-title="经典电视剧",精彩动作电影享不停
-https://lunbo.freetv.top/yy/1382736809
-#EXTINF:-1 group-title="经典电视剧",康熙王朝
-https://lunbo.freetv.top/yy/1382736818
-#EXTINF:-1 group-title="经典电视剧",小欢喜
-https://lunbo.freetv.top/yy/1382737888
-#EXTINF:-1 group-title="经典电视剧",国内战争电影
-https://lunbo.freetv.top/yy/1382736865
-#EXTINF:-1 group-title="经典电视剧",国外科幻
-https://lunbo.freetv.top/yy/1382736800
-#EXTINF:-1 group-title="经典电视剧",加勒比海盗系列
-https://lunbo.freetv.top/yy/1382749914
-#EXTINF:-1 group-title="经典电视剧",国内科幻片来袭
-https://lunbo.freetv.top/yy/1354930821
-#EXTINF:-1 group-title="经典电视剧",生逢灿烂的日子
-https://lunbo.freetv.top/yy/1382745085
-#EXTINF:-1 group-title="经典电视剧",平凡岁月
-https://lunbo.freetv.top/yy/1382745117
-#EXTINF:-1 group-title="经典电视剧",单挑荒野第一季
-https://lunbo.freetv.top/yy/1354933535
+http://43.138.170.29:35455/yy/1354932355
+#EXTINF:-1 group-title="经典电视剧",敢死队全轮播
+http://43.138.170.29:35455/yy/1382735573
+#EXTINF:-1 group-title="经典电视剧",速度与激情集
+http://43.138.170.29:35455/yy/1382736911
+#EXTINF:-1 group-title="经典电视剧",漫威系列轮播
+http://43.138.170.29:35455/yy/1354932402
 #EXTINF:-1 group-title="经典电视剧",哈利波特全集
-https://lunbo.freetv.top/yy/1382745105
-#EXTINF:-1 group-title="经典电视剧",老广的味道 第3季-美食纪录片
-https://lunbo.freetv.top/yy/1382735565
-#EXTINF:-1 group-title="经典电视剧",田园生活
-https://lunbo.freetv.top/yy/1382736898
-#EXTINF:-1 group-title="经典电视剧",粉红女郎
-https://lunbo.freetv.top/yy/1354888671
-#EXTINF:-1 group-title="经典电视剧",巩汉林春晚小品合集
-https://lunbo.freetv.top/yy/1354889035
-#EXTINF:-1 group-title="经典电视剧",鹿鼎记-陈小春版
-https://lunbo.freetv.top/yy/1382736920
-#EXTINF:-1 group-title="经典电视剧",法证先锋Ⅲ
-https://lunbo.freetv.top/yy/1382736802
-#EXTINF:-1 group-title="经典电视剧",小鬼当家-童年回忆
-https://lunbo.freetv.top/yy/1382745104
-#EXTINF:-1 group-title="经典电视剧",中国第一神探-狄仁杰
-https://lunbo.freetv.top/yy/1354932438
-#EXTINF:-1 group-title="经典电视剧",钟馗传说
-https://lunbo.freetv.top/yy/1382736839
-#EXTINF:-1 group-title="经典电视剧",欢乐集结号3
-https://lunbo.freetv.top/yy/1382736822
-#EXTINF:-1 group-title="经典电视剧",我的父亲我的兵
-https://lunbo.freetv.top/yy/1353413714
-#EXTINF:-1 group-title="经典电视剧",传奇英雄
-https://lunbo.freetv.top/yy/1382735578
-#EXTINF:-1 group-title="经典电视剧",洪大哥系列
-https://lunbo.freetv.top/yy/1354888743
-#EXTINF:-1 group-title="经典电视剧",无敌县令
-https://lunbo.freetv.top/yy/1354932390
-#EXTINF:-1 group-title="经典电视剧",拆弹专家-刘德华
-https://lunbo.freetv.top/yy/1382745111
-#EXTINF:-1 group-title="经典电视剧",王朝-自然-纪录片
-https://lunbo.freetv.top/yy/1354930927
-#EXTINF:-1 group-title="经典电视剧",大唐双龙传
-https://lunbo.freetv.top/yy/1354930979
-#EXTINF:-1 group-title="经典电视剧",渴望
-https://lunbo.freetv.top/yy/1354930963
-#EXTINF:-1 group-title="经典电视剧",舌尖上的中国第一季
-https://lunbo.freetv.top/yy/1354930952
-#EXTINF:-1 group-title="经典电视剧",特种兵归来-国产电影
-https://lunbo.freetv.top/yy/1382735581
-#EXTINF:-1 group-title="经典电视剧",本山快乐营1
-https://lunbo.freetv.top/yy/1354936209
-#EXTINF:-1 group-title="经典电视剧",香港动作大片
-https://lunbo.freetv.top/yy/1382736816
-#EXTINF:-1 group-title="经典电视剧",迷
-https://lunbo.freetv.top/yy/1382736719
-#EXTINF:-1 group-title="经典电视剧",科幻电影
-https://lunbo.freetv.top/yy/1354930209
-#EXTINF:-1 group-title="经典电视剧",大汉天子S1
-https://lunbo.freetv.top/yy/1382749902
-#EXTINF:-1 group-title="经典电视剧",笑傲江湖-电视剧
-https://lunbo.freetv.top/yy/1354936128
-#EXTINF:-1 group-title="经典电视剧",尽享国内精彩战争片
-https://lunbo.freetv.top/yy/1382745094
-#EXTINF:-1 group-title="经典电视剧",新世界
-https://lunbo.freetv.top/yy/1382736850
-#EXTINF:-1 group-title="经典电视剧",灌篮高手
-https://lunbo.freetv.top/yy/1382735626
-#EXTINF:-1 group-title="经典电视剧",我爱我家
-https://lunbo.freetv.top/yy/1382735557
-#EXTINF:-1 group-title="经典电视剧",老司机带你开眼界
-https://lunbo.freetv.top/yy/1349538007
-#EXTINF:-1 group-title="经典电视剧",白夜追凶第一季
-https://lunbo.freetv.top/yy/1354932359
-#EXTINF:-1 group-title="经典电视剧",小公举
-https://lunbo.freetv.top/yy/1382745124
-#EXTINF:-1 group-title="经典电视剧",漫威十年老粉福利来了
-https://lunbo.freetv.top/yy/1354930233
-#EXTINF:-1 group-title="经典电视剧",最美的青春
-https://lunbo.freetv.top/yy/1382745116
-#EXTINF:-1 group-title="经典电视剧",岳云鹏宋小宝也来演电影了？
-https://lunbo.freetv.top/yy/1354926612
-#EXTINF:-1 group-title="经典电视剧",远去的飞鹰-影视剧
-https://lunbo.freetv.top/yy/1354930912
-#EXTINF:-1 group-title="经典电视剧",国外黑色喜剧：冷幽默小剧场
-https://lunbo.freetv.top/yy/1382745175
-#EXTINF:-1 group-title="经典电视剧",最美的青春
-https://lunbo.freetv.top/yy/1382851530
-#EXTINF:-1 group-title="经典电视剧",降服魔女的手段-泰剧
-https://lunbo.freetv.top/yy/1354932405
-#EXTINF:-1 group-title="经典电视剧",老夫少妻搞笑忘年恋
-https://lunbo.freetv.top/yy/1354932391
-#EXTINF:-1 group-title="经典电视剧",国外动作大片
-https://lunbo.freetv.top/yy/1382735540
-#EXTINF:-1 group-title="经典电视剧",漫画解说
-https://lunbo.freetv.top/yy/1382735568
-#EXTINF:-1 group-title="经典电视剧",来自星星的你
-https://lunbo.freetv.top/yy/1354930976
-#EXTINF:-1 group-title="经典电视剧",学生兵
-https://lunbo.freetv.top/yy/1354658003
-#EXTINF:-1 group-title="经典电视剧",经典大片合集
-https://lunbo.freetv.top/yy/1382749895
-#EXTINF:-1 group-title="经典电视剧",一起来笑吧
-https://lunbo.freetv.top/yy/1454859415
-#EXTINF:-1 group-title="经典电视剧",珍珠港-电影
-https://lunbo.freetv.top/yy/1354936234
-#EXTINF:-1 group-title="经典电视剧",十亿少女的噩梦
-https://lunbo.freetv.top/yy/1354921392
-#EXTINF:-1 group-title="经典电视剧",笑傲江湖 第1季
-https://lunbo.freetv.top/yy/1382749896
-#EXTINF:-1 group-title="经典电视剧",超激烈的猎食场面
-https://lunbo.freetv.top/yy/1382749898
-#EXTINF:-1 group-title="经典电视剧",开心小泡芙
-https://lunbo.freetv.top/yy/1382851578
-#EXTINF:-1 group-title="经典电视剧",飓风营救
-https://lunbo.freetv.top/yy/1382735547
-#EXTINF:-1 group-title="经典电视剧",热血动作片合集
-https://lunbo.freetv.top/yy/1382735627
-#EXTINF:-1 group-title="经典电视剧",精彩动作电影
-https://lunbo.freetv.top/yy/1382736823
-#EXTINF:-1 group-title="经典电视剧",欢乐集结号4
-https://lunbo.freetv.top/yy/1382736889
-#EXTINF:-1 group-title="经典电视剧",忠烈杨家将
-https://lunbo.freetv.top/yy/1382749909
-#EXTINF:-1 group-title="经典电视剧",大汉天子S2
-https://lunbo.freetv.top/yy/1382736807
-#EXTINF:-1 group-title="经典电视剧",舌尖上的中国第2季
-https://lunbo.freetv.top/yy/1354930943
-#EXTINF:-1 group-title="经典电视剧",笑傲江湖 第2季
-https://lunbo.freetv.top/yy/1382736914
-#EXTINF:-1 group-title="经典电视剧",史诗级战争大片
-https://lunbo.freetv.top/yy/1382745092
-#EXTINF:-1 group-title="经典电视剧",黑冰
-https://lunbo.freetv.top/yy/1354932427
-#EXTINF:-1 group-title="经典电视剧",流金岁月-经典港剧
-https://lunbo.freetv.top/yy/1382736891
-#EXTINF:-1 group-title="经典电视剧",宫心计
-https://lunbo.freetv.top/yy/1382828769
-#EXTINF:-1 group-title="经典电视剧",农家小菜
-https://lunbo.freetv.top/yy/1382736894
-#EXTINF:-1 group-title="经典电视剧",岳云鹏-屌丝也能追到美女
-https://lunbo.freetv.top/yy/1382736882
-#EXTINF:-1 group-title="经典电视剧",野性欧洲
-https://lunbo.freetv.top/yy/1354926622
-#EXTINF:-1 group-title="经典电视剧",妖神记
-https://lunbo.freetv.top/yy/1382745171
-#EXTINF:-1 group-title="经典电视剧",谈判专家
-https://lunbo.freetv.top/yy/1382735560
-#EXTINF:-1 group-title="经典电视剧",编辑部的故事
-https://lunbo.freetv.top/yy/1354936120
-#EXTINF:-1 group-title="经典电视剧",X战警系列电影
-https://lunbo.freetv.top/yy/1382736893
-#EXTINF:-1 group-title="经典电视剧",回家的诱惑
-https://lunbo.freetv.top/yy/1354658043
-#EXTINF:-1 group-title="经典电视剧",外国科幻大片
-https://lunbo.freetv.top/yy/1382747628
-#EXTINF:-1 group-title="经典电视剧",福贵
-https://lunbo.freetv.top/yy/1354926537
-#EXTINF:-1 group-title="经典电视剧",心理追凶-港剧
-https://lunbo.freetv.top/yy/1354936207
-#EXTINF:-1 group-title="经典电视剧",经典搞笑影片
-https://lunbo.freetv.top/yy/1382749878
-#EXTINF:-1 group-title="经典电视剧",请回答1988
-https://lunbo.freetv.top/yy/1354932362
-#EXTINF:-1 group-title="经典电视剧",脑洞大开的精彩科幻片
-https://lunbo.freetv.top/yy/1382736723
-#EXTINF:-1 group-title="经典电视剧",热播国内侦探片
-https://lunbo.freetv.top/yy/1382736820
-#EXTINF:-1 group-title="经典电视剧",战争大片
-https://lunbo.freetv.top/yy/1382736819
-#EXTINF:-1 group-title="经典电视剧",风靡全球的谍战片
-https://lunbo.freetv.top/yy/1382736817
-#EXTINF:-1 group-title="经典电视剧",百家讲坛-红楼梦篇
-https://lunbo.freetv.top/yy/1382741639
-#EXTINF:-1 group-title="经典电视剧",最后的狮子-探险纪录片
-https://lunbo.freetv.top/yy/1382735577
-#EXTINF:-1 group-title="经典电视剧",小米粒Mili
-https://lunbo.freetv.top/yy/1382736842
-#EXTINF:-1 group-title="经典电视剧",机动步队
-https://lunbo.freetv.top/yy/1354932371
-#EXTINF:-1 group-title="经典电视剧",开心麻花街
-https://lunbo.freetv.top/yy/1354926643
-#EXTINF:-1 group-title="经典电视剧",国产动作电影
-https://lunbo.freetv.top/yy/1382736858
-#EXTINF:-1 group-title="经典电视剧",寻秦记
-https://lunbo.freetv.top/yy/1354658048
-#EXTINF:-1 group-title="经典电视剧",小小飞虎队
-https://lunbo.freetv.top/yy/1382749888
-#EXTINF:-1 group-title="经典电视剧",国内玄幻电影-林正英
-https://lunbo.freetv.top/yy/1354932444
-#EXTINF:-1 group-title="经典电视剧",黄大妮-电视剧
-https://lunbo.freetv.top/yy/1354930904
-#EXTINF:-1 group-title="经典电视剧",大江大河-高分影视推荐
-https://lunbo.freetv.top/yy/1382736806
-#EXTINF:-1 group-title="经典电视剧",外国战争大片
-https://lunbo.freetv.top/yy/1382736872
-#EXTINF:-1 group-title="经典电视剧",洪金宝福星系列
-https://lunbo.freetv.top/yy/1382851602
-#EXTINF:-1 group-title="经典电视剧",重生之超级赛亚人
-https://lunbo.freetv.top/yy/1354936124
-#EXTINF:-1 group-title="经典电视剧",憨豆先生
-https://lunbo.freetv.top/yy/1354930189
-#EXTINF:-1 group-title="经典电视剧",妖神记-全集
-https://lunbo.freetv.top/yy/1382735551
-#EXTINF:-1 group-title="经典电视剧",金婚
-https://lunbo.freetv.top/yy/1382828768
-#EXTINF:-1 group-title="经典电视剧",真心想让你幸福
-https://lunbo.freetv.top/yy/1382736876
-#EXTINF:-1 group-title="经典电视剧",动作大片
-https://lunbo.freetv.top/yy/1354930887
-#EXTINF:-1 group-title="经典电视剧",国产喜剧大片
-https://lunbo.freetv.top/yy/1382745113
-#EXTINF:-1 group-title="经典电视剧",国外最强动作大片！
-https://lunbo.freetv.top/yy/1354936157
-#EXTINF:-1 group-title="经典电视剧",国外科幻片
-https://lunbo.freetv.top/yy/1382735585
-#EXTINF:-1 group-title="经典电视剧",百家讲坛-之女皇武则天
-https://lunbo.freetv.top/yy/1354889015
-#EXTINF:-1 group-title="经典电视剧",暮光之城全季
-https://lunbo.freetv.top/yy/1354930181
-#EXTINF:-1 group-title="经典电视剧",大江大河2-高分影视推荐
-https://lunbo.freetv.top/yy/1382736797
-#EXTINF:-1 group-title="经典电视剧",热血战争片
-https://lunbo.freetv.top/yy/1354932409
-#EXTINF:-1 group-title="经典电视剧",馋哭了！川味来袭
-https://lunbo.freetv.top/yy/1382736913
-#EXTINF:-1 group-title="经典电视剧",缺宅男女-精彩港剧
-https://lunbo.freetv.top/yy/1382745088
-#EXTINF:-1 group-title="经典电视剧",去有风的地方
-https://lunbo.freetv.top/yy/1382736874
-#EXTINF:-1 group-title="经典电视剧",粟裕大将-影视
-https://lunbo.freetv.top/yy/1354926542
-#EXTINF:-1 group-title="经典电视剧",赌神3之少年赌神
-https://lunbo.freetv.top/yy/1382749912
-#EXTINF:-1 group-title="经典电视剧",地球上的地狱
-https://lunbo.freetv.top/yy/1382736918
-#EXTINF:-1 group-title="经典电视剧",小生物的故事
-https://lunbo.freetv.top/yy/1382736834
-#EXTINF:-1 group-title="经典电视剧",9.8分！这部纪录片封神了
-https://lunbo.freetv.top/yy/1382736825
-#EXTINF:-1 group-title="经典电视剧",陈情令
-https://lunbo.freetv.top/yy/1382745121
-#EXTINF:-1 group-title="经典电视剧",体验另一种生活！
-https://lunbo.freetv.top/yy/1354936229
-#EXTINF:-1 group-title="经典电视剧",苦乐村官
-https://lunbo.freetv.top/yy/1382736864
-#EXTINF:-1 group-title="经典电视剧",大汉天子S3
-https://lunbo.freetv.top/yy/1382736810
-#EXTINF:-1 group-title="经典电视剧",公主嫁到
-https://lunbo.freetv.top/yy/1382736915
-#EXTINF:-1 group-title="经典电视剧",笑到飞起！阿拉丁与神灯
-https://lunbo.freetv.top/yy/1382749950
-#EXTINF:-1 group-title="经典电视剧",法外风云
-https://lunbo.freetv.top/yy/1382736805
-#EXTINF:-1 group-title="经典电视剧",致敬星爷致敬经典
-https://lunbo.freetv.top/yy/1354889048
-#EXTINF:-1 group-title="经典电视剧",本山快乐营
-https://lunbo.freetv.top/yy/1382736852
-#EXTINF:-1 group-title="经典电视剧",赵本山爆笑小品2
-https://lunbo.freetv.top/yy/1354936217
-#EXTINF:-1 group-title="经典电视剧",缺宅男女
-https://lunbo.freetv.top/yy/1354930937
-#EXTINF:-1 group-title="经典电视剧",【科幻电影】
-https://lunbo.freetv.top/yy/1355065896
-#EXTINF:-1 group-title="经典电视剧",欢乐集结号58-70
-https://lunbo.freetv.top/yy/1382745119
-#EXTINF:-1 group-title="经典电视剧",俺娘田小草
-https://lunbo.freetv.top/yy/1382741638
-#EXTINF:-1 group-title="经典电视剧",超燃动作大片
-https://lunbo.freetv.top/yy/1382749940
-#EXTINF:-1 group-title="经典电视剧",蒲松龄—经典港剧
-https://lunbo.freetv.top/yy/1354889042
-#EXTINF:-1 group-title="经典电视剧",空谷幽兰
-https://lunbo.freetv.top/yy/1382745182
-#EXTINF:-1 group-title="经典电视剧",原始人大挑战
-https://lunbo.freetv.top/yy/1382736884
-#EXTINF:-1 group-title="经典电视剧",吐槽大会 第5季
-https://lunbo.freetv.top/yy/1354889009
-#EXTINF:-1 group-title="经典电视剧",萌鸡小队S1-国漫
-https://lunbo.freetv.top/yy/1382736904
-#EXTINF:-1 group-title="经典电视剧",丫鬟大联盟！笑个不停
-https://lunbo.freetv.top/yy/1382749913
-#EXTINF:-1 group-title="经典电视剧",名媛望族-精彩港剧
-https://lunbo.freetv.top/yy/1354932431
-#EXTINF:-1 group-title="经典电视剧",闲暇观看综艺
-https://lunbo.freetv.top/yy/1354932379
-#EXTINF:-1 group-title="经典电视剧",宫心计-港剧-古装
-https://lunbo.freetv.top/yy/1354933540
-#EXTINF:-1 group-title="经典电视剧",四大名捕2
-https://lunbo.freetv.top/yy/1382736916
-#EXTINF:-1 group-title="经典电视剧",风味原产地潮汕
-https://lunbo.freetv.top/yy/1382745178
-#EXTINF:-1 group-title="经典电视剧",悬疑破案！施公奇案全季
-https://lunbo.freetv.top/yy/1382749905
-#EXTINF:-1 group-title="经典电视剧",机场超燃警匪片
-https://lunbo.freetv.top/yy/1382735576
-#EXTINF:-1 group-title="经典电视剧",怀旧小品
-https://lunbo.freetv.top/yy/1382736821
-#EXTINF:-1 group-title="经典电视剧",动作大片
-https://lunbo.freetv.top/yy/1354888739
-#EXTINF:-1 group-title="经典电视剧",妖神记之黑狱篇
-https://lunbo.freetv.top/yy/1382745173
-#EXTINF:-1 group-title="经典电视剧",怪医文三块-影视剧
-https://lunbo.freetv.top/yy/1354936154
-#EXTINF:-1 group-title="经典电视剧",无罪推定—经典律政港剧
-https://lunbo.freetv.top/yy/1354936203
-#EXTINF:-1 group-title="经典电视剧",科幻大片
-https://lunbo.freetv.top/yy/1382745181
-#EXTINF:-1 group-title="经典电视剧",蜘蛛侠-院线大片
-https://lunbo.freetv.top/yy/1354926671
-#EXTINF:-1 group-title="经典电视剧",今晚80后脱口秀
-https://lunbo.freetv.top/yy/1382745098
-#EXTINF:-1 group-title="经典电视剧",丁大命
-https://lunbo.freetv.top/yy/1382735579
-#EXTINF:-1 group-title="经典电视剧",超级英雄系列电影
-https://lunbo.freetv.top/yy/1382736863
-#EXTINF:-1 group-title="经典电视剧",8090年的热血与回忆
-https://lunbo.freetv.top/yy/1356243352
-#EXTINF:-1 group-title="经典电视剧",银河护卫队-国外科幻巨作
-https://lunbo.freetv.top/yy/1382736815
-#EXTINF:-1 group-title="经典电视剧",飞虎之雷霆极战
-https://lunbo.freetv.top/yy/1382736869
-#EXTINF:-1 group-title="经典电视剧",雷神系列
-https://lunbo.freetv.top/yy/1354932441
-#EXTINF:-1 group-title="经典电视剧",高分港剧合集
-https://lunbo.freetv.top/yy/1382735542
-#EXTINF:-1 group-title="经典电视剧",白鹿原
-https://lunbo.freetv.top/yy/1354931488
-#EXTINF:-1 group-title="经典电视剧",惊险动作大片！挑战心脏
-https://lunbo.freetv.top/yy/1354932407
-#EXTINF:-1 group-title="经典电视剧",强悍“杀猪婆”的励志人生
-https://lunbo.freetv.top/yy/1354658062
-#EXTINF:-1 group-title="经典电视剧",永远的经典系列
-https://lunbo.freetv.top/yy/1354930204
-#EXTINF:-1 group-title="经典电视剧",宇宙护卫队--国漫
-https://lunbo.freetv.top/yy/1382736837
-#EXTINF:-1 group-title="经典电视剧",来看修牛蹄
-https://lunbo.freetv.top/yy/1382749887
-#EXTINF:-1 group-title="经典电视剧",丫头动漫 斗罗斗破
-https://lunbo.freetv.top/yy/1458722520
-#EXTINF:-1 group-title="经典电视剧",金星脱口秀-爆笑回归
-https://lunbo.freetv.top/yy/1382749951
-#EXTINF:-1 group-title="经典电视剧",二号交通站
-https://lunbo.freetv.top/yy/1354930965
-#EXTINF:-1 group-title="经典电视剧",爆笑抗日！厨子戏子痞子
-https://lunbo.freetv.top/yy/1354930816
-#EXTINF:-1 group-title="经典电视剧",火线追凶-侦探系列电影
-https://lunbo.freetv.top/yy/1382745090
-#EXTINF:-1 group-title="经典电视剧",中国合伙人
-https://lunbo.freetv.top/yy/1354658051
-#EXTINF:-1 group-title="经典电视剧",伪装者
-https://lunbo.freetv.top/yy/1354936244
-#EXTINF:-1 group-title="经典电视剧",中国味道 第4季-美食纪录片
-https://lunbo.freetv.top/yy/1382736845
-#EXTINF:-1 group-title="经典电视剧",金装四大才子
-https://lunbo.freetv.top/yy/1354926600
-#EXTINF:-1 group-title="经典电视剧",回家的诱惑-狗血剧巅峰
-https://lunbo.freetv.top/yy/1382851148
-#EXTINF:-1 group-title="经典电视剧",守望的天空-泪目电视剧
-https://lunbo.freetv.top/yy/1382736843
-#EXTINF:-1 group-title="经典电视剧",娘亲舅大
-https://lunbo.freetv.top/yy/1354932360
-#EXTINF:-1 group-title="经典电视剧",太空生命？高分科幻电影开播
-https://lunbo.freetv.top/yy/1382851586
-#EXTINF:-1 group-title="经典电视剧",功夫婆媳-家庭剧
-https://lunbo.freetv.top/yy/1382736883
-#EXTINF:-1 group-title="经典电视剧",三国演义94年经典版
-https://lunbo.freetv.top/yy/1354936241
-#EXTINF:-1 group-title="经典电视剧",24h 我爱我家 纯音频
-https://lunbo.freetv.top/yy/1356212303
-#EXTINF:-1 group-title="经典电视剧",憨豆先生-经典喜剧
-https://lunbo.freetv.top/yy/1354936239
-#EXTINF:-1 group-title="经典电视剧",另类民兵葛二蛋
-https://lunbo.freetv.top/yy/1382736895
-#EXTINF:-1 group-title="经典电视剧",国威影院 仙侠系列
-https://lunbo.freetv.top/yy/1354866665
-#EXTINF:-1 group-title="经典电视剧",第8号当铺
-https://lunbo.freetv.top/yy/1382736905
-#EXTINF:-1 group-title="经典电视剧",丈夫在外有人？真相竟然是！
-https://lunbo.freetv.top/yy/1354932375
-#EXTINF:-1 group-title="经典电视剧",喜剧闹翻天
-https://lunbo.freetv.top/yy/1382735548
-#EXTINF:-1 group-title="经典电视剧",铭记历史-甲午大海战
-https://lunbo.freetv.top/yy/1354936195
-#EXTINF:-1 group-title="经典电视剧",侏罗纪公园三部曲
-https://lunbo.freetv.top/yy/1354936191
-#EXTINF:-1 group-title="经典电视剧",下饭喜剧电影
-https://lunbo.freetv.top/yy/1382736844
-#EXTINF:-1 group-title="经典电视剧",西游记张卫健版
-https://lunbo.freetv.top/yy/1354936155
-#EXTINF:-1 group-title="经典电视剧",小迷糊 正在直播
-https://lunbo.freetv.top/yy/1461931969
-#EXTINF:-1 group-title="经典电视剧",狂飙
-https://lunbo.freetv.top/yy/34313906
-#EXTINF:-1 group-title="经典电视剧",金牌配角达叔系列
-https://lunbo.freetv.top/yy/1354888728
-#EXTINF:-1 group-title="经典电视剧",家有九凤-影视剧
-https://lunbo.freetv.top/yy/1354930894
-#EXTINF:-1 group-title="经典电视剧",李三枪-抗战影视剧
-https://lunbo.freetv.top/yy/1354936122
-#EXTINF:-1 group-title="经典电视剧",发哥系列
-https://lunbo.freetv.top/yy/1354888733
-#EXTINF:-1 group-title="经典电视剧",能耐大了！德云社演技爆棚
-https://lunbo.freetv.top/yy/1354930915
-#EXTINF:-1 group-title="经典电视剧",本山快乐营2
-https://lunbo.freetv.top/yy/1382736718
-#EXTINF:-1 group-title="经典电视剧",饥饿游戏全季
-https://lunbo.freetv.top/yy/1354932365
-#EXTINF:-1 group-title="经典电视剧",最好看的特工电影-007系列大片
-https://lunbo.freetv.top/yy/1382736897
-#EXTINF:-1 group-title="经典电视剧",国外院线动作大片
-https://lunbo.freetv.top/yy/1382735570
-#EXTINF:-1 group-title="经典电视剧",金庸武侠系列
-https://lunbo.freetv.top/yy/40959929
-#EXTINF:-1 group-title="经典电视剧",国家宝藏 第二季
-https://lunbo.freetv.top/yy/1382736853
-#EXTINF:-1 group-title="经典电视剧",男亲女爱-经典港剧
-https://lunbo.freetv.top/yy/1382736715
-#EXTINF:-1 group-title="经典电视剧",动作大片-热血开打
-https://lunbo.freetv.top/yy/1354936168
-#EXTINF:-1 group-title="经典电视剧",仙灵儿
-https://lunbo.freetv.top/yy/1382736887
-#EXTINF:-1 group-title="经典电视剧",什么会让你快乐
-https://lunbo.freetv.top/yy/54886912
-#EXTINF:-1 group-title="经典电视剧",港片—两公婆八条心
-https://lunbo.freetv.top/yy/1382736917
-#EXTINF:-1 group-title="经典电视剧",蔡明春晚小品
-https://lunbo.freetv.top/yy/1354936177
-#EXTINF:-1 group-title="经典电视剧",河山
-https://lunbo.freetv.top/yy/1382749952
-#EXTINF:-1 group-title="经典电视剧",家族荣耀-精彩港剧
-https://lunbo.freetv.top/yy/1382745103
-#EXTINF:-1 group-title="经典电视剧",少年歌行
-https://lunbo.freetv.top/yy/1508358696
-#EXTINF:-1 group-title="经典电视剧",国内科幻
-https://lunbo.freetv.top/yy/1354936170
-#EXTINF:-1 group-title="经典电视剧",贾玲小品合集
-https://lunbo.freetv.top/yy/1382736841
-#EXTINF:-1 group-title="经典电视剧",战争大片
-https://lunbo.freetv.top/yy/1382735556
-#EXTINF:-1 group-title="经典电视剧",公公出宫-港剧
-https://lunbo.freetv.top/yy/1354936208
-#EXTINF:-1 group-title="经典电视剧",火凤凰
-https://lunbo.freetv.top/yy/1356326459
-#EXTINF:-1 group-title="经典电视剧",经典电影 电视剧
-https://lunbo.freetv.top/yy/1354690927
-#EXTINF:-1 group-title="经典电视剧",老卓电影
-https://lunbo.freetv.top/yy/1354770516
-#EXTINF:-1 group-title="经典电视剧",传奇之王-影视剧
-https://lunbo.freetv.top/yy/1354926735
-#EXTINF:-1 group-title="经典电视剧",国内动作大片
-https://lunbo.freetv.top/yy/1382749917
-#EXTINF:-1 group-title="经典电视剧",牛大叔提干
-https://lunbo.freetv.top/yy/1382851615
-#EXTINF:-1 group-title="经典电视剧",举起手来
-https://lunbo.freetv.top/yy/1382744423
-#EXTINF:-1 group-title="经典电视剧",奥斯卡战争大片
-https://lunbo.freetv.top/yy/1354932397
-#EXTINF:-1 group-title="经典电视剧",能耐大了第1季
-https://lunbo.freetv.top/yy/1354930195
-#EXTINF:-1 group-title="经典电视剧",我比你更懂车 你偏不信
-https://lunbo.freetv.top/yy/85042287
-#EXTINF:-1 group-title="经典电视剧",经典影视
-https://lunbo.freetv.top/yy/1355002394
-#EXTINF:-1 group-title="经典电视剧",欧美怪兽电影-哥斯拉1
-https://lunbo.freetv.top/yy/1382736833
-#EXTINF:-1 group-title="经典电视剧",倚天屠龙经典武打搞笑电影
-https://lunbo.freetv.top/yy/1356043643
-#EXTINF:-1 group-title="经典电视剧",施公奇案2-欧阳震华
-https://lunbo.freetv.top/yy/1382736824
-#EXTINF:-1 group-title="经典电视剧",不能错过的经典电影解说-越哥说电影
-https://lunbo.freetv.top/yy/1382745099
-#EXTINF:-1 group-title="经典电视剧",经典电影
-https://lunbo.freetv.top/yy/1450556636
-#EXTINF:-1 group-title="经典电视剧",欢迎光临
-https://lunbo.freetv.top/yy/1355532933
-#EXTINF:-1 group-title="经典电视剧",国内最新战争大片
-https://lunbo.freetv.top/yy/1382745189
-#EXTINF:-1 group-title="经典电视剧",宋小宝金星自拍玩“亲亲”-今夜百乐门
-https://lunbo.freetv.top/yy/1382736912
-#EXTINF:-1 group-title="经典电视剧",买车前看一看 不然血亏
-https://lunbo.freetv.top/yy/1349602814
-#EXTINF:-1 group-title="经典电视剧",鬼片剧场
-https://lunbo.freetv.top/yy/1353255986
-#EXTINF:-1 group-title="经典电视剧",海王-院线大片
-https://lunbo.freetv.top/yy/1354936142
-#EXTINF:-1 group-title="经典电视剧",宫心计
-https://lunbo.freetv.top/yy/1354932429
-#EXTINF:-1 group-title="经典电视剧",变形金刚4、5
-https://lunbo.freetv.top/yy/1354658064
-#EXTINF:-1 group-title="经典电视剧",开心果 正在直播
-https://lunbo.freetv.top/yy/1457622044
-#EXTINF:-1 group-title="经典电视剧",父母的爱情
-https://lunbo.freetv.top/yy/1382768483
-#EXTINF:-1 group-title="经典电视剧",灌篮高手
-https://lunbo.freetv.top/yy/1382735559
-#EXTINF:-1 group-title="经典电视剧",同学会
-https://lunbo.freetv.top/yy/1382851478
-#EXTINF:-1 group-title="经典电视剧",小戏骨黄飞鸿
-https://lunbo.freetv.top/yy/1354936181
-#EXTINF:-1 group-title="经典电视剧",2012：世界末日
-https://lunbo.freetv.top/yy/1382736836
-#EXTINF:-1 group-title="经典电视剧",吐槽大会 第2季
-https://lunbo.freetv.top/yy/1354936145
-#EXTINF:-1 group-title="经典电视剧",我是特种兵利刃出鞘
-https://lunbo.freetv.top/yy/1354127609
-#EXTINF:-1 group-title="经典电视剧",的士速递全季—爆笑犯罪大片
-https://lunbo.freetv.top/yy/1382749910
-#EXTINF:-1 group-title="经典电视剧",精彩影视轮番上映
-https://lunbo.freetv.top/yy/1355336008
-#EXTINF:-1 group-title="经典电视剧",男生女生向前冲
-https://lunbo.freetv.top/yy/1354930957
-#EXTINF:-1 group-title="经典电视剧",叶问
-https://lunbo.freetv.top/yy/54498626
-#EXTINF:-1 group-title="经典电视剧",大明王朝
-https://lunbo.freetv.top/yy/1382736879
-#EXTINF:-1 group-title="经典电视剧",蜥蜴世界
-https://lunbo.freetv.top/yy/1382735545
-#EXTINF:-1 group-title="经典电视剧",七色小彩虹
-https://lunbo.freetv.top/yy/1382851601
-#EXTINF:-1 group-title="经典电视剧",情满四合院-高分电视剧
-https://lunbo.freetv.top/yy/1382745089
-#EXTINF:-1 group-title="经典电视剧",耀舞长安-港剧
-https://lunbo.freetv.top/yy/1382741640
-#EXTINF:-1 group-title="经典电视剧",经典电影电视剧
-https://lunbo.freetv.top/yy/1356213622
-#EXTINF:-1 group-title="经典电视剧",请回答1988-高分韩剧
-https://lunbo.freetv.top/yy/1354936228
-#EXTINF:-1 group-title="经典电视剧",十大经典港剧之《大时代》
-https://lunbo.freetv.top/yy/1354930891
-#EXTINF:-1 group-title="经典电视剧",香港院线大片-最新
-https://lunbo.freetv.top/yy/1354936242
-#EXTINF:-1 group-title="经典电视剧",丛林敢死队-国内电影
-https://lunbo.freetv.top/yy/1354936214
-#EXTINF:-1 group-title="经典电视剧",国内动作大片
-https://lunbo.freetv.top/yy/1382745176
-#EXTINF:-1 group-title="经典电视剧",百家讲坛――之明太祖朱元璋
-https://lunbo.freetv.top/yy/1354936149
-#EXTINF:-1 group-title="经典电视剧",鲨卷风：鲨鱼市区作乱
-https://lunbo.freetv.top/yy/1382736851
-#EXTINF:-1 group-title="经典电视剧",狂飙
-https://lunbo.freetv.top/yy/1459916667
-#EXTINF:-1 group-title="经典电视剧",好剧场 高清
-https://lunbo.freetv.top/yy/77809622
-#EXTINF:-1 group-title="经典电视剧",法证先锋Ⅳ
-https://lunbo.freetv.top/yy/1354932426
-#EXTINF:-1 group-title="经典电视剧",解放：苏联战争巨片
-https://lunbo.freetv.top/yy/1354936249
-#EXTINF:-1 group-title="经典电视剧",真爱找麻烦
-https://lunbo.freetv.top/yy/1354561195
-#EXTINF:-1 group-title="经典电视剧",精彩电视剧天天看
-https://lunbo.freetv.top/yy/1414976016
-#EXTINF:-1 group-title="经典电视剧",【义+】+奈奈新正在直播
-https://lunbo.freetv.top/yy/1462815850
-#EXTINF:-1 group-title="经典电视剧",国内喜剧
-https://lunbo.freetv.top/yy/1382736862
-#EXTINF:-1 group-title="经典电视剧",你看与不看我都在
-https://lunbo.freetv.top/yy/1353422557
-#EXTINF:-1 group-title="经典电视剧",溏心风暴之家好月圆
-https://lunbo.freetv.top/yy/1354888747
-#EXTINF:-1 group-title="经典电视剧",十诫—外国影史里程碑
-https://lunbo.freetv.top/yy/1354930945
-#EXTINF:-1 group-title="经典电视剧",神厨小福贵
-https://lunbo.freetv.top/yy/1382736860
-#EXTINF:-1 group-title="经典电视剧",电影电影电影电影电影电影
-https://lunbo.freetv.top/yy/1351496216
-#EXTINF:-1 group-title="经典电视剧",狂飙
-https://lunbo.freetv.top/yy/1508778570
-#EXTINF:-1 group-title="经典电视剧",超体：高分科幻片
-https://lunbo.freetv.top/yy/1354936116
-#EXTINF:-1 group-title="经典电视剧",三个臭皮匠顶一个诸葛亮
-https://lunbo.freetv.top/yy/1354936221
-#EXTINF:-1 group-title="经典电视剧",Ｔ.Ｓ.Ｌ.-东门仔
-https://lunbo.freetv.top/yy/1382861117
-#EXTINF:-1 group-title="经典电视剧",烧脑悬疑电影
-https://lunbo.freetv.top/yy/1382735571
-#EXTINF:-1 group-title="经典电视剧",飞虎之潜行极战
-https://lunbo.freetv.top/yy/1354932420
-#EXTINF:-1 group-title="经典电视剧",本山快乐营-爆笑小品
-https://lunbo.freetv.top/yy/1354930948
-#EXTINF:-1 group-title="经典电视剧",特种兵之霹雳火，剧版战狼
-https://lunbo.freetv.top/yy/1356047090
-#EXTINF:-1 group-title="经典电视剧",你最爱的小龙女-神雕侠侣
-https://lunbo.freetv.top/yy/1354926637
-#EXTINF:-1 group-title="经典电视剧",经典高分老剧-血色浪漫
-https://lunbo.freetv.top/yy/1382745190
-#EXTINF:-1 group-title="经典电视剧",正在热播电视剧合集
-https://lunbo.freetv.top/yy/14082141
-#EXTINF:-1 group-title="经典电视剧",捉妖记-国内喜剧电影合集
-https://lunbo.freetv.top/yy/1382851137
-#EXTINF:-1 group-title="经典电视剧",机械战警1-3
-https://lunbo.freetv.top/yy/1382736854
-#EXTINF:-1 group-title="经典电视剧",欢乐集结号
-https://lunbo.freetv.top/yy/1382749911
-#EXTINF:-1 group-title="经典电视剧",电影电影
-https://lunbo.freetv.top/yy/1450496699
-#EXTINF:-1 group-title="经典电视剧",超炫科幻大片
-https://lunbo.freetv.top/yy/1382736840
-#EXTINF:-1 group-title="经典电视剧",易中天品三国
-https://lunbo.freetv.top/yy/1354936178
-#EXTINF:-1 group-title="经典电视剧",战火中的故事
-https://lunbo.freetv.top/yy/1382735625
-#EXTINF:-1 group-title="经典电视剧",每走一步都要小心翼翼
-https://lunbo.freetv.top/yy/1354936199
-#EXTINF:-1 group-title="经典电视剧",訫海
-https://lunbo.freetv.top/yy/1382883830
-#EXTINF:-1 group-title="经典电视剧",和你不见不散
-https://lunbo.freetv.top/yy/1355635293
-#EXTINF:-1 group-title="经典电视剧",犬夜叉，半妖四魂之玉之路
-https://lunbo.freetv.top/yy/1509038705
-#EXTINF:-1 group-title="经典电视剧",你爱看的国内战争大片合集
-https://lunbo.freetv.top/yy/1354936160
-#EXTINF:-1 group-title="经典电视剧",侦探烧脑电影-悬疑
-https://lunbo.freetv.top/yy/1382735543
-#EXTINF:-1 group-title="经典电视剧",影视剧-林深见鹿
-https://lunbo.freetv.top/yy/1345494225
-#EXTINF:-1 group-title="经典电视剧",恐怖 僵尸 奇幻 经典
-https://lunbo.freetv.top/yy/1508896025
-#EXTINF:-1 group-title="经典电视剧",音乐视频
-https://lunbo.freetv.top/yy/1355823667
-#EXTINF:-1 group-title="经典电视剧",为你心动一万次
-https://lunbo.freetv.top/yy/1356366997
-#EXTINF:-1 group-title="经典电视剧",霍比特人电影系列
-https://lunbo.freetv.top/yy/1354930967
-#EXTINF:-1 group-title="经典电视剧",【康熙王朝】
-https://lunbo.freetv.top/yy/37033366
-#EXTINF:-1 group-title="经典电视剧",TVB经典—九江十二坊
-https://lunbo.freetv.top/yy/1382735566
-#EXTINF:-1 group-title="经典电视剧",喜乐街
-https://lunbo.freetv.top/yy/1354936231
-#EXTINF:-1 group-title="经典电视剧",卧虎藏龙-李安经典作品
-https://lunbo.freetv.top/yy/1382736849
-#EXTINF:-1 group-title="经典电视剧",永远一家人：厂长夫人摆地摊
-https://lunbo.freetv.top/yy/1382736873
-#EXTINF:-1 group-title="经典电视剧",巾帼枭雄之义海豪情
-https://lunbo.freetv.top/yy/1382736859
-#EXTINF:-1 group-title="经典电视剧",超精彩武打场景
-https://lunbo.freetv.top/yy/1354936131
-#EXTINF:-1 group-title="经典电视剧",TVB必看律政剧-三个女人一个因
-https://lunbo.freetv.top/yy/1382749953
-#EXTINF:-1 group-title="经典电视剧",天龙八部（国语版）
-https://lunbo.freetv.top/yy/1382736855
-#EXTINF:-1 group-title="经典电视剧",一城一味（舌尖姐妹篇）
-https://lunbo.freetv.top/yy/1382745179
-#EXTINF:-1 group-title="经典电视剧",盗梦空间！悬疑烧脑！
-https://lunbo.freetv.top/yy/1354930903
-#EXTINF:-1 group-title="经典电视剧",失忆24小时：绑架失踪案
-https://lunbo.freetv.top/yy/1382749890
-#EXTINF:-1 group-title="经典电视剧",一代人的童年回忆-动漫魔卡少女樱
-https://lunbo.freetv.top/yy/1354926666
-#EXTINF:-1 group-title="经典电视剧",修牛蹄
-https://lunbo.freetv.top/yy/1353413683
-#EXTINF:-1 group-title="经典电视剧",神剧
-https://lunbo.freetv.top/yy/1354747273
-#EXTINF:-1 group-title="经典电视剧",最新喜剧电影
-https://lunbo.freetv.top/yy/1354936136
-#EXTINF:-1 group-title="经典电视剧",大家都爱看的港剧
-https://lunbo.freetv.top/yy/1382736861
-#EXTINF:-1 group-title="经典电视剧",国内高分悬疑剧-风筝
-https://lunbo.freetv.top/yy/1354931585
-#EXTINF:-1 group-title="经典电视剧",法海又来抓妖了
-https://lunbo.freetv.top/yy/1356326727
-#EXTINF:-1 group-title="经典电视剧",经典 港剧  影视剧
-https://lunbo.freetv.top/yy/1508897063
-#EXTINF:-1 group-title="经典电视剧",美国超级英雄电影系列
-https://lunbo.freetv.top/yy/1354933556
-#EXTINF:-1 group-title="经典电视剧",复仇者联盟4：终局之战
-https://lunbo.freetv.top/yy/1354936167
-#EXTINF:-1 group-title="经典电视剧",电视剧-流金岁月
-https://lunbo.freetv.top/yy/1382749906
-#EXTINF:-1 group-title="经典电视剧",特种兵归来4
-https://lunbo.freetv.top/yy/1382736896
-#EXTINF:-1 group-title="经典电视剧",魅力女神别错过
-https://lunbo.freetv.top/yy/1356076442
-#EXTINF:-1 group-title="经典电视剧",芳心纵火犯上线
-https://lunbo.freetv.top/yy/1414974976
-#EXTINF:-1 group-title="经典电视剧",命中注定我爱你、王子变青蛙、放羊的星星
-https://lunbo.freetv.top/yy/1354585252
-#EXTINF:-1 group-title="经典电视剧",狂飙2
-https://lunbo.freetv.top/yy/1382618077
-#EXTINF:-1 group-title="经典电视剧",荒诞喜剧！钢的琴
-https://lunbo.freetv.top/yy/1382736886
-#EXTINF:-1 group-title="经典电视剧",软糖-短剧
-https://lunbo.freetv.top/yy/1382882091
-#EXTINF:-1 group-title="经典电视剧",经典电视剧
-https://lunbo.freetv.top/yy/1356355983
-#EXTINF:-1 group-title="经典电视剧",我到家啦
-https://lunbo.freetv.top/yy/1382851468
-#EXTINF:-1 group-title="经典电视剧",新主播，求照顾
-https://lunbo.freetv.top/yy/1394102549
-#EXTINF:-1 group-title="经典电视剧",下饭必备美食轻喜剧-亲爱的味道
-https://lunbo.freetv.top/yy/1382735561
-#EXTINF:-1 group-title="经典电视剧",催泪神器！温情电影合集
-https://lunbo.freetv.top/yy/1354936238
-#EXTINF:-1 group-title="经典电视剧",内部测试频道请勿封禁
-https://lunbo.freetv.top/yy/1352488363
-#EXTINF:-1 group-title="经典电视剧",大家都在看的警匪片
-https://lunbo.freetv.top/yy/1354930964
-#EXTINF:-1 group-title="经典电视剧",pgsql 正在直播
-https://lunbo.freetv.top/yy/53498473
-#EXTINF:-1 group-title="经典电视剧",央视神级综艺-故事里的中国
-https://lunbo.freetv.top/yy/1382736798
-#EXTINF:-1 group-title="经典电视剧",送水工
-https://lunbo.freetv.top/yy/1382851475
-#EXTINF:-1 group-title="经典电视剧",经典武侠电影
-https://lunbo.freetv.top/yy/28298966
+http://43.138.170.29:35455/yy/1382745105
+#EXTINF:-1 group-title="经典电视剧",夺宝奇兵全集
+http://43.138.170.29:35455/yy/1382736833
+#EXTINF:-1 group-title="经典电视剧",机械战警全集
+http://43.138.170.29:35455/yy/1382736854
+#EXTINF:-1 group-title="经典电视剧",古惑仔国轮播
+http://43.138.170.29:35455/yy/1458015189
+#EXTINF:-1 group-title="经典电视剧",黑衣一二轮播
+http://43.138.170.29:35455/yy/1354930936
+#EXTINF:-1 group-title="经典电视剧",叠影重重全集
+http://43.138.170.29:35455/yy/1382735570
+#EXTINF:-1 group-title="经典电视剧",美剧解说轮播
+http://43.138.170.29:35455/douyu/9643264
+#EXTINF:-1 group-title="经典电视剧",经典美剧解说
+http://43.138.170.29:35455/douyu/9123570
+#EXTINF:-1 group-title="经典电视剧",雪中悍刀行剧
+http://cfss.cc/cdn/hy/11336592.m3u8#http://43.138.170.29:35455/yy/59719179
+#EXTINF:-1 group-title="经典电视剧",庆余年电视剧
+http://43.138.170.29:35455/douyu/11880121#http://43.138.170.29:35455/douyu/705204
+#EXTINF:-1 group-title="经典电视剧",83射雕英雄传
+http://43.138.170.29:35455/yy/1354210357
+#EXTINF:-1 group-title="经典电视剧",95神雕侠侣粤
+http://43.138.170.29:35455/yy/1354926637
+#EXTINF:-1 group-title="经典电视剧",96笑傲江湖版
+http://43.138.170.29:35455/yy/1354936128
+#EXTINF:-1 group-title="经典电视剧",87经典红楼梦
+http://43.138.170.29:35455/yy/1382745084
+#EXTINF:-1 group-title="经典电视剧",新白娘子传奇
+http://43.138.170.29:35455/yy/1354930969
+#EXTINF:-1 group-title="经典电视剧",仙剑奇侠传剧
+http://43.138.170.29:35455/yy/1382749903
+#EXTINF:-1 group-title="经典电视剧",花千骨电视剧
+http://43.138.170.29:35455/yy/1354943110
+#EXTINF:-1 group-title="经典电视剧",少年歌行剧集
+http://43.138.170.29:35455/yy/1450556636
+#EXTINF:-1 group-title="经典电视剧",鹊刀门传奇剧
+http://43.138.170.29:35455/yy/1355344777
+#EXTINF:-1 group-title="经典电视剧",开端电视轮播
+http://cfss.cc/cdn/hy/11342397.m3u8
+#EXTINF:-1 group-title="经典电视剧",我的体育老师
+http://43.138.170.29:35455/yy/1382745169
+#EXTINF:-1 group-title="经典电视剧",欢乐颂电视剧
+http://43.138.170.29:35455/douyu/3756989
+#EXTINF:-1 group-title="经典电视剧",好先生电视剧
+http://43.138.170.29:35455/douyu/9650792
+#EXTINF:-1 group-title="经典电视剧",我的前半生剧
+http://43.138.170.29:35455/yy/1382735564
+#EXTINF:-1 group-title="经典电视剧",伪装者电视剧
+http://43.138.170.29:35455/yy/1354936244
+#EXTINF:-1 group-title="经典电视剧",新雪豹电视剧
+http://43.138.170.29:35455/yy/28099939
+#EXTINF:-1 group-title="经典电视剧",二炮手电视剧
+http://43.138.170.29:35455/yy/1354930964
+#EXTINF:-1 group-title="经典电视剧",炮神电视轮播
+http://43.138.170.29:35455/yy/22089862
+#EXTINF:-1 group-title="经典电视剧",风筝电视轮播
+http://43.138.170.29:35455/yy/1354931585
