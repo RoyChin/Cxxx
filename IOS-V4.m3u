@@ -2456,7 +2456,6 @@ http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_de
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 group-title="🦄4K-8K频道",苏州-4K
 http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
-
 #EXTINF:-1 group-title="🦄4K-8K频道",CCTV3-4K[IPV6]
 http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
 #EXTINF:-1 group-title="🦄4K-8K频道",CCTV5-4K[IPV6]
@@ -2481,6 +2480,51 @@ http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/ind
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 group-title="🦄4K-8K频道",4K-UHD[IPV6]
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+#EXTINF:-1 group-title="🦄4K-8K频道",👉此处以下频道需要魔法👈
+https://cloud.lxweb.cn/f/08QDU0/3.MOV
+#EXTINF:-1 group-title="🦄4K-8K频道",RMC 体育 1 4K
+http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/342420
+#EXTINF:-1 group-title="🦄4K-8K频道",天空体育 主赛事 4K
+http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/314130
+#EXTINF:-1 group-title="🦄4K-8K频道",天空体育 F1 4K
+http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/305406
+#EXTINF:-1 group-title="🦄4K-8K频道",天空体育 网球 4K
+http://extraott.com:80/live/7921751389/6097373662/79112.m3u8
+#EXTINF:-1 group-title="🦄4K-8K频道",壹拾壹体育 4K
+http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/280621
+#EXTINF:-1 group-title="🦄4K-8K频道",UROSPORT 4K
+http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/185060
+#EXTINF:-1 group-title="🦄4K-8K频道",NASA TV 4K
+http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/185407
+#EXTINF:-1 group-title="🦄4K-8K频道",ASTRO SUPERSPORT 4K
+http://extraott.com:80/live/7921751389/6097373662/7841.m3u8
+#EXTINF:-1 group-title="🦄4K-8K频道",Love Nature 4K
+http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/179698
+#EXTINF:-1 group-title="🦄4K-8K频道",Fireplace 4K
+http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/273896
+#EXTINF:-1 group-title="🦄4K-8K频道",Fashion TV 4K
+http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/230039
+#EXTINF:-1 group-title="🦄4K-8K频道",Bloomberg TV+ 4K
+https://i.mjh.nz/SamsungTVPlus/USAJ3400011A8.m3u8
+#EXTINF:-1 group-title="🦄4K-8K频道",Loupe 4K
+https://i.mjh.nz/SamsungTVPlus/USBB1000002TK.m3u8
+#EXTINF:-1 group-title="🦄4K-8K频道",Fireplace 4K
+https://i.mjh.nz/SamsungTVPlus/USBA3800004EL.m3u8
+#EXTINF:-1 group-title="🦄4K-8K频道",Pro7Sat.1 4K
+http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/283408
+#EXTINF:-1 group-title="🦄4K-8K频道",RTL 4K
+http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/273897
+#EXTINF:-1 group-title="🦄4K-8K频道",SES UHD 4K
+http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/185059
+#EXTINF:-1 group-title="🦄4K-8K频道",QVC Zwei 4K
+http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/193879
+#EXTINF:-1 group-title="🦄4K-8K频道",贝因体育 1 4K
+http://extraott.com:80/live/7921751389/6097373662/32911.m3u8
+#EXTINF:-1 group-title="🦄4K-8K频道",贝因体育 2 4K
+http://extraott.com:80/live/7921751389/6097373662/32910.m3u8
+#EXTINF:-1 group-title="🦄4K-8K频道",贝因体育 3 4K
+http://extraott.com:80/live/7921751389/6097373662/32909.m3u8
+
 
 #EXTINF:-1 group-title="🦄国内体育",👉添加售后唯一微信👈
 https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
