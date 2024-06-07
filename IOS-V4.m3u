@@ -7169,64 +7169,12 @@ https://i.mjh.nz/SamsungTVPlus/FRAJ4500025AN.m3u8
 #EXTINF:-1 group-title="🦄法国频道🐓",Films d'action - Rakuten TV
 https://i.mjh.nz/SamsungTVPlus/FRAJ4500023UP.m3u8
 
-#EXTINF:-1 group-title="🦄电影频道🎥",超级电影
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 group-title="🦄电影频道🎥",动作大片
-http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1555700033_-766721196/ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8?icpid=3&RTS=1674385966&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
-#EXTINF:-1 group-title="🦄电影频道🎥",精彩影视
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
-#EXTINF:-1 group-title="🦄电影频道🎥",欧美影院
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
-#EXTINF:-1 group-title="🦄电影频道🎥",亚洲影院
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
-#EXTINF:-1 group-title="🦄电影频道🎥",院线影视
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000034/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=3
-#EXTINF:-1 group-title="🦄电影频道🎥",超级电视剧_8M蓝光_易视腾
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000006000268003/index.m3u8?channel-id=ystenlive&Contentid=1000000006000268003&livemode=1&stbId=3
-#EXTINF:-1 group-title="🦄电影频道🎥",超级电视剧_4M蓝光_湖南bblive
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000032/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000032&livemode=1&stbId=3
-#EXTINF:-1 group-title="🦄电影频道🎥",超级电视剧_4M蓝光_易视腾
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000008139/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008139&livemode=1&stbId=3
-#EXTINF:-1 group-title="🦄电影频道🎥",超级电视剧_4M蓝光_易视腾
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000024993/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024993&livemode=1&stbId=3
-#EXTINF:-1 group-title="🦄电影频道🎥",超级电影_8M蓝光_易视腾
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000003000012426/index.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=3
-#EXTINF:-1 group-title="🦄电影频道🎥",超级电影_4M蓝光_湖南bblive
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000031/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000031&livemode=1&stbId=3
-#EXTINF:-1 group-title="🦄电影频道🎥",超级电影_4M蓝光_易视腾
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000012884/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012884&livemode=1&stbId=3
-#EXTINF:-1 group-title="🦄电影频道🎥",超级电影_4M蓝光_易视腾
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000002120/index.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=3
-#EXTINF:-1 group-title="🦄电影频道🎥",动作电影_4M蓝光_湖南bblive
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000017/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000017&livemode=1&stbId=3
-#EXTINF:-1 group-title="🦄电影频道🎥",动作电影_4M蓝光_易视腾
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000018653/index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3
-#EXTINF:-1 group-title="🦄电影频道🎥",惊悚悬疑_4M蓝光_湖南bblive
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000015/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000015&livemode=1&stbId=3
-#EXTINF:-1 group-title="🦄电影频道🎥",惊悚悬疑_4M蓝光_易视腾
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3
-#EXTINF:-1 group-title="🦄电影频道🎥",精品大剧_4M蓝光_湖南bblive
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000020/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000020&livemode=1&stbId=3
-#EXTINF:-1 group-title="🦄电影频道🎥",精品大剧_4M蓝光_易视腾
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000013968/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=3
-#EXTINF:-1 group-title="🦄电影频道🎥",动作电影
-http://[2409:8087:2001:20:2800:0:df6e:eb06]/wh7f454c46tw2169742343_-422728889/ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
-#EXTINF:-1 group-title="🦄电影频道🎥",欢乐剧场
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 #EXTINF:-1 group-title="🦄电影频道🎥",CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 group-title="🦄电影频道🎥",CHC家庭影院
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 group-title="🦄电影频道🎥",CHC动作电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 group-title="🦄电影频道🎥",黑莓电影
-https://epg.pw/stream/7cd2a163028ebcd6e8caffba4408642bb8a5009e13dd97bf5f36706cd75f395e.m3u8
-#EXTINF:-1 group-title="🦄电影频道🎥",黑莓电影
-https://epg.pw/stream/35d067b9bcb2480ccf5448a670af39922363cf6e42a24ec4a361aa2e0ebbb726.m3u8
-#EXTINF:-1 group-title="🦄电影频道🎥",黑莓电影
-https://epg.pw/stream/a106bba49a6159d54ee66205038e678acf94d13e34266e678ee7b08ce650766a.m3u8
-#EXTINF:-1 group-title="🦄电影频道🎥",黑莓电影
-https://epg.pw/stream/7a552c36ab63bf8ca14b3a6e05ce188d3243c9c6534d67d70ff72905aabca67e.m3u8
 #EXTINF:-1 group-title="🦄电影频道🎥",CHC家庭影院
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 #EXTINF:-1 group-title="🦄电影频道🎥",超级电影
