@@ -84,7 +84,12 @@ http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=93
 #EXTINF:-1 group-title="🐉国内体育🐉",劲爆体育
 http://live.nctv.top/8/bestv.php?id=jbty
 
-
+#EXTINF:-1 group-title="🏎F1赛事🏎",Dazn F1 4K
+http://zeuspro.xyz:8080/javiermayz1/8An6zmmSgC/355186
+#EXTINF:-1 group-title="🏎F1赛事🏎",DAZN F1 (L)(PPV)
+http://zeuspro.xyz:8080/javiermayz1/8An6zmmSgC/180149
+#EXTINF:-1 group-title="🏎F1赛事🏎",DAZN F1 (TV)(720)
+http://zeuspro.xyz:8080/javiermayz1/8An6zmmSgC/115985
 #EXTINF:-1 group-title="🏎F1赛事🏎",SKY SPORTS F1 HD
 http://extraott.com:900/live/3338826713/8323116234/153701.m3u8
 #EXTINF:-1 group-title="🏎F1赛事🏎",SKY SPORTS F1 FHD
