@@ -83,6 +83,8 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000008/index.m3u8?
 http://tvbox.mohuajz.eu.org/tv/bst8m.php?id=93
 #EXTINF:-1 group-title="🐉国内体育🐉",劲爆体育
 http://live.nctv.top/8/bestv.php?id=jbty
+#EXTINF:-1 group-title="🐉国内体育🐉",爱体育
+http://222.141.132.21:8888/rtp/225.1.4.168:1220
 
 #EXTINF:-1 group-title="🏎F1赛事🏎",Dazn F1 4K
 http://zeuspro.xyz:8080/javiermayz1/8An6zmmSgC/355186
