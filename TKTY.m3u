@@ -1,6 +1,3 @@
-#EXTINF:-1 group-title="世预亚 中国vs韩国",世预亚 中国vs韩国 4K 50帧
-https://livednow.com/migu/915541459?sign=gAAAAABmaCcTXcXrHOluZ4mfU9AY0A9lpJBf-QadhcvG76XR1kPZHnrgf96keNqQyckPOO3PK5wsv4ndN5K_9DniMAJb5fRz87EScAxS637Xu9Y2CwZII7Uk6GzwOzf0HtNG7LR08nhmY01rUfSq-XHUO56lxYKL9BzN9kOL1Je-ZDYByW62xrUU4zanGEkjZDKAeUXuKDVkwoCRc874G0hpGkGEDMADbQ%3D%3D
-
 #EXTINF:-1 group-title="🐉国内体育🐉",五星体育「IPV6」
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 group-title="🐉国内体育🐉",五星体育「IPV6」
@@ -224,165 +221,186 @@ http://extraott.com:80/live/7921751389/6097373662/41581.m3u8
 #EXTINF:-1 group-title="🏎F1赛事🏎",PPV| F1-MAG-Magnussen-HaasF1Team
 http://extraott.com:80/live/7921751389/6097373662/41580.m3u8
 
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",法国: TF1 4K
+#EXTINF:-1 group-title="🥅欧洲杯赛事①🥅",UEFA  | 01 - Germany v Scotland Friday 20.00
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:34:34&stream=1550843&extension=ts&play_token=gdCSXg4Xvc
+#EXTINF:-1 group-title="🥅欧洲杯赛事①🥅",UEFA  | 02 - Hungary v Switzerland Saturday 14.00
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:34:34&stream=1550844&extension=ts&play_token=uXlilrR5CH
+#EXTINF:-1 group-title="🥅欧洲杯赛事①🥅",UEFA | 03 - Spain v Croatia Saturday 17.00
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:34:34&stream=1550845&extension=ts&play_token=y445maowQd
+#EXTINF:-1 group-title="🥅欧洲杯赛事①🥅",UEFA | 04 - Italy v Albania Saturday 20.00
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:34:34&stream=1550846&extension=ts&play_token=6ZQshiOuE6
+#EXTINF:-1 group-title="🥅欧洲杯赛事①🥅",UEFA | 05 - Poland v Netherlands Sunday 14.00
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:34:34&stream=1550847&extension=ts&play_token=l5KmQk2bCd
+#EXTINF:-1 group-title="🥅欧洲杯赛事①🥅",UEFA | 06 - Slovenia v Denmark Sunday 17.00
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:34:34&stream=1550848&extension=ts&play_token=ZvghqySmwW
+#EXTINF:-1 group-title="🥅欧洲杯赛事①🥅",UEFA | 07 - Serbia v England Sunday 20.00
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:34:34&stream=1550849&extension=ts&play_token=YRyhlNIYqt
+#EXTINF:-1 group-title="🥅欧洲杯赛事①🥅",EURO CUP 8
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:34:34&stream=1550850&extension=ts&play_token=1o4u6pwKqg
+#EXTINF:-1 group-title="🥅欧洲杯赛事①🥅",EURO CUP 9
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:34:34&stream=1550851&extension=ts&play_token=Oc7bg6SQC2
+#EXTINF:-1 group-title="🥅欧洲杯赛事①🥅",EURO CUP 10
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:00:34:34&stream=1550852&extension=ts&play_token=NokbRvqTwG
+
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",法国: TF1 4K
 http://zeuspro.xyz:8080/javiermayz1/8An6zmmSgC/355188
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",西班牙: TVE 4K
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",西班牙: TVE 4K
 http://zeuspro.xyz:8080/javiermayz1/8An6zmmSgC/355187
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",罗马尼亚: Digi Sport 1 4K
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",罗马尼亚: Digi Sport 1 4K
 http://zeuspro.xyz:8080/javiermayz1/8An6zmmSgC/355192
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",美国: FOX Sports 1 4K
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",美国: FOX Sports 1 4K
 http://zeuspro.xyz:8080/javiermayz1/8An6zmmSgC/355198
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",捷克: Prima 4K
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",捷克: Prima 4K
 http://zeuspro.xyz:8080/javiermayz1/8An6zmmSgC/355191
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",加拿大: Orange Sport 1 4K
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",加拿大: Orange Sport 1 4K
 http://zeuspro.xyz:8080/javiermayz1/8An6zmmSgC/355189
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",FR| TF1 HD
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",FR| TF1 HD
 http://extraott.com:80/live/7921751389/6097373662/561.m3u8
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",FR| TF1 +1 HD
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",FR| TF1 +1 HD
 http://extraott.com:80/live/7921751389/6097373662/562.m3u8
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",[FR]* TF1 FHD
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",[FR]* TF1 FHD
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/9556
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",[FR]* M6 FHD
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",[FR]* M6 FHD
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/12340
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",[DE] Pro7Sat.1 UHD
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",[DE] Pro7Sat.1 UHD
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/283408
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",DE: RTL UHD
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",DE: RTL UHD
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/273897
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",[DE] QVC UHD
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",[DE] QVC UHD
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/273894
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",DE: Bundesliga UHD
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",DE: Bundesliga UHD
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/273890
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",[DE] UHD1 4K
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",[DE] UHD1 4K
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/185060
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",[DE] SES UHD 4K
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",[DE] SES UHD 4K
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/185059
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",[DE] QVC Zwei UHD 4K
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",[DE] QVC Zwei UHD 4K
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/193879
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",[DE]* Das Erste FHD
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",[DE]* Das Erste FHD
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/3223
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",[DE] Das Erste
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",[DE] Das Erste
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/4423
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",[DE]* ZDF FHD
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",[DE]* ZDF FHD
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/12617
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",[DE] ZDF
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",[DE] ZDF
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/309258
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",DE: ZDF FHD
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",DE: ZDF FHD
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/2856
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",[DE]* ZDF Neo FHD
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",[DE]* ZDF Neo FHD
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/166097
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",[DE] ZDF Neo
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",[DE] ZDF Neo
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/3228
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",[DE] ZDF Info FHD
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",[DE] ZDF Info FHD
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/166096
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",[DE] ZDF Info
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",[DE] ZDF Info
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/3222
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",OL| DE ZDF HD
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",OL| DE ZDF HD
 http://extraott.com:80/live/7921751389/6097373662/400216134.m3u8
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",OL| DE ZDFINFO HD
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",OL| DE ZDFINFO HD
 http://extraott.com:80/live/7921751389/6097373662/400216133.m3u8
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",OL| DE ZDF NEO HD
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",OL| DE ZDF NEO HD
 http://extraott.com:80/live/7921751389/6097373662/400216132.m3u8
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",DE| ZDF FHD
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",DE| ZDF FHD
 http://extraott.com:80/live/7921751389/6097373662/164259.m3u8
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",DE| ZDF INFO FHD
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",DE| ZDF INFO FHD
 http://extraott.com:80/live/7921751389/6097373662/164260.m3u8
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",DE| ZDF NEO FHD
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",DE| ZDF NEO FHD
 http://extraott.com:80/live/7921751389/6097373662/164261.m3u8
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",--------- UK General ----------
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",--------- UK General ----------
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/3480
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",[UK]* BBC 1 FHD
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",[UK]* BBC 1 FHD
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/76153
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",[UK] BBC 1 FHD2
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",[UK] BBC 1 FHD2
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/8681
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",[UK]* BBC 2 FHD
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",[UK]* BBC 2 FHD
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/76152
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",[UK]* ITV 1 FHD
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",[UK]* ITV 1 FHD
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/76149
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",[UK] ITV 1 FHD2
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",[UK] ITV 1 FHD2
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/8701
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",[UK] ITV 1
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",[UK] ITV 1
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/2878
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",[UK] ITV 1 +1
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",[UK] ITV 1 +1
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/3139
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",[UK]* ITV 2 FHD
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",[UK]* ITV 2 FHD
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/76148
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",[UK] ITV 2
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",[UK] ITV 2
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/8702
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",UK: ITV 2 HD
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",UK: ITV 2 HD
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/2879
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",[UK] ITV 2 +1
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",[UK] ITV 2 +1
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/33228
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",[UK]* ITV 3 FHD
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",[UK]* ITV 3 FHD
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/76147
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",UK: ITV 3 HD
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",UK: ITV 3 HD
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/8703
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",[UK] ITV 3 +1
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",[UK] ITV 3 +1
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/33229
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",UK:* ITV 4 FHD
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",UK:* ITV 4 FHD
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/76146
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",UK: ITV 4 HD
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",UK: ITV 4 HD
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/2880
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",[UK] ITV 4 +1
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",[UK] ITV 4 +1
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/33230
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",[UK]* ITV Be FHD
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",[UK]* ITV Be FHD
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/2881
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",[UK]* BBC 3 FHD/CBBC FHD
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",[UK]* BBC 3 FHD/CBBC FHD
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/76151
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",[UK] BBC 3 HD / CBBC FHD2
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",[UK] BBC 3 HD / CBBC FHD2
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/8683
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",[UK]* BBC 4 FHD/CBEEBIES FHD
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",[UK]* BBC 4 FHD/CBEEBIES FHD
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/76150
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",[UK] BBC 4 FHD / CBEEBIES FHD
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",[UK] BBC 4 FHD / CBEEBIES FHD
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/8684
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",✦●✦ USA VIX+ ✦●✦
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",✦●✦ USA VIX+ ✦●✦
 http://extraott.com:80/live/7921751389/6097373662/400533306.m3u8
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",US| (LATIN) VIX+ DEPORTES
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",US| (LATIN) VIX+ DEPORTES
 http://extraott.com:80/live/7921751389/6097373662/24941.m3u8
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",US| (LATIN) VIX+ DEPORTES 01
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",US| (LATIN) VIX+ DEPORTES 01
 http://extraott.com:80/live/7921751389/6097373662/24942.m3u8
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",US| (LATIN) VIX+ DEPORTES 02
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",US| (LATIN) VIX+ DEPORTES 02
 http://extraott.com:80/live/7921751389/6097373662/24943.m3u8
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",US| (LATIN) VIX+ DEPORTES 03
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",US| (LATIN) VIX+ DEPORTES 03
 http://extraott.com:80/live/7921751389/6097373662/24944.m3u8
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",US| (LATIN) VIX+ DEPORTES 04
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",US| (LATIN) VIX+ DEPORTES 04
 http://extraott.com:80/live/7921751389/6097373662/24945.m3u8
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",US| (LATIN) VIX+ DEPORTES 05
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",US| (LATIN) VIX+ DEPORTES 05
 http://extraott.com:80/live/7921751389/6097373662/24946.m3u8
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",US| (LATIN) VIX+ DEPORTES 06
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",US| (LATIN) VIX+ DEPORTES 06
 http://extraott.com:80/live/7921751389/6097373662/24947.m3u8
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",US| (LATIN) VIX+ DEPORTES 07
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",US| (LATIN) VIX+ DEPORTES 07
 http://extraott.com:80/live/7921751389/6097373662/24948.m3u8
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",US| (LATIN) VIX+ DEPORTES 08
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",US| (LATIN) VIX+ DEPORTES 08
 http://extraott.com:80/live/7921751389/6097373662/24949.m3u8
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",US| (LATIN) VIX+ DEPORTES 09
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",US| (LATIN) VIX+ DEPORTES 09
 http://extraott.com:80/live/7921751389/6097373662/24950.m3u8
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",US| (LATIN) VIX+ DEPORTES 10
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",US| (LATIN) VIX+ DEPORTES 10
 http://extraott.com:80/live/7921751389/6097373662/24951.m3u8
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",US| (LATIN) VIX+ DEPORTES 11
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",US| (LATIN) VIX+ DEPORTES 11
 http://extraott.com:80/live/7921751389/6097373662/24952.m3u8
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",US| (LATIN) VIX+ DEPORTES 12
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",US| (LATIN) VIX+ DEPORTES 12
 http://extraott.com:80/live/7921751389/6097373662/24953.m3u8
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",US| (LATIN) VIX+ DEPORTES 13
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",US| (LATIN) VIX+ DEPORTES 13
 http://extraott.com:80/live/7921751389/6097373662/24954.m3u8
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",US| (LATIN) VIX+ DEPORTES 14
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",US| (LATIN) VIX+ DEPORTES 14
 http://extraott.com:80/live/7921751389/6097373662/24955.m3u8
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",US| (LATIN) VIX+ DEPORTES 15
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",US| (LATIN) VIX+ DEPORTES 15
 http://extraott.com:80/live/7921751389/6097373662/24956.m3u8
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",US| (LATIN) VIX+ DEPORTES 16
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",US| (LATIN) VIX+ DEPORTES 16
 http://extraott.com:80/live/7921751389/6097373662/24957.m3u8
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",US| (LATIN) VIX+ DEPORTES 17
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",US| (LATIN) VIX+ DEPORTES 17
 http://extraott.com:80/live/7921751389/6097373662/24958.m3u8
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",US| (LATIN) VIX+ DEPORTES 18
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",US| (LATIN) VIX+ DEPORTES 18
 http://extraott.com:80/live/7921751389/6097373662/24959.m3u8
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",US| (LATIN) VIX+ DEPORTES 19
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",US| (LATIN) VIX+ DEPORTES 19
 http://extraott.com:80/live/7921751389/6097373662/24960.m3u8
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",US| (LATIN) VIX+ DEPORTES 20
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",US| (LATIN) VIX+ DEPORTES 20
 http://extraott.com:80/live/7921751389/6097373662/24961.m3u8
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",US| (LATIN) VIX+ DEPORTES 21
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",US| (LATIN) VIX+ DEPORTES 21
 http://extraott.com:80/live/7921751389/6097373662/24962.m3u8
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",US| (LATIN) VIX+ DEPORTES 22
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",US| (LATIN) VIX+ DEPORTES 22
 http://extraott.com:80/live/7921751389/6097373662/24963.m3u8
-#EXTINF:-1 group-title="🥅欧洲杯赛事🥅",US| (LATIN) VIX+ DEPORTES 23
+#EXTINF:-1 group-title="🥅欧洲杯赛事②🥅",US| (LATIN) VIX+ DEPORTES 23
 http://extraott.com:80/live/7921751389/6097373662/24964.m3u8
 
 #EXTINF:-1 group-title="⛳️高尔夫赛事⛳️",US: The Golf Channel FHD
