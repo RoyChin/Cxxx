@@ -10196,74 +10196,146 @@ https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/64a5084ac6c14fbeac
 #EXTINF:-1 group-title="🐉少儿频道👶🏻",小魔仙剧26
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fb2239726d1e45d4a74e59a46e2d065b/1200.m3u8
 
-#EXTINF:-1 group-title="🐉北京频道",BRTV影视
-https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=btvys&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
-#EXTINF:-1 group-title="🐉北京频道",BRTV文艺
-https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=btvwy&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
-#EXTINF:-1 group-title="🐉北京频道",BRTV新闻
-https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=btvxw&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
-#EXTINF:-1 group-title="🐉北京频道",BRTV科教
-https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=btvkj&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
-
-#EXTINF:-1 group-title="🐉北京频道",北京体育休闲
-http://114.252.199.35:10000/rtp/239.3.1.243:8000
-#EXTINF:-1 group-title="🐉北京频道",北京体育休闲
-http://123.113.11.89:4022/rtp/239.3.1.243:8000
-#EXTINF:-1 group-title="🐉北京频道",北京体育休闲
-http://221.217.4.51:1314/rtp/239.3.1.243:8000
-#EXTINF:-1 group-title="🐉北京频道",北京体育休闲
-http://123.113.248.110:8888/rtp/239.3.1.243:8000
-#EXTINF:-1 group-title="🐉北京频道",北京体育休闲
-http://221.216.132.178:8118/rtp/239.3.1.243:8000
-#EXTINF:-1 group-title="🐉北京频道",北京体育休闲
-http://111.196.131.234:8012/rtp/239.3.1.243:8000
-#EXTINF:-1 group-title="🐉北京频道",北京体育休闲
-http://111.197.130.58:1314/rtp/239.3.1.243:8000
-#EXTINF:-1 group-title="🐉北京频道",北京体育休闲
-http://61.51.141.145:8888/rtp/239.3.1.243:8000
-#EXTINF:-1 group-title="🐉北京频道",北京体育休闲
+#EXTINF:-1,tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://epg.112114.xyz/logo/北京体育休闲.png" group-title="🐉北京频道",北京体育休闲
+http://iptv.8t.cx:8180/rtp/239.3.1.243:8000
+#EXTINF:-1,tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://epg.112114.xyz/logo/北京体育休闲.png" group-title="🐉北京频道",北京体育休闲
+http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.243:8000
+#EXTINF:-1,tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://epg.112114.xyz/logo/北京体育休闲.png" group-title="🐉北京频道",北京体育休闲
 http://123.122.162.250:19999/rtp/239.3.1.243:8000
-#EXTINF:-1 group-title="🐉北京频道",北京体育休闲
-http://221.220.135.32:9999/rtp/239.3.1.243:8000
-#EXTINF:-1 group-title="🐉北京频道",北京体育休闲
-http://ainm.cc/a/play/php/gehua.php?id=bjtyxx
-#EXTINF:-1 group-title="🐉北京频道",北京体育休闲
+#EXTINF:-1,tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://epg.112114.xyz/logo/北京体育休闲.png" group-title="🐉北京频道",北京体育休闲
 http://qnap.yjnhome.com:4000/rtp/239.3.1.97:8001
-#EXTINF:-1 group-title="🐉北京频道",北京体育休闲
+#EXTINF:-1,tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://epg.112114.xyz/logo/北京体育休闲.png" group-title="🐉北京频道",北京体育休闲
 http://qnap.yjnhome.com:4000/rtp/239.3.1.243:8000
-
-#EXTINF:-1 group-title="🐉北京频道",北京新闻
-https://live.funhillrm.com/5/sd/live.m3u8
-#EXTINF:-1 group-title="🐉北京频道",北京卫视
-http://39.134.66.66/PLTV/88888888/224/3221225678/index.m3u8
-#EXTINF:-1 group-title="🐉北京频道",冬奥纪实
-http://39.134.66.66/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 group-title="🐉北京频道",卡酷少儿
-http://39.134.66.66/PLTV/88888888/224/3221225562/index.m3u8
-#EXTINF:-1 group-title="🐉北京频道",BRTV北京卫视HD
-http://114.254.90.19:2222/rtp/239.3.1.241:8000
-#EXTINF:-1 group-title="🐉北京频道",BRTV新闻HD
-http://114.254.90.19:2222/rtp/239.3.1.159:8000
-#EXTINF:-1 group-title="🐉北京频道",BRTV影视HD
-http://114.254.90.19:2222/rtp/239.3.1.158:8000
-#EXTINF:-1 group-title="🐉北京频道",BRTV文艺HD
-http://114.254.90.19:2222/rtp/239.3.1.242:8000
-#EXTINF:-1 group-title="🐉北京频道",BRTV财经HD
-http://114.254.90.19:2222/rtp/239.3.1.116:8000
-#EXTINF:-1 group-title="🐉北京频道",BRTV生活HD
-http://114.254.90.19:2222/rtp/239.3.1.117:8000
-#EXTINF:-1 group-title="🐉北京频道",BRTV青年HD
-http://114.254.90.19:2222/rtp/239.3.1.118:8000
-#EXTINF:-1 group-title="🐉北京频道",BRTV纪实科教HD
-http://114.254.90.19:2222/rtp/239.3.1.115:8000
-#EXTINF:-1 group-title="🐉北京频道",BRTV卡酷少儿HD
-http://114.254.90.19:2222/rtp/239.3.1.189:8000
-#EXTINF:-1 group-title="🐉北京频道",BRTV冬奥纪实HD
-http://114.254.90.19:2222/rtp/239.3.1.243:8000
-#EXTINF:-1 group-title="🐉北京频道",BRTV冬奥纪实
-http://114.254.90.19:2222/rtp/239.3.1.120:8000
-#EXTINF:-1 group-title="🐉北京频道",BRTV冬奥纪实
-http://114.254.90.19:2222/rtp/239.3.1.121:8000
+#EXTINF:-1,tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://epg.112114.xyz/logo/北京体育休闲.png" group-title="🐉北京频道",北京体育休闲
+http://123.113.248.110:8888/rtp/239.3.1.243:8000
+#EXTINF:-1,tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://epg.112114.xyz/logo/北京体育休闲.png" group-title="🐉北京频道",北京体育休闲
+http://221.216.132.178:8118/rtp/239.3.1.243:8000
+#EXTINF:-1,tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://epg.112114.xyz/logo/北京新闻.png" group-title="🐉北京频道",BTV新闻
+https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=btvxw&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
+#EXTINF:-1,tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://epg.112114.xyz/logo/北京影视.png" group-title="🐉北京频道",BTV影视
+https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=btvys&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
+#EXTINF:-1,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://epg.112114.xyz/logo/北京文艺.png" group-title="🐉北京频道",BTV文艺
+https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=btvwy&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
+#EXTINF:-1,tvg-id="BTV科教" tvg-name="BTV科教" tvg-logo="https://epg.112114.xyz/logo/BTV科教.png" group-title="🐉北京频道",BTV科教
+https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=btvkj&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
+#EXTINF:-1,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://epg.112114.xyz/logo/北京文艺.png" group-title="🐉北京频道",「电信」北京文艺
+http://115.171.216.22:4000/udp/225.1.8.22:8002
+#EXTINF:-1,tvg-id="「电信」北京科教" tvg-name="「电信」北京科教" tvg-logo="https://epg.112114.xyz/logo/「电信」北京科教.png" group-title="🐉北京频道",「电信」北京科教
+http://115.171.216.22:4000/udp/225.1.8.105:8002
+#EXTINF:-1,tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://epg.112114.xyz/logo/北京影视.png" group-title="🐉北京频道",「电信」北京影视
+http://115.171.216.22:4000/udp/225.1.8.82:8000
+#EXTINF:-1,tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://epg.112114.xyz/logo/北京财经.png" group-title="🐉北京频道",「电信」北京财经
+http://115.171.216.22:4000/udp/225.1.8.106:8002
+#EXTINF:-1,tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://epg.112114.xyz/logo/北京生活.png" group-title="🐉北京频道",「电信」北京生活
+http://115.171.216.22:4000/udp/225.1.8.108:8002
+#EXTINF:-1,tvg-id="「电信」北京青年" tvg-name="「电信」北京青年" tvg-logo="https://epg.112114.xyz/logo/「电信」北京青年.png" group-title="🐉北京频道",「电信」北京青年
+http://115.171.216.22:4000/udp/225.1.8.118:8002
+#EXTINF:-1,tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://epg.112114.xyz/logo/北京新闻.png" group-title="🐉北京频道",「电信」北京新闻
+http://115.171.216.22:4000/udp/225.1.8.83:8000
+#EXTINF:-1,tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://epg.112114.xyz/logo/北京体育休闲.png" group-title="🐉北京频道",「电信」北京体育休闲
+http://1.202.10.117:8888/udp/225.1.8.23:8002
+#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="🐉北京频道",「电信」北京卡酷少儿
+http://115.171.216.22:4000/udp/225.1.8.35:8000
+#EXTINF:-1,tvg-id="冬奥纪实" tvg-name="冬奥纪实" tvg-logo="https://epg.112114.xyz/logo/冬奥纪实.png" group-title="🐉北京频道",「电信」北京冬奥纪实
+http://115.171.216.22:4000/udp/225.1.8.23:8002
+#EXTINF:-1,tvg-id="冬奥纪实" tvg-name="冬奥纪实" tvg-logo="https://epg.112114.xyz/logo/冬奥纪实.png" group-title="🐉北京频道",「电信」北京冬奥纪实 4K
+http://115.171.216.22:4000/udp/225.1.8.120:8002
+#EXTINF:-1,tvg-id="冬奥纪实" tvg-name="冬奥纪实" tvg-logo="https://epg.112114.xyz/logo/冬奥纪实.png" group-title="🐉北京频道",「电信」北京冬奥纪实 4K
+http://115.171.216.22:4000/udp/225.1.8.164:8002
+#EXTINF:-1,tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://epg.112114.xyz/logo/北京新闻.png" group-title="🐉北京频道",「联通1」BTV新闻
+http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.159:8000
+#EXTINF:-1,tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://epg.112114.xyz/logo/北京影视.png" group-title="🐉北京频道",「联通1」BTV影视
+http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.158:8000
+#EXTINF:-1,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://epg.112114.xyz/logo/北京文艺.png" group-title="🐉北京频道",「联通1」BTV文艺
+http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.242:8000
+#EXTINF:-1,tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://epg.112114.xyz/logo/北京财经.png" group-title="🐉北京频道",「联通1」BTV财经
+http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.116:8000
+#EXTINF:-1,tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://epg.112114.xyz/logo/北京生活.png" group-title="🐉北京频道",「联通1」BTV生活
+http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.117:8000
+#EXTINF:-1,tvg-id="「联通1」BTV青年" tvg-name="「联通1」BTV青年" tvg-logo="https://epg.112114.xyz/logo/「联通1」BTV青年.png" group-title="🐉北京频道",「联通1」BTV青年
+http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.118:8000
+#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="🐉北京频道",「联通1」BTV纪实科教
+http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.115:8000
+#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="🐉北京频道",「联通1」BTV卡酷少儿
+http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.189:8000
+#EXTINF:-1,tvg-id="冬奥纪实" tvg-name="冬奥纪实" tvg-logo="https://epg.112114.xyz/logo/冬奥纪实.png" group-title="🐉北京频道",「联通1」BTV冬奥纪实
+http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.243:8000
+#EXTINF:-1,tvg-id="冬奥纪实" tvg-name="冬奥纪实" tvg-logo="https://epg.112114.xyz/logo/冬奥纪实.png" group-title="🐉北京频道",「联通1」BTV冬奥纪实[R]
+http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.120:8000
+#EXTINF:-1,tvg-id="冬奥纪实" tvg-name="冬奥纪实" tvg-logo="https://epg.112114.xyz/logo/冬奥纪实.png" group-title="🐉北京频道",「联通1」BTV冬奥纪实[超清]
+http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.121:8000
+#EXTINF:-1,tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://epg.112114.xyz/logo/北京体育休闲.png" group-title="🐉北京频道",「联通1」BTV体育休闲[超清]
+http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.243:8000
+#EXTINF:-1,tvg-id="「联通1」BTV国际频道" tvg-name="「联通1」BTV国际频道" tvg-logo="https://epg.112114.xyz/logo/「联通1」BTV国际.png" group-title="🐉北京频道",「联通1」BTV国际频道
+http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.235:8000
+#EXTINF:-1,tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://epg.112114.xyz/logo/北京新闻.png" group-title="🐉北京频道",「联通2」BTV新闻HD
+http://iptv.8t.cx:8180/rtp/239.3.1.159:8000
+#EXTINF:-1,tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://epg.112114.xyz/logo/北京影视.png" group-title="🐉北京频道",「联通2」BTV影视HD
+http://iptv.8t.cx:8180/rtp/239.3.1.158:8000
+#EXTINF:-1,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://epg.112114.xyz/logo/北京文艺.png" group-title="🐉北京频道",「联通2」BTV文艺HD
+http://iptv.8t.cx:8180/rtp/239.3.1.242:8000
+#EXTINF:-1,tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://epg.112114.xyz/logo/北京财经.png" group-title="🐉北京频道",「联通2」BTV财经HD
+http://iptv.8t.cx:8180/rtp/239.3.1.116:8000
+#EXTINF:-1,tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://epg.112114.xyz/logo/北京生活.png" group-title="🐉北京频道",「联通2」BTV生活HD
+http://iptv.8t.cx:8180/rtp/239.3.1.117:8000
+#EXTINF:-1,tvg-id="「联通2」BTV青年HD" tvg-name="「联通2」BTV青年HD" tvg-logo="https://epg.112114.xyz/logo/「联通2」BTV青年.png" group-title="🐉北京频道",「联通2」BTV青年HD
+http://iptv.8t.cx:8180/rtp/239.3.1.118:8000
+#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="🐉北京频道",「联通2」BTV纪实科教HD
+http://iptv.8t.cx:8180/rtp/239.3.1.115:8000
+#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="🐉北京频道",「联通2」BTV卡酷少儿HD
+http://iptv.8t.cx:8180/rtp/239.3.1.189:8000
+#EXTINF:-1,tvg-id="冬奥纪实" tvg-name="冬奥纪实" tvg-logo="https://epg.112114.xyz/logo/冬奥纪实.png" group-title="🐉北京频道",「联通2」BTV冬奥纪实HD
+http://iptv.8t.cx:8180/rtp/239.3.1.243:8000
+#EXTINF:-1,tvg-id="冬奥纪实" tvg-name="冬奥纪实" tvg-logo="https://epg.112114.xyz/logo/冬奥纪实.png" group-title="🐉北京频道",「联通2」BTV冬奥纪实[HDR]
+http://iptv.8t.cx:8180/rtp/239.3.1.120:8000
+#EXTINF:-1,tvg-id="冬奥纪实" tvg-name="冬奥纪实" tvg-logo="https://epg.112114.xyz/logo/冬奥纪实.png" group-title="🐉北京频道",「联通2」BTV冬奥纪实[超清]
+http://iptv.8t.cx:8180/rtp/239.3.1.121:8000
+#EXTINF:-1,tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://epg.112114.xyz/logo/北京体育休闲.png" group-title="🐉北京频道",「联通2」BTV体育休闲[超清]
+http://iptv.8t.cx:8180/rtp/239.3.1.243:8000
+#EXTINF:-1,tvg-id="「联通2」BTV国际频道" tvg-name="「联通2」BTV国际频道" tvg-logo="https://epg.112114.xyz/logo/「联通2」BTV国际.png" group-title="🐉北京频道",「联通2」BTV国际频道
+http://iptv.8t.cx:8180/rtp/239.3.1.235:8000
+#EXTINF:-1,tvg-id="「联通2」爱上4K[超清]" tvg-name="「联通2」爱上4K[超清]" tvg-logo="https://epg.112114.xyz/logo/「联通2」爱上4K.png" group-title="🐉北京频道",「联通2」爱上4K[超清]
+http://iptv.8t.cx:8180/rtp/239.3.1.236:2000
+#EXTINF:-1,tvg-id="「联通2」4K超清[超清]" tvg-name="「联通2」4K超清[超清]" tvg-logo="https://epg.112114.xyz/logo/「联通2」4K.png" group-title="🐉北京频道",「联通2」4K超清[超清]
+http://iptv.8t.cx:8180/rtp/239.3.1.249:8001
+#EXTINF:-1,tvg-id="「联通2」淘电影HD" tvg-name="「联通2」淘电影HD" tvg-logo="https://epg.112114.xyz/logo/「联通2」淘电影.png" group-title="🐉北京频道",「联通2」淘电影HD
+http://iptv.8t.cx:8180/rtp/239.3.1.250:8001
+#EXTINF:-1,tvg-id="「联通2」每日影院HD" tvg-name="「联通2」每日影院HD" tvg-logo="https://epg.112114.xyz/logo/「联通2」每日影院.png" group-title="🐉北京频道",「联通2」每日影院HD
+http://iptv.8t.cx:8180/rtp/239.3.1.111:8001
+#EXTINF:-1,tvg-id="「联通2」星影" tvg-name="「联通2」星影" tvg-logo="https://epg.112114.xyz/logo/「联通2」星影.png" group-title="🐉北京频道",「联通2」星影
+http://iptv.8t.cx:8180/rtp/239.3.1.94:4120
+#EXTINF:-1,tvg-id="「联通2」动作影院" tvg-name="「联通2」动作影院" tvg-logo="https://epg.112114.xyz/logo/「联通2」动作影院.png" group-title="🐉北京频道",「联通2」动作影院
+http://iptv.8t.cx:8180/rtp/239.3.1.92:4120
+#EXTINF:-1,tvg-id="「联通2」光影" tvg-name="「联通2」光影" tvg-logo="https://epg.112114.xyz/logo/「联通2」光影.png" group-title="🐉北京频道",「联通2」光影
+http://iptv.8t.cx:8180/rtp/239.3.1.84:4120
+#EXTINF:-1,tvg-id="「联通2」喜剧影院" tvg-name="「联通2」喜剧影院" tvg-logo="https://epg.112114.xyz/logo/「联通2」喜剧影院.png" group-title="🐉北京频道",「联通2」喜剧影院
+http://iptv.8t.cx:8180/rtp/239.3.1.91:4120
+#EXTINF:-1,tvg-id="「联通2」家庭影院" tvg-name="「联通2」家庭影院" tvg-logo="https://epg.112114.xyz/logo/「联通2」家庭影院.png" group-title="🐉北京频道",「联通2」家庭影院
+http://iptv.8t.cx:8180/rtp/239.3.1.93:4120
+#EXTINF:-1,tvg-id="「联通2」精选" tvg-name="「联通2」精选" tvg-logo="https://epg.112114.xyz/logo/「联通2」精选.png" group-title="🐉北京频道",「联通2」精选
+http://iptv.8t.cx:8180/rtp/239.3.1.74:4120
+#EXTINF:-1,tvg-id="「联通2」经典电影" tvg-name="「联通2」经典电影" tvg-logo="https://epg.112114.xyz/logo/「联通2」经典电影.png" group-title="🐉北京频道",「联通2」经典电影
+http://iptv.8t.cx:8180/rtp/239.3.1.195:9024
+#EXTINF:-1,tvg-id="「联通2」纪实人文HD" tvg-name="「联通2」纪实人文HD" tvg-logo="https://epg.112114.xyz/logo/「联通2」纪实人文.png" group-title="🐉北京频道",「联通2」纪实人文HD
+http://iptv.8t.cx:8180/rtp/239.3.1.212:8060
+#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="🐉北京频道",「联通2」金鹰纪实HD
+http://iptv.8t.cx:8180/rtp/239.3.1.58:8156
+#EXTINF:-1,tvg-id="「联通2」风尚生活HD" tvg-name="「联通2」风尚生活HD" tvg-logo="https://epg.112114.xyz/logo/「联通2」风尚生活.png" group-title="🐉北京频道",「联通2」风尚生活HD
+http://iptv.8t.cx:8180/rtp/239.3.1.114:8001
+#EXTINF:-1,tvg-id="「联通2」地理" tvg-name="「联通2」地理" tvg-logo="https://epg.112114.xyz/logo/「联通2」地理.png" group-title="🐉北京频道",「联通2」地理
+http://iptv.8t.cx:8180/rtp/239.3.1.71:4120
+#EXTINF:-1,tvg-id="「联通2」淘剧场HD" tvg-name="「联通2」淘剧场HD" tvg-logo="https://epg.112114.xyz/logo/「联通2」淘剧场.png" group-title="🐉北京频道",「联通2」淘剧场HD
+http://iptv.8t.cx:8180/rtp/239.3.1.95:8001
+#EXTINF:-1,tvg-id="「联通2」幸福剧场HD" tvg-name="「联通2」幸福剧场HD" tvg-logo="https://epg.112114.xyz/logo/「联通2」幸福剧场.png" group-title="🐉北京频道",「联通2」幸福剧场HD
+http://iptv.8t.cx:8180/rtp/239.3.1.112:8001
+#EXTINF:-1,tvg-id="「联通2」淘娱乐HD" tvg-name="「联通2」淘娱乐HD" tvg-logo="https://epg.112114.xyz/logo/「联通2」淘娱乐.png" group-title="🐉北京频道",「联通2」淘娱乐HD
+http://iptv.8t.cx:8180/rtp/239.3.1.100:8001
+#EXTINF:-1,tvg-id="「联通2」幸福娱乐HD" tvg-name="「联通2」幸福娱乐HD" tvg-logo="https://epg.112114.xyz/logo/「联通2」幸福娱乐.png" group-title="🐉北京频道",「联通2」幸福娱乐HD
+http://iptv.8t.cx:8180/rtp/239.3.1.113:8001
+#EXTINF:-1,tvg-id="「联通2」淘BabyHD" tvg-name="「联通2」淘BabyHD" tvg-logo="https://epg.112114.xyz/logo/「联通2」淘BABY.png" group-title="🐉北京频道",「联通2」淘BabyHD
+http://iptv.8t.cx:8180/rtp/239.3.1.238:8001
+#EXTINF:-1,tvg-id="「联通2」萌宠TVHD" tvg-name="「联通2」萌宠TVHD" tvg-logo="https://epg.112114.xyz/logo/「联通2」萌宠TV.png" group-title="🐉北京频道",「联通2」萌宠TVHD
+http://iptv.8t.cx:8180/rtp/239.3.1.102:8001
 
 
 #EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="🐉上海频道",上海都市
