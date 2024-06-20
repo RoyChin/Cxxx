@@ -57,6 +57,12 @@ https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=93742ae45d857eb76d5fd
 NOW sports-618,https://histar.zapi.us.kg/?id=now-sports-618 
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/05/13/6LJPCHILI6HT.png" group-title="🏆欧洲杯赛事🏆",NOW体育618
 http://111.160.76.101:80/香蕉哥/now体育3.live.ts
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/05/13/6LJPCHILI6HT.png" group-title="🏆欧洲杯赛事🏆",Now Sports 618 欧洲杯
+http://php.jdshipin.com:8880/xsj.php?id=now-sports-618
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/05/13/6LJPCHILI6HT.png" group-title="🏆欧洲杯赛事🏆",Now Sports 619 欧洲杯
+http://php.jdshipin.com:8880/xsj.php?id=now-sports-619
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/05/13/6LJPCHILI6HT.png" group-title="🏆欧洲杯赛事🏆",Now Lucky 688 欧洲杯
+http://php.jdshipin.com:8880/xsj.php?id=now-lucky-688
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/05/13/6LJPCHILI6HT.png" group-title="🏆欧洲杯赛事🏆",Now Sports 3
 http://histar.zapi.us.kg/?id=now-sports-3
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/05/13/6LJPCHILI6HT.png" group-title="🏆欧洲杯赛事🏆",Now Sports 3
