@@ -182,6 +182,12 @@ http://222.141.132.21:8888/rtp/225.1.4.168:1220
 
 #EXTINF:-1 group-title="🏎F1赛事🏎",UK Sky Sports F1
 http://sf.bleutv.net:8080/172016382891759/172012817095810/106720
+#EXTINF:-1 group-title="🏎F1赛事🏎",Sky Sports F1 FHD 50fps
+http://doubleclicktv.live/70376812/52663544/276927
+#EXTINF:-1 group-title="🏎F1赛事🏎",Sky Sports F1 HD
+http://doubleclicktv.live/70376812/52663544/276926
+#EXTINF:-1 group-title="🏎F1赛事🏎",Sky Sports Main Event FHD 50fps
+http://doubleclicktv.live/70376812/52663544/276918
 #EXTINF:-1 group-title="🏎F1赛事🏎",DAZN F1
 http://suntamarat.online:8080/soacra_pitis/KOAG8DvCPcj76hzMnHKRNZHRHYrdJg/55655
 #EXTINF:-1 group-title="🏎F1赛事🏎",Dazn F1 4K
