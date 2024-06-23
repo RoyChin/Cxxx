@@ -292,8 +292,15 @@ http://live.nctv.top/8/bestv.php?id=jbty
 #EXTINF:-1 group-title="🐉国内体育🐉",爱体育
 http://222.141.132.21:8888/rtp/225.1.4.168:1220
 
-#EXTINF:-1 group-title="🏎F1赛事🏎",UK Sky Sports F1
-http://sf.bleutv.net:8080/172016382891759/172012817095810/106720
+
+#EXTINF:-1 group-title="🏎F1赛事🏎",✦ 赛事预告 ✦
+http://mutant.arrox.top:80/live/5XDQl1mG6/wa5cv9Ybz2/181542.m3u8
+#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | SKY SPORT DE
+http://mutant.arrox.top:80/live/5XDQl1mG6/wa5cv9Ybz2/135125.m3u8
+#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | VIAPLAY FORMULE 1
+http://mutant.arrox.top:80/live/5XDQl1mG6/wa5cv9Ybz2/219885.m3u8
+#EXTINF:-1 group-title="🏎F1赛事🏎",NL | SKY SPORTS F1
+http://mutant.arrox.top:80/live/5XDQl1mG6/wa5cv9Ybz2/104192.m3u8
 #EXTINF:-1 group-title="🏎F1赛事🏎",Sky Sports F1 FHD 50fps
 http://doubleclicktv.live/70376812/52663544/276927
 #EXTINF:-1 group-title="🏎F1赛事🏎",Sky Sports F1 HD
@@ -308,134 +315,55 @@ http://zeuspro.xyz:8080/javiermayz1/8An6zmmSgC/355186
 http://zeuspro.xyz:8080/javiermayz1/8An6zmmSgC/180149
 #EXTINF:-1 group-title="🏎F1赛事🏎",DAZN F1 (TV)(720)
 http://zeuspro.xyz:8080/javiermayz1/8An6zmmSgC/115985
-#EXTINF:-1 group-title="🏎F1赛事🏎",SKY SPORTS F1 HD
-http://extraott.com:900/live/3338826713/8323116234/153701.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",SKY SPORTS F1 FHD
-http://extraott.com:900/live/3338826713/8323116234/191464.m3u8
 #EXTINF:-1 group-title="🏎F1赛事🏎",F1-TV FHD
 http://117tv.icu:8080/X5xRz0/944877/125947
-#EXTINF:-1 group-title="🏎F1赛事🏎",DE| SKY SPORT F1 HEVC
-http://extraott.com:80/live/7921751389/6097373662/400204959.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",NL| F1 TV HD
-http://extraott.com:80/live/7921751389/6097373662/19943.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",UK| SKY SPORTS F1 SD
-http://extraott.com:80/live/7921751389/6097373662/153702.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",ES: Dazn F1  FHD
-http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/114827
-#EXTINF:-1 group-title="🏎F1赛事🏎",ES: Dazn F1 HD
-http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/4176
-#EXTINF:-1 group-title="🏎F1赛事🏎",ES| DAZN F1 ESPAÑA HD
-http://extraott.com:80/live/7921751389/6097373662/165973.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",ES| DAZN F1 ESPAÑA SD
-http://extraott.com:80/live/7921751389/6097373662/400218225.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",ES| DAZN F1 ESPAÑA FHD
-http://extraott.com:80/live/7921751389/6097373662/165888.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",ES| DAZN F1 ESPAÑA HEVC
-http://extraott.com:80/live/7921751389/6097373662/189462.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",ES| DAZN F1 ESPAÑA 4K
-http://extraott.com:80/live/7921751389/6097373662/400241869.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",UK| F1-TV
-http://extraott.com:80/live/7921751389/6097373662/6281.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",UK| F1 Data
-http://extraott.com:80/live/7921751389/6097373662/6282.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",UK| F1 TRACKER
-http://extraott.com:80/live/7921751389/6097373662/400230498.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",UK| F1-HAM-Hamilton-Mercedes
-http://extraott.com:80/live/7921751389/6097373662/6285.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",UK| F1-RUS-Russell-Mercedes
-http://extraott.com:80/live/7921751389/6097373662/6301.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",UK| F1-BOT-Bottas-Alfa Romeo
-http://extraott.com:80/live/7921751389/6097373662/6286.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",UK| F1-ZHO-Zhou-AlfaRomeo
-http://extraott.com:80/live/7921751389/6097373662/6293.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",UK| F1-VER-Verstappen-RedBullRacing
-http://extraott.com:80/live/7921751389/6097373662/6287.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",UK| F1-PER-Perez-RedBullRacing
-http://extraott.com:80/live/7921751389/6097373662/6288.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",UK| F1-LEC-Leclerc-Ferrari
-http://extraott.com:80/live/7921751389/6097373662/6289.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",UK| F1-SAI-Sainz-Ferrari
-http://extraott.com:80/live/7921751389/6097373662/6290.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",UK| F1-NOR-Norris-McLaren
-http://extraott.com:80/live/7921751389/6097373662/6291.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",UK| F1-PIA-Piastry-McLaren
-http://extraott.com:80/live/7921751389/6097373662/6292.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",UK| F1-ALO-Alonso-Alpine Martin
-http://extraott.com:80/live/7921751389/6097373662/6295.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",UK| F1-OCO-Ocon-Alpine
-http://extraott.com:80/live/7921751389/6097373662/6296.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",UK| F1-STR-Stroll-AstonMartin
-http://extraott.com:80/live/7921751389/6097373662/6297.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",UK| F1-HULK-Hulkenburg-HaasF1Team
-http://extraott.com:80/live/7921751389/6097373662/6298.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",UK| F1-ALB-Albon-Williams
-http://extraott.com:80/live/7921751389/6097373662/6294.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",UK| F1-SAR-Sargeant-Williams
-http://extraott.com:80/live/7921751389/6097373662/6302.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",UK| F1-GAS-Gasly-Alpine
-http://extraott.com:80/live/7921751389/6097373662/6299.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",UK| F1-TSU-Tsunoda-RB
-http://extraott.com:80/live/7921751389/6097373662/6300.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",UK| F1-RIC-Ricciardo-RB
-http://extraott.com:80/live/7921751389/6097373662/6303.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",UK| F1-MAG-Magnussen-HaasF1Team
-http://extraott.com:80/live/7921751389/6097373662/6304.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",PPV| F1-INTERNATIONAL UK
-http://extraott.com:80/live/7921751389/6097373662/47310.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",PPV| F1-INTERNATIONAL ES
-http://extraott.com:80/live/7921751389/6097373662/47311.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",PPV| F1-INTERNATIONAL FR
-http://extraott.com:80/live/7921751389/6097373662/47312.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",PPV| F1-INTERNATIONAL DE
-http://extraott.com:80/live/7921751389/6097373662/47313.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",PPV| F1-TV
-http://extraott.com:80/live/7921751389/6097373662/41603.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",PPV| F1 Data
-http://extraott.com:80/live/7921751389/6097373662/41602.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",PPV| F1 TRACKER
-http://extraott.com:80/live/7921751389/6097373662/400230497.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",PPV| F1-F1-PIT-LANE
-http://extraott.com:80/live/7921751389/6097373662/387714.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",PPV| F1-HAM-Hamilton-Mercedes
-http://extraott.com:80/live/7921751389/6097373662/41599.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",PPV| F1-BOT-Bottas-Alfa Romeo
-http://extraott.com:80/live/7921751389/6097373662/41598.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",PPV| F1-VER-Verstappen-RedBullRacing
-http://extraott.com:80/live/7921751389/6097373662/41597.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",PPV| F1-PER-Perez-RedBullRacing
-http://extraott.com:80/live/7921751389/6097373662/41596.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",PPV| F1-LEC-Leclerc-Ferrari
-http://extraott.com:80/live/7921751389/6097373662/41595.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",PPV| F1-SAI-Sainz-Ferrari
-http://extraott.com:80/live/7921751389/6097373662/41594.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",PPV| F1-NOR-Norris-McLaren
-http://extraott.com:80/live/7921751389/6097373662/41593.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",PPV| F1-PIA-Piastry-McLaren
-http://extraott.com:80/live/7921751389/6097373662/41592.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",PPV| F1-ZHO-Zhou-AlfaRomeo
-http://extraott.com:80/live/7921751389/6097373662/41591.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",PPV| F1-ALB-Albon-Williams
-http://extraott.com:80/live/7921751389/6097373662/41590.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",PPV| F1-ALO-Alonso-Alpine Martin
-http://extraott.com:80/live/7921751389/6097373662/41589.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",PPV| F1-OCO-Ocon-Alpine
-http://extraott.com:80/live/7921751389/6097373662/41588.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",PPV| F1-STR-Stroll-AstonMartin
-http://extraott.com:80/live/7921751389/6097373662/41587.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",PPV| F1-HULK-Hulkenburg-HaasF1Team
-http://extraott.com:80/live/7921751389/6097373662/41586.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",PPV| F1-GAS-Gasly-Alpine
-http://extraott.com:80/live/7921751389/6097373662/41585.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",PPV| F1-TSU-Tsunoda-RB
-http://extraott.com:80/live/7921751389/6097373662/41584.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",PPV| F1-RUS-Russell-Mercedes
-http://extraott.com:80/live/7921751389/6097373662/41583.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",PPV| F1-SAR-Sargeant-Williams
-http://extraott.com:80/live/7921751389/6097373662/41582.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",PPV| F1-RIC-Ricciardo-RB
-http://extraott.com:80/live/7921751389/6097373662/41581.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",PPV| F1-MAG-Magnussen-HaasF1Team
-http://extraott.com:80/live/7921751389/6097373662/41580.m3u8
+#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Main Event (Events Only)
+http://mutant.arrox.top:80/live/5XDQl1mG6/wa5cv9Ybz2/426317.m3u8
+#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Pit Lane Channel (Events Only)
+http://mutant.arrox.top:80/live/5XDQl1mG6/wa5cv9Ybz2/426318.m3u8
+#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Driver Tracker Channel (Events Only)
+http://mutant.arrox.top:80/live/5XDQl1mG6/wa5cv9Ybz2/426316.m3u8
+#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Data Channel (Events Only)
+http://mutant.arrox.top:80/live/5XDQl1mG6/wa5cv9Ybz2/426315.m3u8
+#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams Max Verstappen | Red Bull Racing
+http://mutant.arrox.top:80/live/5XDQl1mG6/wa5cv9Ybz2/426307.m3u8
+#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams Sergio Perez | Red Bull Racing
+http://mutant.arrox.top:80/live/5XDQl1mG6/wa5cv9Ybz2/426312.m3u8
+#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams Charles Leclerc | Ferrari
+http://mutant.arrox.top:80/live/5XDQl1mG6/wa5cv9Ybz2/426298.m3u8
+#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams Carlos Sainz | Ferrari
+http://mutant.arrox.top:80/live/5XDQl1mG6/wa5cv9Ybz2/426297.m3u8
+#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams Lewis Hamilton | Mercedes
+http://mutant.arrox.top:80/live/5XDQl1mG6/wa5cv9Ybz2/426306.m3u8
+#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams George Russell | Mercedes
+http://mutant.arrox.top:80/live/5XDQl1mG6/wa5cv9Ybz2/426301.m3u8
+#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams Lando Norris | McLaren
+http://mutant.arrox.top:80/live/5XDQl1mG6/wa5cv9Ybz2/426305.m3u8
+#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams Sebastian Vettel | Aston Martin
+http://mutant.arrox.top:80/live/5XDQl1mG6/wa5cv9Ybz2/426311.m3u8
+#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams Lance Stroll | Aston Martin
+http://mutant.arrox.top:80/live/5XDQl1mG6/wa5cv9Ybz2/426304.m3u8
+#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams Fernando Alonso | Alpine
+http://mutant.arrox.top:80/live/5XDQl1mG6/wa5cv9Ybz2/426300.m3u8
+#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams Valtteri Bottas | Alfa Romeo
+http://mutant.arrox.top:80/live/5XDQl1mG6/wa5cv9Ybz2/426313.m3u8
+#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams Guanyu Zhou | Alfa Romeo
+http://mutant.arrox.top:80/live/5XDQl1mG6/wa5cv9Ybz2/426302.m3u8
+#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams Yuki Tsunoda | AlphaTauri
+http://mutant.arrox.top:80/live/5XDQl1mG6/wa5cv9Ybz2/426314.m3u8
+#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams Pierre Gasly | AlphaTauri
+http://mutant.arrox.top:80/live/5XDQl1mG6/wa5cv9Ybz2/426310.m3u8
+#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams Nicholas Latifi | Williams
+http://mutant.arrox.top:80/live/5XDQl1mG6/wa5cv9Ybz2/426309.m3u8
+#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams Alexander Albon | Williams
+http://mutant.arrox.top:80/live/5XDQl1mG6/wa5cv9Ybz2/426296.m3u8
+#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams Mick Schumacher | Haas F1 Team
+http://mutant.arrox.top:80/live/5XDQl1mG6/wa5cv9Ybz2/426308.m3u8
+#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams Kevin Magnussen | Haas F1 Team
+http://mutant.arrox.top:80/live/5XDQl1mG6/wa5cv9Ybz2/426303.m3u8
+#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams Esteban Ocon | Alpine
+http://mutant.arrox.top:80/live/5XDQl1mG6/wa5cv9Ybz2/426299.m3u8
+
 
 #EXTINF:-1 group-title="⛳️高尔夫赛事⛳️",US: The Golf Channel FHD
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/21045
