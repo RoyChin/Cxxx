@@ -3100,7 +3100,7 @@ http://fm1077.serv00.net/Smart.php?id=bloomberg_twn
 http://fm1077.serv00.net/Smart.php?id=cbshd_glo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉湾湾频道「线路2」",CBSN HD
 http://fm1077.serv00.net/Smart.php?id=cbsn_glo
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="🐉湾湾频道「线路2」",CGTN
 http://fm1077.serv00.net/Smart.php?id=CGTN
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉湾湾频道「线路2」",CNA
 http://fm1077.serv00.net/Smart.php?id=cna
