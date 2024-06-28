@@ -5710,7 +5710,7 @@ http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉美国频道🦅",👉此处以下频道需要魔法👈
 https://7692.kstore.space/4.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉美国频道🦅",US| ✦ 新闻 ✦
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉美国频道🦅",新闻频道
 http://doubleclicktv.live:80/70376812/52663544/295937
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉美国频道🦅",US| CNN News
 http://doubleclicktv.live:80/70376812/52663544/1041
@@ -5892,7 +5892,7 @@ http://doubleclicktv.live:80/70376812/52663544/508
 http://doubleclicktv.live:80/70376812/52663544/507
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="🐉美国频道🦅",UK Animal Planet
 http://doubleclicktv.live:80/70376812/52663544/277117
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉美国频道🦅",US| ✦ 体育 ✦
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉美国频道🦅",体育频道
 http://doubleclicktv.live:80/70376812/52663544/295937
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉美国频道🦅",US| ESPN 1
 http://doubleclicktv.live:80/70376812/52663544/919
@@ -6182,7 +6182,7 @@ http://doubleclicktv.live:80/70376812/52663544/827
 http://doubleclicktv.live:80/70376812/52663544/867
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉美国频道🦅",US| Olympic Channel
 http://doubleclicktv.live:80/70376812/52663544/866
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉美国频道🦅",US| ✦ 少儿 ✦
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉美国频道🦅",少儿频道
 http://doubleclicktv.live:80/70376812/52663544/295937
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉美国频道🦅",US| MeTV Toons
 http://doubleclicktv.live:80/70376812/52663544/494103
@@ -6286,7 +6286,7 @@ http://doubleclicktv.live:80/70376812/52663544/2228
 http://doubleclicktv.live:80/70376812/52663544/2227
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉美国频道🦅",US| New York | PBS WNET
 http://doubleclicktv.live:80/70376812/52663544/2172
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉美国频道🦅",US| ✦ 娱乐 ✦
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉美国频道🦅",娱乐频道
 http://doubleclicktv.live:80/70376812/52663544/295937
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉美国频道🦅",US| Comedy Central
 http://doubleclicktv.live:80/70376812/52663544/295936
@@ -6347,7 +6347,7 @@ http://doubleclicktv.live:80/70376812/52663544/253199
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",👉此处以下频道需要魔法👈
 https://7692.kstore.space/4.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| ✦ 新闻 ✦
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",新闻频道
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=229422&extension=ts&play_token=4hVhb6szir
 #EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="🐉英国频道🦁",UK| BBC NEWS HD
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45331&extension=ts&play_token=1RTf1HeX5t
@@ -6447,7 +6447,7 @@ http://doubleclicktv.live:80/70376812/52663544/508
 http://doubleclicktv.live:80/70376812/52663544/507
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="🐉英国频道🦁",UK Animal Planet
 http://doubleclicktv.live:80/70376812/52663544/277117
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| ✦ 体育 ✦,
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",体育频道
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=230681&extension=ts&play_token=jqyREeFuH6
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| TNT ULTIMATE 4K
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1379047&extension=ts&play_token=Lb13USFnqS
@@ -6511,7 +6511,7 @@ http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1458645&ext
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1458774&extension=ts&play_token=6FgcftfuRU
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| MUTV HEVC FHD
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1458773&extension=ts&play_token=vtEzCceUWB
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| ✦ 少儿 ✦
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",少儿频道
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=230673&extension=ts&play_token=RG5qI8UUwU
 #EXTINF:-1 tvg-id="6188" tvg-name="Boomerang" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BOOMERANG.png" group-title="🐉英国频道🦁",UK| BOOMERANG FHD
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45295&extension=ts&play_token=fXjA6ctRLx
@@ -6553,7 +6553,7 @@ http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=114750&exte
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=396314&extension=ts&play_token=60CzCisZBi
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| DAVE & AVA HD
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1206422&extension=ts&play_token=21v01WWLRN
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| ✦ 娱乐 ✦
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",娱乐频道
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=230675&extension=ts&play_token=19cW4ksAp2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| DAYSTAR HEVC
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=111552&extension=ts&play_token=z7YapwMvcp
