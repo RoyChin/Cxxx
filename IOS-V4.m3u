@@ -11380,7 +11380,7 @@ http://iptv.8t.cx:8180/rtp/239.3.1.238:8001
 http://iptv.8t.cx:8180/rtp/239.3.1.102:8001
 
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉上海频道",五星体育「组播」
-http://116.235.182.7:4022/udp/239.45.3.210:5140
+http://116.230.56.141:9009/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉上海频道",五星体育「组播」
 http://218.80.110.51:4022/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉上海频道",五星体育「组播」
