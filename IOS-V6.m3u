@@ -5054,10 +5054,8 @@ http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 https://7692.kstore.space/4.mp4
 #EXTINF:-1 group-title="🐉美国频道🦅",新闻频道
 http://doubleclicktv.live/70376812/52663544/781
-#EXTINF:-1 group-title="🐉美国频道🦅",BFM TV FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=508074&extension=ts&play_token=0cxqr3I0ZX
-#EXTINF:-1 group-title="🐉美国频道🦅",BFM TV FHD
-BFM TV,https://jmp2.uk/SamsungTVPlus/CH500001V2.m3u8
+#EXTINF:-1 group-title="🐉美国频道🦅",BFM TV
+https://jmp2.uk/SamsungTVPlus/CH500001V2.m3u8
 #EXTINF:-1 group-title="🐉美国频道🦅",USA CNN
 http://doubleclicktv.live/70376812/52663544/1041
 #EXTINF:-1 group-title="🐉美国频道🦅",USA CNBC
