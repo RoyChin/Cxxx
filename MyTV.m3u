@@ -1,0 +1,117 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE remote
+#EXT-X-SUB-URL http://www.52sw.top:678/play/mytvsuper
+
+#EXTINF:-1 tvg-id="CC1" tvg-logo="https://assets.livednow.com/logo/中央電視台綜合頻道-港澳版.png" group-title="综合频道",CCTV-1综合香港
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CC1_hevc/__op/cenc_m/__f/index.mpd?sig=65664041672390fbf2f2263b2cd273c3&ext_start_limit=1721712541&int_start_limit=1721712541&ts=1721712541&c=715880729
+#EXTINF:-1 tvg-id="CGD" tvg-logo="https://assets.livednow.com/logo/中國環球電視網-記錄頻道.png" group-title="综合频道",CGTN记录频道
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CGD_hevc/__op/cenc_m/__f/index.mpd?sig=6e806c0b8b780d4817308a3d2faf94fa&ext_start_limit=1721712549&int_start_limit=1721712549&ts=1721712549&c=715880729
+#EXTINF:-1 tvg-id="CGE" tvg-logo="https://assets.livednow.com/logo/中國環球電視網-英語頻道.png" group-title="综合频道",CGTN英语频道
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CGE_hevc/__op/cenc_m/__f/index.mpd?sig=7ea76f36c1797b55833eca8bb814a110&ext_start_limit=1721712558&int_start_limit=1721712558&ts=1721712558&c=715880729
+#EXTINF:-1 tvg-id="PCC" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="综合频道",凤凰卫视中文台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PCC_hevc/__op/cenc_m/__f/index.mpd?sig=ca235051c34bb317c9354098a8ef6462&ext_start_limit=1721712566&int_start_limit=1721712566&ts=1721712566&c=715880729
+#EXTINF:-1 tvg-id="PIN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png" group-title="综合频道",凤凰卫视资讯台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PIN_hevc/__op/cenc_m/__f/index.mpd?sig=51238440ecb8a0d3b32c9468b3c12505&ext_start_limit=1721712574&int_start_limit=1721712574&ts=1721712574&c=715880729
+#EXTINF:-1 tvg-id="PHK" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix3.png" group-title="综合频道",凤凰卫视香港台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PHK_hevc/__op/cenc_m/__f/index.mpd?sig=3fbdde5c8c0d121409272cb6e3c19692&ext_start_limit=1721712583&int_start_limit=1721712583&ts=1721712583&c=715880729
+#EXTINF:-1 tvg-id="J" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true" group-title="综合频道",翡翠台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=e7d68026f14aa7300ec25303399c7684&ext_start_limit=1721712584&int_start_limit=1721712584&ts=1721712584&c=715880729
+#EXTINF:-1 tvg-id="JUHD" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true" group-title="综合频道",翡翠台 4K
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_JUHD_hevc/__op/cenc_m/__f/index.mpd?sig=bfb6fa7645c55118ff4b31ac902a919c&ext_start_limit=1721712585&int_start_limit=1721712585&ts=1721712585&c=715880729
+#EXTINF:-1 tvg-id="DTV" tvg-logo="https://assets.livednow.com/logo/東方衛視國際頻道.png" group-title="综合频道",东方卫视国际
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_DTV_hevc/__op/cenc_m/__f/index.mpd?sig=041a5aaca8be459588de47ee2866e64d&ext_start_limit=1721712586&int_start_limit=1721712586&ts=1721712586&c=715880729
+#EXTINF:-1 tvg-id="B" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB3.png" group-title="综合频道",TVBplus
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_B_hevc/__op/cenc_m/__f/index.mpd?sig=de5512140c4bb94fd0fa37c4fcd2adde&ext_start_limit=1721712587&int_start_limit=1721712587&ts=1721712587&c=715880729
+#EXTINF:-1 tvg-id="CARI" tvg-logo="https://assets.livednow.com/logo/Arirang-HK.png" group-title="综合频道",Arirang TV
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CARI_hevc/__op/cenc_m/__f/index.mpd?sig=014d6a6cd1c6cd96fc062b4997d5c892&ext_start_limit=1721712588&int_start_limit=1721712588&ts=1721712588&c=715880729
+#EXTINF:-1 tvg-id="C" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png" group-title="新闻财经",无线新闻台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_C_hevc/__op/cenc_m/__f/index.mpd?sig=1a6c55fdc9f10bb02a79bc48a809b2ab&ext_start_limit=1721712589&int_start_limit=1721712589&ts=1721712589&c=715880729
+#EXTINF:-1 tvg-id="CTVE" tvg-logo="https://github.com/sparkssssssssss/epg/blob/main/logo/%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB%E5%8F%B0.png?raw=true" group-title="新闻财经",娱乐新闻台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CTVE_hevc/__op/cenc_m/__f/index.mpd?sig=38198c1e0907a0a6ff86c3da72371397&ext_start_limit=1721712591&int_start_limit=1721712591&ts=1721712591&c=715880729
+#EXTINF:-1 tvg-id="P" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true" group-title="新闻财经",明珠台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_P_hevc/__op/cenc_m/__f/index.mpd?sig=0f85113111780433d94533a32b3563bc&ext_start_limit=1721712592&int_start_limit=1721712592&ts=1721712592&c=715880729
+#EXTINF:-1 tvg-id="CTSN" tvg-logo="https://assets.livednow.com/logo/無線衛星新聞台.png" group-title="新闻财经",无线卫星新闻台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CTSN_hevc/__op/cenc_m/__f/index.mpd?sig=f1358ce4df38e40ad3bd14b9167ae2da&ext_start_limit=1721712593&int_start_limit=1721712593&ts=1721712593&c=715880729
+#EXTINF:-1 tvg-id="CTS1" tvg-logo="https://assets.livednow.com/logo/無線衛星亞洲台.png" group-title="新闻财经",无线卫星亚洲台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CTS1_hevc/__op/cenc_m/__f/index.mpd?sig=32dabc5876f4ce41b0f0a346ec8c786e&ext_start_limit=1721712595&int_start_limit=1721712595&ts=1721712595&c=715880729
+#EXTINF:-1 tvg-id="CCNA" tvg-logo="https://assets.livednow.com/logo/亞洲新聞台.png" group-title="新闻财经",亚洲新闻台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CCNA_hevc/__op/cenc_m/__f/index.mpd?sig=4577f6fa437f22341adbda3b2e57f88d&ext_start_limit=1721712596&int_start_limit=1721712596&ts=1721712596&c=715880729
+#EXTINF:-1 tvg-id="CMN1" tvg-logo="https://assets.livednow.com/logo/神州新聞台.png" group-title="新闻财经",神州新闻台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CMN1_hevc/__op/cenc_m/__f/index.mpd?sig=f58bd0d58e1af3a6948863753f97bf57&ext_start_limit=1721712598&int_start_limit=1721712598&ts=1721712598&c=715880729
+#EXTINF:-1 tvg-id="CJAZ" tvg-logo="https://assets.livednow.com/logo/半島電視台英語頻道.png" group-title="新闻财经",半岛电视台英语
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CJAZ_hevc/__op/cenc_m/__f/index.mpd?sig=40fdebbc351a218d0ac0e217697ba03b&ext_start_limit=1721712599&int_start_limit=1721712599&ts=1721712599&c=715880729
+#EXTINF:-1 tvg-id="CF24" tvg-logo="https://assets.livednow.com/logo/France-24-HK.png" group-title="新闻财经",France 24
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CF24_hevc/__op/cenc_m/__f/index.mpd?sig=bc72dfdc689b961ba56d257c5e273f13&ext_start_limit=1721712601&int_start_limit=1721712601&ts=1721712601&c=715880729
+#EXTINF:-1 tvg-id="CDW1" tvg-logo="https://assets.livednow.com/logo/DW-HK.png" group-title="新闻财经",DW
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CDW1_hevc/__op/cenc_m/__f/index.mpd?sig=1d85a632422ffe6d05ea3310be381c43&ext_start_limit=1721712602&int_start_limit=1721712602&ts=1721712602&c=715880729
+#EXTINF:-1 tvg-id="CNHK" tvg-logo="https://assets.livednow.com/logo/NHK-HK.png" group-title="新闻财经",NHK World-Japan
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CNHK_hevc/__op/cenc_m/__f/index.mpd?sig=d64d5b4db592597594f15635ea9ec0b7&ext_start_limit=1721712603&int_start_limit=1721712603&ts=1721712603&c=715880729
+#EXTINF:-1 tvg-id="POPC" tvg-logo="https://assets.livednow.com/logo/PopC.png" group-title="戏剧电影",POPC电影
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_POPC_hevc/__op/cenc_m/__f/index.mpd?sig=7bad6532c84bfd00059b82d134d23450&ext_start_limit=1721712605&int_start_limit=1721712605&ts=1721712605&c=715880729
+#EXTINF:-1 tvg-id="CWIN" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="戏剧电影",Super Free
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CWIN_hevc/__op/cenc_m/__f/index.mpd?sig=11128a14a14f958cf4b07aff0649516b&ext_start_limit=1721712606&int_start_limit=1721712606&ts=1721712606&c=715880729
+#EXTINF:-1 tvg-id="C18" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-18.png" group-title="戏剧电影",Super 18台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_C18_hevc/__op/cenc_m/__f/index.mpd?sig=2cb94298384154ec02d8c38fb07a6e5d&ext_start_limit=1721712608&int_start_limit=1721712608&ts=1721712608&c=715880729
+#EXTINF:-1 tvg-id="TVG" tvg-logo="https://github.com/sparkssssssssss/epg/blob/main/logo/%E9%BB%84%E9%87%91%E7%BF%A1%E7%BF%A0%E5%8F%B0.png?raw=true" group-title="戏剧电影",黄金翡翠台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_TVG_hevc/__op/cenc_m/__f/index.mpd?sig=69c7c101714c1bf249cdae4feeffdb21&ext_start_limit=1721712609&int_start_limit=1721712609&ts=1721712609&c=715880729
+#EXTINF:-1 tvg-id="CMC" tvg-logo="https://assets.livednow.com/logo/中國電影頻道.png" group-title="戏剧电影",中国电影频道
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CMC_hevc/__op/cenc_m/__f/index.mpd?sig=5261bc5a678d48c7732de040b820789d&ext_start_limit=1721712611&int_start_limit=1721712611&ts=1721712611&c=715880729
+#EXTINF:-1 tvg-id="CTVC" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png" group-title="戏剧电影",千禧经典台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CTVC_hevc/__op/cenc_m/__f/index.mpd?sig=a715e392f12b388592fadb11522f1a8b&ext_start_limit=1721712612&int_start_limit=1721712612&ts=1721712612&c=715880729
+#EXTINF:-1 tvg-id="CDR3" tvg-logo="https://assets.livednow.com/logo/華語劇台.png" group-title="戏剧电影",华语剧台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CDR3_hevc/__op/cenc_m/__f/index.mpd?sig=b4f7855b131ac898c6120bea994e0dfe&ext_start_limit=1721712614&int_start_limit=1721712614&ts=1721712614&c=715880729
+#EXTINF:-1 tvg-id="CCLM" tvg-logo="https://assets.livednow.com/logo/粵語片台.png" group-title="戏剧电影",粤语片台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CCLM_hevc/__op/cenc_m/__f/index.mpd?sig=3ca25618b9cac5a6b411825e81d54f7f&ext_start_limit=1721712615&int_start_limit=1721712615&ts=1721712615&c=715880729
+#EXTINF:-1 tvg-id="CTVS" tvg-logo="https://assets.livednow.com/logo/亞洲劇台.png" group-title="戏剧电影",亚洲剧台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CTVS_hevc/__op/cenc_m/__f/index.mpd?sig=cb624606fa099302bd002261d9f80415&ext_start_limit=1721712616&int_start_limit=1721712616&ts=1721712616&c=715880729
+#EXTINF:-1 tvg-id="TVO" tvg-logo="https://assets.livednow.com/logo/黃金華劇台.png" group-title="戏剧电影",黄金华剧台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_TVO_hevc/__op/cenc_m/__f/index.mpd?sig=ded967da428465c80c7b560b578e2449&ext_start_limit=1721712618&int_start_limit=1721712618&ts=1721712618&c=715880729
+#EXTINF:-1 tvg-id="CCCM" tvg-logo="https://assets.livednow.com/logo/天映經典頻道.png" group-title="戏剧电影",天映经典
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CCCM_hevc/__op/cenc_m/__f/index.mpd?sig=2b14b10f7c12c92fa49c6cd33b653e73&ext_start_limit=1721712619&int_start_limit=1721712619&ts=1721712619&c=715880729
+#EXTINF:-1 tvg-id="CMAM" tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png" group-title="戏剧电影",美亚电影台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CMAM_hevc/__op/cenc_m/__f/index.mpd?sig=24378ac0d50f4033d9a9f0419b6e0820&ext_start_limit=1721712621&int_start_limit=1721712621&ts=1721712621&c=715880729
+#EXTINF:-1 tvg-id="CCOC" tvg-logo="https://assets.livednow.com/logo/戲曲台.png" group-title="戏剧电影",戏曲台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CCOC_hevc/__op/cenc_m/__f/index.mpd?sig=7c592b5a9e5449eef7596589894c1d78&ext_start_limit=1721712622&int_start_limit=1721712622&ts=1721712622&c=715880729
+#EXTINF:-1 tvg-id="CTHR" tvg-logo="https://assets.livednow.com/logo/Thrill.png" group-title="戏剧电影",Thrill
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CTHR_hevc/__op/cenc_m/__f/index.mpd?sig=ac35d9ef975ff31dbe679bdac3d57406&ext_start_limit=1721712624&int_start_limit=1721712624&ts=1721712624&c=715880729
+#EXTINF:-1 tvg-id="CRTX" tvg-logo="https://assets.livednow.com/logo/Rock-Action-HK.png" group-title="戏剧电影",ROCK Action
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CRTX_hevc/__op/cenc_m/__f/index.mpd?sig=ea0530af523f472e6babc4133e619f76&ext_start_limit=1721712625&int_start_limit=1721712625&ts=1721712625&c=715880729
+#EXTINF:-1 tvg-id="CKIX" tvg-logo="https://assets.livednow.com/logo/KIX.png" group-title="戏剧电影",KIX
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CKIX_hevc/__op/cenc_m/__f/index.mpd?sig=47f34cb1806662bee4ebca93763e81a5&ext_start_limit=1721712626&int_start_limit=1721712626&ts=1721712626&c=715880729
+#EXTINF:-1 tvg-id="CRTE" tvg-logo="https://assets.livednow.com/logo/Rock-Entertainment-HK.png" group-title="戏剧电影",ROCK 综艺娱乐
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CRTE_hevc/__op/cenc_m/__f/index.mpd?sig=87ca6688d8cae2cc626f04da6435d9e8&ext_start_limit=1721712628&int_start_limit=1721712628&ts=1721712628&c=715880729
+#EXTINF:-1 tvg-id="CANI" tvg-logo="https://assets.livednow.com/logo/Animax-HK.png" group-title="戏剧电影",Animax
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CANI_hevc/__op/cenc_m/__f/index.mpd?sig=9f06033f1de25d81ccf12e37862c5400&ext_start_limit=1721712629&int_start_limit=1721712629&ts=1721712629&c=715880729
+#EXTINF:-1 tvg-id="CJTV" tvg-logo="https://assets.livednow.com/logo/tvN-HK.png" group-title="戏剧电影",tvN
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CJTV_hevc/__op/cenc_m/__f/index.mpd?sig=f1be5effe22b67d2ff0711ab4440f3b3&ext_start_limit=1721712631&int_start_limit=1721712631&ts=1721712631&c=715880729
+#EXTINF:-1 tvg-id="CRE" tvg-logo="https://assets.livednow.com/logo/創世電視.png" group-title="其他",创世电视
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CRE_hevc/__op/cenc_m/__f/index.mpd?sig=57fcf35596e7b7de514df28890ac472f&ext_start_limit=1721712632&int_start_limit=1721712632&ts=1721712632&c=715880729
+#EXTINF:-1 tvg-id="KID" tvg-logo="https://assets.livednow.com/logo/SUPER-Kids-Channel.png" group-title="其他",SUPER Kids Channel
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_KID_hevc/__op/cenc_m/__f/index.mpd?sig=3ddb4ad69fee732a7a1afa41fb668279&ext_start_limit=1721712634&int_start_limit=1721712634&ts=1721712634&c=715880729
+#EXTINF:-1 tvg-id="ZOO" tvg-logo="https://assets.livednow.com/logo/ZooMoo.png" group-title="其他",ZooMoo
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_ZOO_hevc/__op/cenc_m/__f/index.mpd?sig=c9d71395b88c0d6f878dcd72b7a84833&ext_start_limit=1721712635&int_start_limit=1721712635&ts=1721712635&c=715880729
+#EXTINF:-1 tvg-id="CNIKO" tvg-logo="https://assets.livednow.com/logo/Nickelodeon.png" group-title="其他",Nickelodeon
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CNIKO_hevc/__op/cenc_m/__f/index.mpd?sig=922bcdbf48009d1acb333555e3fa5fc7&ext_start_limit=1721712636&int_start_limit=1721712636&ts=1721712636&c=715880729
+#EXTINF:-1 tvg-id="CNIJR" tvg-logo="https://assets.livednow.com/logo/Nick-Jr..png" group-title="其他",Nick Jr.
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CNIJR_hevc/__op/cenc_m/__f/index.mpd?sig=84e76a02a23464a41a56294da926914c&ext_start_limit=1721712638&int_start_limit=1721712638&ts=1721712638&c=715880729
+#EXTINF:-1 tvg-id="LNH" tvg-logo="https://assets.livednow.com/logo/Love-Nature-HK.png" group-title="其他",Love Nature HD
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_LNH_hevc/__op/cenc_m/__f/index.mpd?sig=ddb0ba6e0ae2c0c77065236acb75b884&ext_start_limit=1721712639&int_start_limit=1721712639&ts=1721712639&c=715880729
+#EXTINF:-1 tvg-id="LN4" tvg-logo="https://assets.livednow.com/logo/Love-Nature-4K-HK.png" group-title="其他",Love Nature 4K
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_LN4_hevc/__op/cenc_m/__f/index.mpd?sig=e648ed75ecc80eb29074447699f3557e&ext_start_limit=1721712641&int_start_limit=1721712641&ts=1721712641&c=715880729
+#EXTINF:-1 tvg-id="SMS" tvg-logo="https://assets.livednow.com/logo/Global-Trekker-HK.png" group-title="其他",Global Trekker
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_SMS_hevc/__op/cenc_m/__f/index.mpd?sig=f8b84b5a4b57e5e27a0586dbd6d9a6e1&ext_start_limit=1721712642&int_start_limit=1721712642&ts=1721712642&c=715880729
+#EXTINF:-1 tvg-id="CAXN" tvg-logo="https://assets.livednow.com/logo/AXN.png" group-title="其他",AXN
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CAXN_hevc/__op/cenc_m/__f/index.mpd?sig=23aa2314c3d1c733dc6af95b5dc5545d&ext_start_limit=1721712643&int_start_limit=1721712643&ts=1721712643&c=715880729
+#EXTINF:-1 tvg-id="FBX" tvg-logo="https://assets.livednow.com/logo/FashionBox.png" group-title="其他",FashionBox
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_FBX_hevc/__op/cenc_m/__f/index.mpd?sig=d723797efe44a1d6c1c35c253691c273&ext_start_limit=1721712645&int_start_limit=1721712645&ts=1721712645&c=715880729
+#EXTINF:-1 tvg-id="CMEZ" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live-HK.png" group-title="其他",Mezzo Live HD
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CMEZ_hevc/__op/cenc_m/__f/index.mpd?sig=49c862b4deffe25d90e0be34476c63fe&ext_start_limit=1721712646&int_start_limit=1721712646&ts=1721712646&c=715880729
+#EXTINF:-1 tvg-id="EVT3" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="体育",MytvSuper 足球直播3
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_EVT3_hevc/__op/cenc_m/__f/index.mpd?sig=36d0d5700f55e45733abbd9905f2d5ed&ext_start_limit=1721712647&int_start_limit=1721712647&ts=1721712647&c=715880729
+#EXTINF:-1 tvg-id="EVT4" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="体育",MytvSuper 足球直播4
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_EVT4_hevc/__op/cenc_m/__f/index.mpd?sig=e12f4955e422969865dce152d1bc2e93&ext_start_limit=1721712649&int_start_limit=1721712649&ts=1721712649&c=715880729
+#EXTINF:-1 tvg-id="EVT5" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="体育",MytvSuper 足球直播5
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_EVT5_hevc/__op/cenc_m/__f/index.mpd?sig=680ffc35d77d1e6a31a1b763dbaa9985&ext_start_limit=1721712650&int_start_limit=1721712650&ts=1721712650&c=715880729
+#EXTINF:-1 tvg-id="EVT6" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="体育",MytvSuper 足球直播6
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_EVT6_hevc/__op/cenc_m/__f/index.mpd?sig=866deeb55cf9cddc9bd78016ac7ba99b&ext_start_limit=1721712652&int_start_limit=1721712652&ts=1721712652&c=715880729
