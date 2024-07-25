@@ -105,79 +105,75 @@ http://live.nctv.top/8/bestv.php?id=jbty
 #EXTINF:-1 group-title="🐉国内体育🐉",爱体育
 http://222.141.132.21:8888/rtp/225.1.4.168:1220
 
-#EXTINF:-1 group-title="🏎F1赛事🏎",✦ F1赛事预告 ✦
-http://mutant.arrox.top:80/live/5XDQl1mG6/wa5cv9Ybz2/181542.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | SKY SPORT DE
-http://mutant.arrox.top:80/live/5XDQl1mG6/wa5cv9Ybz2/135125.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | VIAPLAY FORMULE 1
-http://mutant.arrox.top:80/live/5XDQl1mG6/wa5cv9Ybz2/219885.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",ZIGGO SPORT RACINGᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/461991.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",NL | SKY SPORTS F1
-http://mutant.arrox.top:80/live/5XDQl1mG6/wa5cv9Ybz2/104192.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",Sky Sports F1 FHD 50fps
-http://doubleclicktv.live/70376812/52663544/276927
-#EXTINF:-1 group-title="🏎F1赛事🏎",Sky Sports F1 HD
-http://doubleclicktv.live/70376812/52663544/276926
-#EXTINF:-1 group-title="🏎F1赛事🏎",UK: SKY SPORTS F1 FHD
+#EXTINF:-1 tvg-id="skysportf1.de" tvg-name="F1 | SKY SPORT DE" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",UK | Sky Sports F1
+http://iptv.darktv.eu:80/volkanduman/gwCRM7cj/38395
+#EXTINF:-1 tvg-id="skysportf1.de" tvg-name="F1 | SKY SPORT DE" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",UK | Sky Sports F1 HD
+http://live.lordstreams.co:8080//832396166/1982148236/2189
+#EXTINF:-1 tvg-id="skysportf1.de" tvg-name="F1 | SKY SPORT DE" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",UK | SKY SPORTS F1 FHD
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/366421.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",UK: SKY SPORTS F1 HD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/366420.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",Sky Sports Main Event FHD 50fps
-http://doubleclicktv.live/70376812/52663544/276918
-#EXTINF:-1 group-title="🏎F1赛事🏎",DAZN F1
-http://suntamarat.online:8080/soacra_pitis/KOAG8DvCPcj76hzMnHKRNZHRHYrdJg/55655
-#EXTINF:-1 group-title="🏎F1赛事🏎",DAZN F1 (L)(PPV)
-http://zeuspro.xyz:8080/javiermayz1/8An6zmmSgC/180149
-#EXTINF:-1 group-title="🏎F1赛事🏎",F1-TV FHD
-http://117tv.icu:8080/X5xRz0/944877/125947
-#EXTINF:-1 group-title="🏎F1赛事🏎",✦ 车手视角 ✦
+#EXTINF:-1 tvg-id="skysportf1.de" tvg-name="F1 | SKY SPORT DE" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",DE | SKY SPORT F1 HD
+http://elit64.xyz:80/hdiptv9153/LuLdqQaSy3/251067
+#EXTINF:-1 tvg-id="skysportf1.de" tvg-name="F1 | SKY SPORT DE" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",DE | SKY SPORT F1
+http://xtream.eshost.xyz//Lbs0U2/tFMZlx/1017
+#EXTINF:-1 tvg-id="skysportf1.de" tvg-name="F1 | SKY SPORT DE" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",IT | Sky Sport F1
+http://elit64.xyz:80/hdiptv9153/LuLdqQaSy3/240027
+#EXTINF:-1 tvg-id="skysportf1.de" tvg-name="F1 | SKY SPORT DE" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",IT | SKY SPORT F1
+http://xtream.eshost.xyz//Lbs0U2/tFMZlx/73292
+#EXTINF:-1 tvg-id="skysportf1.de" tvg-name="F1 | SKY SPORT DE" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",ES | DAZN F1 FHD
+http://xtream.eshost.xyz//Lbs0U2/tFMZlx/8088
+#EXTINF:-1 tvg-id="skysportf1.de" tvg-name="F1 | SKY SPORT DE" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",F1 | SKY SPORT DE
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/135125.m3u8
+#EXTINF:-1 tvg-id="viaplayformule1.nl" tvg-name="F1 | VIAPLAY FORMULE 1" tvg-logo="https://logo.diamondtv.one/images/logos/viaplay.png" group-title="🏎F1赛事🏎",F1 | VIAPLAY FORMULE 1
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/219885.m3u8
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="NL | SKY SPORTS F1" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",NL | SKY SPORTS F1
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/104192.m3u8
+#EXTINF:-1 tvg-name="✦●✦● FORMULE 1 ✦●✦●" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",✦车手视角✦
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/181542.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Main Event (Events Only)
+#EXTINF:-1 tvg-name="F1 | F1 TV Main Event (Events Only)" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",F1 | F1 TV Main Event (Events Only)
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426317.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Pit Lane Channel (Events Only)
+#EXTINF:-1 tvg-name="F1 | F1 TV Pit Lane Channel (Events Only)" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",F1 | F1 TV Pit Lane Channel (Events Only)
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426318.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Driver Tracker Channel (Events Only)
+#EXTINF:-1 tvg-name="F1 | F1 TV Driver Tracker Channel (Events Only)" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",F1 | F1 TV Driver Tracker Channel (Events Only)
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426316.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Data Channel (Events Only)
+#EXTINF:-1 tvg-name="F1 | F1 TV Data Channel (Events Only)" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",F1 | F1 TV Data Channel (Events Only)
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426315.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams Max Verstappen | Red Bull Racing
+#EXTINF:-1 tvg-name="F1 | F1 TV Cams Max Verstappen | Red Bull Racing" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",F1 | F1 TV Cams Max Verstappen | Red Bull Racing
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426307.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams Sergio Perez | Red Bull Racing
+#EXTINF:-1 tvg-name="F1 | F1 TV Cams Sergio Perez | Red Bull Racing" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",F1 | F1 TV Cams Sergio Perez | Red Bull Racing
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426312.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams Charles Leclerc | Ferrari
+#EXTINF:-1 tvg-name="F1 | F1 TV Cams Charles Leclerc | Ferrari" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",F1 | F1 TV Cams Charles Leclerc | Ferrari
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426298.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams Carlos Sainz | Ferrari
+#EXTINF:-1 tvg-name="F1 | F1 TV Cams Carlos Sainz | Ferrari" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",F1 | F1 TV Cams Carlos Sainz | Ferrari
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426297.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams Lewis Hamilton | Mercedes
+#EXTINF:-1 tvg-name="F1 | F1 TV Cams Lewis Hamilton | Mercedes" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",F1 | F1 TV Cams Lewis Hamilton | Mercedes
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426306.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams George Russell | Mercedes
+#EXTINF:-1 tvg-name="F1 | F1 TV Cams George Russell | Mercedes" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",F1 | F1 TV Cams George Russell | Mercedes
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426301.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams Lando Norris | McLaren
+#EXTINF:-1 tvg-name="F1 | F1 TV Cams Lando Norris | McLaren" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",F1 | F1 TV Cams Lando Norris | McLaren
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426305.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams Sebastian Vettel | Aston Martin
+#EXTINF:-1 tvg-name="F1 | F1 TV Cams Sebastian Vettel | Aston Martin" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",F1 | F1 TV Cams Sebastian Vettel | Aston Martin
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426311.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams Lance Stroll | Aston Martin
+#EXTINF:-1 tvg-name="F1 | F1 TV Cams Lance Stroll | Aston Martin" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",F1 | F1 TV Cams Lance Stroll | Aston Martin
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426304.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams Fernando Alonso | Alpine
+#EXTINF:-1 tvg-name="F1 | F1 TV Cams Fernando Alonso | Alpine" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",F1 | F1 TV Cams Fernando Alonso | Alpine
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426300.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams Valtteri Bottas | Alfa Romeo
+#EXTINF:-1 tvg-name="F1 | F1 TV Cams Valtteri Bottas | Alfa Romeo" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",F1 | F1 TV Cams Valtteri Bottas | Alfa Romeo
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426313.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams Guanyu Zhou | Alfa Romeo
+#EXTINF:-1 tvg-name="F1 | F1 TV Cams Guanyu Zhou | Alfa Romeo" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",F1 | F1 TV Cams Guanyu Zhou | Alfa Romeo
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426302.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams Yuki Tsunoda | AlphaTauri
+#EXTINF:-1 tvg-name="F1 | F1 TV Cams Yuki Tsunoda | AlphaTauri" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",F1 | F1 TV Cams Yuki Tsunoda | AlphaTauri
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426314.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams Pierre Gasly | AlphaTauri
+#EXTINF:-1 tvg-name="F1 | F1 TV Cams Pierre Gasly | AlphaTauri" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",F1 | F1 TV Cams Pierre Gasly | AlphaTauri
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426310.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams Nicholas Latifi | Williams
+#EXTINF:-1 tvg-name="F1 | F1 TV Cams Nicholas Latifi | Williams" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",F1 | F1 TV Cams Nicholas Latifi | Williams
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426309.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams Alexander Albon | Williams
+#EXTINF:-1 tvg-name="F1 | F1 TV Cams Alexander Albon | Williams" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",F1 | F1 TV Cams Alexander Albon | Williams
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426296.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams Mick Schumacher | Haas F1 Team
+#EXTINF:-1 tvg-name="F1 | F1 TV Cams Mick Schumacher | Haas F1 Team" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",F1 | F1 TV Cams Mick Schumacher | Haas F1 Team
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426308.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams Kevin Magnussen | Haas F1 Team
+#EXTINF:-1 tvg-name="F1 | F1 TV Cams Kevin Magnussen | Haas F1 Team" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",F1 | F1 TV Cams Kevin Magnussen | Haas F1 Team
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426303.m3u8
-#EXTINF:-1 group-title="🏎F1赛事🏎",F1 | F1 TV Cams Esteban Ocon | Alpine
+#EXTINF:-1 tvg-name="F1 | F1 TV Cams Esteban Ocon | Alpine" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",F1 | F1 TV Cams Esteban Ocon | Alpine
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426299.m3u8
 #EXTINF:-1 group-title="⛳️高尔夫赛事⛳️",ZIGGO SPORT GOLF ᵁᴴᴰ
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/461992.m3u8
