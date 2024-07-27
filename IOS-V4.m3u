@@ -1781,6 +1781,10 @@ http://148.135.93.213:81/live.php?id=CCTV6-4K
 http://148.135.93.213:81/live.php?id=CCTV8-4K
 #EXTINF:-1 group-title="🐉4K-8K频道",江苏 4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://epg.v1.mk/logo/cctv8k.png" group-title="🐉4K-8K频道",CCTV8K 超高清 120m
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/8K120M/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://epg.v1.mk/logo/cctv8k.png" group-title="🐉4K-8K频道",CCTV8K 超高清 36m
+http://192.168.10.1:6688/ysptp/cctv8k_36m.m3u8
 #EXTINF:-1 group-title="🐉4K-8K频道",百事通4K电影
 http://www.17888.fun:10000/udp/239.45.3.107:5140?%24%E4%B8%8A%E6%B5%B7%E7%94%B5%E4%BF%A1
 #EXTINF:-1 group-title="🐉4K-8K频道",百事通4K纪实
