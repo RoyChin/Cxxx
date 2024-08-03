@@ -664,13 +664,13 @@ http://119.125.129.234:9901/tsfile/live/1012_1.m3u8?key=txiptv
 http://119.125.129.234:9901/tsfile/live/1013_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="🐉秒播线路②💥",广东体育
 http://119.125.129.234:9901/tsfile/live/1014_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港台频道",TVB 翡翠台
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="🐉秒播线路②💥",TVB 翡翠台
 http://119.125.129.234:9901/tsfile/live/1004_1.m3u8?key=txiptv 
-#EXTINF:-1 tvg-name="明珠" tvg-logo="https://live.fanmingming.com/tv/明珠.png" group-title="港台频道",TVB 明珠台
+#EXTINF:-1 tvg-name="明珠" tvg-logo="https://live.fanmingming.com/tv/明珠.png" group-title="🐉秒播线路②💥",TVB 明珠台
 http://119.125.129.234:9901/tsfile/live/1005_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视.png" group-title="港台频道",凤凰卫视
+#EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视.png" group-title="🐉秒播线路②💥",凤凰卫视
 http://119.125.129.234:9901/tsfile/live/1042_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="龙祥电影" tvg-logo="https://live.fanmingming.com/tv/龙祥电影.png" group-title="港台频道",龙祥电影
+#EXTINF:-1 tvg-name="龙祥电影" tvg-logo="https://live.fanmingming.com/tv/龙祥电影.png" group-title="🐉秒播线路②💥",龙祥电影
 http://119.125.129.234:9901/tsfile/live/1043_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CHC家庭电影" tvg-logo="https://live.fanmingming.com/tv/CHC家庭电影.png" group-title="🐉秒播线路②💥",CHC家庭电影
 http://119.125.129.234:9901/tsfile/live/1047_1.m3u8?key=txiptv
