@@ -2656,7 +2656,7 @@ https://tvb.mytvsuper.us.kg/stream/tvb/kix/master.m3u8?u=btjson&p=213f2541f159ac
 https://tvb.mytvsuper.us.kg/stream/tvb/lovenaturehd/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-id="Love-Nature-4K-HK" tvg-name="Love Nature 4K" tvg-logo="https://assets.livednow.com/logo/Love-Nature-4K-HK.png" group-title="🐉香港频道「线路1」",Love Nature 4K
 https://tvb.mytvsuper.us.kg/stream/tvb/lovenature4k/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="Mezzo-Live-HD" tvg-name="Mezzo Live HD" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live-HK.png" group-title="音樂綜藝",Mezzo Live HD
+#EXTINF:-1 tvg-id="Mezzo-Live-HD" tvg-name="Mezzo Live HD" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live-HK.png" group-title="🐉香港频道「线路1」",Mezzo Live HD
 https://tvb.mytvsuper.us.kg/stream/tvb/mezzolivehd/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-id="MovieMovie" tvg-name="MovieMovie" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-02-24/c65bed2b10345b876ddafe81f979e48f.webp" group-title="🐉香港频道「线路1」",MovieMovie
 https://api.btbt.im/live?id=moviemovie
