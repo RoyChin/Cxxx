@@ -469,22 +469,32 @@ http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426308.m3u8
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426303.m3u8
 #EXTINF:-1 tvg-name="F1 | F1 TV Cams Esteban Ocon | Alpine" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",F1 | F1 TV Cams Esteban Ocon | Alpine
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/426299.m3u8
-#EXTINF:-1 group-title="⛳️高尔夫赛事⛳️",ZIGGO SPORT GOLF ᵁᴴᴰ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/461992.m3u8
-#EXTINF:-1 group-title="⛳️高尔夫赛事⛳️",ZIGGO SPORT GOLF
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/150550.m3u8
-#EXTINF:-1 group-title="⛳️高尔夫赛事⛳️",NL | ZIGGO SPORT GOLFʳᵉᶜ
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/87.m3u8
-#EXTINF:-1 group-title="⛳️高尔夫赛事⛳️",4K | ZIGGO SPORT GOLF
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/3067.m3u8
-#EXTINF:-1 group-title="⛳️高尔夫赛事⛳️",UK| Sky Sports Golf
+
+#EXTINF:-1 tvg-id="6177" tvg-name="博斯高球1台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports-golfch.png" group-title="⛳️高尔夫赛事⛳️",博斯高球1台
+http://209.146.124.22:8891/litv/litv-longturn05
+#EXTINF:-1 tvg-id="6178" tvg-name="博斯高球2台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-golfplus.png" group-title="⛳️高尔夫赛事⛳️",博斯高球2台
+http://209.146.124.22:8891/litv/litv-longturn06
+#EXTINF:-1 tvg-id="336" tvg-name="SPORTS: GOLF CHANNEL" tvg-logo="https://golf.com/wp-content/uploads/2022/03/golf-channel-logo.jpg" group-title="⛳️高尔夫赛事⛳️",US| GOLF CHANNEL
+http://ftflivetv.xyz:83/7402751496/yEtCyURYPO/336
+#EXTINF:-1 tvg-id="336" tvg-name="SPORTS: GOLF CHANNEL" tvg-logo="https://golf.com/wp-content/uploads/2022/03/golf-channel-logo.jpg" group-title="⛳️高尔夫赛事⛳️",US| GOLF CHANNEL 60fps
+http://doubleclicktv.live/70376812/52663544/897
+#EXTINF:-1 tvg-id="336" tvg-name="SPORTS: GOLF CHANNEL" tvg-logo="https://golf.com/wp-content/uploads/2022/03/golf-channel-logo.jpg" group-title="⛳️高尔夫赛事⛳️",US| GOLF CHANNEL
+http://vipatdom.top:8080//VIP0181714999118007/c8cfd9f1874c/6276
+#EXTINF:-1 tvg-id="336" tvg-name="SPORTS: GOLF CHANNEL" tvg-logo="https://golf.com/wp-content/uploads/2022/03/golf-channel-logo.jpg" group-title="⛳️高尔夫赛事⛳️",US| Golf Channel UHD
+http://live.lordstreams.co:8080//832396166/1982148236/3651
+#EXTINF:-1 tvg-id="336" tvg-name="SPORTS: GOLF CHANNEL" tvg-logo="https://golf.com/wp-content/uploads/2022/03/golf-channel-logo.jpg" group-title="⛳️高尔夫赛事⛳️",US| Golf Channel LHD
+http://live.lordstreams.co:8080//832396166/1982148236/3738
+#EXTINF:-1 tvg-id="336" tvg-name="SPORTS: GOLF CHANNEL" tvg-logo="https://golf.com/wp-content/uploads/2022/03/golf-channel-logo.jpg" group-title="⛳️高尔夫赛事⛳️",US| Golf Channel SHD
+http://live.lordstreams.co:8080//832396166/1982148236/2385
+#EXTINF:-1 tvg-id="336" tvg-name="SPORTS: GOLF CHANNEL" tvg-logo="https://golf.com/wp-content/uploads/2022/03/golf-channel-logo.jpg" group-title="⛳️高尔夫赛事⛳️",UK| Sky Sports Golf
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339643.m3u8
-#EXTINF:-1 group-title="⛳️高尔夫赛事⛳️",UK | SKY SPORTS GOLF
+#EXTINF:-1 tvg-id="336" tvg-name="SPORTS: GOLF CHANNEL" tvg-logo="https://golf.com/wp-content/uploads/2022/03/golf-channel-logo.jpg" group-title="⛳️高尔夫赛事⛳️",UK | SKY SPORTS GOLF
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201126.m3u8
-#EXTINF:-1 group-title="⛳️高尔夫赛事⛳️",UK | SUPERSPORT GOLF
+#EXTINF:-1 tvg-id="336" tvg-name="SPORTS: GOLF CHANNEL" tvg-logo="https://golf.com/wp-content/uploads/2022/03/golf-channel-logo.jpg" group-title="⛳️高尔夫赛事⛳️",UK | SUPERSPORT GOLF
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201159.m3u8
-#EXTINF:-1 group-title="⛳️高尔夫赛事⛳️",UK: SKY SPORTS GOLF FHD
+#EXTINF:-1 tvg-id="336" tvg-name="SPORTS: GOLF CHANNEL" tvg-logo="https://golf.com/wp-content/uploads/2022/03/golf-channel-logo.jpg" group-title="⛳️高尔夫赛事⛳️",UK: SKY SPORTS GOLF FHD
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/366415.m3u8
+
 #EXTINF:-1 group-title="🎾网球赛事🎾",ZIGGO SPORT TENNIS ᵁᴴᴰ
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/461993.m3u8
 #EXTINF:-1 group-title="🎾网球赛事🎾",NL | ZIGGO SPORT TENNISʳᵉᶜ
