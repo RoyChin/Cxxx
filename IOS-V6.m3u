@@ -9492,7 +9492,10 @@ https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ee6b8748db545a793
 #EXTINF:-1 group-title="🐉少儿频道👶🏻",小魔仙剧20
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4619aaa5b1284705849e8a54d8d40184/1200.m3u8
 
-
+#EXTINF:-1 tvg-id="1877" tvg-name="BTV体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV体育.png" group-title="🐉北京频道",北京体育休闲
+http://117.114.153.26:8180/TV00000000000000000196@HHZT
+#EXTINF:-1 tvg-id="1877" tvg-name="BTV体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV体育.png" group-title="🐉北京频道",北京体育休闲
+http://117.114.153.26:8180/TV00000000000000000146@HHZT
 #EXTINF:-1 tvg-id="1877" tvg-name="BTV体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV体育.png" group-title="🐉北京频道",北京体育休闲
 http://111.196.186.191:5555/rtp/239.3.1.243:8000
 #EXTINF:-1 tvg-id="1877" tvg-name="BTV体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV体育.png" group-title="🐉北京频道",北京体育休闲
