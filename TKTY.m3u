@@ -169,6 +169,8 @@ http://live.nctv.top/8/bestv.php?id=jbty
 #EXTINF:-1 group-title="🐉国内体育🐉",爱体育
 http://222.141.132.21:8888/rtp/225.1.4.168:1220
 
+#EXTINF:-1 tvg-id="skysportf1.de" tvg-name="F1 | SKY SPORT DE" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",天空体育 4K (有比赛时才有画面）
+https://live.9528.eu.org/a1e47204bb4070bfc7a79c10d3c64611.m3u8
 #EXTINF:-1 tvg-id="skysportf1.de" tvg-name="F1 | SKY SPORT DE" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",UK | Sky Sports F1
 http://iptv.darktv.eu:80/volkanduman/gwCRM7cj/38395
 #EXTINF:-1 tvg-id="skysportf1.de" tvg-name="F1 | SKY SPORT DE" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/F1.png" group-title="🏎F1赛事🏎",UK | Sky Sports F1 HD
@@ -847,6 +849,8 @@ http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/442999.m3u8
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/442998.m3u8
 #EXTINF:-1 group-title="🐉欧洲联盟杯🐉",UK: EUROPA LEAGUE REPLAY 11 HD
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/442997.m3u8
+#EXTINF:-1 group-title="🪂天空体育①🪂",天空体育 4K (有比赛时才有画面）
+https://live.9528.eu.org/a1e47204bb4070bfc7a79c10d3c64611.m3u8
 #EXTINF:-1 group-title="🪂天空体育①🪂",UK: SKY SPORTS NEWS FHD
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/366442.m3u8
 #EXTINF:-1 group-title="🪂天空体育①🪂",UK: SKY SPORTS F1 FHD
