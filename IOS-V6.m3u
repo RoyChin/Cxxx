@@ -9983,6 +9983,14 @@ http://58.48.37.158:1111/tsfile/live/0019_1.m3u8
 http://58.51.111.46:1111/tsfile/live/1019_1.m3u8
 #EXTINF:-1 tvg-name="湖北经视" tvg-logo="https://live.fanmingming.com/tv/湖北经视.png" group-title="🐉各地方频道",湖北经视
 http://59.173.243.210:9901/tsfile/live/1019_1.m3u8
+#EXTINF:-1 tvg-name="江西都市" tvg-logo="https://live.fanmingming.com/tv/江西都市.png" group-title="🐉各地方频道",江西都市
+http://011.my.zhoujie218.top:8888/udp/239.252.220.238:5140
+#EXTINF:-1 tvg-name="江西都市" tvg-logo="https://live.fanmingming.com/tv/江西都市.png" group-title="🐉各地方频道",江西都市
+http://218.64.60.38:8888/udp/239.252.220.238:5140
+#EXTINF:-1 tvg-name="江西都市" tvg-logo="https://live.fanmingming.com/tv/江西都市.png" group-title="🐉各地方频道",江西都市
+http://58.17.48.228:808/hls/18/index.m3u8
+#EXTINF:-1 tvg-name="江西都市" tvg-logo="https://live.fanmingming.com/tv/江西都市.png" group-title="🐉各地方频道",江西都市
+http://www.011.my.zhoujie218.top:8888/udp/239.252.220.238:5140
 #EXTINF:-1 group-title="🐉各地方频道",「黑龙江」黑龙江文体
 http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
 #EXTINF:-1 group-title="🐉各地方频道",「黑龙江」黑龙江农业科教
