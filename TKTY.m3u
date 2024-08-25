@@ -190,6 +190,10 @@ https://livednow.com/tencent/100360:2002921/288610/1380256900?sign=gAAAAABmysDFu
 
 
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉国内体育🐉",五星体育
+http://116.226.38.62:4000/udp/239.45.3.210:5140
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉国内体育🐉",五星体育
+http://116.227.139.60:4022/udp/239.45.3.210:5140
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉国内体育🐉",五星体育
 http://www.17888.fun:10000/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉国内体育🐉",五星体育
 http://origin.lean.org.cn:4000/udp/239.45.3.210:5140
@@ -202,9 +206,7 @@ http://180.171.56.119:10000/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉国内体育🐉",五星体育
 http://124.77.225.50:4022/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉国内体育🐉",五星体育
-http://116.235.75.110:5555/udp/239.45.3.210:5140
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉国内体育🐉",五星体育
-http://22725y284r.yicp.fun:9902/tsfile/live/1003_1.m3u8
+http://116.226.38.62:4000/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-name="BTV体育" tvg-logo="https://live.fanmingming.com/tv/BTV体育.png" group-title="🐉国内体育🐉",北京体育
 http://sweetown.fun:4000/rtp/239.3.1.243:8000
 #EXTINF:-1 tvg-name="BTV体育" tvg-logo="https://live.fanmingming.com/tv/BTV体育.png" group-title="🐉国内体育🐉",北京体育
