@@ -188,7 +188,12 @@ https://livednow.com/tencent/100360:2002921/288610/1765102400?sign=gAAAAABmysDFx
 #EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="🏎F1赛事🏎",08/25 21:00 F1荷兰大奖赛正赛 车手位置
 https://livednow.com/tencent/100360:2002921/288610/1380256900?sign=gAAAAABmysDFugxbQ-KORI9U5oIJPOxZKtbfbUXKkuGkC75D0GsaezW52U0HZ4Vn226OAOO530EOSY_krgNyifXAdzvweETx1lJQigR3q_QDmeSTdwFGGntDmPEJhQGKHa-_Dnflwkd07D48cMMkT4vHdDSNLptp94OV8rcLJqNttxFmUmlFBHtQT1brmU83Ff7-oiSmGN9t0S-1Y2963j3FSnSnjY53W1U5qsCVEINi-_a35o5wcQGAnE4wfD8uPrnZd3_KSpgh9IGElpjlILgUTPjlLxkuhXR0JJ7fZFs9Ywdcb_WyZpvEm3SjYONTvzYFEfqm96qEvdoDM-38pbm3eEu1QU6ogpLoW-f4WCMczp2ZI1uI8TU_8Cu3Fv4rRJVe7iRuuhuQHyQ6r-OHd5BtJJFYa-PlWUCVNShur-eLsxQ-oFL14o8%3D
 
-
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉国内体育🐉",五星体育
+http://117.161.12.116/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉国内体育🐉",五星体育
+http://117.161.12.118/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉国内体育🐉",五星体育
+http://117.161.12.124/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉国内体育🐉",五星体育
 http://116.226.38.62:4000/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉国内体育🐉",五星体育
