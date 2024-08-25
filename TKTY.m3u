@@ -47,11 +47,11 @@ https://livednow.com/migu/928838805?sign=gAAAAABmy0vy7x2DG_uhFU7eXjtrlCjnCSfELrI
 #EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="🦁欧洲五大联赛🦁",08/26 03:15 西甲联赛 马德里竞技vs吉罗纳 解说
 https://livednow.com/migu/928838539?sign=gAAAAABmy0vy1IpHpuz8nTj-JH36N24rKawWwOn1lqca4Po59TzkSXAku1O7FZKMBjH0m3csy3D0NVQUQCcjG212-_EDkkQWJHqAAUHKBSK2fTaF9xKrtT6VhwzMFQY8WXO7jscgARTDPnCTRJtkbpbbT31Cn1PFOqUhAJSGdKyklvaAeVDF8YMiyrJNlshwwbbPeQOh0B5_g5noO-lJz3CCg5sK5Gqs1g%3D%3D
 
-#EXTINF:-1 tvg-id="621" tvg-name="Now Sports 英超1台" tvg-logo="https://live.hkdvb.com/static/logos/621.jpg" group-title="🦁Now体育🦁", Now Sports 英超1台
+#EXTINF:-1 tvg-id="621" tvg-name="Now Sports 英超1台" tvg-logo="https://live.hkdvb.com/static/logos/621.jpg" group-title="🦁欧洲五大联赛🦁", Now Sports 英超1台
 https://live.hkdvb.com/hls/live/621.m3u8?token=645582076445879
-#EXTINF:-1 tvg-id="630" tvg-name="Now Sports Prime" tvg-logo="https://live.hkdvb.com/static/logos/630.png" group-title="🦁Now体育🦁", Now Sports Prime
+#EXTINF:-1 tvg-id="630" tvg-name="Now Sports Prime" tvg-logo="https://live.hkdvb.com/static/logos/630.png" group-title="🦁欧洲五大联赛🦁", Now Sports Prime
 https://live.hkdvb.com/hls/live/630.m3u8?token=645582076445879
-#EXTINF:-1 tvg-id="632" tvg-name="Now Sports 632" tvg-logo="https://live.hkdvb.com/static/logos/632.jpg" group-title="🦁Now体育🦁", Now Sports 632
+#EXTINF:-1 tvg-id="632" tvg-name="Now Sports 632" tvg-logo="https://live.hkdvb.com/static/logos/632.jpg" group-title="🦁欧洲五大联赛🦁", Now Sports 632
 https://live.hkdvb.com/hls/live/632.m3u8?token=645582076445879
 #EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",Now Sports  4K 
 http://apptv.xyz:80/alia4remz/rrynDeBGS/86258
