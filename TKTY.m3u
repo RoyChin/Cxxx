@@ -673,6 +673,22 @@ http://sansat.org:88/npThEesOShvRfhX/D8hoFAbUb3vTgEo/102213
 
 
 🦉TNT体育🦉,#genre#
+#EXTINF:-1 tvg-id="1379047" tvg-name="UK| TNT ULTIMATE 4K+ [LIVE-EVENT]" tvg-logo="http://logo.protv.cc/piconsnew/tntsports.png" group-title="🦉TNT体育🦉",UK| TNT ULTIMATE 4K
+http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=1379047&extension=ts&play_token=SOU1ggjIDH
+#EXTINF:-1 tvg-id="1019933" tvg-name="UK| TNT BOX OFFICE FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/TNT-SPOR.png" group-title="🦉TNT体育🦉",UK| TNT BOX OFFICE FHD
+http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=1019933&extension=ts&play_token=XgDKUHsnKo
+#EXTINF:-1 tvg-id="30564" tvg-name="UK| TNT SPORTS ESPN FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/TNT-SPOR.png" group-title="🦉TNT体育🦉",UK| TNT SPORTS ESPN FHD
+http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=30564&extension=ts&play_token=YPnkBFdFWV
+#EXTINF:-1 tvg-id="30567" tvg-name="UK| TNT SPORTS 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/TNT-SPOR.png" group-title="🦉TNT体育🦉",UK| TNT SPORTS 1 FHD
+http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=30567&extension=ts&play_token=vo0Ji6ysK4
+#EXTINF:-1 tvg-id="30566" tvg-name="UK| TNT SPORTS 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/TNT-SPOR.png" group-title="🦉TNT体育🦉",UK| TNT SPORTS 2 FHD
+http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=30566&extension=ts&play_token=aEE87WCaaJ
+#EXTINF:-1 tvg-id="30565" tvg-name="UK| TNT SPORTS 3 FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/TNT-SPOR.png" group-title="🦉TNT体育🦉",UK| TNT SPORTS 3 FHD
+http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=30565&extension=ts&play_token=rIb3bfNHIa
+#EXTINF:-1 tvg-id="1019935" tvg-name="UK| TNT SPORTS 4 FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/TNT-SPOR.png" group-title="🦉TNT体育🦉",UK| TNT SPORTS 4 FHD
+http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=1019935&extension=ts&play_token=74wzFtDZwW
+#EXTINF:-1 tvg-id="1004548" tvg-name="UK| TNT SPORTS 5 FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/TNT-SPOR.png" group-title="🦉TNT体育🦉",UK| TNT SPORTS 5 FHD
+http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=1004548&extension=ts&play_token=uEqRDyn6uu
 #EXTINF:-1 tvg-id="TNT-Sports-1" tvg-name="TNT Sport 1" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png" group-title="🦉TNT体育🦉", TNT SPORTS 1 [英语]
 http://mohdtv.com:8880/voby3837/28337929/28946
 #EXTINF:-1 tvg-id="TNT-Sports-2" tvg-name="TNT Sport 2" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-2.png" group-title="🦉TNT体育🦉", TNT SPORTS 2 [英语]
