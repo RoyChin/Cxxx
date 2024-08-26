@@ -712,51 +712,55 @@ http://mohdtv.com:8880/voby3837/28337929/28939
 
 
 🐍DAZN体育🐍,#genre#
-#EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN" tvg-logo="https://assets.livednow.com/logo/DAZN.png" group-title="🐍DAZN体育🐍", DAZN 1 [西班牙语]
+#EXTINF:-1 tvg-id="1616918" tvg-name="FR| DAZN 1 FHD" tvg-logo="http://logo.protv.cc/piconsnew/dazn1.png" group-title="🐍DAZN体育🐍,DAZN 1 [法语]
+ffmpeg http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=1616918&extension=ts&play_token=zGn4Z5ItzN
+#EXTINF:-1 tvg-id="1595353" tvg-name="FR: DAZN PPV 2" tvg-logo="http://logo.protv.cc/picons/logos/logos/DAZN.png" group-title="🐍DAZN体育🐍",DAZN 2 [法语]
+ffmpeg http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=1595353&extension=ts&play_token=PVfuP9dtDv
+#EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN" tvg-logo="https://assets.livednow.com/logo/DAZN.png" group-title="🐍DAZN体育🐍",DAZN 1 [西班牙语]
 http://mohdtv.com:8880/voby3837/28337929/2557
-#EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN" tvg-logo="https://assets.livednow.com/logo/DAZN.png" group-title="🐍DAZN体育🐍", DAZN 2 [西班牙语]
+#EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN" tvg-logo="https://assets.livednow.com/logo/DAZN.png" group-title="🐍DAZN体育🐍",DAZN 2 [西班牙语]
 http://mohdtv.com:8880/voby3837/28337929/2556
-#EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN" tvg-logo="https://assets.livednow.com/logo/DAZN.png" group-title="🐍DAZN体育🐍", DAZN 3 [西班牙语]
+#EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN" tvg-logo="https://assets.livednow.com/logo/DAZN.png" group-title="🐍DAZN体育🐍",DAZN 3 [西班牙语]
 http://mohdtv.com:8880/voby3837/28337929/2555
-#EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN" tvg-logo="https://assets.livednow.com/logo/DAZN.png" group-title="🐍DAZN体育🐍", DAZN 4 [西班牙语]
+#EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN" tvg-logo="https://assets.livednow.com/logo/DAZN.png" group-title="🐍DAZN体育🐍",DAZN 4 [西班牙语]
 http://mohdtv.com:8880/voby3837/28337929/2554
-#EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN" tvg-logo="https://assets.livednow.com/logo/DAZN.png" group-title="🐍DAZN体育🐍", DAZN  1 [德语]
+#EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN" tvg-logo="https://assets.livednow.com/logo/DAZN.png" group-title="🐍DAZN体育🐍",DAZN  1 [德语]
 http://live.lordstreams.co:8080//832396166/1982148236/434604
-#EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN" tvg-logo="https://assets.livednow.com/logo/DAZN.png" group-title="🐍DAZN体育🐍", DAZN  2 [德语]
+#EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN" tvg-logo="https://assets.livednow.com/logo/DAZN.png" group-title="🐍DAZN体育🐍",DAZN  2 [德语]
 http://live.lordstreams.co:8080//832396166/1982148236/434605
 
 
 🦅ESPN体育🦅,#genre#
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://assets.livednow.com/logo/ESPN.png" group-title="🦅ESPN体育🦅", ESPN 1 HD [英语]
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://assets.livednow.com/logo/ESPN.png" group-title="🦅ESPN体育🦅",ESPN 1 HD [英语]
 http://152.89.62.76:8880/60mk100012/14668115/3136
-#EXTINF:-1 tvg-id="ESPN-2" tvg-name="ESPN 2" tvg-logo="https://assets.livednow.com/logo/ESPN-2.png" group-title="🦅ESPN体育🦅", ESPN 2 HD [英语]
+#EXTINF:-1 tvg-id="ESPN-2" tvg-name="ESPN 2" tvg-logo="https://assets.livednow.com/logo/ESPN-2.png" group-title="🦅ESPN体育🦅",ESPN 2 HD [英语]
 http://152.89.62.76:8880/60mk100012/14668115/3137
-#EXTINF:-1 tvg-id="ESPN-News" tvg-name="ESPN News" tvg-logo="https://assets.livednow.com/logo/ESPN-News.png" group-title="🦅ESPN体育🦅", ESPN News [英语]
+#EXTINF:-1 tvg-id="ESPN-News" tvg-name="ESPN News" tvg-logo="https://assets.livednow.com/logo/ESPN-News.png" group-title="🦅ESPN体育🦅",ESPN News [英语]
 http://152.89.62.76:8880/60mk100012/14668115/3137
-#EXTINF:-1 tvg-id="ESPN-U" tvg-name="ESPN U" tvg-logo="https://assets.livednow.com/logo/ESPN-U.png" group-title="🦅ESPN体育🦅", ESPN U [英语]
+#EXTINF:-1 tvg-id="ESPN-U" tvg-name="ESPN U" tvg-logo="https://assets.livednow.com/logo/ESPN-U.png" group-title="🦅ESPN体育🦅",ESPN U [英语]
 http://152.89.62.76:8880/60mk100012/14668115/3134
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://assets.livednow.com/logo/ESPN.png" group-title="🦅ESPN体育🦅", ESPN 1 4K [英语]
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://assets.livednow.com/logo/ESPN.png" group-title="🦅ESPN体育🦅",ESPN 1 4K [英语]
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/301371.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://assets.livednow.com/logo/ESPN.png" group-title="🦅ESPN体育🦅", ESPN 2 4K [英语]
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://assets.livednow.com/logo/ESPN.png" group-title="🦅ESPN体育🦅",ESPN 2 4K [英语]
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/301372.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://assets.livednow.com/logo/ESPN.png" group-title="🦅ESPN体育🦅", ESPN 3 4K [英语]
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://assets.livednow.com/logo/ESPN.png" group-title="🦅ESPN体育🦅",ESPN 3 4K [英语]
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/301373.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://assets.livednow.com/logo/ESPN.png" group-title="🦅ESPN体育🦅", ESPN 4 4K [英语]
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://assets.livednow.com/logo/ESPN.png" group-title="🦅ESPN体育🦅",ESPN 4 4K [英语]
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/301374.m3u8
 
 
 ❣️欧洲体育❣️,#genre#
-#EXTINF:-1 tvg-id="Eurosport-1" tvg-name="Eurosport 1" tvg-logo="https://assets.livednow.com/logo/Eurosport-1.png" group-title="❣️欧洲体育❣️", EUROSPORT 1 [英语]
+#EXTINF:-1 tvg-id="Eurosport-1" tvg-name="Eurosport 1" tvg-logo="https://assets.livednow.com/logo/Eurosport-1.png" group-title="❣️欧洲体育❣️",EUROSPORT 1 [英语]
 http://152.89.62.76:8880/60mk100012/14668115/2917
-#EXTINF:-1 tvg-id="Eurosport-2" tvg-name="Eurosport 2" tvg-logo="https://assets.livednow.com/logo/Eurosport-2.png" group-title="❣️欧洲体育❣️", EUROSPORT 2 [英语]
+#EXTINF:-1 tvg-id="Eurosport-2" tvg-name="Eurosport 2" tvg-logo="https://assets.livednow.com/logo/Eurosport-2.png" group-title="❣️欧洲体育❣️",EUROSPORT 2 [英语]
 http://152.89.62.76:8880/60mk100012/14668115/2916
-#EXTINF:-1 tvg-id="Eurosport-1" tvg-name="Eurosport 1" tvg-logo="https://assets.livednow.com/logo/Eurosport-1.png" group-title="❣️欧洲体育❣️", EUROSPORT 1 [法语]
+#EXTINF:-1 tvg-id="Eurosport-1" tvg-name="Eurosport 1" tvg-logo="https://assets.livednow.com/logo/Eurosport-1.png" group-title="❣️欧洲体育❣️",EUROSPORT 1 [法语]
 http://sansat.net:88/uEYdkhJdphpGjQ6/xoOpRvdQVASBDYX/126994
-#EXTINF:-1 tvg-id="Eurosport-2" tvg-name="Eurosport 2" tvg-logo="https://assets.livednow.com/logo/Eurosport-2.png" group-title="❣️欧洲体育❣️", EUROSPORT 2 [法语]
+#EXTINF:-1 tvg-id="Eurosport-2" tvg-name="Eurosport 2" tvg-logo="https://assets.livednow.com/logo/Eurosport-2.png" group-title="❣️欧洲体育❣️",EUROSPORT 2 [法语]
 http://xtream.eshost.xyz//Lbs0U2/tFMZlx/6120
-#EXTINF:-1 tvg-id="Eurosport-1" tvg-name="Eurosport 1" tvg-logo="https://assets.livednow.com/logo/Eurosport-1.png" group-title="❣️欧洲体育❣️", EUROSPORT 1 [西班牙语]
+#EXTINF:-1 tvg-id="Eurosport-1" tvg-name="Eurosport 1" tvg-logo="https://assets.livednow.com/logo/Eurosport-1.png" group-title="❣️欧洲体育❣️",EUROSPORT 1 [西班牙语]
 http://mohdtv.com:8880/voby3837/28337929/29319
-#EXTINF:-1 tvg-id="Eurosport-2" tvg-name="Eurosport 2" tvg-logo="https://assets.livednow.com/logo/Eurosport-2.png" group-title="❣️欧洲体育❣️", EUROSPORT 2 [西班牙语]
+#EXTINF:-1 tvg-id="Eurosport-2" tvg-name="Eurosport 2" tvg-logo="https://assets.livednow.com/logo/Eurosport-2.png" group-title="❣️欧洲体育❣️",EUROSPORT 2 [西班牙语]
 http://mohdtv.com:8880/voby3837/28337929/29318
 
 
