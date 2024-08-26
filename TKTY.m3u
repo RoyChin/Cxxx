@@ -599,27 +599,33 @@ http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7338/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7343/index.m3u8
 
 🪂天空体育 𝟛🪂,#genre#
-#EXTINF:-1 tvg-ID="skysportsmainevent.uk" tvg-name="UK-4K: SKY SPORTS MAIN EVENT" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySpMainEvHD.png" group-title="🪂天空体育 𝟛🪂",SKY SPORTS MAIN EVENT
-
-#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="UK-4K: SKY SPORTS F1" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_F1_HD.png" group-title="🪂天空体育 𝟛🪂",SKY SPORTS F1
-
-#EXTINF:-1 tvg-ID="skysportsgolf.uk" tvg-name="UK-4K: SKY SPORTS GOLF" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Golf_HD.png" group-title="🪂天空体育 𝟛🪂",SKY SPORTS GOLF
-
-#EXTINF:-1 tvg-ID="skysportsfootball.uk" tvg-name="UK-4K: SKY SPORTS FOOTBALL" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Football_HD.png" group-title="🪂天空体育 𝟛🪂",SKY SPORTS FOOTBALL
-
-#EXTINF:-1 tvg-ID="skysportspremiereleague.uk" tvg-name="UK-4K: SKY SPORTS PREMIER LEAGUE" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_PL_HD.png" group-title="🪂天空体育 𝟛🪂",SKY SPORTS PREMIER LEAGUE
-
-#EXTINF:-1 tvg-ID="skysportsnews.uk" tvg-name="UK-4K: SKY SPORTS NEWS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_News_HD.png" group-title="🪂天空体育 𝟛🪂",SKY SPORTS NEWS
-
-#EXTINF:-1 tvg-ID="skysportsaction.uk" tvg-name="UK-4K: SKY SPORTS ACTION" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Action.png" group-title="🪂天空体育 𝟛🪂",SKY SPORTS ACTION
-
-#EXTINF:-1 tvg-ID="skysportsmix.uk" tvg-name="UK-4K: SKY SPORT MIX" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Mix_HD.png" group-title="🪂天空体育 𝟛🪂",SKY SPORT MIX
-
-#EXTINF:-1 tvg-ID="skysportsracing.uk" tvg-name="UK-4K: SKY SPORTS RACING" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Racing_HD.png" group-title="🪂天空体育 𝟛🪂",SKY SPORTS RACING
-
-#EXTINF:-1 tvg-ID="skysportsarena.uk" tvg-name="UK-4K: SKY SPORTS ARENA" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_ArenaHD.png" group-title="🪂天空体育 𝟛🪂",SKY SPORTS ARENA
-
-#EXTINF:-1 tvg-ID="skysportscricket.uk" tvg-name="UK-4K: SKY SPORTS CRICKET" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySpCricket_HD.png" group-title="🪂天空体育 𝟛🪂",SKY SPORTS CRICKET
+#EXTINF:-1 tvg-id="30496" tvg-name="UK| SKY SPORTS MAIN EVENT FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-SPORTS-MAIN-EVENTS.png" group-title="🪂天空体育 𝟛🪂",UK| SKY SPORTS MAIN EVENT FHD
+http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=30496&extension=ts&play_token=UEYjKXGWpn
+#EXTINF:-1 tvg-id="30499" tvg-name="UK| SKY SPORTS F1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-SPORTS-F1.png" group-title="🪂天空体育 𝟛🪂",UK| SKY SPORTS F1 FHD
+http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=30499&extension=ts&play_token=pi9mqM1YpI
+#EXTINF:-1 tvg-id="30493" tvg-name="UK| SKY SPORTS PL FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-SPORTS-PL.png" group-title="🪂天空体育 𝟛🪂",UK| SKY SPORTS PREMIER LEAGUE
+ FHD
+http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=30493&extension=ts&play_token=w1FtDYY03P
+#EXTINF:-1 tvg-id="30498" tvg-name="UK| SKY SPORTS FOOTBALL FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-SPORTS-FOOTBALL.png" group-title="🪂天空体育 𝟛🪂",UK| SKY SPORTS FOOTBALL FHD
+http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=30498&extension=ts&play_token=DjheaTJ2Z8
+#EXTINF:-1 tvg-id="1454232" tvg-name="UK| SKY SPOIRTS TENNIS FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-SPOIRTS-TENNIS.png" group-title="🪂天空体育 𝟛🪂",UK| SKY SPOIRTS TENNIS FHD
+http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=1454232&extension=ts&play_token=8JpwX6XZag
+#EXTINF:-1 tvg-id="30501" tvg-name="UK| SKY SPORTS ACTION FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-SPORTS-ACTION.png" group-title="🪂天空体育 𝟛🪂",UK| SKY SPORTS ACTION FHD
+http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=30501&extension=ts&play_token=0tvcrLZJgX
+#EXTINF:-1 tvg-id="30500" tvg-name="UK| SKY SPORTS ARENA FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-SPORTS-ARENA.png" group-title="🪂天空体育 𝟛🪂",UK| SKY SPORTS ARENA FHD
+http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=30500&extension=ts&play_token=brXDkCHbMM
+#EXTINF:-1 tvg-id="30502" tvg-name="UK| SKY SPORTS CRICKET FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-SPORTS-CRICKET.png" group-title="🪂天空体育 𝟛🪂",UK| SKY SPORTS CRICKET FHD
+http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=30502&extension=ts&play_token=1IDkz2TO0c
+#EXTINF:-1 tvg-id="30497" tvg-name="UK| SKY SPORTS GOLF FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-SPORTS-GOLF.png" group-title="🪂天空体育 𝟛🪂",UK| SKY SPORTS GOLF FHD
+http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=30497&extension=ts&play_token=s7Hyw3S48q
+#EXTINF:-1 tvg-id="30495" tvg-name="UK| SKY SPORTS MIX FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-SPORTS-MIX.png" group-title="🪂天空体育 𝟛🪂",UK| SKY SPORTS MIX FHD
+http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=30495&extension=ts&play_token=Asvhoal2x3
+#EXTINF:-1 tvg-id="30494" tvg-name="UK| SKY SPORTS NEWS FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-SPORTS-NEWS.png" group-title="🪂天空体育 𝟛🪂",UK| SKY SPORTS NEWS FHD
+http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=30494&extension=ts&play_token=UtNH6LpgdL
+#EXTINF:-1 tvg-id="77373" tvg-name="UK| SKY SPORTS RACING FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-SPORTS-RACING.png" group-title="🪂天空体育 𝟛🪂",UK| SKY SPORTS RACING FHD
+http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=77373&extension=ts&play_token=OlfFFUtDRO
+#EXTINF:-1 tvg-id="929003" tvg-name="UK| SKY SPORTS ACTION FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-SPORTS-ACTION.png" group-title="🪂天空体育 𝟛🪂",UK| SKY SPORTS ACTION FHD
+http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=929003&extension=ts&play_token=TURyff8Qcn
 
 
 🛡ELEVEN体育🛡,#genre#
