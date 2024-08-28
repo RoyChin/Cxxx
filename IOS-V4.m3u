@@ -2223,7 +2223,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 
 #EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🐉香港频道「线路1」",👉添加售后唯一微信👈
 https://7692.kstore.space/6H.mp4
-#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🐉香港频道「线路」",👉获取最新链接👈
+#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🐉香港频道「线路1」",👉获取最新链接👈
 https://7692.kstore.space/6H.mp4
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="🐉香港频道「线路1」", 翡翠台
 http://14.19.145.33:9981/stream/channelid/1202627090?&profile=pass
@@ -2371,7 +2371,7 @@ https://stream1.freetv.fun/2d6eaba6f83c2a6bf70d725131df9ebfea7dba801fe3eface2686
 http://jt.zorua.cn:8787/udp/239.77.0.168:5146
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://assets.livednow.com/logo/广东体育.png" group-title="🐉香港频道「线路1」", 广东体育
 http://jt.zorua.cn:8787/udp/239.77.0.112:5146
-#EXTINF:-1,tvg-id="NOWSPORTSPLUS" tvg-name="NOWSPORTSPLUS" tvg-logo="https://epg.v1.mk/logo/NOWSPORTSPLUS.png" group-title="Now体育",Now Sports Plus
+#EXTINF:-1,tvg-id="NOWSPORTSPLUS" tvg-name="NOWSPORTSPLUS" tvg-logo="https://epg.v1.mk/logo/NOWSPORTSPLUS.png" group-title="🐉香港频道「线路1」",Now Sports Plus
 https://sxj.livednow.us.kg/ziyong?id=now-sports-plus
 #EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🐉香港频道「线路1」",Now Sports 英超1
 https://sxj.livednow.us.kg/ziyong?id=now-sports-premier-league1
