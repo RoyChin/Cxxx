@@ -4777,154 +4777,110 @@ http://mohdtv.com:8880//voby3837/28337929/28766
 #EXTINF:-1 tvg-id="28765" tvg-name="UK294:VICELAND " tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK294" group-title="🐉英国频道🦁",UK294:VICELAND 
 http://mohdtv.com:8880//voby3837/28337929/28765
 
-
-#EXTINF:-1 group-title="🐉电影频道🎥",超级电影
+#EXTINF:-1 tvg-id="CHC1" tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/CHC4.png" group-title="🐉电影频道🎥",CHC影迷电影
+http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
+#EXTINF:-1 tvg-id="CHC2" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/CHC2.png" group-title="🐉电影频道🎥",CHC家庭影院
+http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
+#EXTINF:-1 tvg-id="CHC3" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/CHC3.png" group-title="🐉电影频道🎥",CHC动作电影
+http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
+#EXTINF:-1 tvg-name="1905电影频道" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/1905dy.png" group-title="🐉电影频道🎥",1905电影台
+https://stream1.freetv.fun/c90deb63a57dd1f999a2c662d45ca501c5f271dcc46bf2b3d1384f7a3c498c35.ctv
+#EXTINF:-1 tvg-id="漫威电影" tvg-name="漫威电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/漫威电影.png" group-title="🐉电影频道🎥",漫威电影台
+http://zzy789.xyz/douyu1.php?id=6140589
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="🐉电影频道🎥",黑莓电影
+http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-name="NOW星影台" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171857306359_61.png" group-title="🐉电影频道🎥",NOW星影台
+https://stream1.freetv.fun/2239055000429be87a26ed325ac9d1600d3266edf08b5babcf6027280830d751.ctv
+#EXTINF:-1 tvg-name="NOW爆谷台" tvg-logo="https://epg.pw/media/images/channel/2023/11/02/large/20231102234546918555_91.png" group-title="🐉电影频道🎥",NOW爆谷台
+https://stream1.freetv.fun/336c057fdc22315d6f3231e19cc39fca0aaef7cdbc8b0d5b6d7b30093054ab5f.ctv
+#EXTINF:-1 tvg-id="368844" tvg-name="AMC电影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/AMCMovies.png" group-title="🐉电影频道🎥",AMC电影台
+https://stream1.freetv.fun/ceb8e5d09e9af65624a0023241c486d3d4ba222029e8e745bcd4901f47d95445.m3u8
+#EXTINF:-1 tvg-id="369226" tvg-name="八大戏剧HD" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720155115252575_13.png" group-title="🐉电影频道🎥",八大戏剧
+https://stream1.freetv.fun/d29f5b90988c837bb8afc96017dd772aa68cb99981f807169cafc79cdf7ac12f.m3u8
+#EXTINF:-1 tvg-name="超级电影" tvg-logo="https://live.fanmingming.com/tv/超级电影.png" group-title="🐉电影频道🎥",超级电影
 http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",超级电影
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",欢乐剧场
+#EXTINF:-1 tvg-name="欢乐剧场" tvg-logo="https://live.fanmingming.com/tv/欢乐剧场.png" group-title="🐉电影频道🎥",欢乐剧场
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",黑莓电影
-https://epg.pw/stream/7cd2a163028ebcd6e8caffba4408642bb8a5009e13dd97bf5f36706cd75f395e.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",黑莓电影
-https://epg.pw/stream/35d067b9bcb2480ccf5448a670af39922363cf6e42a24ec4a361aa2e0ebbb726.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",黑莓电影
-https://epg.pw/stream/a106bba49a6159d54ee66205038e678acf94d13e34266e678ee7b08ce650766a.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",黑莓电影
-https://epg.pw/stream/7a552c36ab63bf8ca14b3a6e05ce188d3243c9c6534d67d70ff72905aabca67e.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",超级电影
+#EXTINF:-1 tvg-name="超级电影" tvg-logo="https://live.fanmingming.com/tv/超级电影.png" group-title="🐉电影频道🎥",超级电影
 http://39.134.65.164/PLTV/88888888/224/3221225644/1.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",动作电影
+#EXTINF:-1 tvg-name="动作电影" tvg-logo="https://live.fanmingming.com/tv/动作电影.png" group-title="🐉电影频道🎥",动作电影
 http://39.134.65.164/PLTV/88888888/224/3221225555/1.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",黑莓电影
-http://39.134.67.226/PLTV/88888888/224/3221225681/index.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",黑莓电影
-http://39.134.65.208/PLTV/88888888/224/3221225681/index.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",黑莓电影
+#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="🐉电影频道🎥",黑莓电影
 http://39.135.32.236:6610/PLTV/77777777/224/3221225740/index.m3u8?
-#EXTINF:-1 group-title="🐉电影频道🎥",CCTV-6电影
-http://39.134.65.175/PLTV/88888888/224/3221225814/index.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",NewTV超级电影
-http://39.134.65.162/PLTV/88888888/224/3221225644/1.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",NewTV超级电影
-http://39.134.65.175/PLTV/88888888/224/3221225644/1.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",NewTV超级电影
-http://39.134.65.179/PLTV/88888888/224/3221225644/1.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",NewTV超级电影
+#EXTINF:-1 tvg-name="超级电影" tvg-logo="https://live.fanmingming.com/tv/超级电影.png" group-title="🐉电影频道🎥",超级电影
 http://39.134.65.173/PLTV/88888888/224/3221225644/1.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",NewTV超级电影
+#EXTINF:-1 tvg-name="超级电影" tvg-logo="https://live.fanmingming.com/tv/超级电影.png" group-title="🐉电影频道🎥",超级电影
 http://39.134.65.208/PLTV/88888888/224/3221225644/index.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",NewTV超级电影
+#EXTINF:-1 tvg-name="超级电影" tvg-logo="https://live.fanmingming.com/tv/超级电影.png" group-title="🐉电影频道🎥",超级电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",NewTV超级电影 (1080p)
-http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",NewTV动作电影
-http://39.134.65.166/PLTV/88888888/224/3221225555/1.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",NewTV动作电影
+#EXTINF:-1 tvg-name="动作电影" tvg-logo="https://live.fanmingming.com/tv/动作电影.png" group-title="🐉电影频道🎥",动作电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",NewTV动作电影
+#EXTINF:-1 tvg-name="动作电影" tvg-logo="https://live.fanmingming.com/tv/动作电影.png" group-title="🐉电影频道🎥",动作电影
 http://111.12.101.22:6610/PLTV/77777777/224/3221225703/index.m3u8?%24
-#EXTINF:-1 group-title="🐉电影频道🎥",南京影院频道
-http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",平泉影院频道
+#EXTINF:-1 tvg-name="平泉影院频道" tvg-logo="https://live.fanmingming.com/tv/平泉影院频道.png" group-title="🐉电影频道🎥",平泉影院频道
 https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",绍兴影院频道
+#EXTINF:-1 tvg-name="绍兴影院频道" tvg-logo="https://live.fanmingming.com/tv/绍兴影院频道.png" group-title="🐉电影频道🎥",绍兴影院频道
 http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",新昌休闲影院
+#EXTINF:-1 tvg-name="新昌休闲影院" tvg-logo="https://live.fanmingming.com/tv/新昌休闲影院.png" group-title="🐉电影频道🎥",新昌休闲影院
 http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",神乐影院-1台
+#EXTINF:-1 tvg-name="神乐影院1台" tvg-logo="https://live.fanmingming.com/tv/神乐影院1台.png" group-title="🐉电影频道🎥",神乐影院1台
 https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",神乐影院-2台
+#EXTINF:-1 tvg-name="神乐影院2台" tvg-logo="https://live.fanmingming.com/tv/神乐影院2台.png" group-title="🐉电影频道🎥",神乐影院2台
 https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",万州影视
+#EXTINF:-1 tvg-name="万州影视" tvg-logo="https://live.fanmingming.com/tv/万州影视.png" group-title="🐉电影频道🎥",万州影视
 http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",万州影视
+#EXTINF:-1 tvg-name="万州影视" tvg-logo="https://live.fanmingming.com/tv/万州影视.png" group-title="🐉电影频道🎥",万州影视
 http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",河北影视
-https://jwplay.hebyun.com.cn:443/live/hbystv/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",溧水影视
+#EXTINF:-1 tvg-name="溧水影视" tvg-logo="https://live.fanmingming.com/tv/溧水影视.png" group-title="🐉电影频道🎥",溧水影视
 http://live.lsrmw.cn/ysyl/sd/live.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",吉林影视
-http://stream1.jlntv.cn/yspd/sd/live.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",滨海影视
-http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",烟台影视
+#EXTINF:-1 tvg-name="烟台影视" tvg-logo="https://live.fanmingming.com/tv/烟台影视.png" group-title="🐉电影频道🎥",烟台影视
 http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",北京影视
+#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://live.fanmingming.com/tv/北京影视.png" group-title="🐉电影频道🎥",北京影视
 https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv4_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 group-title="🐉电影频道🎥",新泰影视
-http://111.17.214.4:1935/live/xtys/playlist.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",石河子影视文体
+#EXTINF:-1 tvg-name="石河子影视文体" tvg-logo="https://live.fanmingming.com/tv/石河子影视文体.png" group-title="🐉电影频道🎥",石河子影视文体
 http://124.88.144.73:1935/live/jjsh/HasBahCa.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",隆化影视
-http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",吉林影视
-http://stream1.jlntv.cn/yspd/sd/live.m3u8?_upt=f6b685651648171016
-#EXTINF:-1 group-title="🐉电影频道🎥",隆化影视
-http://hblh.chinashadt.com:2036/live/stream:lh2.stream/HasBahCa.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",烟台影视
+#EXTINF:-1 tvg-name="烟台影视" tvg-logo="https://live.fanmingming.com/tv/烟台影视.png" group-title="🐉电影频道🎥",烟台影视
 http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",影视频道
+#EXTINF:-1 tvg-name="影视频道" tvg-logo="https://live.fanmingming.com/tv/影视频道.png" group-title="🐉电影频道🎥",影视频道
 http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",美丽中国说
+#EXTINF:-1 tvg-name="美丽中国说" tvg-logo="https://live.fanmingming.com/tv/美丽中国说.png" group-title="🐉电影频道🎥",美丽中国说
 http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",长城精品
-http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",中国气象
+#EXTINF:-1 tvg-name="中国气象" tvg-logo="https://live.fanmingming.com/tv/中国气象.png" group-title="🐉电影频道🎥",中国气象
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",溧水影视
+#EXTINF:-1 tvg-name="溧水影视" tvg-logo="https://live.fanmingming.com/tv/溧水影视.png" group-title="🐉电影频道🎥",溧水影视
 https://live.lsrmw.cn/ysyl/sd/live.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",柳林影视
-http://pili-live-hls.212.i2863.com/i2863-212/live_212_316579.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",菏泽影视
+#EXTINF:-1 tvg-name="菏泽影视" tvg-logo="https://live.fanmingming.com/tv/菏泽影视.png" group-title="🐉电影频道🎥",菏泽影视
 http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",定州国学影视
+#EXTINF:-1 tvg-name="定州国学影视" tvg-logo="https://live.fanmingming.com/tv/定州国学影视.png" group-title="🐉电影频道🎥",定州国学影视
 https://jwcdnqx.hebyun.com.cn/live/yspd/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",新泰影视
+#EXTINF:-1 tvg-name="新泰影视" tvg-logo="https://live.fanmingming.com/tv/新泰影视.png" group-title="🐉电影频道🎥",新泰影视
 http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",平泉影视频道
+#EXTINF:-1 tvg-name="平泉影视频道" tvg-logo="https://live.fanmingming.com/tv/平泉影视频道.png" group-title="🐉电影频道🎥",平泉影视频道
 http://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",山西影视
+#EXTINF:-1 tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="🐉电影频道🎥",山西影视
 http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
-#EXTINF:-1 group-title="🐉电影频道🎥",CGTN Espa?ol
-http://livees.cgtn.com/500e/prog_index.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",新昌影视
+#EXTINF:-1 tvg-name="新昌影视" tvg-logo="https://live.fanmingming.com/tv/新昌影视.png" group-title="🐉电影频道🎥",新昌影视
 https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",CGTN France
-http://livefr.cgtn.com/1000f/prog_index.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",石首影视
-http://p8.vzan.com/slowlive/798787236084269922/live.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",淮安影视
+#EXTINF:-1 tvg-name="淮安影视" tvg-logo="https://live.fanmingming.com/tv/淮安影视.png" group-title="🐉电影频道🎥",淮安影视
 http://live1.habctv.com/ysylsl/playlist.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",上虞影视
+#EXTINF:-1 tvg-name="上虞影视" tvg-logo="https://live.fanmingming.com/tv/上虞影视.png" group-title="🐉电影频道🎥",上虞影视
 http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",苏州4K
-http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?blog.ntnas.top
-#EXTINF:-1 group-title="🐉电影频道🎥",CGTN Arabic
-http://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",永清影视
-http://60.10.203.69:8000/4.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",安徽影视
+#EXTINF:-1 tvg-name="安徽影视" tvg-logo="https://live.fanmingming.com/tv/安徽影视.png" group-title="🐉电影频道🎥",安徽影视
 http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd
-#EXTINF:-1 group-title="🐉电影频道🎥",石河子影视
+#EXTINF:-1 tvg-name="石河子影视" tvg-logo="https://live.fanmingming.com/tv/石河子影视.png" group-title="🐉电影频道🎥",石河子影视
 http://124.88.144.73:1935/live/jjsh/playlist.m3u8?
-#EXTINF:-1 group-title="🐉电影频道🎥",江苏影视
+#EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://live.fanmingming.com/tv/江苏影视.png" group-title="🐉电影频道🎥",江苏影视
 https://cntv.dfkj.live/jstv.php?id=jsys
-#EXTINF:-1 group-title="🐉电影频道🎥",利辛影视
-https://live.fst1994.net/hls/lixinys/index.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",拉萨影视
-http://220.182.45.198:20088/tsfile/live/1003_1.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",句容影视
+#EXTINF:-1 tvg-name="句容影视" tvg-logo="https://live.fanmingming.com/tv/句容影视.png" group-title="🐉电影频道🎥",句容影视
 http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",定州国学影视
+#EXTINF:-1 tvg-name="定州国学影视" tvg-logo="https://live.fanmingming.com/tv/定州国学影视.png" group-title="🐉电影频道🎥",定州国学影视
 https://jwliveqxzb.hebyun.com.cn/yspd/yspd.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",一号影厅
+#EXTINF:-1 tvg-name="一号影厅" tvg-logo="https://live.fanmingming.com/tv/一号影厅.png" group-title="🐉电影频道🎥",一号影厅
 http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
-#EXTINF:-1 group-title="🐉电影频道🎥",二号影厅
+#EXTINF:-1 tvg-name="二号影厅" tvg-logo="https://live.fanmingming.com/tv/二号影厅.png" group-title="🐉电影频道🎥",二号影厅
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 group-title="🐉电影频道🎥",三号影厅
+#EXTINF:-1 tvg-name="三号影厅" tvg-logo="https://live.fanmingming.com/tv/三号影厅.png" group-title="🐉电影频道🎥",三号影厅
 http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
-
 
 #EXTINF:-1 group-title="🐉游戏赛事🐸",👉添加售后唯一微信👈
 https://cloud.wujiyan.cc/f/mw2sQ/1.mp4
@@ -8943,341 +8899,131 @@ http://39.134.67.2:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/1.m
 #EXTINF:-1 group-title="🐉经典电视剧📺",明星大片(斗鱼)
 http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/1.m3u8
 
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",黑莓动画
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",卡酷少儿
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",优漫卡通
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",金鹰卡通
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",黑龙江少儿1
-http://[2409:8087:1a01:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",黑龙江少儿2
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",海南少儿
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",动画片
-http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000422/index.m3u8?IASHttpSessionId=OTT155220231119225243001097
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",CCTV-14
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",CCTV-14
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",CCTV-14
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",CCTV-14
-http://110.7.128.161:8096/tsfile/live/0014_1.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",倒霉特熊
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",雲朵妈妈
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",反转星球
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",熊大熊二
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",狮子王國
-https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",动漫剧场
-http://43.138.170.29:35455/douyu/7620081
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",超燃动漫
-http://43.138.170.29:35455/douyu/1174353
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",灌篮高手
-http://43.138.170.29:35455/yy/1356243352
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",火影忍者
-http://cfss.cc/cdn/hy/11342385.flv
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",数码宝贝
-http://cfss.cc/cdn/hy/29465874.flv
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",七龙珠改
-http://cfss.cc/cdn/hy/11601966.flv
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",海贼王
-http://43.138.170.29:35455/douyu/997925
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",樱桃小丸子
-http://cfss.cc/cdn/hy/11342394.flv
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",臭狗熊
-http://43.138.170.29:35455/yy/1352866135
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",熊熊探险日记S1
-http://43.138.170.29:35455/yy/1354930977
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",萌鸡小队S1
-http://43.138.170.29:35455/yy/1382736904
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",成龙历险记
-http://cfss.cc/cdn/hy/11352946.flv
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",四驱小子
-http://cfss.cc/cdn/hy/11352922.flv
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",中华小当家
-http://cfss.cc/cdn/hy/11342413.flv
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",海绵宝宝
-http://cfss.cc/cdn/hy/11352919.flv
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",小猪佩奇
-http://cfss.cc/cdn/hy/25243980.flv
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",爆笑虫子
-http://43.138.170.29:35455/douyu/9942574
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",萌鸡小队S1
-https://live.metshop.top/yy/1382736904
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",倒霉特熊
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",雲朵妈妈
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",反转星球
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",熊大熊二
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",狮子王國
-https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",央視少兒
-https://live.v1.mk/api/bestv.php?id=cctvsehd8m/8000000
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",青春動漫
-https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",動漫秀場
-https://live.v1.mk/api/bestv.php?id=dmxc8m/8000000
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",哈哈炫動
-https://live.v1.mk/api/bestv.php?id=hhxd8m/8000000
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",北京IPTV淘Baby
-http://qnap.yjnhome.com:4000/udp/239.3.1.238:8001
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",卡酷少兒
-http://qnap.yjnhome.com:4000/udp/239.3.1.189:8000
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",卡酷少兒
-https://live.v1.mk/api/bestv.php?id=kkse8m/8000000
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",寶寶動畫
-https://live.v1.mk/api/bestv.php?id=bbdh8m/8000000
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",猪猪侠•英雄猪少年
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",萌鸡小队S1-国漫
-https://live.metshop.top/yy/1382736904
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",猫和老鼠直播间4
-https://d1--cn-gotcha204.bilivideo.com/live-bvc/117284/live_102365899_1721948_1500/index.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",韩国EBS少儿童
-http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",少儿动画001
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3823b0a397454309b1b9c6118a335f08/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",少儿动画002
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/124ae5351e6145bb9d4a972bcd704a13/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",少儿动画003
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7e6d6cc44a2a44abbd685244aea7460b/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",少儿动画004
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a0efda3572b240c19109dfd3f1f737f2/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",少儿动画005
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9e9f40d572f34e10b8374edf8bff57e3/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",少儿动画006
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7cd84a1f6a584c5598a0a30c55351acd/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",少儿动画007
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/419f7dddce084932bbe3e6df38b4f990/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",少儿动画008
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4cf4fd8fb93a44df971f6f22b0442cb1/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",少儿动画009
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/212d6e5c4bf048c98c50fedb5f38cb48/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",少儿动画010
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1a016666a3b24cc3bfb38a26aab2edbe/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",少儿动画011
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c4463d644ab5424d85b52f7279583861/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",少儿动画012
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a833e8d317d4431f8c8faf0d64de10da/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",少儿动画013
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a231f707a36e4024bb1ccf6bc118108d/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",少儿动画014
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d48b15036a4b4a42b430025c696a7fad/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",少儿动画015
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2ac7fcf2fd3d42b3a26fa2047d39185f/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",少儿动画016
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3c86fd9091a74094b69af0bacb40cd04/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",少儿动画017
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/769a15d6da26470ba1c73e07ad306373/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",少儿动画018
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/763dc6802b664f07b781b03ca1ed8571/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",少儿动画019
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7855d47f343d42a9b3ac5bc24ec2c7e4/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",少儿动画020
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/de65a80f06f54c2897f808c9abf00bd4/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",熊熊乐园01
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b333914bfe2b49d793d41f3233505f5f/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",熊熊乐园02
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7d35b256e4794918837e184d35f34492/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",熊熊乐园03
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8da51eedd80c4c0b98765b20d1729d42/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",熊熊乐园04
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e86d503179254fc0ba5ebb6f44103d9d/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",熊熊乐园05
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3f437da4d62e4708bc8892cd6f3c9bd8/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",熊熊乐园06
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7e38bf0a4c274a3c98abe1d79ca7c8ef/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",熊熊乐园07
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a14f86e6e1434908a12fd00a2c8b0b73/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",熊熊乐园08
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6a7b458f35cd49a390faa0378d4ecde5/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",熊熊乐园09
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6a35f12e8fb6420181c83cd1a847206b/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",熊熊乐园10
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/34cf417bf8d64ce8a993e8c5db16b914/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",熊熊乐园11
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f966ee5dac0d4393bcdd2483b24d06a3/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",熊熊乐园12
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/70344cd85dc34abf8400eb9738bec779/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",熊熊乐园13
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3976afaa79a14ede8dcf818ead874ac1/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",熊熊乐园14
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/50a132bdc16e47cfb6e292ace9dde5ee/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",熊熊乐园15
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8336c7ea1fd04a98aeb5bab0350f9855/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",熊熊乐园16
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5ed717fd676042cfb4c145423e1bb31b/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",熊熊乐园17
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/54371858578a45d9b9de4b64f81863eb/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",熊熊乐园18
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1e77c23aef1a4defa52bc76a56ac35bc/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",熊熊乐园19
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6c9cd714ab4b4a4b9695c17766470ee8/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",熊熊乐园20
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/97d9d7f096bc4b90bcdaf2b7ce9ea556/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",猪猪侠01
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/284947a4fa1f45dbafc2a4d54387cc7e/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",猪猪侠02
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a4b74cdcdee64c70a9c9f7f4c3619aeb/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",猪猪侠03
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/73a90ed2920b47589463bac9802bdf43/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",猪猪侠04
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9433024f26874cb4b2a1ffdbd0ca1f1c/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",猪猪侠05
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4be859da49d34b978d2973b640bc7d0d/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",猪猪侠06
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e11a17cd7364479abef8f2dfceb63411/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",猪猪侠07
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/00dff109c20f431b8b7a739699af8a77/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",猪猪侠08
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/73847c91bed14dc6883c438861b84b5f/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",猪猪侠09
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f04c2cadd1ae43a08de4f0e398ee28a0/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",猪猪侠10
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6e06d51e3d454ac8a62cacbac82d5fe2/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",猪猪侠11
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1c6e3092ffd940ea910065e11334bc32/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",猪猪侠12
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/22a3d52a5e47482eb812e20620248741/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",猪猪侠13
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4ed0ef2435fc465e97127bdadbe8bcdb/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",猪猪侠14
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2c1982fa7d54416a90655b17afb27bc9/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",猪猪侠15
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ee4efe1473a049809a9b42cd48680f4c/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",猪猪侠16
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d1e04dd809684d76ae069f0d65f12829/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",猪猪侠17
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2b529717f4f64f0793b3f4b2d5370be4/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",猪猪侠18
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ead9dae0652043d0b861d5ea69b4c045/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",猪猪侠19
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/94b0326592024a759522450fea376aab/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",猪猪侠20
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fd9526d2ad4d41b9aa89fa71953e8099/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",愚公移山01
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9cde53f7f35e487695bff36d2cb5ef15/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",愚公移山02
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/35598461938d4fb988dbb494171ca78e/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",愚公移山03
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b1a69484f9c1425e82b63f31a5d8dd4f/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",愚公移山04
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5a370582c2f849a78abd7d96023d340f/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",愚公移山05
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c5a4f221752d4c358592fd0f0c51696e/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",愚公移山06
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/39cca4ce26ac48c0ba87c43b033d28d6/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",愚公移山07
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2a1de300611e4afba55add95ac60c22b/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",愚公移山08
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/53e06c3311284ab296a9160bd9d5ee81/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",愚公移山09
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/968f89a0f24e4759ae469e0c935de19c/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",愚公移山10
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/04b51f2b5b574799a293a157651333fb/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",愚公移山11
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/78a9bf4753dd45a1ac0a01f4e9c2b378/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",愚公移山12
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1f3bff7e01bd4c7aa58e04ab69e23da3/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",愚公移山13
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/cb8db0ea3d7b478ba84f4450eeb9d250/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",愚公移山14
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/23f287bc542246fea76dda6d5f9f4d5e/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",愚公移山15
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e066c4012d50448abdc50ec66fcd5ab6/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",愚公移山16
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bbeaccceb6fc4a45b5cd7c7518516bc9/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",愚公移山17
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e4d760c594c04a1e8d8d023f535175d6/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",愚公移山18
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3f5bb71448d54827953b32f132104e53/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",愚公移山19
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/17552f078eda4913b37684f6f3952f3f/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",愚公移山20
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b167c008eabc4b05807814a8c1dcf16f/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",巨兵长城01
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3a2b0ef61beb418eb4aec0d914f99b48/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",巨兵长城02
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1dd4062abaa94ca6b560e3ef56f8c409/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",巨兵长城03
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b07fdae486f74238bf25eb71e83f259c/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",巨兵长城04
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b931570cc1d14c2eab472692b5d47805/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",巨兵长城05
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ba5063ff4c147a2ad7301ef4ae0686b/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",巨兵长城06
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/129085d482de4098a2b9b942d6fe9ba7/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",巨兵长城07
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/55e90e0678694d7eb4167aa02c10a233/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",巨兵长城08
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/79996160a4d24e4f9e5b4682ad4425a9/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",巨兵长城09
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0098cc5c87c841b09bebbdc232aa35ad/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",巨兵长城10
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a612a45af6d24f4d9e7d77341acf1977/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",巨兵长城11
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b33535ecf347450f8b984b20bbb48c9c/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",巨兵长城12
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c015eabf40f24520bc44c35e72cb0d94/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",巨兵长城13
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9f2e29d5c7c549219adde55c9ed7fbb1/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",巨兵长城14
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bf730026d34547fdb24b63ca2fcdf3a5/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",巨兵长城15
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/30468b0e00a14458a6341370dba3388b/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",巨兵长城16
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/cf9330c33ee34714987118e1f6c5d085/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",巨兵长城17
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/27189e1e66254071b690007a24a2b6a5/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",巨兵长城18
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/cf5e44304d57424a8a0fa604f922dff0/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",巨兵长城19
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/01f76cdebd5640e7b6e5b05f239c8c06/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",巨兵长城20
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ad57cb6a0bda462d85b4ed75286fa175/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",小魔仙剧06
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1635e17b60004f479a3bf0a3cf068e4a/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",小魔仙剧07
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/89afcba5ff1d485c95f8732d6d92c94e/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",小魔仙剧08
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/427e12baa22f45b8aff4205eee509bb2/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",小魔仙剧09
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/dca26c157d3c4cc7805493084a867ba2/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",小魔仙剧10
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5805e831f0474ba09eaf87e4d6c64720/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",小魔仙剧11
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6e8f016e98d14991b075f4232dbbe2a2/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",小魔仙剧12
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d9759b9bdce549739804fd1a10505965/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",小魔仙剧13
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7839ef5284484fd8b9ac62372205a2e7/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",小魔仙剧14
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8e3b7ebeaf774863b19f8d72b4cb7de8/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",小魔仙剧15
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/40b7840b83c14f5c8ec302383bd0999b/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",小魔仙剧16
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/875b781dee14458f913ab58b1e798cc5/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",小魔仙剧17
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a6c488cb235747c3ab841cd827d808ed/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",小魔仙剧18
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/867e13db0c804ed9b226ca8c872213fd/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",小魔仙剧19
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ee6b8748db545a79306dca869d115a8/1200.m3u8
-#EXTINF:-1 group-title="🐉少儿频道👶🏻",小魔仙剧20
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4619aaa5b1284705849e8a54d8d40184/1200.m3u8
 
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="🐉动画频道👶🏻",卡酷少儿
+http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/hunan/Hunan10.png" group-title="🐉动画频道👶🏻",金鹰卡通
+#http://[2409:8087:1a0b:df::4008]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040024/1.m3u8
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="🐉动画频道👶🏻",优漫卡通
+http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="🐉动画频道👶🏻",哈哈炫动
+#http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031123/1.m3u8
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="🐉动画频道👶🏻",嘉佳卡通
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010102/1.m3u8
+#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/xindm.png" group-title="🐉动画频道👶🏻",新动漫
+http://123.189.36.155:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="🐉动画频道👶🏻",黑莓动画
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="🐉动画频道👶🏻",动漫秀场
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8
+#EXTINF:-1,tvg-id="爱动漫" tvg-name="iHOT爱动漫" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/iHOT/ihot11.png" group-title="🐉动画频道👶🏻",爱动漫
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang6.png" group-title="🐉动画频道👶🏻",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-id="河北少儿" tvg-name="河北少儿" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Hebei4.png" group-title="🐉动画频道👶🏻",河北少儿
+http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2
+#EXTINF:-1 tvg-id="黑龙江少儿" tvg-name="黑龙江少儿" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/heilongjiang/Heilongjiang6.png" group-title="🐉动画频道👶🏻",黑龙江少儿
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
+#EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://live.fanmingming.com/tv/海南少儿.png" group-title="🐉动画频道👶🏻",海南少儿 
+http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
+#EXTINF:-1 tvg-id="GS04" tvg-name="甘肃少儿" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gansu/Gansu4.png" group-title="🐉动画频道👶🏻",甘肃少儿
+https://hls.gstv.com.cn/49048r/922k96.m3u8
+#EXTINF:-1 tvg-id="NX03" tvg-name="宁夏少儿" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/ningxia/Ningxia3.png" group-title="🐉动画频道👶🏻",宁夏少儿
+https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
+#EXTINF:-1 tvg-id="NM04" tvg-name="内蒙古少儿" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Neimeng5.png" group-title="🐉动画频道👶🏻",内蒙古少儿
+https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
+#EXTINF:-1 tvg-id="七龙珠" tvg-name="七龙珠" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/七龙珠.png" group-title="🐉动画频道👶🏻",七龙珠
+http://live.iill.top/huya.php?id=11601966
+#EXTINF:-1 tvg-id="灌篮高手" tvg-name="灌篮高手" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/灌篮高手.png" group-title="🐉动画频道👶🏻",灌篮高手
+http://live.iill.top/yy.php?id=1382735626
+#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="🐉动画频道👶🏻",黑莓动画
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="🐉动画频道👶🏻",卡酷少儿
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="🐉动画频道👶🏻",优漫卡通
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="🐉动画频道👶🏻",金鹰卡通
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江少儿1" tvg-logo="https://live.fanmingming.com/tv/黑龙江少儿1.png" group-title="🐉动画频道👶🏻",黑龙江少儿1
+http://[2409:8087:1a01:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
+#EXTINF:-1 tvg-name="黑龙江少儿2" tvg-logo="https://live.fanmingming.com/tv/黑龙江少儿2.png" group-title="🐉动画频道👶🏻",黑龙江少儿2
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8
+#EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://live.fanmingming.com/tv/海南少儿.png" group-title="🐉动画频道👶🏻",海南少儿
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS
+#EXTINF:-1 tvg-name="动画片" tvg-logo="https://live.fanmingming.com/tv/动画片.png" group-title="🐉动画频道👶🏻",动画片
+http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000422/index.m3u8?IASHttpSessionId=OTT155220231119225243001097
+#EXTINF:-1 tvg-name="倒霉特熊" tvg-logo="https://live.fanmingming.com/tv/倒霉特熊.png" group-title="🐉动画频道👶🏻",倒霉特熊
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
+#EXTINF:-1 tvg-name="雲朵妈妈" tvg-logo="https://live.fanmingming.com/tv/雲朵妈妈.png" group-title="🐉动画频道👶🏻",雲朵妈妈
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
+#EXTINF:-1 tvg-name="反转星球" tvg-logo="https://live.fanmingming.com/tv/反转星球.png" group-title="🐉动画频道👶🏻",反转星球
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
+#EXTINF:-1 tvg-name="熊大熊二" tvg-logo="https://live.fanmingming.com/tv/熊大熊二.png" group-title="🐉动画频道👶🏻",熊大熊二
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
+#EXTINF:-1 tvg-name="狮子王國" tvg-logo="https://live.fanmingming.com/tv/狮子王國.png" group-title="🐉动画频道👶🏻",狮子王國
+https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
+#EXTINF:-1 tvg-name="动漫剧场" tvg-logo="https://live.fanmingming.com/tv/动漫剧场.png" group-title="🐉动画频道👶🏻",动漫剧场
+http://43.138.170.29:35455/douyu/7620081
+#EXTINF:-1 tvg-name="超燃动漫" tvg-logo="https://live.fanmingming.com/tv/超燃动漫.png" group-title="🐉动画频道👶🏻",超燃动漫
+http://43.138.170.29:35455/douyu/1174353
+#EXTINF:-1 tvg-name="灌篮高手" tvg-logo="https://live.fanmingming.com/tv/灌篮高手.png" group-title="🐉动画频道👶🏻",灌篮高手
+http://43.138.170.29:35455/yy/1356243352
+#EXTINF:-1 tvg-name="火影忍者" tvg-logo="https://live.fanmingming.com/tv/火影忍者.png" group-title="🐉动画频道👶🏻",火影忍者
+http://cfss.cc/cdn/hy/11342385.flv
+#EXTINF:-1 tvg-name="数码宝贝" tvg-logo="https://live.fanmingming.com/tv/数码宝贝.png" group-title="🐉动画频道👶🏻",数码宝贝
+http://cfss.cc/cdn/hy/29465874.flv
+#EXTINF:-1 tvg-name="七龙珠改" tvg-logo="https://live.fanmingming.com/tv/七龙珠改.png" group-title="🐉动画频道👶🏻",七龙珠改
+http://cfss.cc/cdn/hy/11601966.flv
+#EXTINF:-1 tvg-name="海贼王" tvg-logo="https://live.fanmingming.com/tv/海贼王.png" group-title="🐉动画频道👶🏻",海贼王
+http://43.138.170.29:35455/douyu/997925
+#EXTINF:-1 tvg-name="樱桃小丸子" tvg-logo="https://live.fanmingming.com/tv/樱桃小丸子.png" group-title="🐉动画频道👶🏻",樱桃小丸子
+http://cfss.cc/cdn/hy/11342394.flv
+#EXTINF:-1 tvg-name="臭狗熊" tvg-logo="https://live.fanmingming.com/tv/臭狗熊.png" group-title="🐉动画频道👶🏻",臭狗熊
+http://43.138.170.29:35455/yy/1352866135
+#EXTINF:-1 tvg-name="熊熊探险日记S1" tvg-logo="https://live.fanmingming.com/tv/熊熊探险日记S1.png" group-title="🐉动画频道👶🏻",熊熊探险日记S1
+http://43.138.170.29:35455/yy/1354930977
+#EXTINF:-1 tvg-name="萌鸡小队S1" tvg-logo="https://live.fanmingming.com/tv/萌鸡小队S1.png" group-title="🐉动画频道👶🏻",萌鸡小队S1
+http://43.138.170.29:35455/yy/1382736904
+#EXTINF:-1 tvg-name="成龙历险记" tvg-logo="https://live.fanmingming.com/tv/成龙历险记.png" group-title="🐉动画频道👶🏻",成龙历险记
+http://cfss.cc/cdn/hy/11352946.flv
+#EXTINF:-1 tvg-name="四驱小子" tvg-logo="https://live.fanmingming.com/tv/四驱小子.png" group-title="🐉动画频道👶🏻",四驱小子
+http://cfss.cc/cdn/hy/11352922.flv
+#EXTINF:-1 tvg-name="中华小当家" tvg-logo="https://live.fanmingming.com/tv/中华小当家.png" group-title="🐉动画频道👶🏻",中华小当家
+http://cfss.cc/cdn/hy/11342413.flv
+#EXTINF:-1 tvg-name="海绵宝宝" tvg-logo="https://live.fanmingming.com/tv/海绵宝宝.png" group-title="🐉动画频道👶🏻",海绵宝宝
+http://cfss.cc/cdn/hy/11352919.flv
+#EXTINF:-1 tvg-name="小猪佩奇" tvg-logo="https://live.fanmingming.com/tv/小猪佩奇.png" group-title="🐉动画频道👶🏻",小猪佩奇
+http://cfss.cc/cdn/hy/25243980.flv
+#EXTINF:-1 tvg-name="爆笑虫子" tvg-logo="https://live.fanmingming.com/tv/爆笑虫子.png" group-title="🐉动画频道👶🏻",爆笑虫子
+http://43.138.170.29:35455/douyu/9942574
+#EXTINF:-1 tvg-name="萌鸡小队S1" tvg-logo="https://live.fanmingming.com/tv/萌鸡小队S1.png" group-title="🐉动画频道👶🏻",萌鸡小队S1
+https://live.metshop.top/yy/1382736904
+#EXTINF:-1 tvg-name="央視少兒" tvg-logo="https://live.fanmingming.com/tv/央視少兒.png" group-title="🐉动画频道👶🏻",央視少兒
+https://live.v1.mk/api/bestv.php?id=cctvsehd8m/8000000
+#EXTINF:-1 tvg-name="青春動漫" tvg-logo="https://live.fanmingming.com/tv/青春動漫.png" group-title="🐉动画频道👶🏻",青春動漫
+https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000
+#EXTINF:-1 tvg-name="動漫秀場" tvg-logo="https://live.fanmingming.com/tv/動漫秀場.png" group-title="🐉动画频道👶🏻",動漫秀場
+https://live.v1.mk/api/bestv.php?id=dmxc8m/8000000
+#EXTINF:-1 tvg-name="哈哈炫動" tvg-logo="https://live.fanmingming.com/tv/哈哈炫動.png" group-title="🐉动画频道👶🏻",哈哈炫動
+https://live.v1.mk/api/bestv.php?id=hhxd8m/8000000
+#EXTINF:-1 tvg-name="北京IPTV淘BABY" tvg-logo="https://live.fanmingming.com/tv/北京IPTV淘BABY.png" group-title="🐉动画频道👶🏻",北京淘BABY
+http://qnap.yjnhome.com:4000/udp/239.3.1.238:8001
+#EXTINF:-1 tvg-name="卡酷少兒" tvg-logo="https://live.fanmingming.com/tv/卡酷少兒.png" group-title="🐉动画频道👶🏻",卡酷少兒
+http://qnap.yjnhome.com:4000/udp/239.3.1.189:8000
+#EXTINF:-1 tvg-name="卡酷少兒" tvg-logo="https://live.fanmingming.com/tv/卡酷少兒.png" group-title="🐉动画频道👶🏻",卡酷少兒
+https://live.v1.mk/api/bestv.php?id=kkse8m/8000000
+#EXTINF:-1 tvg-name="寶寶動畫" tvg-logo="https://live.fanmingming.com/tv/寶寶動畫.png" group-title="🐉动画频道👶🏻",寶寶動畫
+https://live.v1.mk/api/bestv.php?id=bbdh8m/8000000
+#EXTINF:-1 tvg-name="猪猪侠•英雄猪少年" tvg-logo="https://live.fanmingming.com/tv/猪猪侠•英雄猪少年.png" group-title="🐉动画频道👶🏻",猪猪侠•英雄猪少年
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
+#EXTINF:-1 tvg-name="萌鸡小队S1国漫" tvg-logo="https://live.fanmingming.com/tv/萌鸡小队S1国漫.png" group-title="🐉动画频道👶🏻",萌鸡小队S1国漫
+https://live.metshop.top/yy/1382736904
+#EXTINF:-1 tvg-name="猫和老鼠直播间4" tvg-logo="https://live.fanmingming.com/tv/猫和老鼠直播间4.png" group-title="🐉动画频道👶🏻",猫和老鼠直播间4
+https://d1--cn-gotcha204.bilivideo.com/live-bvc/117284/live_102365899_1721948_1500/index.m3u8
+#EXTINF:-1 tvg-name="韩国EBS少儿童" tvg-logo="https://live.fanmingming.com/tv/韩国EBS少儿童.png" group-title="🐉动画频道👶🏻",韩国EBS少儿
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
 
 #EXTINF:-1 tvg-name="北京体育" tvg-logo="https://live.fanmingming.com/tv/北京体育.png" group-title="🐉北京频道",北京体育
 http://sweetown.fun:4000/rtp/239.3.1.243:8000
@@ -10406,223 +10152,6 @@ http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 #EXTINF:-1 group-title="🐉纪录片频道",动物世界
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/71d7dce230b74c1b9e35b41e837ffc5f/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",小动物大猎手(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c46a26d74f5b4da98f5c9d69f8218de0/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",小动物大猎手(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ef8ad1d36d9c4515a9e04443687a7f33/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",小动物大英雄
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/27818c0197e94415946b825b2b163e22/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",小动物的森林童话
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/321727074edc4cf69b5b205111569205/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",小勇士闯天下
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8737418de24a461f9785193bcbda0026/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",小熊的故事1
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d3c750e3481a4ca696898875f6e6dbf1/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",小熊的故事2
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3499a172820f47da988e5aaeb187ec29/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",小熊的故事3
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3564b5460bea444b8712fb1cb0a59c00/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",小熊的梦幻森林1
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b0f2b241c39c42beb732a5e73b5a9782/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",小熊的梦幻森林2
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b2e817cee1a7417ba34f062aa919ca02/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",小熊的梦幻森林3
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8bbcff92f2ce423bb2d822e0fb67657f/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",小角马历险记
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b7594a5bc3d241e3a8b95eac39ebd7e9/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",小象和绵羊朋友(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c69ca1ce229648ce86e97c0b86e67c58/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",小象和绵羊朋友(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/138e7ea321c94a86b4f939ccb00a75a9/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",小鼠奇遇记
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9417f7c1d9f2484c901d886245892130/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",巨兽来了
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1224d3b3e1ba410d8dc316f2f2ab1872/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",巨藻林的守卫者
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/432e7e692dc841bfaefb5e662de89bdc/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",彩蛇之舞
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/002334474c7c4b8b98bad237a7bdeb7b/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",情满大草原1
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/222ec6157bf34d8c9abd0e62ddae6ee1/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",情满大草原2
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8200031edc9f434583d9b3f738ac4448/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",情满大草原3
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0ab9b80f79884e22b6390b2deefdc571/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",打造一只超级猫
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ba966901198844d09399a354e203e6cb/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",抢滩勇士(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0d4351715b27425d87a926b964b6cdaf/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",捕猎刹那间1
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6b222a92e2b9484f86121a558915ddb5/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",捕猎刹那间2
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/eb2cf087eae64ff9a40258bbbc1a92ba/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",捕猎刹那间3
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/799ea1ddb3db403484fe2421d4831287/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",捕食一瞬间(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/426cfdd1924a452b863c0cd52af6436b/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",捕食一瞬间(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b66704d4d4aa4ea7bab6e6ef673568b3/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",捕食奇谋(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/543fa61893394cc48d2802207c8a51e8/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",捕食奇谋(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/05ba8dcc7a224442a58f6d6f86885d25/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",捕食者大观
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d19e46abe2754e2985715a147e653626/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",捕食者身体构造
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/83901acd0fed408f904a9b554c8e16ef/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",捕食者追猎现场(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/853b68324c2e4718ad08298aaed459b7/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",捕食者追猎现场(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6016b09920a7447eb798f3f891f52bad/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",探秘冰上的北极熊(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6a74d01391d849849c7391b2466f3752/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",探秘冰上的北极熊(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/509e924ad47e422984af226b26236bf6/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",探秘雨林利爪族(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/dc83b3fe7f874e33959bdbf034e6451c/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",探秘雨林利爪族(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5a8fd3e4e8ba4ca5b62f1b90ae9c3640/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",新狮王诞生记
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5e156f1734234e17ab0f6f87f2e7491b/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",旱季冒险故事
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ac505ca5d2d5469eb21448c300a8c16c/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",旱季极限生存战
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1b750e952abb452c9f77d44f8d8bae17/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",旱季生存攻略
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3f34548881664dd6afb01ccdcb677a5d/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",有一只美丽的大水獭
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f1ddaab95ca9475da4cd97907cef8e96/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",来到这个美丽的世界(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/003d910853de498299eb47d7d8a2eedf/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",来到这个美丽的世界(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9323ea96cf6a47afaf798fca6d9411e6/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",林间潜伏
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/922b142fef9443218be5eaf44df0b397/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",棋逢对手
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3d515f3011c64797ae15bf36c639cb49/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",棕熊把守的水上要塞(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/50590d053a2245428391323902e07d0e/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",棕熊把守的水上要塞(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bb2341e42865439eaed4502fcc736ea5/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",棕熊捕鱼季(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1ef91cb6079d46ccb9a62f046739d5c8/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",棕熊的捕鱼生活(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/388d46918ea34570a3fed5f5ceb393ee/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",棕熊的捕鱼生活(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/09def25492254217aba438e7403741e2/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",森林是我家1
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c105c056c3f744baa49ce0b8b39c1f3b/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",森林是我家2
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/63bb582977074c57a127eaca9d954154/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",森林是我家3
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/14b683f0668f404a9bb8ea74d14c5c8e/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",植物王国漫游记
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/508b9a0c8be74d89a431b24114c91faa/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",植物王国漫游记
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fa3ad43978014ff4b64b4bff8914116c/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",母爱之路
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/115d481467e04333be047fcebf482b3e/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",母爱的呵护
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a6ec4d0475e1453e8ede023e346c2350/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",水牛与狮子的争战
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d1e0dc98b1374b43b157bf82eebc6d09/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",水牛向前冲(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2f05eb49b3a049c88a848a1104dc856f/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",水牛向前冲(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bda4b441c07e40cb8a418381d0506c80/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",水獭奇缘
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/da2d147b25404552b118111dd52d7a25/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",水豚爱湿地
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c7488fc3bed341ad827c054d3ec7e62d/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",沙滩上的盛宴
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/31e38a0232734780842a9031072c2073/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",河里的捕食大师(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bf70f8033ec049f5be4698c3497d3868/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",河里的捕食大师(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/040c050908a340238dacd1ac86694543/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",河龙王出海
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f352ba97a41146279f5d250cc8c670bb/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",海底生存战
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/20225ac33ef7408e8c7040cb39d6a595/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",海洋宫殿的守护者
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/86c73156b8ad405180ed252940b2155c/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",海洋猎手
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f98ebc30517647839c09fb17e0dbea04/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",海洋里的神奇家族(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ef8e561920694e4a81cd1933314610cb/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",海洋里的神奇家族(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5775e1919dca48169eb22986804455b3/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",海洋里的神奇家族(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a68ae907dc7e4783af8d9547a1926435/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",海的呼唤
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ee6a46541b624388a01ba2fc14c34079/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",海豚的奇妙生活(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/30385b1caa214c9a8c6c53ef69ce7e18/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",海豚的奇妙生活(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b61b0646586142aca08c2e8d333c385b/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",海鬣蜥的幸福生活
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a66f6344f9cc4ed3b42b06e678124d0f/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",海鬣蜥的故事
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d19635c3f57f4e538e078569ac796fd6/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",深海潜伏的猎手
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f1a00ae54f3b428bac1ed388ced1ce70/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",湿地之争豹与鳄鱼
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1fe1e5df7c9d4b38a0a855e092a7b6c1/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",湿地小萌兽
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/00892961ec6546ae8c78e96d1dd0874a/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",湿地有萌兽
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e3c31d84ec7e4035a8501db9df1d140b/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",潜水大师的岛上生活(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/cd88344f084b47c593388fdf6a8c443f/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",潜水大师的岛上生活(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/76332b54d8074b0fada76d081570d621/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",熊在旅途(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b0b95c35bce84072b10ad0b82cf83951/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",熊在旅途(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9dc810bc8a3b426f88ac8c998f9e5332/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",熊的王国
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ade1b31d23694fba82c9c4f07dba3267/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",爱与狗相伴
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/530a12d274184293802f51c38603f75a/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",爱你我的宝宝(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/08f97ee21d884d0486c37ae6fb7c5683/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",爱你我的宝宝(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f16dbba3ddf84af2a0ff1521448ee4da/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",爱吃鱼的棕熊
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/79c7bb4495f74ca698f3111a6f7ba567/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",爱的奉献1
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5b062ba2cd854ba993166d277af8a40d/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",爱的奉献2
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/80cf935aef484e15aa31b8fbd565be39/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",爱的奉献3
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/aee1f28cf3e94a5fa7468206d4f417ed/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",狮口余生的小角马(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/7cfc0fe7981b4022b69c3e1cb7317b77/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",狮子和鬣狗(上)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6ca061c3b9184e7aa46cef1ead911099/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",狮子和鬣狗(下)
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e5ea8f4b0cbd4d7aa779b9dfed5a9448/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",狮子捕猎计划
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6f2b58a05add4e2a9907ba370473332a/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",狮子的荣耀回归之路1
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bec9f485672345339c49bc345edf9fd5/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",狮子的荣耀回归之路2
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bdb438a81a20403db85b6e9d12707f2d/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",狮子的荣耀回归之路3
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/50ef8c8037da4735a9cb9288f45878b0/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",狮子的荣耀回归之路4
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2fea6699d56f4274b5ab5260b016fda2/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",狮族迷踪1
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/801151749824437aaa0afa87bfcf7abf/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",狮族迷踪2
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b4ff6041c00246af815b679a7ee6c4a6/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",狮族迷踪3
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5e01c3ff2a5844ab80643ce67ba29026/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",狮群的家园生活
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/cad939a2eb714f4b9d37c4185674d50b/1200.m3u8
-#EXTINF:-1 group-title="🐉纪录片频道",狮群的荣耀
-https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/84b850056589475f80528cf28b9b840a/1200.m3u8
-
 
 #EXTINF:-1 group-title="🐉全国景区直播",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
@@ -10722,90 +10251,6 @@ https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/hkylxs02_1/index.m3u8
 #EXTINF:-1 group-title="🐉全国景区直播",云南丽江蓝月谷
 https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",云南白沙远眺玉龙雪山
-https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",云南丽江一滴水过丽江
-https://gcalic.v.myalicdn.com/gc/hkylxs04_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",云南丽江玉龙雪山草甸
-https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",云南丽江白水台
-https://gcalic.v.myalicdn.com/gc/hkylxs07_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",云南丽江蓝月谷中游湖面
-https://gcalic.v.myalicdn.com/gc/hkylxs08_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",云南丽江高尔夫
-https://gcalic.v.myalicdn.com/gc/hkylxs09_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",云南丽江冰川
-https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",云南丽江印象实景
-https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",江苏南京牛首山
-https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",福建漳州六鳌翡翠湾
-https://gcalic.v.myalicdn.com/gc/fcw01_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",福建漳州醉美沙滩翡翠湾
-https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",天津之眼
-https://gcalic.v.myalicdn.com/gc/tjhh01_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",天津之眼
-https://gcalic.v.myalicdn.com/gc/tjhh01_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",四川西昌邛海景区
-https://gcalic.v.myalicdn.com/gc/xcqh01_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",普陀山
-https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",浙江舟山东极岛
-https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",河南郑东新区千玺广场
-https://gcalic.v.myalicdn.com/gc/zdxq01_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",四川四姑娘山幺妹峰
-https://gcalic.v.myalicdn.com/gc/sgns01_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",四川四姑娘山隆珠措
-https://gcalic.v.myalicdn.com/gc/sgns02_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",宁夏沙坡头长河落日
-https://gcalic.v.myalicdn.com/gc/nxsptdmgychlr_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",宁夏沙坡头大漠孤烟
-https://gcalic.v.myalicdn.com/gc/nxsptdmgy_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",丽江古城大研花巷观景
-https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",丽江古城大研花巷观景
-https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",丽江古城大水车
-https://gcalic.v.myalicdn.com/gc/ljgcdsc_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",丽江古城万古楼遥望玉龙雪山
-https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",狮子山鸟瞰丽江古城
-https://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",云台山小寨沟
-https://gcalic.v.myalicdn.com/gc/ytsxzg_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",云台山百家岩
-https://gcalic.v.myalicdn.com/gc/ytsbjy_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",云台山红石峡
-https://gcalic.v.myalicdn.com/gc/ytshsx_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",云台山茱萸峰
-https://gcalic.v.myalicdn.com/gc/ytszyf_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",云台山茱萸峰
-https://gcalic.v.myalicdn.com/gc/ytszyf_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",雪乡梦幻家园
-https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",雪乡梦幻家园观景台
-https://gcalic.v.myalicdn.com/gc/mdjxxmhjygjt_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",雪乡梦幻家园观景台
-https://gcalic.v.myalicdn.com/gc/mdjxxmhjygjt_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",雪乡大石碑
-https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",乌镇蓝印花布
-https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",乌镇西市河
-https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",乌镇西市河
-https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",乌镇龙形田
-https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",乌镇全景
-https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",凤凰古城南华山
-https://gcalic.v.myalicdn.com/gc/fhgcdnhs_1/index.m3u8
-#EXTINF:-1 group-title="🐉全国景区直播",凤凰古城东关门
-https://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8
 
 #EXTINF:-1 group-title="🐉广播剧场🎙",中国之声
 https://fanmingming.com/fm?id=639
@@ -10917,35 +10362,5 @@ https://fanmingming.com/fm?id=843
 https://fanmingming.com/fm?id=844
 #EXTINF:-1 group-title="🐉广播剧场🎙",五星体育广播
 https://fanmingming.com/fm?id=845
-#EXTINF:-1 group-title="🐉广播剧场🎙",闵行电台
-https://fanmingming.com/fm?id=846
-#EXTINF:-1 group-title="🐉广播剧场🎙",金山电台
-https://fanmingming.com/fm?id=847
-#EXTINF:-1 group-title="🐉广播剧场🎙",东上海之声
-https://fanmingming.com/fm?id=848
-#EXTINF:-1 group-title="🐉广播剧场🎙",上海新闻广播
+oup-title="🐉广播剧场🎙",上海新闻广播
 https://fanmingming.com/fm?id=849
-#EXTINF:-1 group-title="🐉广播剧场🎙",嘉定电台
-https://fanmingming.com/fm?id=1309
-#EXTINF:-1 group-title="🐉广播剧场🎙",KFM981
-https://fanmingming.com/fm?id=1310
-#EXTINF:-1 group-title="🐉广播剧场🎙",动感101
-https://fanmingming.com/fm?id=1311
-#EXTINF:-1 group-title="🐉广播剧场🎙",上海交通广播
-https://fanmingming.com/fm?id=1312
-#EXTINF:-1 group-title="🐉广播剧场🎙",Love Radio
-https://fanmingming.com/fm?id=1313
-#EXTINF:-1 group-title="🐉广播剧场🎙",上海戏曲广播
-https://fanmingming.com/fm?id=1314
-#EXTINF:-1 group-title="🐉广播剧场🎙",经典947
-https://fanmingming.com/fm?id=1316
-#EXTINF:-1 group-title="🐉广播剧场🎙",浦江之声广播
-https://fanmingming.com/fm?id=1317
-#EXTINF:-1 group-title="🐉广播剧场🎙",沸点100-MIX
-https://fanmingming.com/fm?id=1318
-#EXTINF:-1 group-title="🐉广播剧场🎙",崇明电台
-https://fanmingming.com/fm?id=1319
-#EXTINF:-1 group-title="🐉广播剧场🎙",松江电台
-https://fanmingming.com/fm?id=1320
-#EXTINF:-1 group-title="🐉广播剧场🎙",奉贤电台阳光959
-https://fanmingming.com/fm?id=2515
