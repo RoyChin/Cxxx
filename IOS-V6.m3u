@@ -1092,274 +1092,114 @@ http://nas.hssvm.com:8888/rtp/225.1.2.176:5002
 #EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://epg.112114.xyz/logo/文化精品.png" group-title="🐉联通线路-②⛄️",文化精品
 http://nas.hssvm.com:8888/rtp/225.1.2.177:5002
 
-#EXTINF:-1 group-title="🐉未来电视🐯",超级体育
-http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 group-title="🐉未来电视🐯",超级电影
-http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 group-title="🐉未来电视🐯",超级电视剧
-http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 group-title="🐉未来电视🐯",东北热剧
-http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 group-title="🐉未来电视🐯",欢乐剧场
-http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 group-title="🐉未来电视🐯",超级电影
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 group-title="🐉未来电视🐯",超级电视剧
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 group-title="🐉未来电视🐯",央视台球
-http://gzly.hkychina.com:6001/udp/239.252.219.80:5140
-#EXTINF:-1 group-title="🐉未来电视🐯",央视台球
-http://124.230.56.143:55555/udp/239.76.254.58:9000
-#EXTINF:-1 group-title="🐉未来电视🐯",央视台球
-http://183.11.239.36:808/hls/73/index.m3u8
-#EXTINF:-1 group-title="🐉未来电视🐯",央视台球
-http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
-#EXTINF:-1 group-title="🐉未来电视🐯",东北热剧
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 group-title="🐉未来电视🐯",欢乐剧场
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 group-title="🐉未来电视🐯",武博世界
-http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8
-#EXTINF:-1 group-title="🐉未来电视🐯",中国功夫
-http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
-#EXTINF:-1 group-title="🐉未来电视🐯",炫舞未来
-http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
-#EXTINF:-1 group-title="🐉未来电视🐯",潮妈辣婆
-http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
-#EXTINF:-1 group-title="🐉未来电视🐯",精品体育
-http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
-#EXTINF:-1 group-title="🐉未来电视🐯",精品纪录
-http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
-#EXTINF:-1 group-title="🐉未来电视🐯",精品大剧
-http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
-#EXTINF:-1 group-title="🐉未来电视🐯",军事评论
-http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
-#EXTINF:-1 group-title="🐉未来电视🐯",求索纪录
-http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1 group-title="🐉未来电视🐯",求索动物
-http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 group-title="🐉未来电视🐯",求索科学
-http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1 group-title="🐉未来电视🐯",求索生活
-http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 group-title="🐉未来电视🐯",黑莓动画
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 group-title="🐉未来电视🐯",哒啵赛事
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-#EXTINF:-1 group-title="🐉未来电视🐯",哈哈炫动
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
-#EXTINF:-1 group-title="🐉未来电视🐯",武术世界
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0MVaBO3fffRWKM%2FzNpNYjRBAiSJylXYBAiox0V94ejMfwEtXXuH8b8M%2F%2FDznZB61s
-
-#EXTINF:-1 group-title="🐉数字高清🐯",CCTV兵器科技
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077907bdcd/1.m3u8?m3u8_level=2
-#EXTINF:-1 group-title="🐉数字高清🐯",CCTV第一剧场
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/1.m3u8?m3u8_level=2
-#EXTINF:-1 group-title="🐉数字高清🐯",CCTV风云足球
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
-#EXTINF:-1 group-title="🐉数字高清🐯",CCTV世界地理
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077a61f4f3/1.m3u8?m3u8_level=2
-#EXTINF:-1 group-title="🐉数字高清🐯",CCTV央视台球
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
-#EXTINF:-1 group-title="🐉数字高清🐯",CCTV高尔夫网球
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2
-#EXTINF:-1 group-title="🐉数字高清🐯",CCTV梨园频道
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
-
-
-#EXTINF:-1 group-title="🐉数字高清🐯",CCTV兵器科技
-http://58.63.64.167:8888/udp/239.253.43.18:5146
-#EXTINF:-1 group-title="🐉数字高清🐯",CCTV兵器科技
-http://58.63.64.167:8888/udp/239.253.43.9:5146
-#EXTINF:-1 group-title="🐉数字高清🐯",CCTV电视指南
-http://58.63.64.167:8888/udp/239.253.43.19:5146
-#EXTINF:-1 group-title="🐉数字高清🐯",CCTV电视指南
-http://58.63.64.167:8888/udp/239.253.43.10:5146
-#EXTINF:-1 group-title="🐉数字高清🐯",CCTV风云足球
-http://58.63.64.167:8888/udp/239.253.43.20:5146
-#EXTINF:-1 group-title="🐉数字高清🐯",CCTV风云足球
-http://58.63.64.167:8888/udp/239.253.43.14:5146
-#EXTINF:-1 group-title="🐉数字高清🐯",CCTV央视台球
-http://58.63.64.167:8888/udp/239.253.43.21:5146
-#EXTINF:-1 group-title="🐉数字高清🐯",CCTV央视台球
-http://58.63.64.167:8888/udp/239.253.43.11:5146
-#EXTINF:-1 group-title="🐉数字高清🐯",CCTV高尔夫网球
-http://58.63.64.167:8888/udp/239.253.43.22:5146
-#EXTINF:-1 group-title="🐉数字高清🐯",CCTV高尔夫网球
-http://58.63.64.167:8888/udp/239.253.43.12:5146
-#EXTINF:-1 group-title="🐉数字高清🐯",CCTV女性时尚
-http://58.63.64.167:8888/udp/239.253.43.23:5146
-#EXTINF:-1 group-title="🐉数字高清🐯",CCTV女性时尚
-http://58.63.64.167:8888/udp/239.253.43.8:5146
-#EXTINF:-1 group-title="🐉数字高清🐯",CCTV世界地理
-http://58.63.64.167:8888/udp/239.253.43.24:5146
-#EXTINF:-1 group-title="🐉数字高清🐯",CCTV世界地理
-http://58.63.64.167:8888/udp/239.253.43.7:5146
-#EXTINF:-1 group-title="🐉数字高清🐯",CCTV怀旧剧场
-http://58.63.64.167:8888/udp/239.253.43.25:5146
-#EXTINF:-1 group-title="🐉数字高清🐯",CCTV怀旧剧场
-http://58.63.64.167:8888/udp/239.253.43.5:5146
-#EXTINF:-1 group-title="🐉数字高清🐯",CCTV风云剧场
-http://58.63.64.167:8888/udp/239.253.43.26:5146
-#EXTINF:-1 group-title="🐉数字高清🐯",CCTV风云剧场
-http://58.63.64.167:8888/udp/239.253.43.16:5146
-#EXTINF:-1 group-title="🐉数字高清🐯",CCTV央视文化精品
-http://58.63.64.167:8888/udp/239.253.43.27:5146
-#EXTINF:-1 group-title="🐉数字高清🐯",CCTV央视文化精品
-http://58.63.64.167:8888/udp/239.253.43.13:5146
-#EXTINF:-1 group-title="🐉数字高清🐯",CCTV第一剧场
-http://58.63.64.167:8888/udp/239.253.43.28:5146
-#EXTINF:-1 group-title="🐉数字高清🐯",CCTV第一剧场
-http://58.63.64.167:8888/udp/239.253.43.15:5146
-#EXTINF:-1 group-title="🐉数字高清🐯",CCTV风云音乐
-http://58.63.64.167:8888/udp/239.253.43.29:5146
-#EXTINF:-1 group-title="🐉数字高清🐯",CCTV风云音乐
-http://58.63.64.167:8888/udp/239.253.43.6:5146
-#EXTINF:-1 group-title="🐉数字高清🐯",CCTV梨园频道
-http://58.63.64.167:8888/udp/239.77.0.210:5146
-#EXTINF:-1 group-title="🐉数字高清🐯",CCTV梨园频道
-http://58.63.64.167:8888/udp/239.77.1.100:5146
-#EXTINF:-1 group-title="🐉数字高清🐯",央视台球
-http://114.105.153.224:8888/udp/238.1.79.59:4608
-#EXTINF:-1 group-title="🐉数字高清🐯",央视台球
-http://113.24.136.66:8084/udp/239.1.1.100:8100
-#EXTINF:-1 group-title="🐉数字高清🐯",央视台球
-http://gzly.hkychina.com:6001/udp/239.252.219.80:5140
-#EXTINF:-1 group-title="🐉数字高清🐯",央视台球
-http://183.11.239.36:808/hls/73/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",央视台球
-http://113.24.136.208:8084/udp/239.1.1.100:8100
-#EXTINF:-1 group-title="🐉数字高清🐯",央视台球
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",CETV-1
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",CETV-2
-http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",CETV-3
-http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="🐉数字高清🐯",CETV-4
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",CGTN英语
-http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",CGTN记录
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
-#EXTINF:-1 group-title="🐉数字高清🐯",爱上4K
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1 group-title="🐉数字高清🐯",纪实人文
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",纪实科教
+#EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="🐉数字高清🐯",求索纪录
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-name="求索科学" tvg-logo="https://live.fanmingming.com/tv/求索科学.png" group-title="🐉数字高清🐯",求索科学
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-name="求索生活" tvg-logo="https://live.fanmingming.com/tv/求索生活.png" group-title="🐉数字高清🐯",求索生活
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-name="求索动物" tvg-logo="https://live.fanmingming.com/tv/求索动物.png" group-title="🐉数字高清🐯",求索动物
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="🐉数字高清🐯",劲爆体育
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/纪实科教.png" group-title="🐉数字高清🐯",纪实科教
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",卡酷少儿
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",金鹰卡通
-http://[2409:8087:1a0b:df::4008]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",哒啵赛事
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="🐉数字高清🐯",五星体育
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="🐉数字高清🐯",纪实人文
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="🐉数字高清🐯",金鹰纪实
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/第一财经.png" group-title="🐉数字高清🐯",第一财经
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-name="茶友频道" tvg-logo="https://live.fanmingming.com/tv/茶友频道.png" group-title="🐉数字高清🐯",茶友频道
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031209/1.m3u8
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="🐉数字高清🐯",快乐垂钓
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8
+#EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.com/tv/哒啵赛事.png" group-title="🐉数字高清🐯",哒啵赛事
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",优漫卡通
-http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",哈哈炫动
-http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",黑莓动画
-http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",黑莓电影
+#EXTINF:-1 tvg-name="哒啵电竞" tvg-logo="https://live.fanmingming.com/tv/哒啵电竞.png" group-title="🐉数字高清🐯",哒啵电竞
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="🐉数字高清🐯",黑莓电影
 http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",超级体育
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",超级电影
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",超级视剧
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",东北热剧
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",海外剧场
-http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",中国功夫
-http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",军旅剧场
-http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",惊悚悬疑
-http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",潮妈辣婆
-http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",精品体育
-http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",精品纪录
-http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",家庭剧场
-http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",精品大剧
-http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",军事评论
-http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",明星大片
-http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",欢乐剧场
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",精品萌宠
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",超级综艺
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",金牌综艺
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-
-#EXTINF:-1 group-title="🐉数字高清🐯",黑莓动画
+#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="🐉数字高清🐯",黑莓动画
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",哒啵赛事
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",哈哈炫动
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",武术世界
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0MVaBO3fffRWKM%2FzNpNYjRBAiSJylXYBAiox0V94ejMfwEtXXuH8b8M%2F%2FDznZB61s
-#EXTINF:-1 group-title="🐉数字高清🐯",文物宝库
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA199v9hZiIrZ%2B5X675R6%2FGDjgcqn5UaJ6D814KM9%2FvF7QwvFfeEXMAK7LltfEC%2FKQQ
-#EXTINF:-1 group-title="🐉数字高清🐯",梨园频道
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
-#EXTINF:-1 group-title="🐉数字高清🐯",卡酷少儿
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",金鹰卡通
-http://[2409:8087:1a0b:df::4008]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",优漫卡通
-http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",哈哈炫动
-http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",CETV1
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",CETV2
-http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",CETV4
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",CETV1
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225652/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",CETV4
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225783/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",CGTN
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225604/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",CGTN纪录
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225602/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",超级电影
+#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://live.fanmingming.com/tv/乐游频道.png" group-title="🐉数字高清🐯",乐游频道
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="🐉数字高清🐯",欢笑剧场
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000009455/1.m3u8
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="🐉数字高清🐯",法治天地
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png" group-title="🐉数字高清🐯",七彩戏剧
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="🐉数字高清🐯",动漫秀场
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="🐉数字高清🐯",游戏风云
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031114/1.m3u8
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="🐉数字高清🐯",生活时尚
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="🐉数字高清🐯",都市剧场
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031111/1.m3u8
+#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="🐉数字高清🐯",金色学堂
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8
+#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="🐉数字高清🐯",黑莓动画
+http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 tvg-name="超级体育" tvg-logo="https://live.fanmingming.com/tv/超级体育.png" group-title="🐉数字高清🐯",超级体育
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 tvg-name="超级电影" tvg-logo="https://live.fanmingming.com/tv/超级电影.png" group-title="🐉数字高清🐯",超级电影
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",超级电视剧
+#EXTINF:-1 tvg-name="超级视剧" tvg-logo="https://live.fanmingming.com/tv/超级视剧.png" group-title="🐉数字高清🐯",超级视剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",东北热剧
+#EXTINF:-1 tvg-name="精品体育" tvg-logo="https://live.fanmingming.com/tv/精品体育.png" group-title="🐉数字高清🐯",精品体育
+http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-name="精品纪录" tvg-logo="https://live.fanmingming.com/tv/精品纪录.png" group-title="🐉数字高清🐯",精品纪录
+http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 tvg-name="精品萌宠" tvg-logo="https://live.fanmingming.com/tv/精品萌宠.png" group-title="🐉数字高清🐯",精品萌宠
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
+#EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://live.fanmingming.com/tv/精品大剧.png" group-title="🐉数字高清🐯",精品大剧
+http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1 tvg-name="明星大片" tvg-logo="https://live.fanmingming.com/tv/明星大片.png" group-title="🐉数字高清🐯",明星大片
+http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+#EXTINF:-1 tvg-name="超级综艺" tvg-logo="https://live.fanmingming.com/tv/超级综艺.png" group-title="🐉数字高清🐯",超级综艺
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+#EXTINF:-1 tvg-name="金牌综艺" tvg-logo="https://live.fanmingming.com/tv/金牌综艺.png" group-title="🐉数字高清🐯",金牌综艺
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="🐉数字高清🐯",卡酷少儿
+http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="🐉数字高清🐯",金鹰卡通
+http://[2409:8087:1a0b:df::4008]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="🐉数字高清🐯",优漫卡通
+http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="🐉数字高清🐯",哈哈炫动
+http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
+#EXTINF:-1 tvg-name="东北热剧" tvg-logo="https://live.fanmingming.com/tv/东北热剧.png" group-title="🐉数字高清🐯",东北热剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",欢乐剧场
+#EXTINF:-1 tvg-name="海外剧场" tvg-logo="https://live.fanmingming.com/tv/海外剧场.png" group-title="🐉数字高清🐯",海外剧场
+http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 tvg-name="欢乐剧场" tvg-logo="https://live.fanmingming.com/tv/欢乐剧场.png" group-title="🐉数字高清🐯",欢乐剧场
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",武博世界
-http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",中国功夫
-http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",炫舞未来
-http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",潮妈辣婆
-http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",精品体育
-http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",精品纪录
-http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",精品大剧
-http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
-#EXTINF:-1 group-title="🐉数字高清🐯",军事评论
-http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
+#EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://live.fanmingming.com/tv/家庭剧场.png" group-title="🐉数字高清🐯",家庭剧场
+http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 tvg-name="中国功夫" tvg-logo="https://live.fanmingming.com/tv/中国功夫.png" group-title="🐉数字高清🐯",中国功夫
+http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+#EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://live.fanmingming.com/tv/军旅剧场.png" group-title="🐉数字高清🐯",军旅剧场
+http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 tvg-name="军事评论" tvg-logo="https://live.fanmingming.com/tv/军事评论.png" group-title="🐉数字高清🐯",军事评论
+http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+#EXTINF:-1 tvg-name="惊悚悬疑" tvg-logo="https://live.fanmingming.com/tv/惊悚悬疑.png" group-title="🐉数字高清🐯",惊悚悬疑
+http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 tvg-name="潮妈辣婆" tvg-logo="https://live.fanmingming.com/tv/潮妈辣婆.png" group-title="🐉数字高清🐯",潮妈辣婆
+http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="🐉数字高清🐯",CGTN
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225604/index.m3u8
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="🐉数字高清🐯",CGTN纪录
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225602/index.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="🐉数字高清🐯",CETV1
+http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="🐉数字高清🐯",CETV2
+http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="🐉数字高清🐯",CETV4
+http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 
 #EXTINF:-1 group-title="🐉4K-8K频道",江苏频道 4K
