@@ -202,16 +202,11 @@ https://livednow.com/tencent/100360:2003010/288657/1380268900?sign=gAAAAABm1DkN-
 #EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="🏎F1赛事🏎",09/01 21:00 F1意大利大奖赛正赛 维修区
 https://livednow.com/tencent/100360:2003010/288657/1380269000?sign=gAAAAABm1DkNn3xM1y8QIwGAN3TKV-BAQk0jMBIPf6nU8eYqrKe4nABxfCYQMQO9YRoE_mIOJRNXTfRlizYrsMgpiHpw7ap-RjT-hhwTMHmOBzXb_ETaDKsxsnTjUDszhh2cl7VpmYT2SJZFYTOqavorhv_dgujPaURgT8K_DF1gH8CGFEQ3JhZAVaT2B7CwaM3paDGQ_4PxLTsThNS2Sqql65v_-uDnupdN1O24lWeRcoLzeXRZnGJH9cWVO6k8apSA7wcTNF_57Gl617q34qkrlgO-WSlVxNZWYlD7aHrs1GCqGrkj7Q0eAIZnBDXdH2h4mLte3kSDc12ZK1OS_xHxzbQXwUesbVGRFNQdTmva7qsv627qG6s6UmJDzHnHfWaVKPhAaU6OGyzohkizc0T3oWUPyZIQh35BNUOjjqf3WDapInYgMAM%3D
 
+
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉国内体育🐉",五星体育「IPV6」
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉国内体育🐉",五星体育
-http://117.161.12.116/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉国内体育🐉",五星体育
-http://117.161.12.118/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉国内体育🐉",五星体育
-http://117.161.12.124/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉国内体育🐉",五星体育
-http://116.226.38.62:4000/udp/239.45.3.210:5140
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉国内体育🐉",五星体育
-http://116.227.139.60:4022/udp/239.45.3.210:5140
+http://117.161.12.124/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉国内体育🐉",五星体育
 http://www.17888.fun:10000/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉国内体育🐉",五星体育
@@ -221,11 +216,15 @@ http://222.71.139.116:8001/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉国内体育🐉",五星体育
 http://58.41.27.144:18888/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉国内体育🐉",五星体育
-http://180.171.56.119:10000/udp/239.45.3.210:5140
+http://116.226.14.61:4022/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉国内体育🐉",五星体育
-http://124.77.225.50:4022/udp/239.45.3.210:5140
+http://58.32.43.55:4022/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉国内体育🐉",五星体育
-http://116.226.38.62:4000/udp/239.45.3.210:5140
+http://218.80.79.205:4022/udp/239.45.3.210:5140
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉国内体育🐉",五星体育
+http://180.172.83.48:8888/udp/239.45.3.210:5140
+
+
 #EXTINF:-1 tvg-name="BTV体育" tvg-logo="https://live.fanmingming.com/tv/BTV体育.png" group-title="🐉国内体育🐉",北京体育
 http://sweetown.fun:4000/rtp/239.3.1.243:8000
 #EXTINF:-1 tvg-name="BTV体育" tvg-logo="https://live.fanmingming.com/tv/BTV体育.png" group-title="🐉国内体育🐉",北京体育
